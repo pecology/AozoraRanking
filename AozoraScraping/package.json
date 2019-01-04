@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pecology/AozoraRanking/issues"
   },
-  "homepage": "https://github.com/pecology/AozoraRanking#readme"
+  "homepage": "https://github.com/pecology/AozoraRanking#readme",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.3"
+  }
 }
