@@ -1,0 +1,19 @@
+{
+  "name": "aozoraranking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "top.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pecology/AozoraRanking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pecology/AozoraRanking/issues"
+  },
+  "homepage": "https://github.com/pecology/AozoraRanking#readme"
+}
