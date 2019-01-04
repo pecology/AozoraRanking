@@ -1,7 +1,7 @@
 $(function(){
   $.ajax({
     type: 'GET',
-    url: 'resources/rankings.json.gz',
+    url: 'resources/rankings.json',
     dataType: 'json'  
   }).done((data) => {
     const a =1;
