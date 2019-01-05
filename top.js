@@ -24,10 +24,17 @@ $(function(){
       const options = {'title':`${currentMonth} access ranking`,
                        'width': 960,
                        'height': 700,
-                       hAxis: {
-                        slantedText: true,
-                        slantedTextAngle: -90
-                       }
+                        hAxis: {
+                      //   slantedText: true,
+                      //   slantedTextAngle: -90,
+                       },
+                       vAxis:{
+                         title: 'pageview'
+                       },
+                       legend: {
+                         position: 'none'
+                       },
+                       'chartArea': {'width': '80%', 'height': '70%'},
                       };
 
       const chart = new google.visualization.ColumnChart(document.getElementById('chart'));
