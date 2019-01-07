@@ -55,17 +55,23 @@ $(function(){
     $.get('resources/rankings.json').done((result) => {
       monthRankings = result;
 
-      const currentMonthRankings = monthRankings[monthRankings.length - 1].rankings;
-      chartDrawer.draw(currentMonthRankings, 0);
+      const selectedMonthRankings = getSelectedMonthRankings();
+      chartDrawer.draw(selectedMonthRankings);
     });
   };
 
   $('#year,#month').change(function(){
+    const selectedMonthRankings = getSelectedMonthRankings();
+    chartDrawer.draw(selectedMonthRankings);
+  })
+
+  const getSelectedMonthRankings = () => {
     const yearStr = $('#year').val();
     const monthStr = $('#month').val();
     
     const selectedMonth = `${yearStr}/${monthStr}`;
     const selectedMonthRankings = monthRankings.filter(rankings => rankings.month == selectedMonth)[0].rankings;
-    chartDrawer.draw(selectedMonthRankings, 0);
-  })
+
+    return selectedMonthRankings;
+  }
 });
