@@ -2,82 +2,46 @@ const ChartDrawer = function(){
   this.chart = null;
 }
 
-ChartDrawer.prototype.draw = function(rankings, pagingIndex){
-  if(this.chart != null) {
-    this.chart.clearChart();
-    this.chart = null;
-  }
+ChartDrawer.prototype.draw = function(rankings){
+  // if(this.chart != null) {
+  //   this.chart.clearChart();
+  //   this.chart = null;
+  // }
 
   const data =  new google.visualization.DataTable();
-  data.addColumn('number', 'rank');
+  data.addColumn('string', 'rankAndTitle');
   data.addColumn('number', 'pageview');
+  data.addColumn({type:'number', role:'annotation'});
 
   rankings.forEach(element => {
-    data.addRow([element.rank, element.pageview]);
+    data.addRow([`${element.rank}.${element.title}`, element.pageview, element.pageview]);
   });
   
   const options = {'width': 960,
-                   'height': 600,
+                   'height': 20000,
+                   fontSize: 16,
                    vAxis:{
-                     title: 'pageview',
-                     maxValue: rankings[0].pageview
+                     title: 'rank',
+                     textPosition: 'out'
                    },
                    hAxis:{
-                     title: 'rank',
-                     gridlines: {
-                      color: '#ddd', count: 10
-                     },
-                     minorGridlines: {
-                      color: '#fff'
-                     }
+                     title: 'pageview',
+                     maxValue: rankings[0].pageview + 2000
                    },
                    legend: {
                      position: 'none'
                    },
-                   'chartArea': {'width': '80%', 'height': '80%'}
+                   'chartArea': {'width': '80%', 'left': '20%', 'height': '99%', top: 10}
                   };
 
   this.chart = new google.visualization.ChartWrapper({
-    chartType: 'ColumnChart',
+    chartType: 'BarChart',
     containerId: 'chart',
-    options: options
+    options: options,
+    dataTable: data
   });
 
-  this.filter = new google.visualization.ControlWrapper({
-    'controlType': 'ChartRangeFilter',
-    'containerId': 'filter',
-    'options': {
-      filterColumnIndex: 0,
-      ui: {
-        chartOptions: {
-          width: 960,
-          height: 50,
-        },
-        minRangeSize: 10,
-        snapToData: true
-      }
-    },
-    state: {
-      range: {
-        start: 1,
-        end: 11
-      } 
-    }
-  });
-
-  this.dashboard = new google.visualization.Dashboard(document.getElementById('dashboard'));
-  this.dashboard.bind(this.filter, this.chart);
-  this.dashboard.draw(data);
-}
-
-// Arrayを指定された要素数で分割したときの、index番目のArrayを取得する
-// unitSize: 指定された要素数
-// indexは0から始まる
-const getPagingData = (targetArray, index, unitSize) => {
-  const start = index * unitSize;
-  const end = start + unitSize;
-
-  return targetArray.slice(start, end);
+  this.chart.draw();
 }
 
 let monthRankings;
@@ -95,4 +59,13 @@ $(function(){
       chartDrawer.draw(currentMonthRankings, 0);
     });
   };
+
+  $('#year,#month').change(function(){
+    const yearStr = $('#year').val();
+    const monthStr = $('#month').val();
+    
+    const selectedMonth = `${yearStr}/${monthStr}`;
+    const selectedMonthRankings = monthRankings.filter(rankings => rankings.month == selectedMonth)[0].rankings;
+    chartDrawer.draw(selectedMonthRankings, 0);
+  })
 });
