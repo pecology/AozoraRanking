@@ -1,4 +1,10 @@
-const ChartDrawer = function () {
+//ランキングのチャート描画オブジェクト
+const RankingsChartDrawer = function () {
+  this.chart = new google.visualization.ChartWrapper({
+    chartType: 'BarChart',
+    containerId: 'chart'
+  });
+
   const options = {
     'width': 960,
     'height': 20000,
@@ -8,54 +14,79 @@ const ChartDrawer = function () {
       textPosition: 'out'
     },
     hAxis: {
-      title: 'pageview',
-      //maxValue: rankings[0].pageview + 2000
+      title: 'pageview'
     },
     legend: {
       position: 'none'
     },
     'chartArea': { 'width': '80%', 'left': '20%', 'height': '99%', top: 10 }
   };
+  this.chart.setOptions(options);
 
-  this.chart = new google.visualization.ChartWrapper({
-    chartType: 'BarChart',
-    containerId: 'chart',
-    options: options
-  });
+  const dataTable = new google.visualization.DataTable();
+  dataTable.addColumn('string', 'rankAndTitle');
+  dataTable.addColumn('number', 'pageview');
+  dataTable.addColumn({ type: 'number', role: 'annotation' });
+  this.chart.setDataTable(dataTable);
   
+  //バーがクリックされたとき、その本の詳細チャートを表示する。
   google.visualization.events.addListener(this.chart, 'select', () => {
     const selection = this.chart.getChart().getSelection()[0];
     const dataTable = this.chart.getDataTable();
     const title = dataTable.getValue(selection.row, 0);
 
-    $('#overlay').show();
-    drawDetailChart(title);
+    $('#overlay').fadeIn();
+    bookDetailChartDrawer.draw(title);
   });
-}
+};
 
-ChartDrawer.prototype.draw = function (rankings) {
-  // if(this.chart != null) {
-  //   this.chart.clearChart();
-  //   this.chart = null;
-  // }
-
-  const data = new google.visualization.DataTable();
-  data.addColumn('string', 'rankAndTitle');
-  data.addColumn('number', 'pageview');
-  data.addColumn({ type: 'number', role: 'annotation' });
-
+RankingsChartDrawer.prototype.draw = function(rankings) {
+  const dataTable = this.chart.getDataTable();
+  const currentNumberOfRows = dataTable.getNumberOfRows();
+  dataTable.removeRows(0, currentNumberOfRows);
   rankings.forEach(element => {
-    data.addRow([{v: element.title, f: `${element.rank}.${element.title}`}, element.pageview, element.pageview]);
+    dataTable.addRow([{v: element.title, f: `${element.rank}.${element.title}`}, element.pageview, element.pageview]);
   });
 
   const formatter = new google.visualization.ArrowFormat();
-  formatter.format(data, 1); 
+  formatter.format(dataTable, 1); 
 
-  this.chart.setDataTable(data);
+  this.chart.getOption('hAxis').maxValue = rankings[0].pageview + 2000;
+
   this.chart.draw();
-}
+};
 
-const drawDetailChart = (title) => {
+//本の詳細のチャート描画オブジェクト
+const BookDetailChartDrawer = function(){
+  this.chart = new google.visualization.ChartWrapper({
+    chartType: 'LineChart',
+    containerId: 'detail-chart'
+  });
+
+  const options = {
+    width: 940,
+    height: 500,
+    series: {
+      0: { targetAxisIndex: 0 },
+      1: { targetAxisIndex: 1 }
+    },
+    vAxes: {
+      1: {
+        direction: -1,
+        maxValue: 50
+      }
+    }
+  };
+  this.chart.setOptions(options);
+
+  const dataTable = new google.visualization.DataTable();
+  dataTable.addColumn('datetime', 'month');
+  dataTable.addColumn('number', 'pageview');
+  dataTable.addColumn('number', 'rank');
+  this.chart.setDataTable(dataTable);
+};
+
+BookDetailChartDrawer.prototype.draw = function(title) {
   const targetWorkRanksPerMonth = monthRankings.map(element => {
     const returnElement = {};
     returnElement.month = element.month;
@@ -70,42 +101,26 @@ const drawDetailChart = (title) => {
     return returnElement;
   });
 
-  const data = new google.visualization.DataTable();
-  data.addColumn('string', 'month');
-  data.addColumn('number', 'pageview');
-  data.addColumn('number', 'rank');
+  const dataTable = this.chart.getDataTable();
+  const currentNumberOfRows = dataTable.getNumberOfRows();
+  dataTable.removeRows(0, currentNumberOfRows);
 
   targetWorkRanksPerMonth.forEach(element => {
-    data.addRow([element.month, element.pageview, element.rank]);
-  });
-
-  const options = {
-    width: 940,
-    height: 300,
-    series: {
-      0: { targetAxisIndex: 0 },
-      1: { targetAxisIndex: 1 }
-    },
-    vAxes: {
-      1: {
-        direction: -1,
-        maxValue: 50
-      }
-    }
-  };
-
-  this.chart = new google.visualization.ChartWrapper({
-    chartType: 'LineChart',
-    containerId: 'detail-chart',
-    options: options,
-    dataTable: data
+    const year = parseInt(element.month.split('/')[0]);
+    const month = parseInt(element.month.split('/')[1]);
+    const date = new Date(year, month);
+    dataTable.addRow([date, element.pageview, element.rank]);
   });
 
   this.chart.draw();
-}
+};
 
+//各集計月の集計結果ランキングを格納する
 let monthRankings;
-let chartDrawer;
+//ランキングのチャート描画オブジェクトを格納する
+let rankingsChartDrawer;
+//本の詳細のチャート描画オブジェクトを格納する
+let bookDetailChartDrawer;
 
 $(function () {
   google.charts.load('current', { 'packages': ['corechart', 'controls'] });
@@ -114,29 +129,24 @@ $(function () {
   function initialize() {
     $.get('resources/rankings.json').done((result) => {
       monthRankings = result;
-
       const selectedMonthRankings = getSelectedMonthRankings();
-      chartDrawer = new ChartDrawer();
-      chartDrawer.draw(selectedMonthRankings);
+      rankingsChartDrawer = new RankingsChartDrawer();
+      rankingsChartDrawer.draw(selectedMonthRankings);
+
+      bookDetailChartDrawer = new BookDetailChartDrawer();
     });
   };
 
-
   $('#year,#month').change(function () {
     const selectedMonthRankings = getSelectedMonthRankings();
-    chartDrawer.draw(selectedMonthRankings);
+    rankingsChartDrawer.draw(selectedMonthRankings);
   });
 
   $('#overlay').click(function (e) {
     const target = e.target;
     if (target.id === 'overlay') {
-      $(this).hide();
+      $(this).fadeOut();
     }
-  });
-
-  $('#detail-button').click(function () {
-    $('#overlay').show();
-    drawDetailChart('こころ');
   });
 
   const getSelectedMonthRankings = () => {
