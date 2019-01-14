@@ -31,10 +31,20 @@ const RankingsChartDrawer = function () {
   
   //バーがクリックされたとき、その本の詳細チャートを表示する。
   google.visualization.events.addListener(this.chart, 'select', () => {
-    const selection = this.chart.getChart().getSelection()[0];
-    const dataTable = this.chart.getDataTable();
-    const title = dataTable.getValue(selection.row, 0);
+    const selection = this.chart.getChart().getSelection();
+    if(selection.length == 0) {
+      return;
+    }
+    const selectedRowIndex = selection[0].row;
 
+    const dataTable = this.chart.getDataTable();
+    const title = dataTable.getValue(selectedRowIndex, 0);
+
+    // 選択状態を解除する
+    // (解除しないと、次に同じバーを選択したときに選択解除扱いになり、行の情報が取得できないため)
+    this.chart.getChart().setSelection([]);
+
+    // 本の詳細を表示
     $('#overlay').fadeIn();
     bookDetailChartDrawer.draw(title);
   });
