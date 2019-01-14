@@ -62,23 +62,26 @@
   <div id="overlay" style="display: none;">
     <div class="popup-content-wrap">
       <div class="popup-content">
-        <div id="popup-title-area">
-          <h2 id="popup-title">タイトル</h2>
-          <h3 id="popup-subtitle">サブタイトル</h3>
-        </div>
-        <div id="popup-detail-area">
-          <ul>
-            <li>
+        <table id="popup-detail-table">
+          <thead>
+            <th>タイトル</th>
+            <th>著者名</th>
+            <th>累計アクセス数</th>
+            <th>平均順位</th>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <a id="popup-title" target="_blank">タイトル</a>
+              </td>
+              <td>
                 <a id="popup-authors" target="_blank">著者</a>
-            </li>
-            <li>
-              <span id="popup-total-pageview">累計アクセス数</p>
-            </li>
-            <li>
-              <a id="popup-link" target="_blank">作品ページ</a>
-            </li>
-          </ul>
-        </div>
+              </td>
+              <td id="popup-total-pageview">累計アクセス数</td>
+              <td id="popup-rank-average">平均順位</td>
+            </tr>
+          </tbody>
+        </table>
 
         <div id="detail-chart">
         </div>

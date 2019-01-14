@@ -48,6 +48,7 @@ const RankingsChartDrawer = function () {
     const rankingInfo = getSelectedMonthRankings().find(elem => elem.title == title);
 
     $('#popup-title').text(rankingInfo.title);
+    $('#popup-title').attr('href', rankingInfo.url);
     if (rankingInfo.subtitle != null) {
       $('#popup-subtitle').text(rankingInfo.subtitle);
     } else {
@@ -56,11 +57,11 @@ const RankingsChartDrawer = function () {
 
     //とりあえず一人だけ
     const author = getAuthors(rankingInfo.title)[0];
-    $('#popup-authors').text(`著者:${author.name}`);
+    $('#popup-authors').text(author.name);
     $('#popup-authors').attr('href', author.url);
 
     const totalPageView = calcTotalPageView(rankingInfo.title);
-    $('#popup-total-pageview').text(`累計アクセス数:${totalPageView}`);
+    $('#popup-total-pageview').text(totalPageView);
     $('#popup-link').attr('href', rankingInfo.url);
 
     $('#overlay').fadeIn();
@@ -114,8 +115,8 @@ const BookDetailChartDrawer = function () {
   });
 
   const options = {
-    width: 940,
-    height: 500,
+    width: 960,
+    height: 400,
     chartArea: { width: '85%', height: '85%' },
     series: {
       0: { targetAxisIndex: 0 },
