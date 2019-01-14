@@ -23,3 +23,33 @@
     width: 960px;
     margin: auto;
 }
+
+#popup-title-area {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#popup-title {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#popup-subtitle {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#popup-detail-area > ul {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 250px;
+}
+#popup-detail-area > ul > li {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

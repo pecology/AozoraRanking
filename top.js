@@ -6,33 +6,33 @@ const RankingsChartDrawer = function () {
   });
 
   const options = {
-    'width': 960,
-    'height': 20000,
+    width: 960,
+    height: 20000,
     fontSize: 16,
     vAxis: {
-      title: 'rank',
+      title: '順位',
       textPosition: 'out'
     },
     hAxis: {
-      title: 'pageview'
+      title: 'アクセス数'
     },
     legend: {
       position: 'none'
     },
-    'chartArea': { 'width': '80%', 'left': '20%', 'height': '99%', top: 10 }
+    chartArea: { width: '80%', left: '20%', height: '99%', top: 10 }
   };
   this.chart.setOptions(options);
 
   const dataTable = new google.visualization.DataTable();
-  dataTable.addColumn('string', 'rankAndTitle');
-  dataTable.addColumn('number', 'pageview');
+  dataTable.addColumn('string', '順位');
+  dataTable.addColumn('number', 'アクセス数');
   dataTable.addColumn({ type: 'number', role: 'annotation' });
   this.chart.setDataTable(dataTable);
-  
+
   //バーがクリックされたとき、その本の詳細チャートを表示する。
   google.visualization.events.addListener(this.chart, 'select', () => {
     const selection = this.chart.getChart().getSelection();
-    if(selection.length == 0) {
+    if (selection.length == 0) {
       return;
     }
     const selectedRowIndex = selection[0].row;
@@ -45,21 +45,61 @@ const RankingsChartDrawer = function () {
     this.chart.getChart().setSelection([]);
 
     // 本の詳細を表示
+    const rankingInfo = getSelectedMonthRankings().find(elem => elem.title == title);
+
+    $('#popup-title').text(rankingInfo.title);
+    if (rankingInfo.subtitle != null) {
+      $('#popup-subtitle').text(rankingInfo.subtitle);
+    } else {
+      $('#popup-subtitle').text('')
+    }
+
+    //とりあえず一人だけ
+    const author = getAuthors(rankingInfo.title)[0];
+    $('#popup-authors').text(`著者:${author.name}`);
+    $('#popup-authors').attr('href', author.url);
+
+    const totalPageView = calcTotalPageView(rankingInfo.title);
+    $('#popup-total-pageview').text(`累計アクセス数:${totalPageView}`);
+    $('#popup-link').attr('href', rankingInfo.url);
+
     $('#overlay').fadeIn();
     bookDetailChartDrawer.draw(title);
   });
 };
 
-RankingsChartDrawer.prototype.draw = function(rankings) {
+const getAuthors = (title) => {
+  for (let monthRanking of monthRankings) {
+    for (let rankInfo of monthRanking.rankings) {
+      if (rankInfo.title == title) {
+        return rankInfo.authors;
+      }
+    }
+  }
+}
+
+// タイトルから、そのタイトルの累計のアクセス数を計算する。
+const calcTotalPageView = (title) => {
+  let totalPageView = 0;
+  monthRankings.forEach(element => {
+    const rankings = element.rankings;
+    const targetData = rankings.find(element => element.title == title);
+    totalPageView += targetData.pageview;
+  });
+
+  return totalPageView;
+}
+
+RankingsChartDrawer.prototype.draw = function (rankings) {
   const dataTable = this.chart.getDataTable();
   const currentNumberOfRows = dataTable.getNumberOfRows();
   dataTable.removeRows(0, currentNumberOfRows);
   rankings.forEach(element => {
-    dataTable.addRow([{v: element.title, f: `${element.rank}.${element.title}`}, element.pageview, element.pageview]);
+    dataTable.addRow([{ v: element.title, f: `${element.rank}.${element.title}` }, element.pageview, element.pageview]);
   });
 
   const formatter = new google.visualization.ArrowFormat();
-  formatter.format(dataTable, 1); 
+  formatter.format(dataTable, 1);
 
   this.chart.getOption('hAxis').maxValue = rankings[0].pageview + 2000;
 
@@ -67,7 +107,7 @@ RankingsChartDrawer.prototype.draw = function(rankings) {
 };
 
 //本の詳細のチャート描画オブジェクト
-const BookDetailChartDrawer = function(){
+const BookDetailChartDrawer = function () {
   this.chart = new google.visualization.ChartWrapper({
     chartType: 'LineChart',
     containerId: 'detail-chart'
@@ -76,6 +116,7 @@ const BookDetailChartDrawer = function(){
   const options = {
     width: 940,
     height: 500,
+    chartArea: { width: '85%', height: '85%' },
     series: {
       0: { targetAxisIndex: 0 },
       1: { targetAxisIndex: 1 }
@@ -90,13 +131,13 @@ const BookDetailChartDrawer = function(){
   this.chart.setOptions(options);
 
   const dataTable = new google.visualization.DataTable();
-  dataTable.addColumn('datetime', 'month');
-  dataTable.addColumn('number', 'pageview');
-  dataTable.addColumn('number', 'rank');
+  dataTable.addColumn('datetime', '対象月');
+  dataTable.addColumn('number', 'アクセス数');
+  dataTable.addColumn('number', '順位');
   this.chart.setDataTable(dataTable);
 };
 
-BookDetailChartDrawer.prototype.draw = function(title) {
+BookDetailChartDrawer.prototype.draw = function (title) {
   const targetWorkRanksPerMonth = monthRankings.map(element => {
     const returnElement = {};
     returnElement.month = element.month;
@@ -158,14 +199,14 @@ $(function () {
       $(this).fadeOut();
     }
   });
-
-  const getSelectedMonthRankings = () => {
-    const yearStr = $('#year').val();
-    const monthStr = $('#month').val();
-
-    const selectedMonth = `${yearStr}/${monthStr}`;
-    const selectedMonthRankings = monthRankings.filter(rankings => rankings.month == selectedMonth)[0].rankings;
-
-    return selectedMonthRankings;
-  }
 });
+
+const getSelectedMonthRankings = () => {
+  const yearStr = $('#year').val();
+  const monthStr = $('#month').val();
+
+  const selectedMonth = `${yearStr}/${monthStr}`;
+  const selectedMonthRankings = monthRankings.filter(rankings => rankings.month == selectedMonth)[0].rankings;
+
+  return selectedMonthRankings;
+}
