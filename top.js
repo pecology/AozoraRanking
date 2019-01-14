@@ -64,6 +64,20 @@ const RankingsChartDrawer = function () {
     $('#popup-total-pageview').text(totalPageView);
     $('#popup-link').attr('href', rankingInfo.url);
 
+    const ranks = monthRankings.map(e => e.rankings)
+                                     .map(e => {
+                                       const targetInfo =e.find(elem => elem.title == title);
+                                       if(targetInfo) {
+                                         return targetInfo.rank;
+                                       } else {
+                                         return null;
+                                       }
+                                     })
+                                     .filter(e => e != null);
+
+      const averageRank = ranks.reduce((accumulator, currentValue) => accumulator + currentValue) / ranks.length;
+    $('#popup-average-rank').text(averageRank);
+
     $('#overlay').fadeIn();
     bookDetailChartDrawer.draw(title);
   });
@@ -85,7 +99,9 @@ const calcTotalPageView = (title) => {
   monthRankings.forEach(element => {
     const rankings = element.rankings;
     const targetData = rankings.find(element => element.title == title);
-    totalPageView += targetData.pageview;
+    if(targetData){
+      totalPageView += targetData.pageview;
+    }
   });
 
   return totalPageView;
