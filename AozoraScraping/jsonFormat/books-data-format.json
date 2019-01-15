@@ -4,14 +4,33 @@
         "title": "本のタイトル",
         "subtitle": "本のサブタイトル　ない場合はnull",
         "url": "本のページへのurl",
-        "authorIds": ["著者IDのリスト。著者がいない場合は長さ0の配列"]
+        "authorIds": ["著者IDのリスト。著者がいない場合は長さ0の配列"],
+        "monthlyRankingHistory": {
+            "2018/01": {
+                "rank": 12,
+                "pageview": 3243 
+            },
+            "2018/02": {
+                "rank": 12,
+                "pageview": 3243 
+            }
+        }
     },
     "本のID2": {
         "id": "本のID",
         "title": "本のタイトル",
         "subtitle": "本のサブタイトル　ない場合はnull",
         "url": "本のページへのurl",
-        "authorIds": ["著者IDのリスト。著者がいない場合は長さ0の配列"]
-    },
-    ・・・
+        "authorIds": ["著者IDのリスト。著者がいない場合は長さ0の配列"],
+        "monthlyRankingHistory": {
+            "2018/01": {
+                "rank": 12,
+                "pageview": 3243 
+            },
+            "2018/02": {
+                "rank": 12,
+                "pageview": 3243 
+            }
+        }
+    }
 }
