@@ -60,10 +60,12 @@ const RankingsChartDrawer = function () {
     $('#popup-authors').text(author.name);
     $('#popup-authors').attr('href', author.url);
 
+    // 累計アクセス数
     const totalPageView = calcTotalPageView(rankingInfo.title);
     $('#popup-total-pageview').text(totalPageView);
     $('#popup-link').attr('href', rankingInfo.url);
 
+    //平均順位
     const ranks = monthRankings.map(e => e.rankings)
                                      .map(e => {
                                        const targetInfo =e.find(elem => elem.title == title);
@@ -74,9 +76,8 @@ const RankingsChartDrawer = function () {
                                        }
                                      })
                                      .filter(e => e != null);
-
       const averageRank = ranks.reduce((accumulator, currentValue) => accumulator + currentValue) / ranks.length;
-    $('#popup-average-rank').text(averageRank);
+    $('#popup-average-rank').text(Math.roundCuntom(averageRank, 2));
 
     $('#overlay').fadeIn();
     bookDetailChartDrawer.draw(title);
@@ -105,6 +106,19 @@ const calcTotalPageView = (title) => {
   });
 
   return totalPageView;
+}
+
+Math.roundCuntom = (targetNumber, decimalPlaces) => {
+  let leftShiftNum = 1;
+  for(let i = 0; i < decimalPlaces; i++) {
+    leftShiftNum *= 10;
+  }
+
+  // Math.round(num)は小数点以下一桁目を四捨五入する関数なので、  
+  // これを利用するために、いったん小数点を左にずらしてから関数に渡す。
+  // 読んだ後ずらした小数点を元に戻す。 
+  let num2 = Math.round(targetNumber * num);
+  return num2 / leftShiftNum;
 }
 
 RankingsChartDrawer.prototype.draw = function (rankings) {
