@@ -7,7 +7,7 @@ const zlib = require('zlib');
     for(let year = 2009; year < 2019; year++) {
         for(let month = 1; month < 13; month++) {
             try{
-                const monthRankings = await scraper.fetchMonthRankings(year, month);
+                const monthRankings = await scraper.fetchMonthRankings('https://www.aozora.gr.jp/', year, month);
                 rankings.push({
                     month: `${year}/${month}`,
                     rankings: monthRankings
@@ -25,9 +25,4 @@ const zlib = require('zlib');
 
     const serializedData = JSON.stringify(rankings);
     await fs.writeFile('rankings.json', serializedData);
-
-    const gzip = zlib.createGzip();
-    const inp = fs.createReadStream('rankings.json');
-    const out = fs.createWriteStream('rankings.json.gz');
-    inp.pipe(gzip).pipe(out);
 })();

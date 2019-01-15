@@ -1,25 +1,37 @@
 const client = require('cheerio-httpcli');
 const $ = require('cheerio');
+const fs = require('fs');
 
-module.exports.fetchMonthRankings = async (year, month) => {
+const isHttpUrl = (url) => {
+    return url.indexOf('http://') === 0 ||
+           url.indexOf('https://') === 0 
+}
+
+module.exports.fetchMonthRankings = async (domainUrl, year, month) => {
     const yearStr = '' + year;
     const monthStr = ('00' + month).slice(-2);
-    const targetUrl = `https://www.aozora.gr.jp/access_ranking/${yearStr}_${monthStr}_xhtml.html`
-    const result = await client.fetch(targetUrl);
+    const targetUrl = domainUrl + `/access_ranking/${yearStr}_${monthStr}_xhtml.html`
 
-    const rankings = convertFetchResultToRankings(result);
+    let cheerio;
+    if(isHttpUrl(targetUrl)) {
+        const result = await client.fetch(targetUrl);
+        cheerio = result.$;
+    }  else {
+        cheerio = $.load(fs.readFileSync(targetUrl));
+    }
 
+    const rankings = convertFetchResultToRankings(cheerio);
     return rankings;
 }
 
 /**
  * ランキングページのリクエスト結果をObjectのArrayに変換する
- * @param {CheerioHttpcli.FetchResult} result ランキングページをfetchした結果
+ * @param {Cheerio} contents ランキングページをfetchした結果のCheerioオブジェクト
  * @return ランキングデータが入ったオブジェクトの配列。各要素は、
  *         rank, title, subtitle, url, authors, pageviewをプロパティに持つ
  */
-const convertFetchResultToRankings = (result) => {
-    const trList = result.$('table.list>tbody>tr');
+const convertFetchResultToRankings = (contents) => {
+    const trList = contents('table.list>tbody>tr');
     // 最初の要素はヘッダーなので除外
     const rankingsTrElements = trList.not((index) => index == 0);
 
