@@ -24,5 +24,5 @@ const zlib = require('zlib');
     }
 
     const serializedData = JSON.stringify(rankings);
-    await fs.writeFile('rankings.json', serializedData);
+    await fs.writeFile('../resources/rankings.json', serializedData);
 })();
