@@ -117,7 +117,7 @@ Math.roundCuntom = (targetNumber, decimalPlaces) => {
   // Math.round(num)は小数点以下一桁目を四捨五入する関数なので、  
   // これを利用するために、いったん小数点を左にずらしてから関数に渡す。
   // 読んだ後ずらした小数点を元に戻す。 
-  let num2 = Math.round(targetNumber * num);
+  let num2 = Math.round(targetNumber * leftShiftNum);
   return num2 / leftShiftNum;
 }
 
@@ -188,9 +188,7 @@ BookDetailChartDrawer.prototype.draw = function (title) {
   dataTable.removeRows(0, currentNumberOfRows);
 
   targetWorkRanksPerMonth.forEach(element => {
-    const year = parseInt(element.month.split('/')[0]);
-    const month = parseInt(element.month.split('/')[1]);
-    const date = new Date(year, month);
+    const date = new Date(element.month);
     dataTable.addRow([date, element.pageview, element.rank]);
   });
 
