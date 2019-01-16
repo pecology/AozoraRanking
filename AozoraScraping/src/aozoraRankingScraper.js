@@ -7,7 +7,7 @@ const isHttpUrl = (url) => {
            url.indexOf('https://') === 0 
 }
 
-module.exports.fetchMonthRankings = async (domainUrl, year, month) => {
+module.exports.fetchMonthlyRanking = async (domainUrl, year, month) => {
     const yearStr = '' + year;
     const monthStr = ('00' + month).slice(-2);
     const targetUrl = domainUrl + `/access_ranking/${yearStr}_${monthStr}_xhtml.html`
@@ -20,7 +20,7 @@ module.exports.fetchMonthRankings = async (domainUrl, year, month) => {
         cheerio = $.load(fs.readFileSync(targetUrl));
     }
 
-    const rankings = convertFetchResultToRankings(cheerio);
+    const rankings = convertFetchResultToRanking(cheerio);
     return rankings;
 }
 
@@ -30,7 +30,7 @@ module.exports.fetchMonthRankings = async (domainUrl, year, month) => {
  * @return ランキングデータが入ったオブジェクトの配列。各要素は、
  *         rank, title, subtitle, url, authors, pageviewをプロパティに持つ
  */
-const convertFetchResultToRankings = (contents) => {
+const convertFetchResultToRanking = (contents) => {
     const trList = contents('table.list>tbody>tr');
     // 最初の要素はヘッダーなので除外
     const rankingsTrElements = trList.not((index) => index == 0);
