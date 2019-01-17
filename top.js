@@ -30,7 +30,7 @@ const RankingsChartDrawer = function () {
   this.chart.setDataTable(dataTable);
 
   //バーがクリックされたとき、その本の詳細チャートを表示する。
-  google.visualization.events.addListener(this.chart, 'select', () => {
+  google.visualization.events.addListener(this.chart, 'select',async () => {
     const selection = this.chart.getChart().getSelection();
     if (selection.length == 0) {
       return;
@@ -38,79 +38,57 @@ const RankingsChartDrawer = function () {
     const selectedRowIndex = selection[0].row;
 
     const dataTable = this.chart.getDataTable();
-    const title = dataTable.getValue(selectedRowIndex, 0);
 
     // 選択状態を解除する
     // (解除しないと、次に同じバーを選択したときに選択解除扱いになり、行の情報が取得できないため)
     this.chart.getChart().setSelection([]);
 
     // 本の詳細を表示
-    const rankingInfo = getSelectedMonthRankings().find(elem => elem.title == title);
+    //const rankingInfo = fetchSelectedMonthlyRanking().find(elem => elem.title == title);
+    const bookId = dataTable.getRowProperty(selectedRowIndex, 'bookId');
+    const book = await fetchBookById(bookId);
 
-    $('#popup-title').text(rankingInfo.title);
-    $('#popup-title').attr('href', rankingInfo.url);
-    if (rankingInfo.subtitle != null) {
-      $('#popup-subtitle').text(rankingInfo.subtitle);
+    $('#popup-title').text(book.title);
+    $('#popup-title').attr('href', book.url);
+    if (book.subtitle != null) {
+      $('#popup-subtitle').text(book.subtitle);
     } else {
       $('#popup-subtitle').text('')
     }
 
     //とりあえず一人だけ
-    const author = getAuthors(rankingInfo.title)[0];
+    const author = await fetchAuthorById(book.authorIds[0]);
     $('#popup-authors').text(author.name);
     $('#popup-authors').attr('href', author.url);
 
     // 累計アクセス数
-    const totalPageView = calcTotalPageView(rankingInfo.title);
+    const totalPageView = calcTotalPageView(book);
     $('#popup-total-pageview').text(totalPageView);
-    $('#popup-link').attr('href', rankingInfo.url);
+    $('#popup-link').attr('href', book.url);
 
     //平均順位
-    const ranks = monthRankings.map(e => e.rankings)
-                                     .map(e => {
-                                       const targetInfo =e.find(elem => elem.title == title);
-                                       if(targetInfo) {
-                                         return targetInfo.rank;
-                                       } else {
-                                         return null;
-                                       }
-                                     })
-                                     .filter(e => e != null);
-      const averageRank = ranks.reduce((accumulator, currentValue) => accumulator + currentValue) / ranks.length;
+    const ranks = Object.values(book.monthlyRankingHistories)
+                        .map(e => e.rank);
+    const averageRank = ranks.reduce((accumulator, currentValue) => accumulator + currentValue) / ranks.length;
     $('#popup-average-rank').text(Math.roundCuntom(averageRank, 2));
 
     $('#overlay').fadeIn();
-    bookDetailChartDrawer.draw(title);
+    bookDetailChartDrawer.draw(book);
   });
 };
 
-const getAuthors = (title) => {
-  for (let monthRanking of monthRankings) {
-    for (let rankInfo of monthRanking.rankings) {
-      if (rankInfo.title == title) {
-        return rankInfo.authors;
-      }
-    }
-  }
-}
-
-// タイトルから、そのタイトルの累計のアクセス数を計算する。
-const calcTotalPageView = (title) => {
+// 本の累計のアクセス数を計算する。
+const calcTotalPageView = (book) => {
   let totalPageView = 0;
-  monthRankings.forEach(element => {
-    const rankings = element.rankings;
-    const targetData = rankings.find(element => element.title == title);
-    if(targetData){
-      totalPageView += targetData.pageview;
-    }
+  Object.values(book.monthlyRankingHistories).forEach(element => {
+    totalPageView += element.pageview;
   });
-
   return totalPageView;
 }
 
 Math.roundCuntom = (targetNumber, decimalPlaces) => {
   let leftShiftNum = 1;
-  for(let i = 0; i < decimalPlaces; i++) {
+  for (let i = 0; i < decimalPlaces; i++) {
     leftShiftNum *= 10;
   }
 
@@ -121,18 +99,19 @@ Math.roundCuntom = (targetNumber, decimalPlaces) => {
   return num2 / leftShiftNum;
 }
 
-RankingsChartDrawer.prototype.draw = function (rankings) {
+RankingsChartDrawer.prototype.draw = function (ranking) {
   const dataTable = this.chart.getDataTable();
   const currentNumberOfRows = dataTable.getNumberOfRows();
   dataTable.removeRows(0, currentNumberOfRows);
-  rankings.forEach(element => {
+  ranking.forEach(element => {
     dataTable.addRow([{ v: element.title, f: `${element.rank}.${element.title}` }, element.pageview, element.pageview]);
+    dataTable.setRowProperty(dataTable.getNumberOfRows() - 1, 'bookId', element.bookId);
   });
 
   const formatter = new google.visualization.ArrowFormat();
   formatter.format(dataTable, 1);
 
-  this.chart.getOption('hAxis').maxValue = rankings[0].pageview + 2000;
+  this.chart.getOption('hAxis').maxValue = ranking[0].pageview + 2000;
 
   this.chart.draw();
 };
@@ -168,28 +147,17 @@ const BookDetailChartDrawer = function () {
   this.chart.setDataTable(dataTable);
 };
 
-BookDetailChartDrawer.prototype.draw = function (title) {
-  const targetWorkRanksPerMonth = monthRankings.map(element => {
-    const returnElement = {};
-    returnElement.month = element.month;
-
-    const targetRank = element.rankings.find(ranking => ranking.title == title);
-
-    if (targetRank !== undefined) {
-      returnElement.rank = targetRank.rank;
-      returnElement.pageview = targetRank.pageview;
-    }
-
-    return returnElement;
-  });
-
+BookDetailChartDrawer.prototype.draw = function (book) {
   const dataTable = this.chart.getDataTable();
   const currentNumberOfRows = dataTable.getNumberOfRows();
   dataTable.removeRows(0, currentNumberOfRows);
 
-  targetWorkRanksPerMonth.forEach(element => {
-    const date = new Date(element.month);
-    dataTable.addRow([date, element.pageview, element.rank]);
+  Object.entries(book.monthlyRankingHistories).forEach(keyValue => {
+    const targetMonth = keyValue[0];
+    const targetMonthDate = new Date(targetMonth);
+
+    const targetRankInfo = keyValue[1];
+    dataTable.addRow([targetMonthDate, targetRankInfo.pageview, targetRankInfo.rank]);
   });
 
   this.chart.draw();
@@ -206,20 +174,17 @@ $(function () {
   google.charts.load('current', { 'packages': ['corechart', 'controls'] });
   google.charts.setOnLoadCallback(initialize);
 
-  function initialize() {
-    $.get('resources/rankings.json').done((result) => {
-      monthRankings = result;
-      const selectedMonthRankings = getSelectedMonthRankings();
-      rankingsChartDrawer = new RankingsChartDrawer();
-      rankingsChartDrawer.draw(selectedMonthRankings);
+  async function initialize() {
+    const monthlyRanking = await fetchSelectedMonthlyRanking();
+    rankingsChartDrawer = new RankingsChartDrawer();
+    rankingsChartDrawer.draw(monthlyRanking);
 
-      bookDetailChartDrawer = new BookDetailChartDrawer();
-    });
+    bookDetailChartDrawer = new BookDetailChartDrawer();
   };
 
-  $('#year,#month').change(function () {
-    const selectedMonthRankings = getSelectedMonthRankings();
-    rankingsChartDrawer.draw(selectedMonthRankings);
+  $('#year,#month').change(async () => {
+    const selectedMonthlyRanking = await fetchSelectedMonthlyRanking();
+    rankingsChartDrawer.draw(selectedMonthlyRanking);
   });
 
   $('#overlay').click(function (e) {
@@ -230,12 +195,43 @@ $(function () {
   });
 });
 
-const getSelectedMonthRankings = () => {
+// 画面で選択されている月のランキングデータを取得する。
+// プロミスオブジェクトを返す非同期関数
+const fetchSelectedMonthlyRanking = () => {
   const yearStr = $('#year').val();
   const monthStr = $('#month').val();
 
-  const selectedMonth = `${yearStr}/${monthStr}`;
-  const selectedMonthRankings = monthRankings.filter(rankings => rankings.month == selectedMonth)[0].rankings;
+  return fetchMonthlyRanking(yearStr, monthStr);
+}
 
-  return selectedMonthRankings;
+// year: '2018'等　month '01' '02' '12'等
+// Promiseを返す非同期関数です。
+const fetchMonthlyRanking = (year, month) => {
+  const targetUrl = `resources/monthlyRankings/${year}/${month}.json`;
+  return getJson(targetUrl);
+}
+
+const fetchBookById = (id) => {
+  const targetUrl = `resources/books/${id}.json`;
+  return getJson(targetUrl);
+}
+
+const fetchAuthorById = (id) => {
+  const targetUrl = `resources/authors/${id}.json`;
+  return getJson(targetUrl);
+}
+
+// 指定されたurlのjsonデータを取得し、javascript Objectに変換して返す。
+// 実際に返すのはPromiseオブジェクト
+// jqueryのラッパー関数
+const getJson = (url) => {
+  return new Promise((resolve, reject) => {
+    const jqueryPromise = $.getJSON(url);
+    jqueryPromise.done((url) => {
+      resolve(url);
+    });
+    jqueryPromise.fail((e) => {
+      reject(e);
+    });
+  });
 }
