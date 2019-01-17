@@ -1,0 +1,31 @@
+{
+    "id": 18377,
+    "title": "かちかち山",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000329/card18377.html",
+    "authorIds": [
+        329
+    ],
+    "monthlyRankingHistories": {
+        "2013/01": {
+            "rank": 341,
+            "pageview": 422
+        },
+        "2015/10": {
+            "rank": 479,
+            "pageview": 286
+        },
+        "2015/11": {
+            "rank": 339,
+            "pageview": 358
+        },
+        "2015/12": {
+            "rank": 442,
+            "pageview": 288
+        },
+        "2016/01": {
+            "rank": 426,
+            "pageview": 357
+        }
+    }
+}

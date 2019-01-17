@@ -1,0 +1,55 @@
+{
+    "id": 56658,
+    "title": "吸血鬼",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card56658.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2017/10": {
+            "rank": 149,
+            "pageview": 914
+        },
+        "2017/11": {
+            "rank": 278,
+            "pageview": 504
+        },
+        "2017/12": {
+            "rank": 432,
+            "pageview": 324
+        },
+        "2018/03": {
+            "rank": 445,
+            "pageview": 319
+        },
+        "2018/04": {
+            "rank": 470,
+            "pageview": 294
+        },
+        "2018/07": {
+            "rank": 456,
+            "pageview": 341
+        },
+        "2018/08": {
+            "rank": 443,
+            "pageview": 307
+        },
+        "2018/09": {
+            "rank": 476,
+            "pageview": 292
+        },
+        "2018/10": {
+            "rank": 469,
+            "pageview": 323
+        },
+        "2018/11": {
+            "rank": 387,
+            "pageview": 380
+        },
+        "2018/12": {
+            "rank": 500,
+            "pageview": 284
+        }
+    }
+}

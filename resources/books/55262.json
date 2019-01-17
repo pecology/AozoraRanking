@@ -1,0 +1,39 @@
+{
+    "id": 55262,
+    "title": "美しい日本の歴史",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card55262.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/07": {
+            "rank": 127,
+            "pageview": 833
+        },
+        "2013/08": {
+            "rank": 330,
+            "pageview": 370
+        },
+        "2013/09": {
+            "rank": 383,
+            "pageview": 328
+        },
+        "2013/10": {
+            "rank": 418,
+            "pageview": 340
+        },
+        "2013/11": {
+            "rank": 474,
+            "pageview": 292
+        },
+        "2013/12": {
+            "rank": 424,
+            "pageview": 301
+        },
+        "2014/02": {
+            "rank": 491,
+            "pageview": 244
+        }
+    }
+}

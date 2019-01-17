@@ -1,0 +1,39 @@
+{
+    "id": 50,
+    "title": "報恩記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card50.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2016/01": {
+            "rank": 471,
+            "pageview": 332
+        },
+        "2016/02": {
+            "rank": 456,
+            "pageview": 281
+        },
+        "2016/04": {
+            "rank": 409,
+            "pageview": 296
+        },
+        "2016/05": {
+            "rank": 463,
+            "pageview": 302
+        },
+        "2016/10": {
+            "rank": 456,
+            "pageview": 298
+        },
+        "2017/01": {
+            "rank": 363,
+            "pageview": 417
+        },
+        "2017/04": {
+            "rank": 451,
+            "pageview": 307
+        }
+    }
+}

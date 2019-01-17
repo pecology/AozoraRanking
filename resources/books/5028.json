@@ -1,0 +1,31 @@
+{
+    "id": 5028,
+    "title": "源氏物語13 明石",
+    "subtitle": "13 明石",
+    "url": "https://www.aozora.gr.jp/cards/000052/card5028.html",
+    "authorIds": [
+        52
+    ],
+    "monthlyRankingHistories": {
+        "2009/12": {
+            "rank": 499,
+            "pageview": 236
+        },
+        "2010/10": {
+            "rank": 240,
+            "pageview": 104
+        },
+        "2015/11": {
+            "rank": 355,
+            "pageview": 345
+        },
+        "2015/12": {
+            "rank": 362,
+            "pageview": 334
+        },
+        "2016/10": {
+            "rank": 243,
+            "pageview": 551
+        }
+    }
+}

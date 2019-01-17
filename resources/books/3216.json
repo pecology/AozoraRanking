@@ -1,0 +1,63 @@
+{
+    "id": 3216,
+    "title": "デカルト哲学について",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000182/card3216.html",
+    "authorIds": [
+        182
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 150,
+            "pageview": 544
+        },
+        "2009/02": {
+            "rank": 417,
+            "pageview": 210
+        },
+        "2009/07": {
+            "rank": 309,
+            "pageview": 299
+        },
+        "2009/08": {
+            "rank": 475,
+            "pageview": 188
+        },
+        "2009/11": {
+            "rank": 481,
+            "pageview": 241
+        },
+        "2010/01": {
+            "rank": 165,
+            "pageview": 592
+        },
+        "2010/02": {
+            "rank": 446,
+            "pageview": 207
+        },
+        "2010/06": {
+            "rank": 470,
+            "pageview": 222
+        },
+        "2010/07": {
+            "rank": 387,
+            "pageview": 241
+        },
+        "2011/01": {
+            "rank": 447,
+            "pageview": 269
+        },
+        "2012/07": {
+            "rank": 408,
+            "pageview": 293
+        },
+        "2013/01": {
+            "rank": 459,
+            "pageview": 342
+        },
+        "2013/07": {
+            "rank": 331,
+            "pageview": 383
+        }
+    }
+}

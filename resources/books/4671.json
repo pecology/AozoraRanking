@@ -1,0 +1,31 @@
+{
+    "id": 4671,
+    "title": "震災日記より",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000042/card4671.html",
+    "authorIds": [
+        42
+    ],
+    "monthlyRankingHistories": {
+        "2011/03": {
+            "rank": 364,
+            "pageview": 242
+        },
+        "2011/04": {
+            "rank": 328,
+            "pageview": 254
+        },
+        "2011/05": {
+            "rank": 496,
+            "pageview": 222
+        },
+        "2011/07": {
+            "rank": 69,
+            "pageview": 1030
+        },
+        "2017/05": {
+            "rank": 229,
+            "pageview": 617
+        }
+    }
+}

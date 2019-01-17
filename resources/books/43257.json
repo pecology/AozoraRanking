@@ -1,0 +1,31 @@
+{
+    "id": 43257,
+    "title": "徒然草の鑑賞",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000042/card43257.html",
+    "authorIds": [
+        42
+    ],
+    "monthlyRankingHistories": {
+        "2012/01": {
+            "rank": 397,
+            "pageview": 295
+        },
+        "2012/03": {
+            "rank": 430,
+            "pageview": 273
+        },
+        "2014/06": {
+            "rank": 238,
+            "pageview": 511
+        },
+        "2014/07": {
+            "rank": 187,
+            "pageview": 680
+        },
+        "2014/08": {
+            "rank": 322,
+            "pageview": 417
+        }
+    }
+}

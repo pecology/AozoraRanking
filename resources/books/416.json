@@ -1,0 +1,39 @@
+{
+    "id": 416,
+    "title": "冬の蠅",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000074/card416.html",
+    "authorIds": [
+        74
+    ],
+    "monthlyRankingHistories": {
+        "2010/12": {
+            "rank": 499,
+            "pageview": 193
+        },
+        "2011/12": {
+            "rank": 461,
+            "pageview": 223
+        },
+        "2013/11": {
+            "rank": 475,
+            "pageview": 291
+        },
+        "2013/12": {
+            "rank": 449,
+            "pageview": 289
+        },
+        "2015/01": {
+            "rank": 495,
+            "pageview": 295
+        },
+        "2015/12": {
+            "rank": 487,
+            "pageview": 270
+        },
+        "2017/12": {
+            "rank": 363,
+            "pageview": 381
+        }
+    }
+}

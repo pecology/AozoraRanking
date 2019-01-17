@@ -1,0 +1,75 @@
+{
+    "id": 827,
+    "title": "どんぐり",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000042/card827.html",
+    "authorIds": [
+        42
+    ],
+    "monthlyRankingHistories": {
+        "2009/10": {
+            "rank": 277,
+            "pageview": 348
+        },
+        "2009/11": {
+            "rank": 387,
+            "pageview": 288
+        },
+        "2011/05": {
+            "rank": 478,
+            "pageview": 231
+        },
+        "2014/08": {
+            "rank": 293,
+            "pageview": 462
+        },
+        "2015/03": {
+            "rank": 309,
+            "pageview": 372
+        },
+        "2015/10": {
+            "rank": 487,
+            "pageview": 283
+        },
+        "2015/11": {
+            "rank": 413,
+            "pageview": 310
+        },
+        "2015/12": {
+            "rank": 314,
+            "pageview": 379
+        },
+        "2016/01": {
+            "rank": 428,
+            "pageview": 355
+        },
+        "2016/03": {
+            "rank": 475,
+            "pageview": 264
+        },
+        "2016/04": {
+            "rank": 463,
+            "pageview": 265
+        },
+        "2016/05": {
+            "rank": 461,
+            "pageview": 303
+        },
+        "2016/10": {
+            "rank": 425,
+            "pageview": 319
+        },
+        "2016/11": {
+            "rank": 288,
+            "pageview": 491
+        },
+        "2016/12": {
+            "rank": 457,
+            "pageview": 300
+        },
+        "2018/07": {
+            "rank": 463,
+            "pageview": 337
+        }
+    }
+}

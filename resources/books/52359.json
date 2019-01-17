@@ -1,0 +1,55 @@
+{
+    "id": 52359,
+    "title": "つゆのあとさき",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001341/card52359.html",
+    "authorIds": [
+        1341
+    ],
+    "monthlyRankingHistories": {
+        "2012/05": {
+            "rank": 228,
+            "pageview": 441
+        },
+        "2012/06": {
+            "rank": 238,
+            "pageview": 424
+        },
+        "2012/07": {
+            "rank": 439,
+            "pageview": 273
+        },
+        "2012/08": {
+            "rank": 498,
+            "pageview": 229
+        },
+        "2013/04": {
+            "rank": 492,
+            "pageview": 233
+        },
+        "2013/05": {
+            "rank": 421,
+            "pageview": 286
+        },
+        "2013/06": {
+            "rank": 397,
+            "pageview": 316
+        },
+        "2013/07": {
+            "rank": 498,
+            "pageview": 277
+        },
+        "2014/06": {
+            "rank": 446,
+            "pageview": 305
+        },
+        "2016/06": {
+            "rank": 404,
+            "pageview": 344
+        },
+        "2017/06": {
+            "rank": 424,
+            "pageview": 354
+        }
+    }
+}

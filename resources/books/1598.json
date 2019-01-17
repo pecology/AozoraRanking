@@ -1,0 +1,35 @@
+{
+    "id": 1598,
+    "title": "一問一答",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card1598.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 256,
+            "pageview": 326
+        },
+        "2009/07": {
+            "rank": 465,
+            "pageview": 216
+        },
+        "2010/10": {
+            "rank": 211,
+            "pageview": 114
+        },
+        "2011/09": {
+            "rank": 401,
+            "pageview": 234
+        },
+        "2011/10": {
+            "rank": 432,
+            "pageview": 236
+        },
+        "2011/11": {
+            "rank": 480,
+            "pageview": 213
+        }
+    }
+}

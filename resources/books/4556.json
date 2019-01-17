@@ -1,0 +1,59 @@
+{
+    "id": 4556,
+    "title": "桜",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000076/card4556.html",
+    "authorIds": [
+        76
+    ],
+    "monthlyRankingHistories": {
+        "2009/02": {
+            "rank": 437,
+            "pageview": 203
+        },
+        "2009/03": {
+            "rank": 234,
+            "pageview": 308
+        },
+        "2009/04": {
+            "rank": 245,
+            "pageview": 296
+        },
+        "2010/03": {
+            "rank": 416,
+            "pageview": 212
+        },
+        "2010/04": {
+            "rank": 174,
+            "pageview": 405
+        },
+        "2011/04": {
+            "rank": 342,
+            "pageview": 248
+        },
+        "2012/06": {
+            "rank": 224,
+            "pageview": 441
+        },
+        "2012/07": {
+            "rank": 266,
+            "pageview": 419
+        },
+        "2012/08": {
+            "rank": 387,
+            "pageview": 286
+        },
+        "2012/09": {
+            "rank": 426,
+            "pageview": 271
+        },
+        "2017/04": {
+            "rank": 300,
+            "pageview": 447
+        },
+        "2018/03": {
+            "rank": 424,
+            "pageview": 332
+        }
+    }
+}

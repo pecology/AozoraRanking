@@ -1,0 +1,23 @@
+{
+    "id": 1366,
+    "title": "大阪夏之陣",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000083/card1366.html",
+    "authorIds": [
+        83
+    ],
+    "monthlyRankingHistories": {
+        "2009/12": {
+            "rank": 452,
+            "pageview": 255
+        },
+        "2011/10": {
+            "rank": 365,
+            "pageview": 271
+        },
+        "2011/11": {
+            "rank": 275,
+            "pageview": 345
+        }
+    }
+}

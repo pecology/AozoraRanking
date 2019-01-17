@@ -1,0 +1,31 @@
+{
+    "id": 5023,
+    "title": "源氏物語08 花宴",
+    "subtitle": "08 花宴",
+    "url": "https://www.aozora.gr.jp/cards/000052/card5023.html",
+    "authorIds": [
+        52
+    ],
+    "monthlyRankingHistories": {
+        "2009/04": {
+            "rank": 497,
+            "pageview": 181
+        },
+        "2009/11": {
+            "rank": 466,
+            "pageview": 248
+        },
+        "2009/12": {
+            "rank": 361,
+            "pageview": 301
+        },
+        "2010/01": {
+            "rank": 459,
+            "pageview": 269
+        },
+        "2010/10": {
+            "rank": 172,
+            "pageview": 126
+        }
+    }
+}

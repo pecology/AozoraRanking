@@ -1,0 +1,51 @@
+{
+    "id": 683,
+    "title": "妄想",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000129/card683.html",
+    "authorIds": [
+        129
+    ],
+    "monthlyRankingHistories": {
+        "2011/06": {
+            "rank": 456,
+            "pageview": 211
+        },
+        "2012/06": {
+            "rank": 481,
+            "pageview": 231
+        },
+        "2015/06": {
+            "rank": 446,
+            "pageview": 303
+        },
+        "2016/04": {
+            "rank": 403,
+            "pageview": 300
+        },
+        "2016/05": {
+            "rank": 421,
+            "pageview": 333
+        },
+        "2016/06": {
+            "rank": 406,
+            "pageview": 343
+        },
+        "2017/04": {
+            "rank": 494,
+            "pageview": 282
+        },
+        "2017/06": {
+            "rank": 386,
+            "pageview": 385
+        },
+        "2017/09": {
+            "rank": 495,
+            "pageview": 282
+        },
+        "2018/06": {
+            "rank": 464,
+            "pageview": 333
+        }
+    }
+}

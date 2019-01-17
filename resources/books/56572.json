@@ -1,0 +1,151 @@
+{
+    "id": 56572,
+    "title": "青空文庫の提案",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001790/card56572.html",
+    "authorIds": [
+        1790
+    ],
+    "monthlyRankingHistories": {
+        "2014/01": {
+            "rank": 70,
+            "pageview": 1518
+        },
+        "2014/02": {
+            "rank": 174,
+            "pageview": 570
+        },
+        "2014/03": {
+            "rank": 175,
+            "pageview": 565
+        },
+        "2014/04": {
+            "rank": 193,
+            "pageview": 538
+        },
+        "2014/05": {
+            "rank": 221,
+            "pageview": 545
+        },
+        "2014/06": {
+            "rank": 329,
+            "pageview": 382
+        },
+        "2014/07": {
+            "rank": 311,
+            "pageview": 432
+        },
+        "2014/08": {
+            "rank": 242,
+            "pageview": 536
+        },
+        "2014/09": {
+            "rank": 227,
+            "pageview": 514
+        },
+        "2014/10": {
+            "rank": 324,
+            "pageview": 380
+        },
+        "2014/11": {
+            "rank": 490,
+            "pageview": 294
+        },
+        "2015/01": {
+            "rank": 348,
+            "pageview": 395
+        },
+        "2015/02": {
+            "rank": 354,
+            "pageview": 310
+        },
+        "2015/03": {
+            "rank": 464,
+            "pageview": 268
+        },
+        "2015/04": {
+            "rank": 411,
+            "pageview": 296
+        },
+        "2015/05": {
+            "rank": 323,
+            "pageview": 385
+        },
+        "2015/06": {
+            "rank": 410,
+            "pageview": 323
+        },
+        "2015/07": {
+            "rank": 416,
+            "pageview": 343
+        },
+        "2015/09": {
+            "rank": 404,
+            "pageview": 318
+        },
+        "2015/10": {
+            "rank": 396,
+            "pageview": 321
+        },
+        "2015/11": {
+            "rank": 404,
+            "pageview": 315
+        },
+        "2015/12": {
+            "rank": 316,
+            "pageview": 377
+        },
+        "2016/01": {
+            "rank": 268,
+            "pageview": 514
+        },
+        "2016/02": {
+            "rank": 388,
+            "pageview": 316
+        },
+        "2016/03": {
+            "rank": 443,
+            "pageview": 274
+        },
+        "2017/01": {
+            "rank": 493,
+            "pageview": 313
+        },
+        "2017/09": {
+            "rank": 419,
+            "pageview": 332
+        },
+        "2017/10": {
+            "rank": 241,
+            "pageview": 589
+        },
+        "2018/04": {
+            "rank": 423,
+            "pageview": 317
+        },
+        "2018/07": {
+            "rank": 302,
+            "pageview": 498
+        },
+        "2018/08": {
+            "rank": 412,
+            "pageview": 332
+        },
+        "2018/09": {
+            "rank": 497,
+            "pageview": 282
+        },
+        "2018/10": {
+            "rank": 446,
+            "pageview": 341
+        },
+        "2018/11": {
+            "rank": 230,
+            "pageview": 597
+        },
+        "2018/12": {
+            "rank": 417,
+            "pageview": 334
+        }
+    }
+}

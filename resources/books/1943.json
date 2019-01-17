@@ -1,0 +1,91 @@
+{
+    "id": 1943,
+    "title": "風野又三郎",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000081/card1943.html",
+    "authorIds": [
+        81
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 384,
+            "pageview": 271
+        },
+        "2009/02": {
+            "rank": 435,
+            "pageview": 204
+        },
+        "2009/11": {
+            "rank": 350,
+            "pageview": 304
+        },
+        "2009/12": {
+            "rank": 341,
+            "pageview": 312
+        },
+        "2010/10": {
+            "rank": 220,
+            "pageview": 110
+        },
+        "2011/06": {
+            "rank": 457,
+            "pageview": 211
+        },
+        "2011/10": {
+            "rank": 463,
+            "pageview": 220
+        },
+        "2011/11": {
+            "rank": 497,
+            "pageview": 205
+        },
+        "2012/01": {
+            "rank": 498,
+            "pageview": 234
+        },
+        "2012/02": {
+            "rank": 433,
+            "pageview": 246
+        },
+        "2012/03": {
+            "rank": 417,
+            "pageview": 283
+        },
+        "2012/08": {
+            "rank": 486,
+            "pageview": 235
+        },
+        "2016/09": {
+            "rank": 500,
+            "pageview": 264
+        },
+        "2016/10": {
+            "rank": 445,
+            "pageview": 306
+        },
+        "2016/11": {
+            "rank": 470,
+            "pageview": 312
+        },
+        "2017/12": {
+            "rank": 343,
+            "pageview": 394
+        },
+        "2018/01": {
+            "rank": 454,
+            "pageview": 352
+        },
+        "2018/02": {
+            "rank": 396,
+            "pageview": 326
+        },
+        "2018/09": {
+            "rank": 439,
+            "pageview": 313
+        },
+        "2018/12": {
+            "rank": 415,
+            "pageview": 335
+        }
+    }
+}

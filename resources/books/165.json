@@ -1,0 +1,91 @@
+{
+    "id": 165,
+    "title": "二つの手紙",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card165.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/04": {
+            "rank": 496,
+            "pageview": 180
+        },
+        "2010/10": {
+            "rank": 362,
+            "pageview": 87
+        },
+        "2011/07": {
+            "rank": 472,
+            "pageview": 209
+        },
+        "2012/01": {
+            "rank": 464,
+            "pageview": 252
+        },
+        "2012/04": {
+            "rank": 481,
+            "pageview": 212
+        },
+        "2012/05": {
+            "rank": 484,
+            "pageview": 232
+        },
+        "2013/08": {
+            "rank": 96,
+            "pageview": 1063
+        },
+        "2013/09": {
+            "rank": 411,
+            "pageview": 311
+        },
+        "2013/10": {
+            "rank": 360,
+            "pageview": 377
+        },
+        "2013/11": {
+            "rank": 500,
+            "pageview": 278
+        },
+        "2013/12": {
+            "rank": 385,
+            "pageview": 321
+        },
+        "2014/01": {
+            "rank": 409,
+            "pageview": 330
+        },
+        "2014/02": {
+            "rank": 408,
+            "pageview": 287
+        },
+        "2014/03": {
+            "rank": 466,
+            "pageview": 256
+        },
+        "2014/07": {
+            "rank": 484,
+            "pageview": 294
+        },
+        "2015/05": {
+            "rank": 429,
+            "pageview": 307
+        },
+        "2015/06": {
+            "rank": 403,
+            "pageview": 329
+        },
+        "2015/10": {
+            "rank": 496,
+            "pageview": 278
+        },
+        "2015/11": {
+            "rank": 478,
+            "pageview": 276
+        },
+        "2016/04": {
+            "rank": 337,
+            "pageview": 341
+        }
+    }
+}

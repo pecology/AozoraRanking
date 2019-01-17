@@ -1,0 +1,67 @@
+{
+    "id": 52448,
+    "title": "大谷刑部",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card52448.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/03": {
+            "rank": 88,
+            "pageview": 1081
+        },
+        "2013/04": {
+            "rank": 197,
+            "pageview": 503
+        },
+        "2013/05": {
+            "rank": 252,
+            "pageview": 428
+        },
+        "2013/06": {
+            "rank": 319,
+            "pageview": 373
+        },
+        "2013/07": {
+            "rank": 374,
+            "pageview": 348
+        },
+        "2013/08": {
+            "rank": 404,
+            "pageview": 312
+        },
+        "2013/09": {
+            "rank": 438,
+            "pageview": 288
+        },
+        "2013/10": {
+            "rank": 307,
+            "pageview": 423
+        },
+        "2013/11": {
+            "rank": 493,
+            "pageview": 281
+        },
+        "2013/12": {
+            "rank": 306,
+            "pageview": 386
+        },
+        "2014/01": {
+            "rank": 472,
+            "pageview": 297
+        },
+        "2014/02": {
+            "rank": 460,
+            "pageview": 261
+        },
+        "2014/03": {
+            "rank": 441,
+            "pageview": 268
+        },
+        "2014/10": {
+            "rank": 490,
+            "pageview": 271
+        }
+    }
+}

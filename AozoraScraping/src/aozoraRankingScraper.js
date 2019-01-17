@@ -65,6 +65,7 @@ const convertTrElementToSimpleObject = (tr) => {
     data.title = extractTitleFromTdElements(tdElements.eq(1));
     data.subtitle = extractSubtitleFromTdElements(tdElements.eq(1));
     data.url = extractUrlFromTdElements(tdElements.eq(1));
+    data.bookId = urlToBookId(data.url);
     data.authors = extractAuthorsFromTdElements(tdElements.eq(2));
     data.pageview = extractPageViewFromTdElements(tdElements.eq(3));
 
@@ -99,6 +100,17 @@ const extractUrlFromTdElements = (tdElement) => {
     return url;
 }
 
+const urlToBookId = (url) => {
+    // url exmple: https://www.aozora.gr.jp/cards/000148/card773.html
+    //           → 773
+    const splited = url.split('/')
+    const cardXXXXDothtml = splited[splited.length - 1];
+
+    const XXXXDothtml = cardXXXXDothtml.slice(4);
+    const XXXX = XXXXDothtml.split('.')[0];
+    return parseInt(XXXX);
+}
+
 /**
  * ランキングデータから著者の情報を抽出し、配列で返す。
  * 著者は複数人いる可能性があるので、Array型で返す。
@@ -114,10 +126,22 @@ const extractAuthorsFromTdElements = (tdElement) => {
         const self = $(anchorElement);
         const name = self.text();
         const url = self.attr('href');
-        authorsArray.push({ name: name, url: url });
+        const id = urlToAuthorId(url);
+        authorsArray.push({ name: name, url: url, id: id });
     });
 
     return authorsArray;
+}
+
+const urlToAuthorId = (url) => {
+    // url exmple: https://www.aozora.gr.jp/index_pages/person148.html
+    //           → 148
+    const splited = url.split('/')
+    const personXXXXDothtml = splited[splited.length - 1];
+
+    const XXXXDothtml = personXXXXDothtml.slice(6);
+    const XXXX = XXXXDothtml.split('.')[0];
+    return parseInt(XXXX);
 }
 
 const extractPageViewFromTdElements = (tdElement) => {

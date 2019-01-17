@@ -1,0 +1,31 @@
+{
+    "id": 45271,
+    "title": "夏目漱石論",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000129/card45271.html",
+    "authorIds": [
+        129
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 478,
+            "pageview": 231
+        },
+        "2009/05": {
+            "rank": 493,
+            "pageview": 208
+        },
+        "2010/12": {
+            "rank": 475,
+            "pageview": 202
+        },
+        "2011/01": {
+            "rank": 500,
+            "pageview": 250
+        },
+        "2011/07": {
+            "rank": 499,
+            "pageview": 200
+        }
+    }
+}

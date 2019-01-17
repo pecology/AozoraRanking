@@ -1,0 +1,71 @@
+{
+    "id": 57443,
+    "title": "ダゴン",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001699/card57443.html",
+    "authorIds": [
+        1699
+    ],
+    "monthlyRankingHistories": {
+        "2016/04": {
+            "rank": 128,
+            "pageview": 839
+        },
+        "2016/05": {
+            "rank": 388,
+            "pageview": 357
+        },
+        "2016/08": {
+            "rank": 493,
+            "pageview": 276
+        },
+        "2017/04": {
+            "rank": 249,
+            "pageview": 528
+        },
+        "2017/11": {
+            "rank": 418,
+            "pageview": 355
+        },
+        "2017/12": {
+            "rank": 252,
+            "pageview": 508
+        },
+        "2018/03": {
+            "rank": 339,
+            "pageview": 396
+        },
+        "2018/04": {
+            "rank": 472,
+            "pageview": 293
+        },
+        "2018/05": {
+            "rank": 431,
+            "pageview": 356
+        },
+        "2018/06": {
+            "rank": 479,
+            "pageview": 324
+        },
+        "2018/08": {
+            "rank": 366,
+            "pageview": 366
+        },
+        "2018/09": {
+            "rank": 341,
+            "pageview": 390
+        },
+        "2018/10": {
+            "rank": 395,
+            "pageview": 384
+        },
+        "2018/11": {
+            "rank": 425,
+            "pageview": 346
+        },
+        "2018/12": {
+            "rank": 474,
+            "pageview": 298
+        }
+    }
+}

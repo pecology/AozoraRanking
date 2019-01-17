@@ -1,0 +1,31 @@
+{
+    "id": 52318,
+    "title": "ああ東京は食い倒れ",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001558/card52318.html",
+    "authorIds": [
+        1558
+    ],
+    "monthlyRankingHistories": {
+        "2012/01": {
+            "rank": 227,
+            "pageview": 464
+        },
+        "2012/02": {
+            "rank": 437,
+            "pageview": 239
+        },
+        "2012/03": {
+            "rank": 287,
+            "pageview": 372
+        },
+        "2012/04": {
+            "rank": 475,
+            "pageview": 215
+        },
+        "2016/08": {
+            "rank": 465,
+            "pageview": 286
+        }
+    }
+}

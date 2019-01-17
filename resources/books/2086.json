@@ -1,0 +1,89 @@
+{
+    "id": 2086,
+    "title": "恋衣",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000318/card2086.html",
+    "authorIds": [
+        318,
+        351,
+        885
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 407,
+            "pageview": 260
+        },
+        "2009/02": {
+            "rank": 375,
+            "pageview": 226
+        },
+        "2009/03": {
+            "rank": 397,
+            "pageview": 218
+        },
+        "2009/04": {
+            "rank": 366,
+            "pageview": 221
+        },
+        "2009/05": {
+            "rank": 387,
+            "pageview": 248
+        },
+        "2009/06": {
+            "rank": 413,
+            "pageview": 233
+        },
+        "2009/07": {
+            "rank": 389,
+            "pageview": 251
+        },
+        "2009/08": {
+            "rank": 448,
+            "pageview": 199
+        },
+        "2010/01": {
+            "rank": 310,
+            "pageview": 350
+        },
+        "2010/02": {
+            "rank": 373,
+            "pageview": 233
+        },
+        "2010/03": {
+            "rank": 398,
+            "pageview": 219
+        },
+        "2010/04": {
+            "rank": 374,
+            "pageview": 221
+        },
+        "2010/05": {
+            "rank": 493,
+            "pageview": 210
+        },
+        "2010/06": {
+            "rank": 400,
+            "pageview": 248
+        },
+        "2010/07": {
+            "rank": 444,
+            "pageview": 215
+        },
+        "2010/08": {
+            "rank": 444,
+            "pageview": 207
+        },
+        "2010/09": {
+            "rank": 474,
+            "pageview": 200
+        },
+        "2010/11": {
+            "rank": 498,
+            "pageview": 212
+        },
+        "2012/06": {
+            "rank": 484,
+            "pageview": 230
+        }
+    }
+}

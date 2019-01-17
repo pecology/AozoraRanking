@@ -1,0 +1,47 @@
+{
+    "id": 56670,
+    "title": "妖怪博士",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card56670.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2016/08": {
+            "rank": 93,
+            "pageview": 1187
+        },
+        "2016/09": {
+            "rank": 175,
+            "pageview": 695
+        },
+        "2016/10": {
+            "rank": 307,
+            "pageview": 443
+        },
+        "2016/11": {
+            "rank": 344,
+            "pageview": 408
+        },
+        "2016/12": {
+            "rank": 359,
+            "pageview": 368
+        },
+        "2017/01": {
+            "rank": 432,
+            "pageview": 349
+        },
+        "2017/03": {
+            "rank": 419,
+            "pageview": 322
+        },
+        "2017/04": {
+            "rank": 437,
+            "pageview": 314
+        },
+        "2017/05": {
+            "rank": 422,
+            "pageview": 344
+        }
+    }
+}

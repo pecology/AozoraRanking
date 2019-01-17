@@ -1,0 +1,91 @@
+{
+    "id": 1279,
+    "title": "金魚撩乱",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000076/card1279.html",
+    "authorIds": [
+        76
+    ],
+    "monthlyRankingHistories": {
+        "2015/05": {
+            "rank": 409,
+            "pageview": 320
+        },
+        "2017/03": {
+            "rank": 354,
+            "pageview": 373
+        },
+        "2017/04": {
+            "rank": 148,
+            "pageview": 845
+        },
+        "2017/05": {
+            "rank": 243,
+            "pageview": 579
+        },
+        "2017/06": {
+            "rank": 233,
+            "pageview": 601
+        },
+        "2017/07": {
+            "rank": 273,
+            "pageview": 556
+        },
+        "2017/08": {
+            "rank": 244,
+            "pageview": 576
+        },
+        "2017/09": {
+            "rank": 375,
+            "pageview": 365
+        },
+        "2017/11": {
+            "rank": 480,
+            "pageview": 317
+        },
+        "2017/12": {
+            "rank": 436,
+            "pageview": 322
+        },
+        "2018/01": {
+            "rank": 455,
+            "pageview": 351
+        },
+        "2018/02": {
+            "rank": 341,
+            "pageview": 360
+        },
+        "2018/03": {
+            "rank": 287,
+            "pageview": 443
+        },
+        "2018/04": {
+            "rank": 430,
+            "pageview": 314
+        },
+        "2018/05": {
+            "rank": 383,
+            "pageview": 404
+        },
+        "2018/06": {
+            "rank": 345,
+            "pageview": 435
+        },
+        "2018/07": {
+            "rank": 459,
+            "pageview": 339
+        },
+        "2018/08": {
+            "rank": 324,
+            "pageview": 405
+        },
+        "2018/09": {
+            "rank": 410,
+            "pageview": 330
+        },
+        "2018/12": {
+            "rank": 423,
+            "pageview": 331
+        }
+    }
+}

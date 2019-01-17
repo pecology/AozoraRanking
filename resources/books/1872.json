@@ -1,0 +1,31 @@
+{
+    "id": 1872,
+    "title": "法窓夜話",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000301/card1872.html",
+    "authorIds": [
+        301
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 330,
+            "pageview": 298
+        },
+        "2009/04": {
+            "rank": 435,
+            "pageview": 198
+        },
+        "2010/01": {
+            "rank": 390,
+            "pageview": 303
+        },
+        "2014/06": {
+            "rank": 250,
+            "pageview": 496
+        },
+        "2018/02": {
+            "rank": 500,
+            "pageview": 273
+        }
+    }
+}

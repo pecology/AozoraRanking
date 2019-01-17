@@ -1,0 +1,47 @@
+{
+    "id": 54408,
+    "title": "金の輪",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001475/card54408.html",
+    "authorIds": [
+        1475
+    ],
+    "monthlyRankingHistories": {
+        "2012/01": {
+            "rank": 361,
+            "pageview": 315
+        },
+        "2013/04": {
+            "rank": 471,
+            "pageview": 243
+        },
+        "2013/06": {
+            "rank": 414,
+            "pageview": 305
+        },
+        "2013/09": {
+            "rank": 280,
+            "pageview": 424
+        },
+        "2014/05": {
+            "rank": 484,
+            "pageview": 280
+        },
+        "2015/03": {
+            "rank": 259,
+            "pageview": 420
+        },
+        "2015/11": {
+            "rank": 337,
+            "pageview": 359
+        },
+        "2016/09": {
+            "rank": 438,
+            "pageview": 292
+        },
+        "2016/10": {
+            "rank": 366,
+            "pageview": 372
+        }
+    }
+}

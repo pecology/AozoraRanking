@@ -1,0 +1,47 @@
+{
+    "id": 1814,
+    "title": "風琴と魚の町",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000291/card1814.html",
+    "authorIds": [
+        291
+    ],
+    "monthlyRankingHistories": {
+        "2009/09": {
+            "rank": 363,
+            "pageview": 233
+        },
+        "2010/04": {
+            "rank": 300,
+            "pageview": 254
+        },
+        "2010/05": {
+            "rank": 415,
+            "pageview": 239
+        },
+        "2010/09": {
+            "rank": 498,
+            "pageview": 194
+        },
+        "2010/12": {
+            "rank": 496,
+            "pageview": 195
+        },
+        "2012/02": {
+            "rank": 429,
+            "pageview": 249
+        },
+        "2013/09": {
+            "rank": 359,
+            "pageview": 345
+        },
+        "2015/07": {
+            "rank": 281,
+            "pageview": 476
+        },
+        "2018/09": {
+            "rank": 392,
+            "pageview": 343
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 52452,
+    "title": "柳生月影抄",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card52452.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/04": {
+            "rank": 107,
+            "pageview": 851
+        },
+        "2013/05": {
+            "rank": 380,
+            "pageview": 310
+        },
+        "2013/06": {
+            "rank": 310,
+            "pageview": 378
+        },
+        "2013/07": {
+            "rank": 456,
+            "pageview": 298
+        },
+        "2013/08": {
+            "rank": 463,
+            "pageview": 281
+        },
+        "2013/09": {
+            "rank": 488,
+            "pageview": 258
+        },
+        "2013/10": {
+            "rank": 493,
+            "pageview": 284
+        }
+    }
+}

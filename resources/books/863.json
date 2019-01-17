@@ -1,0 +1,47 @@
+{
+    "id": 863,
+    "title": "海に生くる人々",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000031/card863.html",
+    "authorIds": [
+        31
+    ],
+    "monthlyRankingHistories": {
+        "2009/09": {
+            "rank": 393,
+            "pageview": 217
+        },
+        "2010/02": {
+            "rank": 466,
+            "pageview": 200
+        },
+        "2010/03": {
+            "rank": 489,
+            "pageview": 187
+        },
+        "2010/06": {
+            "rank": 460,
+            "pageview": 225
+        },
+        "2010/09": {
+            "rank": 453,
+            "pageview": 207
+        },
+        "2012/09": {
+            "rank": 294,
+            "pageview": 370
+        },
+        "2015/04": {
+            "rank": 339,
+            "pageview": 347
+        },
+        "2015/05": {
+            "rank": 420,
+            "pageview": 315
+        },
+        "2015/09": {
+            "rank": 434,
+            "pageview": 301
+        }
+    }
+}

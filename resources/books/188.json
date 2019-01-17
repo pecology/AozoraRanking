@@ -1,0 +1,35 @@
+{
+    "id": 188,
+    "title": "誘惑",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card188.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2016/01": {
+            "rank": 431,
+            "pageview": 354
+        },
+        "2016/03": {
+            "rank": 396,
+            "pageview": 303
+        },
+        "2016/04": {
+            "rank": 387,
+            "pageview": 308
+        },
+        "2016/05": {
+            "rank": 428,
+            "pageview": 325
+        },
+        "2016/07": {
+            "rank": 393,
+            "pageview": 344
+        },
+        "2016/08": {
+            "rank": 382,
+            "pageview": 342
+        }
+    }
+}

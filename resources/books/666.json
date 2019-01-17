@@ -1,0 +1,31 @@
+{
+    "id": 666,
+    "title": "白蟻",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000125/card666.html",
+    "authorIds": [
+        125
+    ],
+    "monthlyRankingHistories": {
+        "2009/03": {
+            "rank": 436,
+            "pageview": 206
+        },
+        "2009/04": {
+            "rank": 300,
+            "pageview": 254
+        },
+        "2009/05": {
+            "rank": 207,
+            "pageview": 390
+        },
+        "2010/05": {
+            "rank": 330,
+            "pageview": 278
+        },
+        "2010/06": {
+            "rank": 417,
+            "pageview": 241
+        }
+    }
+}

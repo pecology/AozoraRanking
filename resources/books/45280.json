@@ -1,0 +1,43 @@
+{
+    "id": 45280,
+    "title": "わがひとに与ふる哀歌",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001197/card45280.html",
+    "authorIds": [
+        1197
+    ],
+    "monthlyRankingHistories": {
+        "2016/03": {
+            "rank": 462,
+            "pageview": 267
+        },
+        "2016/06": {
+            "rank": 471,
+            "pageview": 305
+        },
+        "2016/07": {
+            "rank": 427,
+            "pageview": 319
+        },
+        "2016/08": {
+            "rank": 360,
+            "pageview": 359
+        },
+        "2017/06": {
+            "rank": 426,
+            "pageview": 352
+        },
+        "2017/07": {
+            "rank": 459,
+            "pageview": 348
+        },
+        "2017/08": {
+            "rank": 310,
+            "pageview": 470
+        },
+        "2018/08": {
+            "rank": 425,
+            "pageview": 322
+        }
+    }
+}

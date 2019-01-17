@@ -1,0 +1,71 @@
+{
+    "id": 4820,
+    "title": "神曲03 天堂",
+    "subtitle": "03 天堂",
+    "url": "https://www.aozora.gr.jp/cards/000961/card4820.html",
+    "authorIds": [
+        961
+    ],
+    "monthlyRankingHistories": {
+        "2009/12": {
+            "rank": 473,
+            "pageview": 247
+        },
+        "2010/10": {
+            "rank": 365,
+            "pageview": 86
+        },
+        "2011/05": {
+            "rank": 69,
+            "pageview": 1176
+        },
+        "2011/06": {
+            "rank": 356,
+            "pageview": 260
+        },
+        "2011/07": {
+            "rank": 432,
+            "pageview": 224
+        },
+        "2011/08": {
+            "rank": 432,
+            "pageview": 235
+        },
+        "2011/09": {
+            "rank": 468,
+            "pageview": 206
+        },
+        "2011/10": {
+            "rank": 397,
+            "pageview": 251
+        },
+        "2011/11": {
+            "rank": 339,
+            "pageview": 295
+        },
+        "2011/12": {
+            "rank": 381,
+            "pageview": 262
+        },
+        "2012/01": {
+            "rank": 450,
+            "pageview": 263
+        },
+        "2012/03": {
+            "rank": 432,
+            "pageview": 272
+        },
+        "2012/04": {
+            "rank": 459,
+            "pageview": 220
+        },
+        "2012/07": {
+            "rank": 456,
+            "pageview": 264
+        },
+        "2012/08": {
+            "rank": 480,
+            "pageview": 237
+        }
+    }
+}

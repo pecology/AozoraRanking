@@ -1,0 +1,31 @@
+{
+    "id": 3390,
+    "title": "浦島太郎",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000329/card3390.html",
+    "authorIds": [
+        329
+    ],
+    "monthlyRankingHistories": {
+        "2013/05": {
+            "rank": 500,
+            "pageview": 249
+        },
+        "2018/05": {
+            "rank": 433,
+            "pageview": 356
+        },
+        "2018/06": {
+            "rank": 381,
+            "pageview": 403
+        },
+        "2018/07": {
+            "rank": 403,
+            "pageview": 388
+        },
+        "2018/09": {
+            "rank": 389,
+            "pageview": 344
+        }
+    }
+}

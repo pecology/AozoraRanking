@@ -1,0 +1,63 @@
+{
+    "id": 1085,
+    "title": "おきなぐさ",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000081/card1085.html",
+    "authorIds": [
+        81
+    ],
+    "monthlyRankingHistories": {
+        "2009/04": {
+            "rank": 402,
+            "pageview": 207
+        },
+        "2009/05": {
+            "rank": 408,
+            "pageview": 238
+        },
+        "2010/03": {
+            "rank": 479,
+            "pageview": 191
+        },
+        "2010/04": {
+            "rank": 389,
+            "pageview": 214
+        },
+        "2011/03": {
+            "rank": 429,
+            "pageview": 216
+        },
+        "2011/04": {
+            "rank": 451,
+            "pageview": 202
+        },
+        "2011/05": {
+            "rank": 414,
+            "pageview": 254
+        },
+        "2011/06": {
+            "rank": 474,
+            "pageview": 204
+        },
+        "2011/12": {
+            "rank": 500,
+            "pageview": 205
+        },
+        "2016/04": {
+            "rank": 386,
+            "pageview": 309
+        },
+        "2017/04": {
+            "rank": 464,
+            "pageview": 297
+        },
+        "2018/02": {
+            "rank": 493,
+            "pageview": 276
+        },
+        "2018/04": {
+            "rank": 385,
+            "pageview": 355
+        }
+    }
+}

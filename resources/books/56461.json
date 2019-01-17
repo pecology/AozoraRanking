@@ -1,0 +1,107 @@
+{
+    "id": 56461,
+    "title": "上杉謙信",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card56461.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2014/04": {
+            "rank": 80,
+            "pageview": 1208
+        },
+        "2014/05": {
+            "rank": 175,
+            "pageview": 671
+        },
+        "2014/06": {
+            "rank": 213,
+            "pageview": 554
+        },
+        "2014/07": {
+            "rank": 314,
+            "pageview": 428
+        },
+        "2014/08": {
+            "rank": 285,
+            "pageview": 476
+        },
+        "2014/09": {
+            "rank": 236,
+            "pageview": 508
+        },
+        "2014/10": {
+            "rank": 240,
+            "pageview": 489
+        },
+        "2014/11": {
+            "rank": 285,
+            "pageview": 447
+        },
+        "2015/01": {
+            "rank": 354,
+            "pageview": 390
+        },
+        "2015/02": {
+            "rank": 337,
+            "pageview": 325
+        },
+        "2015/03": {
+            "rank": 416,
+            "pageview": 288
+        },
+        "2015/04": {
+            "rank": 430,
+            "pageview": 285
+        },
+        "2015/07": {
+            "rank": 492,
+            "pageview": 295
+        },
+        "2015/09": {
+            "rank": 491,
+            "pageview": 267
+        },
+        "2015/10": {
+            "rank": 416,
+            "pageview": 310
+        },
+        "2015/11": {
+            "rank": 490,
+            "pageview": 269
+        },
+        "2015/12": {
+            "rank": 494,
+            "pageview": 267
+        },
+        "2016/01": {
+            "rank": 439,
+            "pageview": 351
+        },
+        "2016/03": {
+            "rank": 399,
+            "pageview": 299
+        },
+        "2016/04": {
+            "rank": 492,
+            "pageview": 251
+        },
+        "2016/09": {
+            "rank": 459,
+            "pageview": 279
+        },
+        "2017/06": {
+            "rank": 486,
+            "pageview": 312
+        },
+        "2017/07": {
+            "rank": 392,
+            "pageview": 394
+        },
+        "2017/09": {
+            "rank": 500,
+            "pageview": 280
+        }
+    }
+}

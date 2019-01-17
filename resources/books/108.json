@@ -1,0 +1,47 @@
+{
+    "id": 108,
+    "title": "鼠小僧次郎吉",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card108.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/09": {
+            "rank": 492,
+            "pageview": 197
+        },
+        "2010/10": {
+            "rank": 378,
+            "pageview": 85
+        },
+        "2011/10": {
+            "rank": 484,
+            "pageview": 211
+        },
+        "2013/12": {
+            "rank": 212,
+            "pageview": 529
+        },
+        "2014/01": {
+            "rank": 366,
+            "pageview": 357
+        },
+        "2014/02": {
+            "rank": 454,
+            "pageview": 264
+        },
+        "2014/06": {
+            "rank": 461,
+            "pageview": 295
+        },
+        "2015/02": {
+            "rank": 221,
+            "pageview": 473
+        },
+        "2018/08": {
+            "rank": 478,
+            "pageview": 287
+        }
+    }
+}

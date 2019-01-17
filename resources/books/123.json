@@ -1,0 +1,59 @@
+{
+    "id": 123,
+    "title": "大川の水",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card123.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2009/04": {
+            "rank": 155,
+            "pageview": 427
+        },
+        "2009/05": {
+            "rank": 147,
+            "pageview": 513
+        },
+        "2009/06": {
+            "rank": 206,
+            "pageview": 391
+        },
+        "2009/07": {
+            "rank": 32,
+            "pageview": 2530
+        },
+        "2009/08": {
+            "rank": 43,
+            "pageview": 1926
+        },
+        "2009/09": {
+            "rank": 49,
+            "pageview": 1360
+        },
+        "2009/10": {
+            "rank": 75,
+            "pageview": 1180
+        },
+        "2009/11": {
+            "rank": 89,
+            "pageview": 1034
+        },
+        "2009/12": {
+            "rank": 64,
+            "pageview": 1375
+        },
+        "2010/01": {
+            "rank": 93,
+            "pageview": 959
+        },
+        "2010/10": {
+            "rank": 128,
+            "pageview": 157
+        },
+        "2011/02": {
+            "rank": 398,
+            "pageview": 250
+        }
+    }
+}

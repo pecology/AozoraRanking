@@ -1,0 +1,51 @@
+{
+    "id": 159,
+    "title": "俊寛",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card159.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 307,
+            "pageview": 298
+        },
+        "2009/06": {
+            "rank": 331,
+            "pageview": 270
+        },
+        "2009/07": {
+            "rank": 480,
+            "pageview": 211
+        },
+        "2010/10": {
+            "rank": 330,
+            "pageview": 89
+        },
+        "2012/02": {
+            "rank": 253,
+            "pageview": 384
+        },
+        "2014/06": {
+            "rank": 401,
+            "pageview": 335
+        },
+        "2015/06": {
+            "rank": 487,
+            "pageview": 283
+        },
+        "2015/07": {
+            "rank": 466,
+            "pageview": 308
+        },
+        "2018/08": {
+            "rank": 482,
+            "pageview": 285
+        },
+        "2018/09": {
+            "rank": 450,
+            "pageview": 308
+        }
+    }
+}

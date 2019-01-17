@@ -1,0 +1,63 @@
+{
+    "id": 1368,
+    "title": "応仁の乱",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000083/card1368.html",
+    "authorIds": [
+        83
+    ],
+    "monthlyRankingHistories": {
+        "2009/12": {
+            "rank": 349,
+            "pageview": 307
+        },
+        "2010/09": {
+            "rank": 493,
+            "pageview": 196
+        },
+        "2011/01": {
+            "rank": 398,
+            "pageview": 292
+        },
+        "2011/02": {
+            "rank": 436,
+            "pageview": 233
+        },
+        "2011/06": {
+            "rank": 470,
+            "pageview": 205
+        },
+        "2011/07": {
+            "rank": 416,
+            "pageview": 230
+        },
+        "2011/08": {
+            "rank": 410,
+            "pageview": 244
+        },
+        "2011/09": {
+            "rank": 340,
+            "pageview": 267
+        },
+        "2011/10": {
+            "rank": 377,
+            "pageview": 260
+        },
+        "2011/11": {
+            "rank": 475,
+            "pageview": 216
+        },
+        "2012/07": {
+            "rank": 499,
+            "pageview": 244
+        },
+        "2015/06": {
+            "rank": 411,
+            "pageview": 323
+        },
+        "2015/07": {
+            "rank": 393,
+            "pageview": 366
+        }
+    }
+}

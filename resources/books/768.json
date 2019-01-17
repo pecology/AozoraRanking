@@ -1,0 +1,131 @@
+{
+    "id": 768,
+    "title": "自転車日記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000148/card768.html",
+    "authorIds": [
+        148
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 383,
+            "pageview": 271
+        },
+        "2009/03": {
+            "rank": 497,
+            "pageview": 188
+        },
+        "2009/04": {
+            "rank": 244,
+            "pageview": 297
+        },
+        "2009/05": {
+            "rank": 422,
+            "pageview": 233
+        },
+        "2009/07": {
+            "rank": 495,
+            "pageview": 206
+        },
+        "2009/08": {
+            "rank": 327,
+            "pageview": 252
+        },
+        "2009/09": {
+            "rank": 500,
+            "pageview": 180
+        },
+        "2009/10": {
+            "rank": 493,
+            "pageview": 239
+        },
+        "2009/11": {
+            "rank": 437,
+            "pageview": 265
+        },
+        "2010/10": {
+            "rank": 293,
+            "pageview": 95
+        },
+        "2011/02": {
+            "rank": 494,
+            "pageview": 214
+        },
+        "2011/03": {
+            "rank": 487,
+            "pageview": 196
+        },
+        "2011/04": {
+            "rank": 252,
+            "pageview": 318
+        },
+        "2011/05": {
+            "rank": 465,
+            "pageview": 236
+        },
+        "2011/06": {
+            "rank": 419,
+            "pageview": 227
+        },
+        "2011/10": {
+            "rank": 430,
+            "pageview": 236
+        },
+        "2011/11": {
+            "rank": 416,
+            "pageview": 247
+        },
+        "2011/12": {
+            "rank": 330,
+            "pageview": 295
+        },
+        "2012/01": {
+            "rank": 387,
+            "pageview": 300
+        },
+        "2012/02": {
+            "rank": 497,
+            "pageview": 209
+        },
+        "2012/03": {
+            "rank": 471,
+            "pageview": 254
+        },
+        "2012/04": {
+            "rank": 390,
+            "pageview": 256
+        },
+        "2012/08": {
+            "rank": 461,
+            "pageview": 248
+        },
+        "2013/01": {
+            "rank": 479,
+            "pageview": 330
+        },
+        "2013/05": {
+            "rank": 455,
+            "pageview": 267
+        },
+        "2014/03": {
+            "rank": 371,
+            "pageview": 310
+        },
+        "2014/09": {
+            "rank": 494,
+            "pageview": 290
+        },
+        "2015/11": {
+            "rank": 234,
+            "pageview": 502
+        },
+        "2016/10": {
+            "rank": 491,
+            "pageview": 277
+        },
+        "2017/05": {
+            "rank": 439,
+            "pageview": 329
+        }
+    }
+}

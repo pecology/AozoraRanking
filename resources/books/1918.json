@@ -1,0 +1,39 @@
+{
+    "id": 1918,
+    "title": "カイロ団長",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000081/card1918.html",
+    "authorIds": [
+        81
+    ],
+    "monthlyRankingHistories": {
+        "2014/05": {
+            "rank": 458,
+            "pageview": 292
+        },
+        "2014/07": {
+            "rank": 100,
+            "pageview": 1163
+        },
+        "2014/10": {
+            "rank": 463,
+            "pageview": 286
+        },
+        "2014/11": {
+            "rank": 483,
+            "pageview": 296
+        },
+        "2016/01": {
+            "rank": 385,
+            "pageview": 382
+        },
+        "2016/05": {
+            "rank": 423,
+            "pageview": 332
+        },
+        "2018/10": {
+            "rank": 393,
+            "pageview": 386
+        }
+    }
+}

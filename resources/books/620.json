@@ -1,0 +1,47 @@
+{
+    "id": 620,
+    "title": "名人伝",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000119/card620.html",
+    "authorIds": [
+        119
+    ],
+    "monthlyRankingHistories": {
+        "2009/03": {
+            "rank": 430,
+            "pageview": 208
+        },
+        "2009/12": {
+            "rank": 494,
+            "pageview": 238
+        },
+        "2010/02": {
+            "rank": 452,
+            "pageview": 204
+        },
+        "2010/08": {
+            "rank": 480,
+            "pageview": 195
+        },
+        "2010/11": {
+            "rank": 451,
+            "pageview": 224
+        },
+        "2011/05": {
+            "rank": 493,
+            "pageview": 225
+        },
+        "2012/04": {
+            "rank": 419,
+            "pageview": 241
+        },
+        "2012/05": {
+            "rank": 438,
+            "pageview": 254
+        },
+        "2013/06": {
+            "rank": 183,
+            "pageview": 583
+        }
+    }
+}

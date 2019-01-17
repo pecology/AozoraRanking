@@ -1,0 +1,31 @@
+{
+    "id": 46711,
+    "title": "ビール会社征伐",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000096/card46711.html",
+    "authorIds": [
+        96
+    ],
+    "monthlyRankingHistories": {
+        "2017/11": {
+            "rank": 5,
+            "pageview": 11615
+        },
+        "2017/12": {
+            "rank": 251,
+            "pageview": 512
+        },
+        "2018/01": {
+            "rank": 266,
+            "pageview": 548
+        },
+        "2018/02": {
+            "rank": 94,
+            "pageview": 1063
+        },
+        "2018/08": {
+            "rank": 308,
+            "pageview": 428
+        }
+    }
+}

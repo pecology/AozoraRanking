@@ -1,0 +1,27 @@
+{
+    "id": 2500,
+    "title": "災難雑考",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000042/card2500.html",
+    "authorIds": [
+        42
+    ],
+    "monthlyRankingHistories": {
+        "2011/03": {
+            "rank": 357,
+            "pageview": 245
+        },
+        "2011/04": {
+            "rank": 206,
+            "pageview": 384
+        },
+        "2011/06": {
+            "rank": 493,
+            "pageview": 198
+        },
+        "2011/11": {
+            "rank": 454,
+            "pageview": 228
+        }
+    }
+}

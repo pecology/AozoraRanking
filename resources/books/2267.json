@@ -1,0 +1,67 @@
+{
+    "id": 2267,
+    "title": "秋風記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card2267.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2013/07": {
+            "rank": 432,
+            "pageview": 312
+        },
+        "2014/11": {
+            "rank": 408,
+            "pageview": 337
+        },
+        "2015/02": {
+            "rank": 366,
+            "pageview": 304
+        },
+        "2015/05": {
+            "rank": 364,
+            "pageview": 349
+        },
+        "2015/06": {
+            "rank": 368,
+            "pageview": 364
+        },
+        "2015/09": {
+            "rank": 348,
+            "pageview": 355
+        },
+        "2015/10": {
+            "rank": 441,
+            "pageview": 301
+        },
+        "2015/11": {
+            "rank": 326,
+            "pageview": 366
+        },
+        "2015/12": {
+            "rank": 482,
+            "pageview": 272
+        },
+        "2016/11": {
+            "rank": 416,
+            "pageview": 348
+        },
+        "2017/02": {
+            "rank": 457,
+            "pageview": 297
+        },
+        "2018/08": {
+            "rank": 381,
+            "pageview": 356
+        },
+        "2018/09": {
+            "rank": 495,
+            "pageview": 283
+        },
+        "2018/11": {
+            "rank": 493,
+            "pageview": 301
+        }
+    }
+}

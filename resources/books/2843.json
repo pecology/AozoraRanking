@@ -1,0 +1,79 @@
+{
+    "id": 2843,
+    "title": "詩の原理",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000067/card2843.html",
+    "authorIds": [
+        67
+    ],
+    "monthlyRankingHistories": {
+        "2010/03": {
+            "rank": 477,
+            "pageview": 191
+        },
+        "2010/06": {
+            "rank": 475,
+            "pageview": 220
+        },
+        "2016/09": {
+            "rank": 124,
+            "pageview": 900
+        },
+        "2016/10": {
+            "rank": 300,
+            "pageview": 453
+        },
+        "2016/11": {
+            "rank": 462,
+            "pageview": 314
+        },
+        "2017/05": {
+            "rank": 427,
+            "pageview": 339
+        },
+        "2017/12": {
+            "rank": 468,
+            "pageview": 302
+        },
+        "2018/03": {
+            "rank": 497,
+            "pageview": 291
+        },
+        "2018/04": {
+            "rank": 355,
+            "pageview": 378
+        },
+        "2018/05": {
+            "rank": 199,
+            "pageview": 720
+        },
+        "2018/06": {
+            "rank": 295,
+            "pageview": 500
+        },
+        "2018/07": {
+            "rank": 300,
+            "pageview": 502
+        },
+        "2018/08": {
+            "rank": 353,
+            "pageview": 374
+        },
+        "2018/09": {
+            "rank": 349,
+            "pageview": 384
+        },
+        "2018/10": {
+            "rank": 352,
+            "pageview": 426
+        },
+        "2018/11": {
+            "rank": 325,
+            "pageview": 437
+        },
+        "2018/12": {
+            "rank": 355,
+            "pageview": 386
+        }
+    }
+}

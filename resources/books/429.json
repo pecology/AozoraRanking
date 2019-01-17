@@ -1,0 +1,55 @@
+{
+    "id": 429,
+    "title": "城のある町にて",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000074/card429.html",
+    "authorIds": [
+        74
+    ],
+    "monthlyRankingHistories": {
+        "2011/07": {
+            "rank": 465,
+            "pageview": 213
+        },
+        "2012/07": {
+            "rank": 435,
+            "pageview": 276
+        },
+        "2012/08": {
+            "rank": 499,
+            "pageview": 229
+        },
+        "2012/09": {
+            "rank": 492,
+            "pageview": 244
+        },
+        "2012/10": {
+            "rank": 472,
+            "pageview": 252
+        },
+        "2014/05": {
+            "rank": 431,
+            "pageview": 304
+        },
+        "2014/06": {
+            "rank": 473,
+            "pageview": 290
+        },
+        "2015/04": {
+            "rank": 416,
+            "pageview": 294
+        },
+        "2015/06": {
+            "rank": 497,
+            "pageview": 276
+        },
+        "2017/02": {
+            "rank": 407,
+            "pageview": 329
+        },
+        "2018/10": {
+            "rank": 462,
+            "pageview": 328
+        }
+    }
+}

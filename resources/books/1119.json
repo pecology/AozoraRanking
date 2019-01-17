@@ -1,0 +1,39 @@
+{
+    "id": 1119,
+    "title": "思い出の記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000224/card1119.html",
+    "authorIds": [
+        224
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 500,
+            "pageview": 206
+        },
+        "2009/08": {
+            "rank": 461,
+            "pageview": 194
+        },
+        "2009/09": {
+            "rank": 484,
+            "pageview": 184
+        },
+        "2010/11": {
+            "rank": 470,
+            "pageview": 220
+        },
+        "2015/07": {
+            "rank": 256,
+            "pageview": 506
+        },
+        "2017/05": {
+            "rank": 383,
+            "pageview": 376
+        },
+        "2018/09": {
+            "rank": 468,
+            "pageview": 299
+        }
+    }
+}

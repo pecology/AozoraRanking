@@ -1,0 +1,103 @@
+{
+    "id": 767,
+    "title": "人生",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000148/card767.html",
+    "authorIds": [
+        148
+    ],
+    "monthlyRankingHistories": {
+        "2009/02": {
+            "rank": 336,
+            "pageview": 246
+        },
+        "2009/03": {
+            "rank": 372,
+            "pageview": 226
+        },
+        "2009/04": {
+            "rank": 103,
+            "pageview": 599
+        },
+        "2009/05": {
+            "rank": 113,
+            "pageview": 621
+        },
+        "2009/06": {
+            "rank": 155,
+            "pageview": 474
+        },
+        "2009/07": {
+            "rank": 29,
+            "pageview": 2831
+        },
+        "2009/08": {
+            "rank": 37,
+            "pageview": 2180
+        },
+        "2009/09": {
+            "rank": 40,
+            "pageview": 1632
+        },
+        "2009/10": {
+            "rank": 57,
+            "pageview": 1361
+        },
+        "2009/11": {
+            "rank": 67,
+            "pageview": 1334
+        },
+        "2009/12": {
+            "rank": 44,
+            "pageview": 1834
+        },
+        "2010/01": {
+            "rank": 69,
+            "pageview": 1260
+        },
+        "2010/02": {
+            "rank": 413,
+            "pageview": 218
+        },
+        "2010/03": {
+            "rank": 456,
+            "pageview": 197
+        },
+        "2010/04": {
+            "rank": 395,
+            "pageview": 211
+        },
+        "2010/08": {
+            "rank": 443,
+            "pageview": 207
+        },
+        "2010/10": {
+            "rank": 65,
+            "pageview": 235
+        },
+        "2010/11": {
+            "rank": 459,
+            "pageview": 222
+        },
+        "2010/12": {
+            "rank": 407,
+            "pageview": 221
+        },
+        "2011/01": {
+            "rank": 225,
+            "pageview": 464
+        },
+        "2011/08": {
+            "rank": 450,
+            "pageview": 227
+        },
+        "2011/11": {
+            "rank": 495,
+            "pageview": 205
+        },
+        "2011/12": {
+            "rank": 419,
+            "pageview": 244
+        }
+    }
+}

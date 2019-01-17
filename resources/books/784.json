@@ -1,0 +1,47 @@
+{
+    "id": 784,
+    "title": "三山居士",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000148/card784.html",
+    "authorIds": [
+        148
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 458,
+            "pageview": 220
+        },
+        "2009/07": {
+            "rank": 70,
+            "pageview": 1268
+        },
+        "2009/08": {
+            "rank": 89,
+            "pageview": 913
+        },
+        "2009/09": {
+            "rank": 106,
+            "pageview": 703
+        },
+        "2009/10": {
+            "rank": 161,
+            "pageview": 581
+        },
+        "2009/11": {
+            "rank": 182,
+            "pageview": 544
+        },
+        "2009/12": {
+            "rank": 141,
+            "pageview": 707
+        },
+        "2010/01": {
+            "rank": 207,
+            "pageview": 490
+        },
+        "2010/10": {
+            "rank": 165,
+            "pageview": 130
+        }
+    }
+}

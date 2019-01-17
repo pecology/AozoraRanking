@@ -1,0 +1,35 @@
+{
+    "id": 316,
+    "title": "ロマネスク",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card316.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 334,
+            "pageview": 267
+        },
+        "2009/07": {
+            "rank": 430,
+            "pageview": 230
+        },
+        "2009/08": {
+            "rank": 498,
+            "pageview": 181
+        },
+        "2009/09": {
+            "rank": 395,
+            "pageview": 216
+        },
+        "2009/10": {
+            "rank": 409,
+            "pageview": 269
+        },
+        "2010/07": {
+            "rank": 487,
+            "pageview": 198
+        }
+    }
+}

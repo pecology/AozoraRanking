@@ -1,0 +1,63 @@
+{
+    "id": 134,
+    "title": "竜",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card134.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 496,
+            "pageview": 208
+        },
+        "2009/09": {
+            "rank": 495,
+            "pageview": 182
+        },
+        "2010/04": {
+            "rank": 426,
+            "pageview": 201
+        },
+        "2010/05": {
+            "rank": 492,
+            "pageview": 212
+        },
+        "2010/10": {
+            "rank": 373,
+            "pageview": 85
+        },
+        "2011/01": {
+            "rank": 433,
+            "pageview": 277
+        },
+        "2011/09": {
+            "rank": 420,
+            "pageview": 227
+        },
+        "2011/12": {
+            "rank": 347,
+            "pageview": 282
+        },
+        "2012/01": {
+            "rank": 448,
+            "pageview": 265
+        },
+        "2012/03": {
+            "rank": 496,
+            "pageview": 240
+        },
+        "2012/04": {
+            "rank": 479,
+            "pageview": 213
+        },
+        "2015/04": {
+            "rank": 454,
+            "pageview": 275
+        },
+        "2016/08": {
+            "rank": 372,
+            "pageview": 347
+        }
+    }
+}

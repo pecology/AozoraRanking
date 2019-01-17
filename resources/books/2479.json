@@ -1,0 +1,31 @@
+{
+    "id": 2479,
+    "title": "コーヒー哲学序説",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000042/card2479.html",
+    "authorIds": [
+        42
+    ],
+    "monthlyRankingHistories": {
+        "2009/08": {
+            "rank": 347,
+            "pageview": 240
+        },
+        "2012/02": {
+            "rank": 402,
+            "pageview": 260
+        },
+        "2012/04": {
+            "rank": 396,
+            "pageview": 250
+        },
+        "2017/12": {
+            "rank": 244,
+            "pageview": 526
+        },
+        "2018/03": {
+            "rank": 431,
+            "pageview": 328
+        }
+    }
+}

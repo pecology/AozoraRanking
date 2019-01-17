@@ -1,0 +1,75 @@
+{
+    "id": 2303,
+    "title": "笑われた子",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000168/card2303.html",
+    "authorIds": [
+        168
+    ],
+    "monthlyRankingHistories": {
+        "2013/08": {
+            "rank": 425,
+            "pageview": 305
+        },
+        "2014/01": {
+            "rank": 346,
+            "pageview": 368
+        },
+        "2014/02": {
+            "rank": 470,
+            "pageview": 258
+        },
+        "2015/02": {
+            "rank": 478,
+            "pageview": 245
+        },
+        "2015/07": {
+            "rank": 431,
+            "pageview": 332
+        },
+        "2016/01": {
+            "rank": 444,
+            "pageview": 349
+        },
+        "2016/06": {
+            "rank": 485,
+            "pageview": 299
+        },
+        "2016/07": {
+            "rank": 423,
+            "pageview": 320
+        },
+        "2016/08": {
+            "rank": 474,
+            "pageview": 283
+        },
+        "2016/09": {
+            "rank": 445,
+            "pageview": 286
+        },
+        "2017/01": {
+            "rank": 463,
+            "pageview": 328
+        },
+        "2017/02": {
+            "rank": 489,
+            "pageview": 281
+        },
+        "2017/04": {
+            "rank": 466,
+            "pageview": 297
+        },
+        "2017/06": {
+            "rank": 423,
+            "pageview": 355
+        },
+        "2017/07": {
+            "rank": 433,
+            "pageview": 361
+        },
+        "2017/08": {
+            "rank": 409,
+            "pageview": 363
+        }
+    }
+}

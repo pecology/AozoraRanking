@@ -1,0 +1,59 @@
+{
+    "id": 1452,
+    "title": "運命",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000051/card1452.html",
+    "authorIds": [
+        51
+    ],
+    "monthlyRankingHistories": {
+        "2009/03": {
+            "rank": 433,
+            "pageview": 207
+        },
+        "2009/04": {
+            "rank": 464,
+            "pageview": 189
+        },
+        "2010/02": {
+            "rank": 370,
+            "pageview": 236
+        },
+        "2010/03": {
+            "rank": 367,
+            "pageview": 233
+        },
+        "2010/06": {
+            "rank": 487,
+            "pageview": 218
+        },
+        "2010/12": {
+            "rank": 340,
+            "pageview": 242
+        },
+        "2011/06": {
+            "rank": 469,
+            "pageview": 206
+        },
+        "2017/06": {
+            "rank": 297,
+            "pageview": 499
+        },
+        "2018/03": {
+            "rank": 470,
+            "pageview": 303
+        },
+        "2018/06": {
+            "rank": 116,
+            "pageview": 1110
+        },
+        "2018/07": {
+            "rank": 362,
+            "pageview": 426
+        },
+        "2018/08": {
+            "rank": 332,
+            "pageview": 398
+        }
+    }
+}

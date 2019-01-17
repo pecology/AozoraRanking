@@ -1,0 +1,55 @@
+{
+    "id": 4854,
+    "title": "桃の雫",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000158/card4854.html",
+    "authorIds": [
+        158
+    ],
+    "monthlyRankingHistories": {
+        "2009/04": {
+            "rank": 208,
+            "pageview": 337
+        },
+        "2009/05": {
+            "rank": 225,
+            "pageview": 373
+        },
+        "2009/06": {
+            "rank": 291,
+            "pageview": 298
+        },
+        "2009/07": {
+            "rank": 49,
+            "pageview": 1904
+        },
+        "2009/08": {
+            "rank": 59,
+            "pageview": 1354
+        },
+        "2009/09": {
+            "rank": 73,
+            "pageview": 1018
+        },
+        "2009/10": {
+            "rank": 99,
+            "pageview": 922
+        },
+        "2009/11": {
+            "rank": 121,
+            "pageview": 781
+        },
+        "2009/12": {
+            "rank": 84,
+            "pageview": 1147
+        },
+        "2010/01": {
+            "rank": 128,
+            "pageview": 723
+        },
+        "2010/10": {
+            "rank": 392,
+            "pageview": 83
+        }
+    }
+}

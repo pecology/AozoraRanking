@@ -1,0 +1,31 @@
+{
+    "id": 43524,
+    "title": "入院患者",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000009/card43524.html",
+    "authorIds": [
+        9
+    ],
+    "monthlyRankingHistories": {
+        "2009/07": {
+            "rank": 468,
+            "pageview": 214
+        },
+        "2009/08": {
+            "rank": 420,
+            "pageview": 210
+        },
+        "2009/11": {
+            "rank": 297,
+            "pageview": 353
+        },
+        "2009/12": {
+            "rank": 226,
+            "pageview": 438
+        },
+        "2010/10": {
+            "rank": 61,
+            "pageview": 242
+        }
+    }
+}

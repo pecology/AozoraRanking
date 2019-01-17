@@ -1,0 +1,71 @@
+{
+    "id": 50618,
+    "title": "快走",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000076/card50618.html",
+    "authorIds": [
+        76
+    ],
+    "monthlyRankingHistories": {
+        "2014/01": {
+            "rank": 1,
+            "pageview": 19078
+        },
+        "2014/02": {
+            "rank": 35,
+            "pageview": 1847
+        },
+        "2014/03": {
+            "rank": 51,
+            "pageview": 1584
+        },
+        "2014/04": {
+            "rank": 224,
+            "pageview": 478
+        },
+        "2014/05": {
+            "rank": 333,
+            "pageview": 378
+        },
+        "2014/06": {
+            "rank": 331,
+            "pageview": 380
+        },
+        "2014/07": {
+            "rank": 376,
+            "pageview": 373
+        },
+        "2014/08": {
+            "rank": 456,
+            "pageview": 310
+        },
+        "2014/09": {
+            "rank": 472,
+            "pageview": 303
+        },
+        "2014/11": {
+            "rank": 455,
+            "pageview": 311
+        },
+        "2015/01": {
+            "rank": 179,
+            "pageview": 731
+        },
+        "2015/09": {
+            "rank": 445,
+            "pageview": 294
+        },
+        "2016/01": {
+            "rank": 356,
+            "pageview": 408
+        },
+        "2017/01": {
+            "rank": 452,
+            "pageview": 337
+        },
+        "2018/01": {
+            "rank": 479,
+            "pageview": 339
+        }
+    }
+}

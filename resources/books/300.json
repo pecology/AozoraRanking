@@ -1,0 +1,59 @@
+{
+    "id": 300,
+    "title": "彼は昔の彼ならず",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card300.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 481,
+            "pageview": 207
+        },
+        "2010/02": {
+            "rank": 472,
+            "pageview": 199
+        },
+        "2010/04": {
+            "rank": 485,
+            "pageview": 183
+        },
+        "2010/06": {
+            "rank": 437,
+            "pageview": 236
+        },
+        "2010/09": {
+            "rank": 496,
+            "pageview": 195
+        },
+        "2010/10": {
+            "rank": 467,
+            "pageview": 76
+        },
+        "2011/09": {
+            "rank": 488,
+            "pageview": 200
+        },
+        "2011/10": {
+            "rank": 498,
+            "pageview": 207
+        },
+        "2012/01": {
+            "rank": 496,
+            "pageview": 235
+        },
+        "2012/02": {
+            "rank": 392,
+            "pageview": 264
+        },
+        "2015/02": {
+            "rank": 425,
+            "pageview": 270
+        },
+        "2016/02": {
+            "rank": 419,
+            "pageview": 298
+        }
+    }
+}

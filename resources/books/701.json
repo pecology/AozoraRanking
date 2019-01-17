@@ -1,0 +1,43 @@
+{
+    "id": 701,
+    "title": "六白金星",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000040/card701.html",
+    "authorIds": [
+        40
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 159,
+            "pageview": 519
+        },
+        "2009/02": {
+            "rank": 266,
+            "pageview": 294
+        },
+        "2009/03": {
+            "rank": 347,
+            "pageview": 240
+        },
+        "2009/04": {
+            "rank": 275,
+            "pageview": 278
+        },
+        "2009/05": {
+            "rank": 288,
+            "pageview": 315
+        },
+        "2009/09": {
+            "rank": 479,
+            "pageview": 184
+        },
+        "2009/10": {
+            "rank": 378,
+            "pageview": 280
+        },
+        "2018/02": {
+            "rank": 380,
+            "pageview": 338
+        }
+    }
+}

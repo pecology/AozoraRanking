@@ -1,0 +1,68 @@
+{
+    "id": 937,
+    "title": "青水仙、赤水仙",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000096/card937.html",
+    "authorIds": [
+        96,
+        966
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 390,
+            "pageview": 266
+        },
+        "2009/02": {
+            "rank": 331,
+            "pageview": 248
+        },
+        "2009/03": {
+            "rank": 322,
+            "pageview": 256
+        },
+        "2009/04": {
+            "rank": 371,
+            "pageview": 221
+        },
+        "2009/05": {
+            "rank": 405,
+            "pageview": 240
+        },
+        "2010/01": {
+            "rank": 450,
+            "pageview": 272
+        },
+        "2010/03": {
+            "rank": 418,
+            "pageview": 212
+        },
+        "2010/08": {
+            "rank": 463,
+            "pageview": 202
+        },
+        "2010/09": {
+            "rank": 459,
+            "pageview": 205
+        },
+        "2010/11": {
+            "rank": 450,
+            "pageview": 224
+        },
+        "2011/02": {
+            "rank": 492,
+            "pageview": 215
+        },
+        "2011/03": {
+            "rank": 472,
+            "pageview": 203
+        },
+        "2011/05": {
+            "rank": 484,
+            "pageview": 228
+        },
+        "2011/08": {
+            "rank": 478,
+            "pageview": 214
+        }
+    }
+}

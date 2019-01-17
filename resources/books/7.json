@@ -1,0 +1,43 @@
+{
+    "id": 7,
+    "title": "赤蛙",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000008/card7.html",
+    "authorIds": [
+        8
+    ],
+    "monthlyRankingHistories": {
+        "2010/04": {
+            "rank": 469,
+            "pageview": 187
+        },
+        "2012/08": {
+            "rank": 285,
+            "pageview": 362
+        },
+        "2012/11": {
+            "rank": 342,
+            "pageview": 325
+        },
+        "2015/02": {
+            "rank": 323,
+            "pageview": 335
+        },
+        "2015/03": {
+            "rank": 369,
+            "pageview": 321
+        },
+        "2015/04": {
+            "rank": 493,
+            "pageview": 256
+        },
+        "2017/04": {
+            "rank": 462,
+            "pageview": 298
+        },
+        "2018/11": {
+            "rank": 354,
+            "pageview": 406
+        }
+    }
+}

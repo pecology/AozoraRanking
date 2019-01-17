@@ -1,0 +1,39 @@
+{
+    "id": 2144,
+    "title": "能とは何か",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000096/card2144.html",
+    "authorIds": [
+        96
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 406,
+            "pageview": 260
+        },
+        "2009/07": {
+            "rank": 454,
+            "pageview": 220
+        },
+        "2010/04": {
+            "rank": 438,
+            "pageview": 196
+        },
+        "2010/06": {
+            "rank": 488,
+            "pageview": 217
+        },
+        "2010/07": {
+            "rank": 485,
+            "pageview": 198
+        },
+        "2011/07": {
+            "rank": 478,
+            "pageview": 207
+        },
+        "2016/04": {
+            "rank": 500,
+            "pageview": 249
+        }
+    }
+}

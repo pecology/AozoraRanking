@@ -1,0 +1,35 @@
+{
+    "id": 57511,
+    "title": "人でなしの恋",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card57511.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2018/07": {
+            "rank": 217,
+            "pageview": 660
+        },
+        "2018/08": {
+            "rank": 159,
+            "pageview": 761
+        },
+        "2018/09": {
+            "rank": 199,
+            "pageview": 613
+        },
+        "2018/10": {
+            "rank": 198,
+            "pageview": 696
+        },
+        "2018/11": {
+            "rank": 198,
+            "pageview": 689
+        },
+        "2018/12": {
+            "rank": 43,
+            "pageview": 2121
+        }
+    }
+}

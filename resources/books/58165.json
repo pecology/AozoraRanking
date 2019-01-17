@@ -1,0 +1,27 @@
+{
+    "id": 58165,
+    "title": "絵のない絵本01 絵のない絵本",
+    "subtitle": "01 絵のない絵本",
+    "url": "https://www.aozora.gr.jp/cards/000019/card58165.html",
+    "authorIds": [
+        19
+    ],
+    "monthlyRankingHistories": {
+        "2018/04": {
+            "rank": 105,
+            "pageview": 1022
+        },
+        "2018/06": {
+            "rank": 405,
+            "pageview": 379
+        },
+        "2018/08": {
+            "rank": 432,
+            "pageview": 318
+        },
+        "2018/10": {
+            "rank": 453,
+            "pageview": 339
+        }
+    }
+}

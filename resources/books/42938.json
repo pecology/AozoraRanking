@@ -1,0 +1,47 @@
+{
+    "id": 42938,
+    "title": "孔乙己",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001124/card42938.html",
+    "authorIds": [
+        1124
+    ],
+    "monthlyRankingHistories": {
+        "2009/04": {
+            "rank": 450,
+            "pageview": 192
+        },
+        "2009/10": {
+            "rank": 435,
+            "pageview": 257
+        },
+        "2010/02": {
+            "rank": 481,
+            "pageview": 195
+        },
+        "2010/04": {
+            "rank": 315,
+            "pageview": 246
+        },
+        "2010/06": {
+            "rank": 411,
+            "pageview": 242
+        },
+        "2010/07": {
+            "rank": 380,
+            "pageview": 242
+        },
+        "2016/10": {
+            "rank": 343,
+            "pageview": 396
+        },
+        "2016/11": {
+            "rank": 436,
+            "pageview": 332
+        },
+        "2017/11": {
+            "rank": 422,
+            "pageview": 351
+        }
+    }
+}

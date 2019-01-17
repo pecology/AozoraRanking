@@ -1,0 +1,31 @@
+{
+    "id": 289,
+    "title": "虚構の春",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card289.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 477,
+            "pageview": 232
+        },
+        "2011/01": {
+            "rank": 488,
+            "pageview": 255
+        },
+        "2011/12": {
+            "rank": 373,
+            "pageview": 267
+        },
+        "2017/11": {
+            "rank": 126,
+            "pageview": 1019
+        },
+        "2018/12": {
+            "rank": 378,
+            "pageview": 361
+        }
+    }
+}

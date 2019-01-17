@@ -1,0 +1,55 @@
+{
+    "id": 52399,
+    "title": "宮本武蔵05 風の巻",
+    "subtitle": "05 風の巻",
+    "url": "https://www.aozora.gr.jp/cards/001562/card52399.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/02": {
+            "rank": 202,
+            "pageview": 558
+        },
+        "2013/03": {
+            "rank": 203,
+            "pageview": 528
+        },
+        "2013/04": {
+            "rank": 311,
+            "pageview": 348
+        },
+        "2013/05": {
+            "rank": 289,
+            "pageview": 390
+        },
+        "2013/06": {
+            "rank": 334,
+            "pageview": 363
+        },
+        "2013/07": {
+            "rank": 408,
+            "pageview": 328
+        },
+        "2013/08": {
+            "rank": 427,
+            "pageview": 304
+        },
+        "2013/09": {
+            "rank": 446,
+            "pageview": 284
+        },
+        "2013/10": {
+            "rank": 498,
+            "pageview": 282
+        },
+        "2014/03": {
+            "rank": 244,
+            "pageview": 450
+        },
+        "2014/05": {
+            "rank": 417,
+            "pageview": 313
+        }
+    }
+}

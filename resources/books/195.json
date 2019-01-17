@@ -1,0 +1,55 @@
+{
+    "id": 195,
+    "title": "可哀相な姉",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000020/card195.html",
+    "authorIds": [
+        20
+    ],
+    "monthlyRankingHistories": {
+        "2011/08": {
+            "rank": 403,
+            "pageview": 248
+        },
+        "2011/09": {
+            "rank": 400,
+            "pageview": 234
+        },
+        "2012/06": {
+            "rank": 208,
+            "pageview": 472
+        },
+        "2012/11": {
+            "rank": 373,
+            "pageview": 314
+        },
+        "2012/12": {
+            "rank": 306,
+            "pageview": 350
+        },
+        "2013/01": {
+            "rank": 434,
+            "pageview": 352
+        },
+        "2013/02": {
+            "rank": 479,
+            "pageview": 269
+        },
+        "2013/03": {
+            "rank": 398,
+            "pageview": 304
+        },
+        "2013/04": {
+            "rank": 458,
+            "pageview": 249
+        },
+        "2014/01": {
+            "rank": 399,
+            "pageview": 337
+        },
+        "2014/08": {
+            "rank": 111,
+            "pageview": 1059
+        }
+    }
+}

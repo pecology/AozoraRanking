@@ -1,0 +1,67 @@
+{
+    "id": 56072,
+    "title": "大岡越前",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card56072.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/12": {
+            "rank": 150,
+            "pageview": 689
+        },
+        "2014/01": {
+            "rank": 220,
+            "pageview": 537
+        },
+        "2014/02": {
+            "rank": 249,
+            "pageview": 420
+        },
+        "2014/03": {
+            "rank": 300,
+            "pageview": 365
+        },
+        "2014/04": {
+            "rank": 398,
+            "pageview": 293
+        },
+        "2014/05": {
+            "rank": 423,
+            "pageview": 310
+        },
+        "2014/06": {
+            "rank": 458,
+            "pageview": 298
+        },
+        "2014/08": {
+            "rank": 451,
+            "pageview": 314
+        },
+        "2014/09": {
+            "rank": 445,
+            "pageview": 317
+        },
+        "2014/10": {
+            "rank": 417,
+            "pageview": 312
+        },
+        "2014/11": {
+            "rank": 485,
+            "pageview": 295
+        },
+        "2015/10": {
+            "rank": 483,
+            "pageview": 285
+        },
+        "2015/11": {
+            "rank": 371,
+            "pageview": 334
+        },
+        "2015/12": {
+            "rank": 464,
+            "pageview": 278
+        }
+    }
+}

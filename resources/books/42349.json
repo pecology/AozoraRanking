@@ -1,0 +1,23 @@
+{
+    "id": 42349,
+    "title": "武蔵野",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000843/card42349.html",
+    "authorIds": [
+        843
+    ],
+    "monthlyRankingHistories": {
+        "2009/12": {
+            "rank": 382,
+            "pageview": 288
+        },
+        "2011/11": {
+            "rank": 451,
+            "pageview": 229
+        },
+        "2017/12": {
+            "rank": 395,
+            "pageview": 343
+        }
+    }
+}

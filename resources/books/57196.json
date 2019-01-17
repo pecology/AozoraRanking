@@ -1,0 +1,39 @@
+{
+    "id": 57196,
+    "title": "幽霊",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card57196.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2016/08": {
+            "rank": 227,
+            "pageview": 552
+        },
+        "2016/09": {
+            "rank": 204,
+            "pageview": 597
+        },
+        "2016/10": {
+            "rank": 372,
+            "pageview": 367
+        },
+        "2016/11": {
+            "rank": 441,
+            "pageview": 329
+        },
+        "2016/12": {
+            "rank": 480,
+            "pageview": 292
+        },
+        "2017/01": {
+            "rank": 489,
+            "pageview": 316
+        },
+        "2017/02": {
+            "rank": 361,
+            "pageview": 372
+        }
+    }
+}

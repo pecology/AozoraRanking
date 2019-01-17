@@ -1,0 +1,123 @@
+{
+    "id": 1562,
+    "title": "朝",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card1562.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 193,
+            "pageview": 409
+        },
+        "2009/07": {
+            "rank": 453,
+            "pageview": 221
+        },
+        "2009/08": {
+            "rank": 472,
+            "pageview": 190
+        },
+        "2009/09": {
+            "rank": 446,
+            "pageview": 196
+        },
+        "2009/10": {
+            "rank": 407,
+            "pageview": 270
+        },
+        "2010/02": {
+            "rank": 483,
+            "pageview": 195
+        },
+        "2010/03": {
+            "rank": 392,
+            "pageview": 222
+        },
+        "2010/10": {
+            "rank": 269,
+            "pageview": 98
+        },
+        "2011/08": {
+            "rank": 498,
+            "pageview": 207
+        },
+        "2012/02": {
+            "rank": 467,
+            "pageview": 225
+        },
+        "2012/06": {
+            "rank": 429,
+            "pageview": 253
+        },
+        "2017/06": {
+            "rank": 471,
+            "pageview": 319
+        },
+        "2017/08": {
+            "rank": 487,
+            "pageview": 300
+        },
+        "2017/09": {
+            "rank": 417,
+            "pageview": 333
+        },
+        "2017/10": {
+            "rank": 442,
+            "pageview": 353
+        },
+        "2017/11": {
+            "rank": 412,
+            "pageview": 360
+        },
+        "2018/01": {
+            "rank": 484,
+            "pageview": 338
+        },
+        "2018/02": {
+            "rank": 470,
+            "pageview": 282
+        },
+        "2018/03": {
+            "rank": 329,
+            "pageview": 405
+        },
+        "2018/04": {
+            "rank": 360,
+            "pageview": 376
+        },
+        "2018/05": {
+            "rank": 430,
+            "pageview": 357
+        },
+        "2018/06": {
+            "rank": 394,
+            "pageview": 388
+        },
+        "2018/07": {
+            "rank": 450,
+            "pageview": 346
+        },
+        "2018/08": {
+            "rank": 390,
+            "pageview": 346
+        },
+        "2018/09": {
+            "rank": 454,
+            "pageview": 305
+        },
+        "2018/10": {
+            "rank": 387,
+            "pageview": 394
+        },
+        "2018/11": {
+            "rank": 368,
+            "pageview": 396
+        },
+        "2018/12": {
+            "rank": 361,
+            "pageview": 381
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "id": 57190,
+    "title": "日記帳",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card57190.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2016/03": {
+            "rank": 66,
+            "pageview": 1482
+        },
+        "2016/04": {
+            "rank": 91,
+            "pageview": 1140
+        },
+        "2016/05": {
+            "rank": 207,
+            "pageview": 629
+        },
+        "2016/06": {
+            "rank": 238,
+            "pageview": 580
+        },
+        "2016/07": {
+            "rank": 282,
+            "pageview": 482
+        },
+        "2016/08": {
+            "rank": 342,
+            "pageview": 376
+        },
+        "2016/09": {
+            "rank": 359,
+            "pageview": 350
+        },
+        "2016/10": {
+            "rank": 436,
+            "pageview": 311
+        },
+        "2017/04": {
+            "rank": 467,
+            "pageview": 297
+        },
+        "2018/05": {
+            "rank": 497,
+            "pageview": 312
+        },
+        "2018/08": {
+            "rank": 477,
+            "pageview": 288
+        },
+        "2018/09": {
+            "rank": 393,
+            "pageview": 342
+        },
+        "2018/10": {
+            "rank": 386,
+            "pageview": 395
+        },
+        "2018/11": {
+            "rank": 390,
+            "pageview": 379
+        },
+        "2018/12": {
+            "rank": 281,
+            "pageview": 473
+        }
+    }
+}

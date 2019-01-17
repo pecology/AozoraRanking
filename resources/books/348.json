@@ -1,0 +1,63 @@
+{
+    "id": 348,
+    "title": "文七元結",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000989/card348.html",
+    "authorIds": [
+        989
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 404,
+            "pageview": 263
+        },
+        "2009/02": {
+            "rank": 224,
+            "pageview": 335
+        },
+        "2009/03": {
+            "rank": 421,
+            "pageview": 210
+        },
+        "2009/04": {
+            "rank": 494,
+            "pageview": 182
+        },
+        "2009/06": {
+            "rank": 490,
+            "pageview": 204
+        },
+        "2009/11": {
+            "rank": 426,
+            "pageview": 269
+        },
+        "2009/12": {
+            "rank": 347,
+            "pageview": 309
+        },
+        "2010/01": {
+            "rank": 500,
+            "pageview": 252
+        },
+        "2010/03": {
+            "rank": 480,
+            "pageview": 191
+        },
+        "2010/07": {
+            "rank": 458,
+            "pageview": 208
+        },
+        "2010/08": {
+            "rank": 292,
+            "pageview": 280
+        },
+        "2010/12": {
+            "rank": 492,
+            "pageview": 196
+        },
+        "2012/12": {
+            "rank": 444,
+            "pageview": 255
+        }
+    }
+}

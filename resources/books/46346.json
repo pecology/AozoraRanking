@@ -1,0 +1,47 @@
+{
+    "id": 46346,
+    "title": "サンタクロースはいるんだ",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001237/card46346.html",
+    "authorIds": [
+        1237
+    ],
+    "monthlyRankingHistories": {
+        "2014/10": {
+            "rank": 476,
+            "pageview": 279
+        },
+        "2014/11": {
+            "rank": 347,
+            "pageview": 386
+        },
+        "2015/01": {
+            "rank": 481,
+            "pageview": 302
+        },
+        "2015/05": {
+            "rank": 486,
+            "pageview": 275
+        },
+        "2015/11": {
+            "rank": 397,
+            "pageview": 320
+        },
+        "2015/12": {
+            "rank": 77,
+            "pageview": 1363
+        },
+        "2016/12": {
+            "rank": 131,
+            "pageview": 935
+        },
+        "2017/12": {
+            "rank": 100,
+            "pageview": 1111
+        },
+        "2018/12": {
+            "rank": 140,
+            "pageview": 866
+        }
+    }
+}

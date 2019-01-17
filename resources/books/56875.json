@@ -1,0 +1,79 @@
+{
+    "id": 56875,
+    "title": "蘆刈",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001383/card56875.html",
+    "authorIds": [
+        1383
+    ],
+    "monthlyRankingHistories": {
+        "2016/02": {
+            "rank": 208,
+            "pageview": 554
+        },
+        "2016/03": {
+            "rank": 150,
+            "pageview": 737
+        },
+        "2016/04": {
+            "rank": 263,
+            "pageview": 422
+        },
+        "2016/05": {
+            "rank": 397,
+            "pageview": 347
+        },
+        "2016/06": {
+            "rank": 363,
+            "pageview": 379
+        },
+        "2016/07": {
+            "rank": 474,
+            "pageview": 294
+        },
+        "2016/09": {
+            "rank": 242,
+            "pageview": 501
+        },
+        "2016/11": {
+            "rank": 431,
+            "pageview": 335
+        },
+        "2017/03": {
+            "rank": 496,
+            "pageview": 279
+        },
+        "2017/04": {
+            "rank": 344,
+            "pageview": 389
+        },
+        "2017/05": {
+            "rank": 499,
+            "pageview": 301
+        },
+        "2017/06": {
+            "rank": 418,
+            "pageview": 359
+        },
+        "2017/07": {
+            "rank": 479,
+            "pageview": 335
+        },
+        "2017/09": {
+            "rank": 416,
+            "pageview": 333
+        },
+        "2017/10": {
+            "rank": 429,
+            "pageview": 363
+        },
+        "2018/04": {
+            "rank": 468,
+            "pageview": 297
+        },
+        "2018/10": {
+            "rank": 470,
+            "pageview": 323
+        }
+    }
+}

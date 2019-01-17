@@ -1,0 +1,63 @@
+{
+    "id": 2589,
+    "title": "ビジテリアン大祭",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000081/card2589.html",
+    "authorIds": [
+        81
+    ],
+    "monthlyRankingHistories": {
+        "2009/03": {
+            "rank": 482,
+            "pageview": 193
+        },
+        "2010/01": {
+            "rank": 448,
+            "pageview": 272
+        },
+        "2010/06": {
+            "rank": 496,
+            "pageview": 216
+        },
+        "2010/09": {
+            "rank": 432,
+            "pageview": 217
+        },
+        "2011/05": {
+            "rank": 432,
+            "pageview": 248
+        },
+        "2012/11": {
+            "rank": 158,
+            "pageview": 666
+        },
+        "2014/02": {
+            "rank": 471,
+            "pageview": 258
+        },
+        "2015/10": {
+            "rank": 482,
+            "pageview": 286
+        },
+        "2016/12": {
+            "rank": 497,
+            "pageview": 279
+        },
+        "2017/02": {
+            "rank": 274,
+            "pageview": 475
+        },
+        "2018/02": {
+            "rank": 439,
+            "pageview": 298
+        },
+        "2018/06": {
+            "rank": 489,
+            "pageview": 320
+        },
+        "2018/07": {
+            "rank": 428,
+            "pageview": 363
+        }
+    }
+}

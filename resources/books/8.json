@@ -1,0 +1,231 @@
+{
+    "id": 8,
+    "title": "赤毛連盟",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000009/card8.html",
+    "authorIds": [
+        9
+    ],
+    "monthlyRankingHistories": {
+        "2014/04": {
+            "rank": 239,
+            "pageview": 457
+        },
+        "2014/05": {
+            "rank": 207,
+            "pageview": 581
+        },
+        "2014/06": {
+            "rank": 265,
+            "pageview": 453
+        },
+        "2014/07": {
+            "rank": 317,
+            "pageview": 426
+        },
+        "2014/08": {
+            "rank": 230,
+            "pageview": 553
+        },
+        "2014/09": {
+            "rank": 134,
+            "pageview": 837
+        },
+        "2014/10": {
+            "rank": 221,
+            "pageview": 524
+        },
+        "2014/11": {
+            "rank": 251,
+            "pageview": 500
+        },
+        "2015/01": {
+            "rank": 216,
+            "pageview": 593
+        },
+        "2015/02": {
+            "rank": 192,
+            "pageview": 528
+        },
+        "2015/03": {
+            "rank": 238,
+            "pageview": 448
+        },
+        "2015/04": {
+            "rank": 223,
+            "pageview": 490
+        },
+        "2015/05": {
+            "rank": 198,
+            "pageview": 580
+        },
+        "2015/06": {
+            "rank": 203,
+            "pageview": 605
+        },
+        "2015/07": {
+            "rank": 184,
+            "pageview": 677
+        },
+        "2015/09": {
+            "rank": 243,
+            "pageview": 474
+        },
+        "2015/10": {
+            "rank": 222,
+            "pageview": 538
+        },
+        "2015/11": {
+            "rank": 236,
+            "pageview": 498
+        },
+        "2015/12": {
+            "rank": 214,
+            "pageview": 533
+        },
+        "2016/01": {
+            "rank": 193,
+            "pageview": 739
+        },
+        "2016/02": {
+            "rank": 209,
+            "pageview": 553
+        },
+        "2016/03": {
+            "rank": 249,
+            "pageview": 449
+        },
+        "2016/04": {
+            "rank": 240,
+            "pageview": 466
+        },
+        "2016/05": {
+            "rank": 272,
+            "pageview": 486
+        },
+        "2016/06": {
+            "rank": 262,
+            "pageview": 524
+        },
+        "2016/07": {
+            "rank": 248,
+            "pageview": 549
+        },
+        "2016/08": {
+            "rank": 238,
+            "pageview": 533
+        },
+        "2016/09": {
+            "rank": 263,
+            "pageview": 448
+        },
+        "2016/10": {
+            "rank": 293,
+            "pageview": 468
+        },
+        "2016/11": {
+            "rank": 269,
+            "pageview": 525
+        },
+        "2016/12": {
+            "rank": 230,
+            "pageview": 560
+        },
+        "2017/01": {
+            "rank": 211,
+            "pageview": 708
+        },
+        "2017/02": {
+            "rank": 277,
+            "pageview": 471
+        },
+        "2017/03": {
+            "rank": 311,
+            "pageview": 412
+        },
+        "2017/04": {
+            "rank": 203,
+            "pageview": 633
+        },
+        "2017/05": {
+            "rank": 237,
+            "pageview": 600
+        },
+        "2017/06": {
+            "rank": 185,
+            "pageview": 772
+        },
+        "2017/07": {
+            "rank": 196,
+            "pageview": 773
+        },
+        "2017/08": {
+            "rank": 108,
+            "pageview": 1086
+        },
+        "2017/09": {
+            "rank": 206,
+            "pageview": 598
+        },
+        "2017/10": {
+            "rank": 272,
+            "pageview": 530
+        },
+        "2017/11": {
+            "rank": 197,
+            "pageview": 697
+        },
+        "2017/12": {
+            "rank": 249,
+            "pageview": 513
+        },
+        "2018/01": {
+            "rank": 263,
+            "pageview": 554
+        },
+        "2018/02": {
+            "rank": 350,
+            "pageview": 354
+        },
+        "2018/03": {
+            "rank": 285,
+            "pageview": 445
+        },
+        "2018/04": {
+            "rank": 277,
+            "pageview": 465
+        },
+        "2018/05": {
+            "rank": 238,
+            "pageview": 612
+        },
+        "2018/06": {
+            "rank": 184,
+            "pageview": 760
+        },
+        "2018/07": {
+            "rank": 289,
+            "pageview": 516
+        },
+        "2018/08": {
+            "rank": 173,
+            "pageview": 704
+        },
+        "2018/09": {
+            "rank": 211,
+            "pageview": 585
+        },
+        "2018/10": {
+            "rank": 227,
+            "pageview": 613
+        },
+        "2018/11": {
+            "rank": 262,
+            "pageview": 518
+        },
+        "2018/12": {
+            "rank": 264,
+            "pageview": 497
+        }
+    }
+}

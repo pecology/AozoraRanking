@@ -1,0 +1,63 @@
+{
+    "id": 3213,
+    "title": "色ガラスの街",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000874/card3213.html",
+    "authorIds": [
+        874
+    ],
+    "monthlyRankingHistories": {
+        "2016/10": {
+            "rank": 460,
+            "pageview": 295
+        },
+        "2017/02": {
+            "rank": 120,
+            "pageview": 977
+        },
+        "2017/03": {
+            "rank": 267,
+            "pageview": 477
+        },
+        "2017/04": {
+            "rank": 377,
+            "pageview": 358
+        },
+        "2017/08": {
+            "rank": 485,
+            "pageview": 300
+        },
+        "2017/11": {
+            "rank": 360,
+            "pageview": 404
+        },
+        "2017/12": {
+            "rank": 383,
+            "pageview": 357
+        },
+        "2018/01": {
+            "rank": 178,
+            "pageview": 788
+        },
+        "2018/02": {
+            "rank": 421,
+            "pageview": 309
+        },
+        "2018/03": {
+            "rank": 438,
+            "pageview": 324
+        },
+        "2018/04": {
+            "rank": 474,
+            "pageview": 291
+        },
+        "2018/06": {
+            "rank": 432,
+            "pageview": 355
+        },
+        "2018/12": {
+            "rank": 479,
+            "pageview": 294
+        }
+    }
+}

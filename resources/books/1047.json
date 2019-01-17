@@ -1,0 +1,71 @@
+{
+    "id": 1047,
+    "title": "竹青",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card1047.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 361,
+            "pageview": 254
+        },
+        "2009/08": {
+            "rank": 490,
+            "pageview": 183
+        },
+        "2009/09": {
+            "rank": 457,
+            "pageview": 191
+        },
+        "2009/10": {
+            "rank": 473,
+            "pageview": 246
+        },
+        "2009/11": {
+            "rank": 389,
+            "pageview": 287
+        },
+        "2010/05": {
+            "rank": 489,
+            "pageview": 212
+        },
+        "2010/12": {
+            "rank": 485,
+            "pageview": 198
+        },
+        "2011/01": {
+            "rank": 477,
+            "pageview": 260
+        },
+        "2011/02": {
+            "rank": 431,
+            "pageview": 234
+        },
+        "2011/12": {
+            "rank": 424,
+            "pageview": 241
+        },
+        "2012/05": {
+            "rank": 333,
+            "pageview": 317
+        },
+        "2012/06": {
+            "rank": 457,
+            "pageview": 243
+        },
+        "2013/12": {
+            "rank": 400,
+            "pageview": 312
+        },
+        "2016/06": {
+            "rank": 492,
+            "pageview": 298
+        },
+        "2016/07": {
+            "rank": 328,
+            "pageview": 405
+        }
+    }
+}

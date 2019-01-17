@@ -1,0 +1,51 @@
+{
+    "id": 3795,
+    "title": "食物として",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card3795.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2016/11": {
+            "rank": 110,
+            "pageview": 1187
+        },
+        "2016/12": {
+            "rank": 382,
+            "pageview": 349
+        },
+        "2017/01": {
+            "rank": 98,
+            "pageview": 1280
+        },
+        "2017/02": {
+            "rank": 252,
+            "pageview": 517
+        },
+        "2017/03": {
+            "rank": 277,
+            "pageview": 466
+        },
+        "2017/09": {
+            "rank": 374,
+            "pageview": 368
+        },
+        "2017/10": {
+            "rank": 409,
+            "pageview": 377
+        },
+        "2017/11": {
+            "rank": 300,
+            "pageview": 477
+        },
+        "2017/12": {
+            "rank": 256,
+            "pageview": 501
+        },
+        "2018/02": {
+            "rank": 446,
+            "pageview": 293
+        }
+    }
+}

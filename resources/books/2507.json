@@ -1,0 +1,71 @@
+{
+    "id": 2507,
+    "title": "小爆発二件",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000042/card2507.html",
+    "authorIds": [
+        42
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 146,
+            "pageview": 514
+        },
+        "2011/03": {
+            "rank": 103,
+            "pageview": 699
+        },
+        "2011/04": {
+            "rank": 146,
+            "pageview": 528
+        },
+        "2011/05": {
+            "rank": 208,
+            "pageview": 445
+        },
+        "2011/06": {
+            "rank": 145,
+            "pageview": 584
+        },
+        "2011/07": {
+            "rank": 251,
+            "pageview": 358
+        },
+        "2011/08": {
+            "rank": 158,
+            "pageview": 585
+        },
+        "2011/11": {
+            "rank": 347,
+            "pageview": 286
+        },
+        "2013/12": {
+            "rank": 151,
+            "pageview": 681
+        },
+        "2015/05": {
+            "rank": 121,
+            "pageview": 943
+        },
+        "2015/06": {
+            "rank": 311,
+            "pageview": 417
+        },
+        "2015/07": {
+            "rank": 487,
+            "pageview": 297
+        },
+        "2015/10": {
+            "rank": 390,
+            "pageview": 325
+        },
+        "2016/03": {
+            "rank": 427,
+            "pageview": 283
+        },
+        "2017/09": {
+            "rank": 220,
+            "pageview": 583
+        }
+    }
+}

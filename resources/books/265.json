@@ -1,0 +1,39 @@
+{
+    "id": 265,
+    "title": "犯人",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card265.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2010/03": {
+            "rank": 151,
+            "pageview": 462
+        },
+        "2010/06": {
+            "rank": 465,
+            "pageview": 223
+        },
+        "2010/07": {
+            "rank": 447,
+            "pageview": 213
+        },
+        "2010/09": {
+            "rank": 99,
+            "pageview": 699
+        },
+        "2011/01": {
+            "rank": 213,
+            "pageview": 489
+        },
+        "2011/02": {
+            "rank": 368,
+            "pageview": 263
+        },
+        "2018/12": {
+            "rank": 414,
+            "pageview": 336
+        }
+    }
+}

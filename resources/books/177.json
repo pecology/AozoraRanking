@@ -1,0 +1,67 @@
+{
+    "id": 177,
+    "title": "魚河岸",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card177.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/10": {
+            "rank": 305,
+            "pageview": 93
+        },
+        "2012/03": {
+            "rank": 384,
+            "pageview": 301
+        },
+        "2016/01": {
+            "rank": 415,
+            "pageview": 362
+        },
+        "2016/02": {
+            "rank": 481,
+            "pageview": 264
+        },
+        "2016/03": {
+            "rank": 320,
+            "pageview": 359
+        },
+        "2016/04": {
+            "rank": 407,
+            "pageview": 299
+        },
+        "2016/05": {
+            "rank": 473,
+            "pageview": 296
+        },
+        "2016/08": {
+            "rank": 442,
+            "pageview": 296
+        },
+        "2016/09": {
+            "rank": 405,
+            "pageview": 318
+        },
+        "2016/10": {
+            "rank": 400,
+            "pageview": 334
+        },
+        "2016/11": {
+            "rank": 421,
+            "pageview": 345
+        },
+        "2017/01": {
+            "rank": 384,
+            "pageview": 397
+        },
+        "2017/03": {
+            "rank": 399,
+            "pageview": 334
+        },
+        "2017/04": {
+            "rank": 416,
+            "pageview": 325
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "id": 169,
+    "title": "トロツコ",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card169.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2009/02": {
+            "rank": 239,
+            "pageview": 319
+        },
+        "2009/03": {
+            "rank": 396,
+            "pageview": 218
+        },
+        "2009/04": {
+            "rank": 98,
+            "pageview": 623
+        },
+        "2009/05": {
+            "rank": 105,
+            "pageview": 691
+        },
+        "2009/06": {
+            "rank": 134,
+            "pageview": 542
+        },
+        "2009/07": {
+            "rank": 23,
+            "pageview": 3559
+        },
+        "2009/08": {
+            "rank": 28,
+            "pageview": 2618
+        },
+        "2009/09": {
+            "rank": 34,
+            "pageview": 1828
+        },
+        "2009/10": {
+            "rank": 45,
+            "pageview": 1672
+        },
+        "2009/11": {
+            "rank": 57,
+            "pageview": 1499
+        },
+        "2009/12": {
+            "rank": 38,
+            "pageview": 1990
+        },
+        "2010/01": {
+            "rank": 64,
+            "pageview": 1310
+        },
+        "2010/02": {
+            "rank": 320,
+            "pageview": 258
+        },
+        "2010/06": {
+            "rank": 493,
+            "pageview": 216
+        },
+        "2010/10": {
+            "rank": 59,
+            "pageview": 246
+        }
+    }
+}

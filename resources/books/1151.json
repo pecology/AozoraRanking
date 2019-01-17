@@ -1,0 +1,27 @@
+{
+    "id": 1151,
+    "title": "聖書",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000227/card1151.html",
+    "authorIds": [
+        227
+    ],
+    "monthlyRankingHistories": {
+        "2009/02": {
+            "rank": 494,
+            "pageview": 189
+        },
+        "2009/03": {
+            "rank": 432,
+            "pageview": 207
+        },
+        "2009/04": {
+            "rank": 499,
+            "pageview": 181
+        },
+        "2009/05": {
+            "rank": 386,
+            "pageview": 249
+        }
+    }
+}

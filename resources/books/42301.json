@@ -1,0 +1,27 @@
+{
+    "id": 42301,
+    "title": "狼疾記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000119/card42301.html",
+    "authorIds": [
+        119
+    ],
+    "monthlyRankingHistories": {
+        "2012/05": {
+            "rank": 444,
+            "pageview": 251
+        },
+        "2016/06": {
+            "rank": 416,
+            "pageview": 337
+        },
+        "2017/05": {
+            "rank": 436,
+            "pageview": 330
+        },
+        "2018/07": {
+            "rank": 486,
+            "pageview": 322
+        }
+    }
+}

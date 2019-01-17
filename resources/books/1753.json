@@ -1,0 +1,75 @@
+{
+    "id": 1753,
+    "title": "うた時計",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000121/card1753.html",
+    "authorIds": [
+        121
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 261,
+            "pageview": 344
+        },
+        "2009/02": {
+            "rank": 324,
+            "pageview": 251
+        },
+        "2009/03": {
+            "rank": 494,
+            "pageview": 189
+        },
+        "2012/08": {
+            "rank": 464,
+            "pageview": 246
+        },
+        "2013/01": {
+            "rank": 455,
+            "pageview": 344
+        },
+        "2013/04": {
+            "rank": 429,
+            "pageview": 262
+        },
+        "2013/06": {
+            "rank": 484,
+            "pageview": 268
+        },
+        "2013/07": {
+            "rank": 370,
+            "pageview": 351
+        },
+        "2013/08": {
+            "rank": 484,
+            "pageview": 273
+        },
+        "2013/09": {
+            "rank": 470,
+            "pageview": 267
+        },
+        "2013/10": {
+            "rank": 492,
+            "pageview": 285
+        },
+        "2013/11": {
+            "rank": 484,
+            "pageview": 287
+        },
+        "2013/12": {
+            "rank": 500,
+            "pageview": 258
+        },
+        "2016/09": {
+            "rank": 411,
+            "pageview": 314
+        },
+        "2018/01": {
+            "rank": 468,
+            "pageview": 343
+        },
+        "2018/04": {
+            "rank": 455,
+            "pageview": 302
+        }
+    }
+}

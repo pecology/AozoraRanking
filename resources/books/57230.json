@@ -1,0 +1,35 @@
+{
+    "id": 57230,
+    "title": "ふしぎな人",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card57230.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2016/07": {
+            "rank": 101,
+            "pageview": 1177
+        },
+        "2016/08": {
+            "rank": 180,
+            "pageview": 668
+        },
+        "2016/09": {
+            "rank": 261,
+            "pageview": 453
+        },
+        "2016/10": {
+            "rank": 361,
+            "pageview": 377
+        },
+        "2016/11": {
+            "rank": 412,
+            "pageview": 351
+        },
+        "2016/12": {
+            "rank": 491,
+            "pageview": 283
+        }
+    }
+}

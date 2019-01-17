@@ -1,0 +1,55 @@
+{
+    "id": 52236,
+    "title": "浮雲",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000291/card52236.html",
+    "authorIds": [
+        291
+    ],
+    "monthlyRankingHistories": {
+        "2016/06": {
+            "rank": 350,
+            "pageview": 396
+        },
+        "2016/07": {
+            "rank": 404,
+            "pageview": 338
+        },
+        "2017/03": {
+            "rank": 381,
+            "pageview": 352
+        },
+        "2017/10": {
+            "rank": 263,
+            "pageview": 549
+        },
+        "2017/11": {
+            "rank": 265,
+            "pageview": 528
+        },
+        "2018/03": {
+            "rank": 402,
+            "pageview": 344
+        },
+        "2018/04": {
+            "rank": 452,
+            "pageview": 303
+        },
+        "2018/05": {
+            "rank": 399,
+            "pageview": 387
+        },
+        "2018/07": {
+            "rank": 481,
+            "pageview": 327
+        },
+        "2018/09": {
+            "rank": 494,
+            "pageview": 283
+        },
+        "2018/10": {
+            "rank": 461,
+            "pageview": 330
+        }
+    }
+}

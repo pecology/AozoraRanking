@@ -1,0 +1,27 @@
+{
+    "id": 50899,
+    "title": "上海",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000168/card50899.html",
+    "authorIds": [
+        168
+    ],
+    "monthlyRankingHistories": {
+        "2011/06": {
+            "rank": 138,
+            "pageview": 625
+        },
+        "2011/07": {
+            "rank": 414,
+            "pageview": 231
+        },
+        "2016/10": {
+            "rank": 489,
+            "pageview": 279
+        },
+        "2018/01": {
+            "rank": 391,
+            "pageview": 406
+        }
+    }
+}

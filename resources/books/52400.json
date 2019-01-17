@@ -1,0 +1,47 @@
+{
+    "id": 52400,
+    "title": "宮本武蔵06 空の巻",
+    "subtitle": "06 空の巻",
+    "url": "https://www.aozora.gr.jp/cards/001562/card52400.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/02": {
+            "rank": 308,
+            "pageview": 369
+        },
+        "2013/03": {
+            "rank": 230,
+            "pageview": 480
+        },
+        "2013/04": {
+            "rank": 371,
+            "pageview": 297
+        },
+        "2013/05": {
+            "rank": 381,
+            "pageview": 310
+        },
+        "2013/06": {
+            "rank": 369,
+            "pageview": 335
+        },
+        "2013/08": {
+            "rank": 472,
+            "pageview": 279
+        },
+        "2013/10": {
+            "rank": 484,
+            "pageview": 290
+        },
+        "2014/01": {
+            "rank": 463,
+            "pageview": 300
+        },
+        "2014/03": {
+            "rank": 251,
+            "pageview": 437
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 480,
+    "title": "玉藻の前",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000082/card480.html",
+    "authorIds": [
+        82
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 395,
+            "pageview": 264
+        },
+        "2009/02": {
+            "rank": 388,
+            "pageview": 219
+        },
+        "2009/03": {
+            "rank": 448,
+            "pageview": 202
+        },
+        "2009/09": {
+            "rank": 373,
+            "pageview": 225
+        },
+        "2009/11": {
+            "rank": 459,
+            "pageview": 255
+        },
+        "2009/12": {
+            "rank": 472,
+            "pageview": 248
+        },
+        "2010/03": {
+            "rank": 439,
+            "pageview": 201
+        },
+        "2014/06": {
+            "rank": 453,
+            "pageview": 301
+        },
+        "2018/04": {
+            "rank": 326,
+            "pageview": 407
+        }
+    }
+}

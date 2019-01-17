@@ -1,0 +1,39 @@
+{
+    "id": 91,
+    "title": "首が落ちた話",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card91.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2009/03": {
+            "rank": 408,
+            "pageview": 214
+        },
+        "2009/09": {
+            "rank": 471,
+            "pageview": 187
+        },
+        "2010/06": {
+            "rank": 498,
+            "pageview": 216
+        },
+        "2010/07": {
+            "rank": 490,
+            "pageview": 198
+        },
+        "2010/10": {
+            "rank": 262,
+            "pageview": 99
+        },
+        "2012/02": {
+            "rank": 489,
+            "pageview": 213
+        },
+        "2012/03": {
+            "rank": 495,
+            "pageview": 240
+        }
+    }
+}

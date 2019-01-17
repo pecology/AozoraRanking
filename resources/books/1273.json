@@ -1,0 +1,31 @@
+{
+    "id": 1273,
+    "title": "自叙伝",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000169/card1273.html",
+    "authorIds": [
+        169
+    ],
+    "monthlyRankingHistories": {
+        "2009/03": {
+            "rank": 411,
+            "pageview": 214
+        },
+        "2009/04": {
+            "rank": 485,
+            "pageview": 184
+        },
+        "2010/03": {
+            "rank": 452,
+            "pageview": 199
+        },
+        "2010/04": {
+            "rank": 384,
+            "pageview": 217
+        },
+        "2010/12": {
+            "rank": 478,
+            "pageview": 201
+        }
+    }
+}

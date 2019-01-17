@@ -1,0 +1,39 @@
+{
+    "id": 85,
+    "title": "黒衣聖母",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card85.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/10": {
+            "rank": 479,
+            "pageview": 75
+        },
+        "2016/06": {
+            "rank": 441,
+            "pageview": 319
+        },
+        "2016/08": {
+            "rank": 446,
+            "pageview": 294
+        },
+        "2017/07": {
+            "rank": 465,
+            "pageview": 343
+        },
+        "2017/08": {
+            "rank": 438,
+            "pageview": 332
+        },
+        "2017/11": {
+            "rank": 468,
+            "pageview": 322
+        },
+        "2018/01": {
+            "rank": 475,
+            "pageview": 341
+        }
+    }
+}

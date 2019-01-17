@@ -1,0 +1,79 @@
+{
+    "id": 1340,
+    "title": "芥川の事ども",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000083/card1340.html",
+    "authorIds": [
+        83
+    ],
+    "monthlyRankingHistories": {
+        "2016/11": {
+            "rank": 183,
+            "pageview": 773
+        },
+        "2016/12": {
+            "rank": 175,
+            "pageview": 760
+        },
+        "2017/01": {
+            "rank": 241,
+            "pageview": 623
+        },
+        "2017/02": {
+            "rank": 248,
+            "pageview": 523
+        },
+        "2017/03": {
+            "rank": 300,
+            "pageview": 424
+        },
+        "2017/04": {
+            "rank": 312,
+            "pageview": 425
+        },
+        "2017/05": {
+            "rank": 297,
+            "pageview": 475
+        },
+        "2017/06": {
+            "rank": 78,
+            "pageview": 1468
+        },
+        "2017/07": {
+            "rank": 197,
+            "pageview": 768
+        },
+        "2017/08": {
+            "rank": 263,
+            "pageview": 540
+        },
+        "2017/09": {
+            "rank": 282,
+            "pageview": 461
+        },
+        "2017/10": {
+            "rank": 301,
+            "pageview": 490
+        },
+        "2017/11": {
+            "rank": 331,
+            "pageview": 441
+        },
+        "2017/12": {
+            "rank": 299,
+            "pageview": 444
+        },
+        "2018/01": {
+            "rank": 409,
+            "pageview": 388
+        },
+        "2018/02": {
+            "rank": 490,
+            "pageview": 277
+        },
+        "2018/03": {
+            "rank": 384,
+            "pageview": 358
+        }
+    }
+}

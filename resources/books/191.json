@@ -1,0 +1,43 @@
+{
+    "id": 191,
+    "title": "続西方の人",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card191.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2016/01": {
+            "rank": 462,
+            "pageview": 336
+        },
+        "2016/05": {
+            "rank": 497,
+            "pageview": 286
+        },
+        "2016/07": {
+            "rank": 425,
+            "pageview": 319
+        },
+        "2016/09": {
+            "rank": 461,
+            "pageview": 278
+        },
+        "2016/10": {
+            "rank": 435,
+            "pageview": 311
+        },
+        "2017/01": {
+            "rank": 465,
+            "pageview": 328
+        },
+        "2017/03": {
+            "rank": 393,
+            "pageview": 341
+        },
+        "2017/04": {
+            "rank": 313,
+            "pageview": 424
+        }
+    }
+}

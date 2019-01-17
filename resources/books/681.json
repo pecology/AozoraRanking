@@ -1,0 +1,31 @@
+{
+    "id": 681,
+    "title": "栗山大膳",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000129/card681.html",
+    "authorIds": [
+        129
+    ],
+    "monthlyRankingHistories": {
+        "2014/01": {
+            "rank": 360,
+            "pageview": 360
+        },
+        "2014/02": {
+            "rank": 441,
+            "pageview": 269
+        },
+        "2014/03": {
+            "rank": 487,
+            "pageview": 247
+        },
+        "2014/11": {
+            "rank": 468,
+            "pageview": 304
+        },
+        "2016/05": {
+            "rank": 446,
+            "pageview": 308
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 35,
+    "title": "英雄の器",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card35.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2009/12": {
+            "rank": 471,
+            "pageview": 249
+        },
+        "2010/10": {
+            "rank": 256,
+            "pageview": 100
+        },
+        "2016/02": {
+            "rank": 464,
+            "pageview": 277
+        },
+        "2017/08": {
+            "rank": 458,
+            "pageview": 319
+        },
+        "2017/09": {
+            "rank": 482,
+            "pageview": 291
+        },
+        "2017/10": {
+            "rank": 499,
+            "pageview": 316
+        },
+        "2018/03": {
+            "rank": 121,
+            "pageview": 893
+        },
+        "2018/04": {
+            "rank": 365,
+            "pageview": 372
+        },
+        "2018/08": {
+            "rank": 454,
+            "pageview": 302
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": 48234,
+    "title": "赤い壺",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000146/card48234.html",
+    "authorIds": [
+        146
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 490,
+            "pageview": 225
+        },
+        "2009/02": {
+            "rank": 399,
+            "pageview": 216
+        },
+        "2009/03": {
+            "rank": 387,
+            "pageview": 222
+        },
+        "2012/12": {
+            "rank": 443,
+            "pageview": 255
+        }
+    }
+}

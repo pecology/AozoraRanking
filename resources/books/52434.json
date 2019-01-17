@@ -1,0 +1,83 @@
+{
+    "id": 52434,
+    "title": "随筆　宮本武蔵",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card52434.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/03": {
+            "rank": 104,
+            "pageview": 968
+        },
+        "2013/04": {
+            "rank": 283,
+            "pageview": 367
+        },
+        "2013/05": {
+            "rank": 259,
+            "pageview": 421
+        },
+        "2013/06": {
+            "rank": 264,
+            "pageview": 435
+        },
+        "2013/07": {
+            "rank": 254,
+            "pageview": 466
+        },
+        "2013/08": {
+            "rank": 276,
+            "pageview": 428
+        },
+        "2013/09": {
+            "rank": 264,
+            "pageview": 439
+        },
+        "2013/10": {
+            "rank": 265,
+            "pageview": 482
+        },
+        "2013/11": {
+            "rank": 323,
+            "pageview": 391
+        },
+        "2013/12": {
+            "rank": 328,
+            "pageview": 364
+        },
+        "2014/01": {
+            "rank": 323,
+            "pageview": 389
+        },
+        "2014/02": {
+            "rank": 354,
+            "pageview": 325
+        },
+        "2014/03": {
+            "rank": 168,
+            "pageview": 586
+        },
+        "2014/04": {
+            "rank": 429,
+            "pageview": 277
+        },
+        "2015/02": {
+            "rank": 492,
+            "pageview": 242
+        },
+        "2015/04": {
+            "rank": 488,
+            "pageview": 257
+        },
+        "2016/05": {
+            "rank": 358,
+            "pageview": 386
+        },
+        "2016/08": {
+            "rank": 413,
+            "pageview": 318
+        }
+    }
+}

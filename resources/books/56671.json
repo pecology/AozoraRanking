@@ -1,0 +1,31 @@
+{
+    "id": 56671,
+    "title": "青銅の魔人",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card56671.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2016/09": {
+            "rank": 107,
+            "pageview": 1034
+        },
+        "2016/10": {
+            "rank": 304,
+            "pageview": 447
+        },
+        "2016/11": {
+            "rank": 427,
+            "pageview": 341
+        },
+        "2016/12": {
+            "rank": 459,
+            "pageview": 300
+        },
+        "2017/01": {
+            "rank": 497,
+            "pageview": 311
+        }
+    }
+}

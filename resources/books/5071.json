@@ -1,0 +1,43 @@
+{
+    "id": 5071,
+    "title": "源氏物語56 夢の浮橋",
+    "subtitle": "56 夢の浮橋",
+    "url": "https://www.aozora.gr.jp/cards/000052/card5071.html",
+    "authorIds": [
+        52
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 392,
+            "pageview": 265
+        },
+        "2009/02": {
+            "rank": 408,
+            "pageview": 213
+        },
+        "2009/03": {
+            "rank": 441,
+            "pageview": 203
+        },
+        "2009/11": {
+            "rank": 455,
+            "pageview": 257
+        },
+        "2009/12": {
+            "rank": 449,
+            "pageview": 257
+        },
+        "2010/10": {
+            "rank": 255,
+            "pageview": 101
+        },
+        "2011/01": {
+            "rank": 498,
+            "pageview": 251
+        },
+        "2011/12": {
+            "rank": 467,
+            "pageview": 221
+        }
+    }
+}

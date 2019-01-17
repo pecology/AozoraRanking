@@ -1,0 +1,71 @@
+{
+    "id": 52468,
+    "title": "雪",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001569/card52468.html",
+    "authorIds": [
+        1569
+    ],
+    "monthlyRankingHistories": {
+        "2013/01": {
+            "rank": 59,
+            "pageview": 1799
+        },
+        "2013/02": {
+            "rank": 247,
+            "pageview": 459
+        },
+        "2013/03": {
+            "rank": 473,
+            "pageview": 258
+        },
+        "2013/07": {
+            "rank": 230,
+            "pageview": 509
+        },
+        "2014/01": {
+            "rank": 396,
+            "pageview": 339
+        },
+        "2014/02": {
+            "rank": 161,
+            "pageview": 615
+        },
+        "2015/01": {
+            "rank": 242,
+            "pageview": 542
+        },
+        "2015/02": {
+            "rank": 446,
+            "pageview": 256
+        },
+        "2015/03": {
+            "rank": 182,
+            "pageview": 595
+        },
+        "2015/12": {
+            "rank": 489,
+            "pageview": 269
+        },
+        "2016/01": {
+            "rank": 300,
+            "pageview": 465
+        },
+        "2016/02": {
+            "rank": 285,
+            "pageview": 421
+        },
+        "2017/01": {
+            "rank": 441,
+            "pageview": 342
+        },
+        "2018/01": {
+            "rank": 434,
+            "pageview": 362
+        },
+        "2018/02": {
+            "rank": 497,
+            "pageview": 273
+        }
+    }
+}

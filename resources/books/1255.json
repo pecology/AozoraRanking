@@ -1,0 +1,47 @@
+{
+    "id": 1255,
+    "title": "海野十三敗戦日記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000160/card1255.html",
+    "authorIds": [
+        160
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 370,
+            "pageview": 278
+        },
+        "2009/02": {
+            "rank": 312,
+            "pageview": 258
+        },
+        "2009/03": {
+            "rank": 296,
+            "pageview": 267
+        },
+        "2009/05": {
+            "rank": 492,
+            "pageview": 209
+        },
+        "2012/08": {
+            "rank": 481,
+            "pageview": 237
+        },
+        "2013/08": {
+            "rank": 437,
+            "pageview": 298
+        },
+        "2013/12": {
+            "rank": 425,
+            "pageview": 300
+        },
+        "2016/08": {
+            "rank": 480,
+            "pageview": 279
+        },
+        "2018/11": {
+            "rank": 275,
+            "pageview": 505
+        }
+    }
+}

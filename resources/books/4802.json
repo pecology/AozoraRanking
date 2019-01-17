@@ -1,0 +1,39 @@
+{
+    "id": 4802,
+    "title": "聖家族",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001030/card4802.html",
+    "authorIds": [
+        1030
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 469,
+            "pageview": 234
+        },
+        "2009/05": {
+            "rank": 309,
+            "pageview": 297
+        },
+        "2010/05": {
+            "rank": 265,
+            "pageview": 325
+        },
+        "2010/06": {
+            "rank": 357,
+            "pageview": 269
+        },
+        "2013/07": {
+            "rank": 309,
+            "pageview": 406
+        },
+        "2013/08": {
+            "rank": 385,
+            "pageview": 331
+        },
+        "2016/11": {
+            "rank": 465,
+            "pageview": 312
+        }
+    }
+}

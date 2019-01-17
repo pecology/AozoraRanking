@@ -1,0 +1,35 @@
+{
+    "id": 42923,
+    "title": "論語物語",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001097/card42923.html",
+    "authorIds": [
+        1097
+    ],
+    "monthlyRankingHistories": {
+        "2016/04": {
+            "rank": 197,
+            "pageview": 558
+        },
+        "2017/01": {
+            "rank": 451,
+            "pageview": 339
+        },
+        "2017/03": {
+            "rank": 395,
+            "pageview": 337
+        },
+        "2018/02": {
+            "rank": 347,
+            "pageview": 355
+        },
+        "2018/03": {
+            "rank": 428,
+            "pageview": 330
+        },
+        "2018/09": {
+            "rank": 422,
+            "pageview": 322
+        }
+    }
+}

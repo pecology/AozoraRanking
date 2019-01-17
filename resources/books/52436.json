@@ -1,0 +1,31 @@
+{
+    "id": 52436,
+    "title": "随筆　新平家",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card52436.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/07": {
+            "rank": 258,
+            "pageview": 461
+        },
+        "2013/08": {
+            "rank": 445,
+            "pageview": 293
+        },
+        "2013/09": {
+            "rank": 472,
+            "pageview": 266
+        },
+        "2014/02": {
+            "rank": 448,
+            "pageview": 266
+        },
+        "2015/04": {
+            "rank": 440,
+            "pageview": 282
+        }
+    }
+}

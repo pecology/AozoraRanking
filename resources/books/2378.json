@@ -1,0 +1,27 @@
+{
+    "id": 2378,
+    "title": "月蝕",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000096/card2378.html",
+    "authorIds": [
+        96
+    ],
+    "monthlyRankingHistories": {
+        "2011/12": {
+            "rank": 175,
+            "pageview": 509
+        },
+        "2014/10": {
+            "rank": 257,
+            "pageview": 458
+        },
+        "2018/01": {
+            "rank": 364,
+            "pageview": 425
+        },
+        "2018/02": {
+            "rank": 252,
+            "pageview": 461
+        }
+    }
+}

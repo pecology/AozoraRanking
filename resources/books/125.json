@@ -1,0 +1,63 @@
+{
+    "id": 125,
+    "title": "おしの",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card125.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/10": {
+            "rank": 384,
+            "pageview": 84
+        },
+        "2016/01": {
+            "rank": 370,
+            "pageview": 399
+        },
+        "2016/02": {
+            "rank": 363,
+            "pageview": 334
+        },
+        "2016/03": {
+            "rank": 498,
+            "pageview": 251
+        },
+        "2016/06": {
+            "rank": 433,
+            "pageview": 322
+        },
+        "2016/07": {
+            "rank": 400,
+            "pageview": 339
+        },
+        "2016/08": {
+            "rank": 267,
+            "pageview": 481
+        },
+        "2016/09": {
+            "rank": 320,
+            "pageview": 386
+        },
+        "2016/10": {
+            "rank": 387,
+            "pageview": 349
+        },
+        "2016/11": {
+            "rank": 437,
+            "pageview": 332
+        },
+        "2017/01": {
+            "rank": 448,
+            "pageview": 339
+        },
+        "2017/02": {
+            "rank": 365,
+            "pageview": 367
+        },
+        "2017/03": {
+            "rank": 377,
+            "pageview": 354
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": 49999,
+    "title": "美味放談",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001403/card49999.html",
+    "authorIds": [
+        1403
+    ],
+    "monthlyRankingHistories": {
+        "2010/01": {
+            "rank": 330,
+            "pageview": 335
+        },
+        "2010/02": {
+            "rank": 457,
+            "pageview": 203
+        },
+        "2010/10": {
+            "rank": 184,
+            "pageview": 121
+        }
+    }
+}

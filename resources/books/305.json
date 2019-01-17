@@ -1,0 +1,35 @@
+{
+    "id": 305,
+    "title": "おさん",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card305.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 468,
+            "pageview": 213
+        },
+        "2009/10": {
+            "rank": 414,
+            "pageview": 267
+        },
+        "2010/06": {
+            "rank": 484,
+            "pageview": 218
+        },
+        "2010/10": {
+            "rank": 394,
+            "pageview": 83
+        },
+        "2015/09": {
+            "rank": 314,
+            "pageview": 376
+        },
+        "2015/10": {
+            "rank": 355,
+            "pageview": 352
+        }
+    }
+}

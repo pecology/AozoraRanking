@@ -1,0 +1,35 @@
+{
+    "id": 80,
+    "title": "煙管",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card80.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/04": {
+            "rank": 443,
+            "pageview": 196
+        },
+        "2010/08": {
+            "rank": 479,
+            "pageview": 195
+        },
+        "2010/10": {
+            "rank": 398,
+            "pageview": 83
+        },
+        "2010/11": {
+            "rank": 496,
+            "pageview": 213
+        },
+        "2010/12": {
+            "rank": 421,
+            "pageview": 217
+        },
+        "2012/07": {
+            "rank": 398,
+            "pageview": 302
+        }
+    }
+}

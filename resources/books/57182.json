@@ -1,0 +1,59 @@
+{
+    "id": 57182,
+    "title": "一枚の切符",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card57182.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2016/10": {
+            "rank": 395,
+            "pageview": 338
+        },
+        "2016/11": {
+            "rank": 175,
+            "pageview": 795
+        },
+        "2016/12": {
+            "rank": 313,
+            "pageview": 419
+        },
+        "2017/01": {
+            "rank": 406,
+            "pageview": 373
+        },
+        "2017/02": {
+            "rank": 427,
+            "pageview": 315
+        },
+        "2017/03": {
+            "rank": 457,
+            "pageview": 302
+        },
+        "2017/04": {
+            "rank": 450,
+            "pageview": 307
+        },
+        "2017/06": {
+            "rank": 500,
+            "pageview": 303
+        },
+        "2017/08": {
+            "rank": 466,
+            "pageview": 313
+        },
+        "2018/02": {
+            "rank": 443,
+            "pageview": 295
+        },
+        "2018/03": {
+            "rank": 347,
+            "pageview": 386
+        },
+        "2018/04": {
+            "rank": 453,
+            "pageview": 302
+        }
+    }
+}

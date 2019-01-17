@@ -1,0 +1,43 @@
+{
+    "id": 43603,
+    "title": "博物誌",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001156/card43603.html",
+    "authorIds": [
+        1156
+    ],
+    "monthlyRankingHistories": {
+        "2012/08": {
+            "rank": 190,
+            "pageview": 524
+        },
+        "2013/06": {
+            "rank": 473,
+            "pageview": 275
+        },
+        "2014/04": {
+            "rank": 245,
+            "pageview": 448
+        },
+        "2014/05": {
+            "rank": 437,
+            "pageview": 301
+        },
+        "2014/06": {
+            "rank": 410,
+            "pageview": 328
+        },
+        "2014/07": {
+            "rank": 478,
+            "pageview": 296
+        },
+        "2018/06": {
+            "rank": 389,
+            "pageview": 395
+        },
+        "2018/11": {
+            "rank": 470,
+            "pageview": 321
+        }
+    }
+}

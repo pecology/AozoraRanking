@@ -1,0 +1,27 @@
+{
+    "id": 41,
+    "title": "母",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card41.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/09": {
+            "rank": 213,
+            "pageview": 369
+        },
+        "2015/06": {
+            "rank": 395,
+            "pageview": 334
+        },
+        "2015/09": {
+            "rank": 422,
+            "pageview": 308
+        },
+        "2015/11": {
+            "rank": 463,
+            "pageview": 281
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 50328,
+    "title": "相対性理論",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001428/card50328.html",
+    "authorIds": [
+        1428
+    ],
+    "monthlyRankingHistories": {
+        "2018/04": {
+            "rank": 74,
+            "pageview": 1328
+        },
+        "2018/05": {
+            "rank": 161,
+            "pageview": 836
+        },
+        "2018/06": {
+            "rank": 235,
+            "pageview": 620
+        },
+        "2018/07": {
+            "rank": 233,
+            "pageview": 614
+        },
+        "2018/08": {
+            "rank": 184,
+            "pageview": 674
+        },
+        "2018/09": {
+            "rank": 190,
+            "pageview": 628
+        },
+        "2018/10": {
+            "rank": 214,
+            "pageview": 653
+        },
+        "2018/11": {
+            "rank": 227,
+            "pageview": 607
+        },
+        "2018/12": {
+            "rank": 228,
+            "pageview": 564
+        }
+    }
+}

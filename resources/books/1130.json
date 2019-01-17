@@ -1,0 +1,95 @@
+{
+    "id": 1130,
+    "title": "ピアノ",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card1130.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/10": {
+            "rank": 367,
+            "pageview": 86
+        },
+        "2013/03": {
+            "rank": 471,
+            "pageview": 258
+        },
+        "2013/04": {
+            "rank": 489,
+            "pageview": 234
+        },
+        "2013/12": {
+            "rank": 299,
+            "pageview": 391
+        },
+        "2014/01": {
+            "rank": 471,
+            "pageview": 297
+        },
+        "2014/03": {
+            "rank": 390,
+            "pageview": 300
+        },
+        "2015/11": {
+            "rank": 320,
+            "pageview": 374
+        },
+        "2016/06": {
+            "rank": 481,
+            "pageview": 301
+        },
+        "2016/08": {
+            "rank": 302,
+            "pageview": 421
+        },
+        "2017/05": {
+            "rank": 480,
+            "pageview": 308
+        },
+        "2017/10": {
+            "rank": 474,
+            "pageview": 330
+        },
+        "2017/11": {
+            "rank": 432,
+            "pageview": 344
+        },
+        "2017/12": {
+            "rank": 444,
+            "pageview": 315
+        },
+        "2018/01": {
+            "rank": 499,
+            "pageview": 332
+        },
+        "2018/04": {
+            "rank": 459,
+            "pageview": 301
+        },
+        "2018/05": {
+            "rank": 434,
+            "pageview": 355
+        },
+        "2018/08": {
+            "rank": 422,
+            "pageview": 324
+        },
+        "2018/09": {
+            "rank": 427,
+            "pageview": 318
+        },
+        "2018/10": {
+            "rank": 371,
+            "pageview": 409
+        },
+        "2018/11": {
+            "rank": 300,
+            "pageview": 474
+        },
+        "2018/12": {
+            "rank": 270,
+            "pageview": 488
+        }
+    }
+}

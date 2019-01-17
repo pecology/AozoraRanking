@@ -1,0 +1,31 @@
+{
+    "id": 2718,
+    "title": "恐竜島",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000160/card2718.html",
+    "authorIds": [
+        160
+    ],
+    "monthlyRankingHistories": {
+        "2009/02": {
+            "rank": 418,
+            "pageview": 210
+        },
+        "2010/03": {
+            "rank": 302,
+            "pageview": 265
+        },
+        "2010/04": {
+            "rank": 352,
+            "pageview": 233
+        },
+        "2010/05": {
+            "rank": 294,
+            "pageview": 309
+        },
+        "2010/06": {
+            "rank": 448,
+            "pageview": 230
+        }
+    }
+}

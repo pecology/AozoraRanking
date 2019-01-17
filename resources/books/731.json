@@ -1,0 +1,35 @@
+{
+    "id": 731,
+    "title": "聖三稜玻璃",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000136/card731.html",
+    "authorIds": [
+        136
+    ],
+    "monthlyRankingHistories": {
+        "2009/09": {
+            "rank": 477,
+            "pageview": 185
+        },
+        "2010/02": {
+            "rank": 329,
+            "pageview": 256
+        },
+        "2010/03": {
+            "rank": 317,
+            "pageview": 258
+        },
+        "2010/04": {
+            "rank": 442,
+            "pageview": 196
+        },
+        "2011/04": {
+            "rank": 438,
+            "pageview": 207
+        },
+        "2012/04": {
+            "rank": 483,
+            "pageview": 212
+        }
+    }
+}

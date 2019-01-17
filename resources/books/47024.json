@@ -1,0 +1,39 @@
+{
+    "id": 47024,
+    "title": "非暴力",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001277/card47024.html",
+    "authorIds": [
+        1277
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 381,
+            "pageview": 271
+        },
+        "2009/02": {
+            "rank": 420,
+            "pageview": 209
+        },
+        "2009/03": {
+            "rank": 452,
+            "pageview": 201
+        },
+        "2009/04": {
+            "rank": 449,
+            "pageview": 193
+        },
+        "2009/11": {
+            "rank": 287,
+            "pageview": 360
+        },
+        "2009/12": {
+            "rank": 237,
+            "pageview": 420
+        },
+        "2010/10": {
+            "rank": 92,
+            "pageview": 192
+        }
+    }
+}

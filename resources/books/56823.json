@@ -1,0 +1,43 @@
+{
+    "id": 56823,
+    "title": "エルヴィスから始まった",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001506/card56823.html",
+    "authorIds": [
+        1506
+    ],
+    "monthlyRankingHistories": {
+        "2014/07": {
+            "rank": 123,
+            "pageview": 1018
+        },
+        "2014/08": {
+            "rank": 295,
+            "pageview": 461
+        },
+        "2014/09": {
+            "rank": 313,
+            "pageview": 393
+        },
+        "2014/10": {
+            "rank": 383,
+            "pageview": 334
+        },
+        "2015/03": {
+            "rank": 455,
+            "pageview": 273
+        },
+        "2015/06": {
+            "rank": 494,
+            "pageview": 278
+        },
+        "2015/07": {
+            "rank": 493,
+            "pageview": 295
+        },
+        "2017/10": {
+            "rank": 260,
+            "pageview": 550
+        }
+    }
+}

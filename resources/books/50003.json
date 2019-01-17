@@ -1,0 +1,79 @@
+{
+    "id": 50003,
+    "title": "鮪の茶漬け",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001403/card50003.html",
+    "authorIds": [
+        1403
+    ],
+    "monthlyRankingHistories": {
+        "2010/02": {
+            "rank": 231,
+            "pageview": 327
+        },
+        "2012/01": {
+            "rank": 99,
+            "pageview": 977
+        },
+        "2012/02": {
+            "rank": 418,
+            "pageview": 254
+        },
+        "2012/03": {
+            "rank": 344,
+            "pageview": 330
+        },
+        "2012/04": {
+            "rank": 394,
+            "pageview": 251
+        },
+        "2012/05": {
+            "rank": 404,
+            "pageview": 272
+        },
+        "2012/06": {
+            "rank": 454,
+            "pageview": 245
+        },
+        "2012/09": {
+            "rank": 490,
+            "pageview": 245
+        },
+        "2012/10": {
+            "rank": 408,
+            "pageview": 290
+        },
+        "2012/11": {
+            "rank": 330,
+            "pageview": 338
+        },
+        "2012/12": {
+            "rank": 376,
+            "pageview": 292
+        },
+        "2013/01": {
+            "rank": 408,
+            "pageview": 370
+        },
+        "2013/02": {
+            "rank": 404,
+            "pageview": 306
+        },
+        "2013/03": {
+            "rank": 400,
+            "pageview": 303
+        },
+        "2013/04": {
+            "rank": 473,
+            "pageview": 243
+        },
+        "2015/01": {
+            "rank": 480,
+            "pageview": 303
+        },
+        "2015/03": {
+            "rank": 427,
+            "pageview": 283
+        }
+    }
+}

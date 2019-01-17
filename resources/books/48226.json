@@ -1,0 +1,31 @@
+{
+    "id": 48226,
+    "title": "遺篇",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001320/card48226.html",
+    "authorIds": [
+        1320
+    ],
+    "monthlyRankingHistories": {
+        "2009/08": {
+            "rank": 457,
+            "pageview": 195
+        },
+        "2009/09": {
+            "rank": 252,
+            "pageview": 304
+        },
+        "2009/10": {
+            "rank": 170,
+            "pageview": 556
+        },
+        "2009/11": {
+            "rank": 257,
+            "pageview": 388
+        },
+        "2009/12": {
+            "rank": 363,
+            "pageview": 299
+        }
+    }
+}

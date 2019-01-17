@@ -1,0 +1,35 @@
+{
+    "id": 57024,
+    "title": "死の淵より",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001823/card57024.html",
+    "authorIds": [
+        1823
+    ],
+    "monthlyRankingHistories": {
+        "2016/01": {
+            "rank": 108,
+            "pageview": 1262
+        },
+        "2016/02": {
+            "rank": 472,
+            "pageview": 268
+        },
+        "2016/10": {
+            "rank": 472,
+            "pageview": 285
+        },
+        "2017/03": {
+            "rank": 490,
+            "pageview": 282
+        },
+        "2017/05": {
+            "rank": 461,
+            "pageview": 320
+        },
+        "2017/08": {
+            "rank": 370,
+            "pageview": 397
+        }
+    }
+}

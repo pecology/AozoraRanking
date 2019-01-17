@@ -1,0 +1,39 @@
+{
+    "id": 1509,
+    "title": "家1　（上巻）",
+    "subtitle": "1　（上巻）",
+    "url": "https://www.aozora.gr.jp/cards/000158/card1509.html",
+    "authorIds": [
+        158
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 350,
+            "pageview": 288
+        },
+        "2009/02": {
+            "rank": 353,
+            "pageview": 239
+        },
+        "2009/09": {
+            "rank": 376,
+            "pageview": 225
+        },
+        "2009/10": {
+            "rank": 315,
+            "pageview": 317
+        },
+        "2009/11": {
+            "rank": 416,
+            "pageview": 273
+        },
+        "2012/10": {
+            "rank": 427,
+            "pageview": 274
+        },
+        "2013/05": {
+            "rank": 425,
+            "pageview": 285
+        }
+    }
+}

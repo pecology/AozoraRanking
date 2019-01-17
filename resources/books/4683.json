@@ -1,0 +1,67 @@
+{
+    "id": 4683,
+    "title": "猫の広告文",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000148/card4683.html",
+    "authorIds": [
+        148
+    ],
+    "monthlyRankingHistories": {
+        "2009/02": {
+            "rank": 419,
+            "pageview": 210
+        },
+        "2009/03": {
+            "rank": 431,
+            "pageview": 208
+        },
+        "2009/04": {
+            "rank": 110,
+            "pageview": 575
+        },
+        "2009/05": {
+            "rank": 109,
+            "pageview": 667
+        },
+        "2009/06": {
+            "rank": 150,
+            "pageview": 501
+        },
+        "2009/07": {
+            "rank": 27,
+            "pageview": 2936
+        },
+        "2009/08": {
+            "rank": 34,
+            "pageview": 2278
+        },
+        "2009/09": {
+            "rank": 42,
+            "pageview": 1608
+        },
+        "2009/10": {
+            "rank": 53,
+            "pageview": 1416
+        },
+        "2009/11": {
+            "rank": 73,
+            "pageview": 1268
+        },
+        "2009/12": {
+            "rank": 47,
+            "pageview": 1796
+        },
+        "2010/01": {
+            "rank": 74,
+            "pageview": 1175
+        },
+        "2010/02": {
+            "rank": 499,
+            "pageview": 193
+        },
+        "2010/10": {
+            "rank": 77,
+            "pageview": 213
+        }
+    }
+}

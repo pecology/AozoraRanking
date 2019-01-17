@@ -1,0 +1,51 @@
+{
+    "id": 46579,
+    "title": "我が生活",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000026/card46579.html",
+    "authorIds": [
+        26
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 427,
+            "pageview": 252
+        },
+        "2009/02": {
+            "rank": 367,
+            "pageview": 232
+        },
+        "2009/03": {
+            "rank": 373,
+            "pageview": 226
+        },
+        "2009/04": {
+            "rank": 362,
+            "pageview": 224
+        },
+        "2009/05": {
+            "rank": 465,
+            "pageview": 218
+        },
+        "2009/12": {
+            "rank": 451,
+            "pageview": 256
+        },
+        "2013/01": {
+            "rank": 345,
+            "pageview": 414
+        },
+        "2017/01": {
+            "rank": 491,
+            "pageview": 315
+        },
+        "2017/06": {
+            "rank": 444,
+            "pageview": 342
+        },
+        "2017/07": {
+            "rank": 389,
+            "pageview": 396
+        }
+    }
+}

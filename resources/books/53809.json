@@ -1,0 +1,35 @@
+{
+    "id": 53809,
+    "title": "こども風土記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001566/card53809.html",
+    "authorIds": [
+        1566
+    ],
+    "monthlyRankingHistories": {
+        "2013/01": {
+            "rank": 148,
+            "pageview": 872
+        },
+        "2013/02": {
+            "rank": 306,
+            "pageview": 370
+        },
+        "2013/03": {
+            "rank": 474,
+            "pageview": 258
+        },
+        "2013/04": {
+            "rank": 436,
+            "pageview": 258
+        },
+        "2013/05": {
+            "rank": 429,
+            "pageview": 281
+        },
+        "2013/06": {
+            "rank": 493,
+            "pageview": 265
+        }
+    }
+}

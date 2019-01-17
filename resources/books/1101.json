@@ -1,0 +1,31 @@
+{
+    "id": 1101,
+    "title": "俊寛",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000083/card1101.html",
+    "authorIds": [
+        83
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 397,
+            "pageview": 243
+        },
+        "2010/06": {
+            "rank": 168,
+            "pageview": 490
+        },
+        "2010/07": {
+            "rank": 455,
+            "pageview": 208
+        },
+        "2010/12": {
+            "rank": 369,
+            "pageview": 232
+        },
+        "2016/08": {
+            "rank": 249,
+            "pageview": 508
+        }
+    }
+}

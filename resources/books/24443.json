@@ -1,0 +1,31 @@
+{
+    "id": 24443,
+    "title": "かめれおん日記",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000119/card24443.html",
+    "authorIds": [
+        119
+    ],
+    "monthlyRankingHistories": {
+        "2010/06": {
+            "rank": 478,
+            "pageview": 219
+        },
+        "2011/11": {
+            "rank": 438,
+            "pageview": 234
+        },
+        "2012/05": {
+            "rank": 469,
+            "pageview": 236
+        },
+        "2014/06": {
+            "rank": 493,
+            "pageview": 280
+        },
+        "2016/05": {
+            "rank": 496,
+            "pageview": 286
+        }
+    }
+}

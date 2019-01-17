@@ -1,0 +1,79 @@
+{
+    "id": 42233,
+    "title": "天地有情",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001081/card42233.html",
+    "authorIds": [
+        1081
+    ],
+    "monthlyRankingHistories": {
+        "2010/02": {
+            "rank": 265,
+            "pageview": 296
+        },
+        "2012/04": {
+            "rank": 495,
+            "pageview": 209
+        },
+        "2013/04": {
+            "rank": 474,
+            "pageview": 242
+        },
+        "2013/08": {
+            "rank": 489,
+            "pageview": 271
+        },
+        "2013/09": {
+            "rank": 480,
+            "pageview": 262
+        },
+        "2013/10": {
+            "rank": 431,
+            "pageview": 328
+        },
+        "2013/11": {
+            "rank": 461,
+            "pageview": 297
+        },
+        "2014/03": {
+            "rank": 493,
+            "pageview": 245
+        },
+        "2014/04": {
+            "rank": 476,
+            "pageview": 252
+        },
+        "2015/03": {
+            "rank": 414,
+            "pageview": 290
+        },
+        "2016/03": {
+            "rank": 405,
+            "pageview": 295
+        },
+        "2016/04": {
+            "rank": 479,
+            "pageview": 259
+        },
+        "2016/05": {
+            "rank": 476,
+            "pageview": 295
+        },
+        "2016/06": {
+            "rank": 494,
+            "pageview": 297
+        },
+        "2016/08": {
+            "rank": 422,
+            "pageview": 310
+        },
+        "2017/10": {
+            "rank": 435,
+            "pageview": 358
+        },
+        "2017/11": {
+            "rank": 478,
+            "pageview": 318
+        }
+    }
+}

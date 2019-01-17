@@ -1,0 +1,39 @@
+{
+    "id": 106,
+    "title": "葱",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card106.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2012/08": {
+            "rank": 307,
+            "pageview": 337
+        },
+        "2013/08": {
+            "rank": 373,
+            "pageview": 341
+        },
+        "2017/04": {
+            "rank": 118,
+            "pageview": 987
+        },
+        "2017/07": {
+            "rank": 413,
+            "pageview": 373
+        },
+        "2018/10": {
+            "rank": 65,
+            "pageview": 1773
+        },
+        "2018/11": {
+            "rank": 124,
+            "pageview": 1041
+        },
+        "2018/12": {
+            "rank": 398,
+            "pageview": 345
+        }
+    }
+}

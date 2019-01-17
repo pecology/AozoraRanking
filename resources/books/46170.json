@@ -1,0 +1,75 @@
+{
+    "id": 46170,
+    "title": "可能性の文学",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000040/card46170.html",
+    "authorIds": [
+        40
+    ],
+    "monthlyRankingHistories": {
+        "2009/10": {
+            "rank": 465,
+            "pageview": 247
+        },
+        "2016/10": {
+            "rank": 336,
+            "pageview": 405
+        },
+        "2016/11": {
+            "rank": 357,
+            "pageview": 394
+        },
+        "2016/12": {
+            "rank": 254,
+            "pageview": 516
+        },
+        "2017/01": {
+            "rank": 301,
+            "pageview": 493
+        },
+        "2017/02": {
+            "rank": 174,
+            "pageview": 701
+        },
+        "2017/03": {
+            "rank": 286,
+            "pageview": 439
+        },
+        "2017/04": {
+            "rank": 361,
+            "pageview": 368
+        },
+        "2017/05": {
+            "rank": 423,
+            "pageview": 342
+        },
+        "2017/06": {
+            "rank": 270,
+            "pageview": 533
+        },
+        "2017/07": {
+            "rank": 335,
+            "pageview": 460
+        },
+        "2017/08": {
+            "rank": 382,
+            "pageview": 386
+        },
+        "2017/10": {
+            "rank": 462,
+            "pageview": 336
+        },
+        "2017/11": {
+            "rank": 446,
+            "pageview": 332
+        },
+        "2018/03": {
+            "rank": 396,
+            "pageview": 350
+        },
+        "2018/06": {
+            "rank": 470,
+            "pageview": 329
+        }
+    }
+}

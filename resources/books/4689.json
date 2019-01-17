@@ -1,0 +1,31 @@
+{
+    "id": 4689,
+    "title": "『心』広告文",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000148/card4689.html",
+    "authorIds": [
+        148
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 456,
+            "pageview": 240
+        },
+        "2009/08": {
+            "rank": 489,
+            "pageview": 184
+        },
+        "2009/11": {
+            "rank": 409,
+            "pageview": 280
+        },
+        "2009/12": {
+            "rank": 314,
+            "pageview": 333
+        },
+        "2010/10": {
+            "rank": 329,
+            "pageview": 89
+        }
+    }
+}

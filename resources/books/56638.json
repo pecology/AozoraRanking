@@ -1,0 +1,91 @@
+{
+    "id": 56638,
+    "title": "銀の匙",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001799/card56638.html",
+    "authorIds": [
+        1799
+    ],
+    "monthlyRankingHistories": {
+        "2017/05": {
+            "rank": 76,
+            "pageview": 1428
+        },
+        "2017/06": {
+            "rank": 320,
+            "pageview": 465
+        },
+        "2017/07": {
+            "rank": 318,
+            "pageview": 489
+        },
+        "2017/08": {
+            "rank": 225,
+            "pageview": 618
+        },
+        "2017/09": {
+            "rank": 241,
+            "pageview": 533
+        },
+        "2017/10": {
+            "rank": 255,
+            "pageview": 560
+        },
+        "2017/11": {
+            "rank": 261,
+            "pageview": 535
+        },
+        "2017/12": {
+            "rank": 259,
+            "pageview": 498
+        },
+        "2018/01": {
+            "rank": 271,
+            "pageview": 538
+        },
+        "2018/02": {
+            "rank": 225,
+            "pageview": 514
+        },
+        "2018/03": {
+            "rank": 179,
+            "pageview": 660
+        },
+        "2018/04": {
+            "rank": 181,
+            "pageview": 650
+        },
+        "2018/05": {
+            "rank": 85,
+            "pageview": 1419
+        },
+        "2018/06": {
+            "rank": 138,
+            "pageview": 961
+        },
+        "2018/07": {
+            "rank": 186,
+            "pageview": 726
+        },
+        "2018/08": {
+            "rank": 168,
+            "pageview": 735
+        },
+        "2018/09": {
+            "rank": 217,
+            "pageview": 575
+        },
+        "2018/10": {
+            "rank": 202,
+            "pageview": 693
+        },
+        "2018/11": {
+            "rank": 158,
+            "pageview": 818
+        },
+        "2018/12": {
+            "rank": 195,
+            "pageview": 670
+        }
+    }
+}

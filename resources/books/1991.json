@@ -1,0 +1,39 @@
+{
+    "id": 1991,
+    "title": "乳房",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000311/card1991.html",
+    "authorIds": [
+        311
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 451,
+            "pageview": 241
+        },
+        "2009/02": {
+            "rank": 369,
+            "pageview": 231
+        },
+        "2009/03": {
+            "rank": 338,
+            "pageview": 245
+        },
+        "2009/04": {
+            "rank": 141,
+            "pageview": 467
+        },
+        "2009/05": {
+            "rank": 152,
+            "pageview": 496
+        },
+        "2010/02": {
+            "rank": 193,
+            "pageview": 369
+        },
+        "2011/03": {
+            "rank": 389,
+            "pageview": 233
+        }
+    }
+}

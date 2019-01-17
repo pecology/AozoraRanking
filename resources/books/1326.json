@@ -1,0 +1,23 @@
+{
+    "id": 1326,
+    "title": "わが町",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000040/card1326.html",
+    "authorIds": [
+        40
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 467,
+            "pageview": 235
+        },
+        "2009/02": {
+            "rank": 356,
+            "pageview": 237
+        },
+        "2009/10": {
+            "rank": 341,
+            "pageview": 301
+        }
+    }
+}

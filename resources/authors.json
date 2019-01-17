@@ -1,0 +1,8423 @@
+{
+  "5": {
+    "name": "ツルゲーネフ イワン",
+    "url": "https://www.aozora.gr.jp/index_pages/person5.html",
+    "id": 5,
+    "bookIds": [
+      5,
+      53194
+    ]
+  },
+  "6": {
+    "name": "二葉亭 四迷",
+    "url": "https://www.aozora.gr.jp/index_pages/person6.html",
+    "id": 6,
+    "bookIds": [
+      384,
+      901,
+      1869,
+      3310
+    ]
+  },
+  "8": {
+    "name": "島木 健作",
+    "url": "https://www.aozora.gr.jp/index_pages/person8.html",
+    "id": 8,
+    "bookIds": [
+      7,
+      47361
+    ]
+  },
+  "9": {
+    "name": "ドイル アーサー・コナン",
+    "url": "https://www.aozora.gr.jp/index_pages/person9.html",
+    "id": 9,
+    "bookIds": [
+      8,
+      42929,
+      43028,
+      43056,
+      43471,
+      43497,
+      43498,
+      43522,
+      43523,
+      43524,
+      45340,
+      50717,
+      55881
+    ]
+  },
+  "11": {
+    "name": "立原 道造",
+    "url": "https://www.aozora.gr.jp/index_pages/person11.html",
+    "id": 11,
+    "bookIds": [
+      9,
+      889,
+      899
+    ]
+  },
+  "13": {
+    "name": "八木 重吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person13.html",
+    "id": 13,
+    "bookIds": [
+      11,
+      542
+    ]
+  },
+  "14": {
+    "name": "村山 槐多",
+    "url": "https://www.aozora.gr.jp/index_pages/person14.html",
+    "id": 14,
+    "bookIds": [
+      12,
+      46407
+    ]
+  },
+  "19": {
+    "name": "アンデルセン ハンス・クリスチャン",
+    "url": "https://www.aozora.gr.jp/index_pages/person19.html",
+    "id": 19,
+    "bookIds": [
+      194,
+      4376,
+      42378,
+      42379,
+      42381,
+      42382,
+      42383,
+      42384,
+      42386,
+      42387,
+      44423,
+      46318,
+      46319,
+      58165
+    ]
+  },
+  "20": {
+    "name": "渡辺 温",
+    "url": "https://www.aozora.gr.jp/index_pages/person20.html",
+    "id": 20,
+    "bookIds": [
+      195,
+      2316,
+      2569,
+      2571,
+      55103
+    ]
+  },
+  "22": {
+    "name": "三島 霜川",
+    "url": "https://www.aozora.gr.jp/index_pages/person22.html",
+    "id": 22,
+    "bookIds": [
+      42254
+    ]
+  },
+  "23": {
+    "name": "徳田 秋声",
+    "url": "https://www.aozora.gr.jp/index_pages/person23.html",
+    "id": 23,
+    "bookIds": [
+      199,
+      1698,
+      1700,
+      1702,
+      3512,
+      50115
+    ]
+  },
+  "25": {
+    "name": "有島 武郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person25.html",
+    "id": 25,
+    "bookIds": [
+      201,
+      202,
+      204,
+      206,
+      211,
+      216,
+      1111,
+      1144,
+      1146,
+      4994,
+      42152,
+      47220,
+      49934,
+      50010,
+      50502
+    ]
+  },
+  "26": {
+    "name": "中原 中也",
+    "url": "https://www.aozora.gr.jp/index_pages/person26.html",
+    "id": 26,
+    "bookIds": [
+      219,
+      894,
+      46577,
+      46579,
+      50230,
+      50232,
+      50237,
+      50238,
+      50240,
+      50242,
+      50245,
+      50250,
+      51312,
+      51314,
+      51318,
+      51319,
+      51321,
+      51327,
+      51330,
+      51331,
+      51350,
+      55632,
+      55634,
+      55705,
+      55736,
+      55738,
+      55779,
+      55782,
+      55934,
+      58678
+    ]
+  },
+  "31": {
+    "name": "葉山 嘉樹",
+    "url": "https://www.aozora.gr.jp/index_pages/person31.html",
+    "id": 31,
+    "bookIds": [
+      228,
+      397,
+      863,
+      49183,
+      54492
+    ]
+  },
+  "34": {
+    "name": "内村 鑑三",
+    "url": "https://www.aozora.gr.jp/index_pages/person34.html",
+    "id": 34,
+    "bookIds": [
+      233,
+      519,
+      1215,
+      1218,
+      56908
+    ]
+  },
+  "35": {
+    "name": "太宰 治",
+    "url": "https://www.aozora.gr.jp/index_pages/person35.html",
+    "id": 35,
+    "bookIds": [
+      234,
+      235,
+      236,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      246,
+      247,
+      248,
+      250,
+      251,
+      253,
+      255,
+      257,
+      258,
+      260,
+      262,
+      264,
+      265,
+      267,
+      268,
+      270,
+      271,
+      272,
+      273,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      282,
+      283,
+      284,
+      289,
+      291,
+      293,
+      295,
+      296,
+      300,
+      301,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      314,
+      315,
+      316,
+      317,
+      1047,
+      1084,
+      1095,
+      1562,
+      1563,
+      1564,
+      1565,
+      1566,
+      1567,
+      1568,
+      1569,
+      1570,
+      1571,
+      1572,
+      1573,
+      1574,
+      1576,
+      1577,
+      1578,
+      1579,
+      1580,
+      1584,
+      1587,
+      1589,
+      1590,
+      1592,
+      1593,
+      1598,
+      1601,
+      1603,
+      1604,
+      1605,
+      1607,
+      2253,
+      2254,
+      2255,
+      2256,
+      2257,
+      2264,
+      2267,
+      2269,
+      2270,
+      2271,
+      2272,
+      2275,
+      2277,
+      2278,
+      2280,
+      2282,
+      2285,
+      2288,
+      2295,
+      2317,
+      4357,
+      18346,
+      18351,
+      18360,
+      42354,
+      42356,
+      42357,
+      42358,
+      42359,
+      42360,
+      42362,
+      42363,
+      42365,
+      42366,
+      42367,
+      42368,
+      42373,
+      42374,
+      42376,
+      42945,
+      45675,
+      46597,
+      52235,
+      52345,
+      52372,
+      52376,
+      52378,
+      52379,
+      52380,
+      52464,
+      52524,
+      52525,
+      52526,
+      52685,
+      52687,
+      54168,
+      54175,
+      54176,
+      54181,
+      54878,
+      58054
+    ]
+  },
+  "37": {
+    "name": "黒島 伝治",
+    "url": "https://www.aozora.gr.jp/index_pages/person37.html",
+    "id": 37,
+    "bookIds": [
+      646
+    ]
+  },
+  "38": {
+    "name": "国木田 独歩",
+    "url": "https://www.aozora.gr.jp/index_pages/person38.html",
+    "id": 38,
+    "bookIds": [
+      323,
+      324,
+      329,
+      336,
+      1057,
+      1409,
+      1411,
+      4514,
+      42202,
+      42203,
+      42205,
+      42208,
+      42209,
+      42210,
+      56412
+    ]
+  },
+  "40": {
+    "name": "織田 作之助",
+    "url": "https://www.aozora.gr.jp/index_pages/person40.html",
+    "id": 40,
+    "bookIds": [
+      452,
+      545,
+      701,
+      732,
+      1326,
+      42688,
+      42689,
+      42690,
+      46170,
+      46299,
+      46300,
+      46302,
+      46357,
+      46359,
+      46360,
+      47052,
+      47287,
+      47289,
+      47831,
+      47833,
+      47836,
+      53449,
+      53487,
+      53804,
+      53805,
+      53806,
+      53808
+    ]
+  },
+  "42": {
+    "name": "寺田 寅彦",
+    "url": "https://www.aozora.gr.jp/index_pages/person42.html",
+    "id": 42,
+    "bookIds": [
+      827,
+      1108,
+      1684,
+      2336,
+      2346,
+      2347,
+      2348,
+      2350,
+      2358,
+      2359,
+      2363,
+      2364,
+      2446,
+      2449,
+      2455,
+      2472,
+      2479,
+      2485,
+      2492,
+      2493,
+      2500,
+      2506,
+      2507,
+      2508,
+      2509,
+      2510,
+      4359,
+      4360,
+      4391,
+      4668,
+      4671,
+      42160,
+      42267,
+      42268,
+      42696,
+      42697,
+      43074,
+      43075,
+      43077,
+      43080,
+      43257,
+      43258,
+      43260,
+      49596,
+      52234
+    ]
+  },
+  "48": {
+    "name": "南部 修太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person48.html",
+    "id": 48,
+    "bookIds": [
+      43464
+    ]
+  },
+  "50": {
+    "name": "泉 鏡花",
+    "url": "https://www.aozora.gr.jp/index_pages/person50.html",
+    "id": 50,
+    "bookIds": [
+      360,
+      363,
+      521,
+      897,
+      1040,
+      1061,
+      1087,
+      1177,
+      1178,
+      1188,
+      3065,
+      3244,
+      3315,
+      3407,
+      3543,
+      3578,
+      3586,
+      3587,
+      3663,
+      4561,
+      4565,
+      4584,
+      4586,
+      4588,
+      4594,
+      4742,
+      33223,
+      43466,
+      45941,
+      48328,
+      48329,
+      48334,
+      48385,
+      48386,
+      48388,
+      48390,
+      48392,
+      48393,
+      48396,
+      48399,
+      48400,
+      48401,
+      48402,
+      48405,
+      48410,
+      48414,
+      50102,
+      50105,
+      50541,
+      50542,
+      50768,
+      50769,
+      50770,
+      50774,
+      50780,
+      50781,
+      50784,
+      50786,
+      50788,
+      50790,
+      50791,
+      50792,
+      50793,
+      50794,
+      50797,
+      55401,
+      57471,
+      57475,
+      57476,
+      57477,
+      57484,
+      57486,
+      57489
+    ]
+  },
+  "51": {
+    "name": "幸田 露伴",
+    "url": "https://www.aozora.gr.jp/index_pages/person51.html",
+    "id": 51,
+    "bookIds": [
+      361,
+      1439,
+      1442,
+      1448,
+      1450,
+      1452,
+      2709,
+      2710,
+      3199,
+      4110,
+      4331,
+      43289,
+      43787,
+      43788,
+      48312,
+      49583,
+      50022,
+      50351
+    ]
+  },
+  "52": {
+    "name": "紫式部 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person52.html",
+    "id": 52,
+    "bookIds": [
+      5016,
+      5017,
+      5018,
+      5019,
+      5020,
+      5021,
+      5022,
+      5023,
+      5024,
+      5025,
+      5026,
+      5027,
+      5028,
+      5029,
+      5030,
+      5031,
+      5032,
+      5033,
+      5034,
+      5035,
+      5036,
+      5037,
+      5038,
+      5039,
+      5040,
+      5041,
+      5042,
+      5043,
+      5044,
+      5045,
+      5046,
+      5047,
+      5048,
+      5049,
+      5050,
+      5051,
+      5052,
+      5053,
+      5054,
+      5055,
+      5056,
+      5057,
+      5058,
+      5059,
+      5060,
+      5061,
+      5062,
+      5063,
+      5064,
+      5065,
+      5066,
+      5067,
+      5068,
+      5069,
+      5070,
+      5071
+    ]
+  },
+  "55": {
+    "name": "富田 倫生",
+    "url": "https://www.aozora.gr.jp/index_pages/person55.html",
+    "id": 55,
+    "bookIds": [
+      365,
+      550,
+      698,
+      56499
+    ]
+  },
+  "57": {
+    "name": "福田 英子",
+    "url": "https://www.aozora.gr.jp/index_pages/person57.html",
+    "id": 57,
+    "bookIds": [
+      43276
+    ]
+  },
+  "58": {
+    "name": "伊藤 左千夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person58.html",
+    "id": 58,
+    "bookIds": [
+      647,
+      1196,
+      51304,
+      51306,
+      52381,
+      56539,
+      56561,
+      56569,
+      59060
+    ]
+  },
+  "61": {
+    "name": "橋本 進吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person61.html",
+    "id": 61,
+    "bookIds": [
+      377,
+      510
+    ]
+  },
+  "63": {
+    "name": "宮武 外骨",
+    "url": "https://www.aozora.gr.jp/index_pages/person63.html",
+    "id": 63,
+    "bookIds": [
+      385
+    ]
+  },
+  "64": {
+    "name": "樋口 一葉",
+    "url": "https://www.aozora.gr.jp/index_pages/person64.html",
+    "id": 64,
+    "bookIds": [
+      386,
+      387,
+      388,
+      389,
+      391,
+      4527,
+      55659,
+      55661,
+      55663,
+      55665,
+      55669,
+      55671,
+      55672,
+      56009,
+      56039,
+      56041,
+      56043,
+      56880,
+      56889
+    ]
+  },
+  "65": {
+    "name": "九鬼 周造",
+    "url": "https://www.aozora.gr.jp/index_pages/person65.html",
+    "id": 65,
+    "bookIds": [
+      393,
+      4401,
+      4402
+    ]
+  },
+  "67": {
+    "name": "萩原 朔太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person67.html",
+    "id": 67,
+    "bookIds": [
+      395,
+      509,
+      641,
+      859,
+      1768,
+      1769,
+      1771,
+      1788,
+      1790,
+      1792,
+      2249,
+      2250,
+      2843,
+      4869,
+      46632,
+      47566,
+      50053,
+      53542,
+      53652,
+      53653,
+      56575,
+      56578
+    ]
+  },
+  "72": {
+    "name": "山中 貞雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person72.html",
+    "id": 72,
+    "bookIds": [
+      54425,
+      54443
+    ]
+  },
+  "74": {
+    "name": "梶井 基次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person74.html",
+    "id": 74,
+    "bookIds": [
+      411,
+      414,
+      415,
+      416,
+      417,
+      419,
+      423,
+      424,
+      427,
+      429,
+      430,
+      46349,
+      47552,
+      56502,
+      56504
+    ]
+  },
+  "75": {
+    "name": "リルケ ライネル・マリア",
+    "url": "https://www.aozora.gr.jp/index_pages/person75.html",
+    "id": 75,
+    "bookIds": [
+      47946,
+      47964,
+      50920
+    ]
+  },
+  "76": {
+    "name": "岡本 かの子",
+    "url": "https://www.aozora.gr.jp/index_pages/person76.html",
+    "id": 76,
+    "bookIds": [
+      438,
+      442,
+      447,
+      1016,
+      1279,
+      4064,
+      4194,
+      4548,
+      4556,
+      4996,
+      45641,
+      46930,
+      50617,
+      50618,
+      50620,
+      50625,
+      50626,
+      50627,
+      50630,
+      57332,
+      58421,
+      58429
+    ]
+  },
+  "77": {
+    "name": "押川 春浪",
+    "url": "https://www.aozora.gr.jp/index_pages/person77.html",
+    "id": 77,
+    "bookIds": [
+      1152,
+      1323,
+      45249
+    ]
+  },
+  "81": {
+    "name": "宮沢 賢治",
+    "url": "https://www.aozora.gr.jp/index_pages/person81.html",
+    "id": 81,
+    "bookIds": [
+      454,
+      456,
+      458,
+      459,
+      460,
+      462,
+      463,
+      464,
+      466,
+      469,
+      470,
+      471,
+      472,
+      473,
+      1058,
+      1077,
+      1085,
+      1116,
+      1918,
+      1919,
+      1921,
+      1922,
+      1923,
+      1924,
+      1925,
+      1927,
+      1928,
+      1930,
+      1935,
+      1938,
+      1939,
+      1941,
+      1942,
+      1943,
+      1946,
+      1949,
+      2386,
+      2543,
+      2589,
+      2655,
+      2656,
+      2657,
+      2658,
+      4410,
+      4416,
+      4417,
+      4421,
+      4422,
+      4423,
+      4424,
+      4427,
+      4436,
+      4437,
+      4440,
+      4441,
+      4461,
+      4464,
+      4467,
+      4601,
+      4602,
+      4865,
+      4883,
+      4884,
+      33195,
+      43036,
+      43733,
+      43735,
+      43736,
+      43737,
+      43752,
+      43753,
+      43754,
+      43756,
+      43757,
+      43760,
+      43801,
+      45308,
+      45472,
+      45473,
+      45630,
+      45652,
+      45653,
+      45654,
+      45656,
+      45657,
+      45658,
+      45679,
+      46267,
+      46268,
+      46322,
+      46601,
+      46604,
+      46605,
+      46607,
+      47027,
+      47028,
+      47029,
+      48222,
+      50766,
+      51156,
+      53345,
+      53355,
+      53360
+    ]
+  },
+  "82": {
+    "name": "岡本 綺堂",
+    "url": "https://www.aozora.gr.jp/index_pages/person82.html",
+    "id": 82,
+    "bookIds": [
+      480,
+      481,
+      1005,
+      1293,
+      1298,
+      1303,
+      1306,
+      1307,
+      1312,
+      2243,
+      4641,
+      33197,
+      43574,
+      43577,
+      45480,
+      45617,
+      48021,
+      48024,
+      48025,
+      48026,
+      48032,
+      48035,
+      49526,
+      49527,
+      49535,
+      49536,
+      49537,
+      49544,
+      49545,
+      49548,
+      49549,
+      49680,
+      49681,
+      49682,
+      50705,
+      56160,
+      56255,
+      56510,
+      56511,
+      56512
+    ]
+  },
+  "83": {
+    "name": "菊池 寛",
+    "url": "https://www.aozora.gr.jp/index_pages/person83.html",
+    "id": 83,
+    "bookIds": [
+      486,
+      489,
+      490,
+      492,
+      494,
+      495,
+      496,
+      497,
+      501,
+      502,
+      504,
+      1101,
+      1340,
+      1341,
+      1342,
+      1343,
+      1355,
+      1356,
+      1357,
+      1358,
+      1359,
+      1360,
+      1362,
+      1363,
+      1365,
+      1366,
+      1367,
+      1368,
+      1369,
+      1370,
+      1386,
+      1388,
+      2695,
+      4306,
+      4822,
+      13217,
+      43122,
+      43123,
+      43270,
+      46289,
+      47856,
+      47857,
+      47858,
+      50447,
+      50449,
+      55989
+    ]
+  },
+  "89": {
+    "name": "北 一輝",
+    "url": "https://www.aozora.gr.jp/index_pages/person89.html",
+    "id": 89,
+    "bookIds": [
+      517,
+      52931
+    ]
+  },
+  "91": {
+    "name": "尾崎 紅葉",
+    "url": "https://www.aozora.gr.jp/index_pages/person91.html",
+    "id": 91,
+    "bookIds": [
+      522,
+      50354
+    ]
+  },
+  "93": {
+    "name": "南方 熊楠",
+    "url": "https://www.aozora.gr.jp/index_pages/person93.html",
+    "id": 93,
+    "bookIds": [
+      525,
+      526,
+      527,
+      2536,
+      2537,
+      2538,
+      2539,
+      2540,
+      2541,
+      2542,
+      4790,
+      43634,
+      52935,
+      52936,
+      52938,
+      52959,
+      56606,
+      58660
+    ]
+  },
+  "94": {
+    "name": "ポー エドガー・アラン",
+    "url": "https://www.aozora.gr.jp/index_pages/person94.html",
+    "id": 94,
+    "bookIds": [
+      530,
+      605,
+      882,
+      1871,
+      2059,
+      2075,
+      2076,
+      2523,
+      2524,
+      2525,
+      2526,
+      4261,
+      42338
+    ]
+  },
+  "95": {
+    "name": "佐々木 直次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person95.html",
+    "id": 95,
+    "bookIds": [
+      50503
+    ]
+  },
+  "96": {
+    "name": "夢野 久作",
+    "url": "https://www.aozora.gr.jp/index_pages/person96.html",
+    "id": 96,
+    "bookIds": [
+      531,
+      916,
+      919,
+      921,
+      922,
+      925,
+      928,
+      930,
+      931,
+      932,
+      933,
+      935,
+      937,
+      939,
+      940,
+      1075,
+      2093,
+      2098,
+      2100,
+      2106,
+      2117,
+      2128,
+      2130,
+      2138,
+      2140,
+      2141,
+      2142,
+      2144,
+      2145,
+      2231,
+      2377,
+      2378,
+      2380,
+      2381,
+      2382,
+      45628,
+      46691,
+      46694,
+      46699,
+      46709,
+      46710,
+      46711,
+      46717,
+      46720,
+      46823
+    ]
+  },
+  "97": {
+    "name": "オー・ヘンリー ",
+    "url": "https://www.aozora.gr.jp/index_pages/person97.html",
+    "id": 97,
+    "bookIds": [
+      46342
+    ]
+  },
+  "102": {
+    "name": "石橋 忍月",
+    "url": "https://www.aozora.gr.jp/index_pages/person102.html",
+    "id": 102,
+    "bookIds": [
+      538
+    ]
+  },
+  "106": {
+    "name": "北原 白秋",
+    "url": "https://www.aozora.gr.jp/index_pages/person106.html",
+    "id": 106,
+    "bookIds": [
+      2415,
+      2423,
+      4850,
+      47048,
+      48335,
+      49617,
+      49619,
+      50252,
+      52347,
+      52353,
+      52354,
+      52370,
+      52390,
+      53187,
+      53493,
+      55755,
+      55769,
+      56576,
+      56857,
+      56858,
+      57905
+    ]
+  },
+  "107": {
+    "name": "鈴木 三重吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person107.html",
+    "id": 107,
+    "bookIds": [
+      1530,
+      18333,
+      50443
+    ]
+  },
+  "111": {
+    "name": "佐々木 味津三",
+    "url": "https://www.aozora.gr.jp/index_pages/person111.html",
+    "id": 111,
+    "bookIds": [
+      565
+    ]
+  },
+  "112": {
+    "name": "水野 仙子",
+    "url": "https://www.aozora.gr.jp/index_pages/person112.html",
+    "id": 112,
+    "bookIds": [
+      50344
+    ]
+  },
+  "118": {
+    "name": "長塚 節",
+    "url": "https://www.aozora.gr.jp/index_pages/person118.html",
+    "id": 118,
+    "bookIds": [
+      1745,
+      48224,
+      48225,
+      49770,
+      57445
+    ]
+  },
+  "119": {
+    "name": "中島 敦",
+    "url": "https://www.aozora.gr.jp/index_pages/person119.html",
+    "id": 119,
+    "bookIds": [
+      617,
+      618,
+      620,
+      621,
+      622,
+      623,
+      624,
+      1737,
+      1738,
+      1742,
+      1743,
+      2521,
+      24439,
+      24441,
+      24443,
+      42301,
+      46429,
+      56242,
+      56243,
+      56244,
+      58014,
+      58575
+    ]
+  },
+  "121": {
+    "name": "新美 南吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person121.html",
+    "id": 121,
+    "bookIds": [
+      627,
+      628,
+      630,
+      632,
+      635,
+      637,
+      638,
+      639,
+      1753,
+      3313,
+      4253,
+      4675,
+      4717,
+      4718,
+      4719,
+      4720,
+      4721,
+      4723,
+      43401,
+      43403,
+      45078,
+      45081,
+      45082,
+      45083,
+      45084,
+      45085,
+      45086,
+      45108,
+      56141,
+      56254
+    ]
+  },
+  "124": {
+    "name": "小熊 秀雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person124.html",
+    "id": 124,
+    "bookIds": [
+      46231
+    ]
+  },
+  "125": {
+    "name": "小栗 虫太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person125.html",
+    "id": 125,
+    "bookIds": [
+      666,
+      1317,
+      1320,
+      43620,
+      43678,
+      43679,
+      49262
+    ]
+  },
+  "126": {
+    "name": "田中 英光",
+    "url": "https://www.aozora.gr.jp/index_pages/person126.html",
+    "id": 126,
+    "bookIds": [
+      669,
+      729,
+      1663,
+      49384
+    ]
+  },
+  "129": {
+    "name": "森 鴎外",
+    "url": "https://www.aozora.gr.jp/index_pages/person129.html",
+    "id": 129,
+    "bookIds": [
+      673,
+      674,
+      676,
+      678,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      691,
+      694,
+      695,
+      696,
+      1054,
+      1071,
+      2058,
+      2078,
+      2080,
+      2084,
+      2298,
+      2396,
+      2522,
+      2547,
+      2595,
+      3615,
+      42375,
+      43030,
+      45209,
+      45224,
+      45225,
+      45244,
+      45245,
+      45255,
+      45256,
+      45271,
+      49246,
+      49247,
+      49250,
+      53026,
+      53713,
+      55722
+    ]
+  },
+  "134": {
+    "name": "佐左木 俊郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person134.html",
+    "id": 134,
+    "bookIds": [
+      51274
+    ]
+  },
+  "136": {
+    "name": "山村 暮鳥",
+    "url": "https://www.aozora.gr.jp/index_pages/person136.html",
+    "id": 136,
+    "bookIds": [
+      731,
+      828,
+      42754,
+      42755,
+      45037,
+      45038,
+      52348,
+      53952
+    ]
+  },
+  "137": {
+    "name": "岩野 泡鳴",
+    "url": "https://www.aozora.gr.jp/index_pages/person137.html",
+    "id": 137,
+    "bookIds": [
+      1206,
+      50133,
+      51870
+    ]
+  },
+  "140": {
+    "name": "テニソン アルフレッド",
+    "url": "https://www.aozora.gr.jp/index_pages/person140.html",
+    "id": 140,
+    "bookIds": [
+      740,
+      50131
+    ]
+  },
+  "141": {
+    "name": "坪内 逍遥",
+    "url": "https://www.aozora.gr.jp/index_pages/person141.html",
+    "id": 141,
+    "bookIds": [
+      49438,
+      51285
+    ]
+  },
+  "146": {
+    "name": "種田 山頭火",
+    "url": "https://www.aozora.gr.jp/index_pages/person146.html",
+    "id": 146,
+    "bookIds": [
+      749,
+      44913,
+      44914,
+      47356,
+      47570,
+      48234,
+      48238,
+      48251,
+      48289,
+      48290,
+      48292,
+      49683
+    ]
+  },
+  "148": {
+    "name": "夏目 漱石",
+    "url": "https://www.aozora.gr.jp/index_pages/person148.html",
+    "id": 148,
+    "bookIds": [
+      751,
+      752,
+      753,
+      755,
+      757,
+      758,
+      759,
+      760,
+      761,
+      763,
+      765,
+      767,
+      768,
+      769,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      779,
+      781,
+      782,
+      783,
+      784,
+      785,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      794,
+      795,
+      796,
+      798,
+      799,
+      1046,
+      1073,
+      1076,
+      1086,
+      1104,
+      1746,
+      1751,
+      2314,
+      2376,
+      2671,
+      2672,
+      2673,
+      2675,
+      2676,
+      2677,
+      2679,
+      2681,
+      4672,
+      4681,
+      4683,
+      4685,
+      4687,
+      4688,
+      4689,
+      47148,
+      50478,
+      56143,
+      58276
+    ]
+  },
+  "150": {
+    "name": "薄田 泣菫",
+    "url": "https://www.aozora.gr.jp/index_pages/person150.html",
+    "id": 150,
+    "bookIds": [
+      804,
+      42241,
+      46596,
+      46615,
+      46616,
+      46623,
+      46625,
+      52090
+    ]
+  },
+  "153": {
+    "name": "石川 啄木",
+    "url": "https://www.aozora.gr.jp/index_pages/person153.html",
+    "id": 153,
+    "bookIds": [
+      814,
+      815,
+      816,
+      817,
+      818,
+      4097,
+      4695,
+      43031,
+      45460,
+      45470,
+      47891,
+      47892,
+      48141,
+      48158,
+      48164,
+      49676,
+      49678,
+      49679,
+      50410
+    ]
+  },
+  "154": {
+    "name": "田中 貢太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person154.html",
+    "id": 154,
+    "bookIds": [
+      1620,
+      4288,
+      4949,
+      42321,
+      42322,
+      42324,
+      42326,
+      42330,
+      42342,
+      42343,
+      45526,
+      45528,
+      45531,
+      45535,
+      45538,
+      45539,
+      45540,
+      45541,
+      45548,
+      45552,
+      45555,
+      45556,
+      45571,
+      45572,
+      45592,
+      45600,
+      45624,
+      45625,
+      47991,
+      47992,
+      47993,
+      47994,
+      47996,
+      47998,
+      52246,
+      52253,
+      52259,
+      52262,
+      52263,
+      52264,
+      52267,
+      52269,
+      52274,
+      52277,
+      52282,
+      52283,
+      52290,
+      52291,
+      53860
+    ]
+  },
+  "155": {
+    "name": "紀 貫之",
+    "url": "https://www.aozora.gr.jp/index_pages/person155.html",
+    "id": 155,
+    "bookIds": [
+      832
+    ]
+  },
+  "156": {
+    "name": "小林 多喜二",
+    "url": "https://www.aozora.gr.jp/index_pages/person156.html",
+    "id": 156,
+    "bookIds": [
+      833,
+      1465,
+      2699,
+      4155,
+      43684,
+      43685,
+      49181,
+      49394,
+      51178
+    ]
+  },
+  "157": {
+    "name": "北村 透谷",
+    "url": "https://www.aozora.gr.jp/index_pages/person157.html",
+    "id": 157,
+    "bookIds": [
+      43504,
+      45237,
+      45241,
+      45397,
+      46548
+    ]
+  },
+  "158": {
+    "name": "島崎 藤村",
+    "url": "https://www.aozora.gr.jp/index_pages/person158.html",
+    "id": 158,
+    "bookIds": [
+      843,
+      1502,
+      1503,
+      1504,
+      1505,
+      1506,
+      1507,
+      1508,
+      1509,
+      1511,
+      4854,
+      18352,
+      47172,
+      50052,
+      50374,
+      50375,
+      50376,
+      50378,
+      55958
+    ]
+  },
+  "159": {
+    "name": "辻 潤",
+    "url": "https://www.aozora.gr.jp/index_pages/person159.html",
+    "id": 159,
+    "bookIds": [
+      849,
+      850
+    ]
+  },
+  "160": {
+    "name": "海野 十三",
+    "url": "https://www.aozora.gr.jp/index_pages/person160.html",
+    "id": 160,
+    "bookIds": [
+      865,
+      869,
+      871,
+      877,
+      879,
+      1219,
+      1238,
+      1252,
+      1254,
+      1255,
+      1256,
+      1258,
+      2617,
+      2659,
+      2718,
+      3342,
+      3348,
+      3349,
+      3351,
+      3368,
+      3370,
+      3375,
+      3380,
+      3527,
+      3532,
+      43533,
+      43628,
+      43839,
+      46859,
+      52238,
+      56914,
+      58611,
+      58612,
+      58613
+    ]
+  },
+  "162": {
+    "name": "若山 牧水",
+    "url": "https://www.aozora.gr.jp/index_pages/person162.html",
+    "id": 162,
+    "bookIds": [
+      2209,
+      4649,
+      49620,
+      51133,
+      56933
+    ]
+  },
+  "163": {
+    "name": "若松 賤子",
+    "url": "https://www.aozora.gr.jp/index_pages/person163.html",
+    "id": 163,
+    "bookIds": [
+      47137,
+      47138
+    ]
+  },
+  "165": {
+    "name": "内田 魯庵",
+    "url": "https://www.aozora.gr.jp/index_pages/person165.html",
+    "id": 165,
+    "bookIds": [
+      1211,
+      47122,
+      49568,
+      49571,
+      49577
+    ]
+  },
+  "168": {
+    "name": "横光 利一",
+    "url": "https://www.aozora.gr.jp/index_pages/person168.html",
+    "id": 168,
+    "bookIds": [
+      904,
+      907,
+      1103,
+      2158,
+      2246,
+      2302,
+      2303,
+      3626,
+      4252,
+      4735,
+      4876,
+      4887,
+      49993,
+      50899,
+      56938,
+      58573,
+      58576,
+      58583,
+      58873
+    ]
+  },
+  "169": {
+    "name": "大杉 栄",
+    "url": "https://www.aozora.gr.jp/index_pages/person169.html",
+    "id": 169,
+    "bookIds": [
+      1006,
+      1273,
+      46310,
+      56696
+    ]
+  },
+  "179": {
+    "name": "黒岩 涙香",
+    "url": "https://www.aozora.gr.jp/index_pages/person179.html",
+    "id": 179,
+    "bookIds": [
+      943
+    ]
+  },
+  "182": {
+    "name": "西田 幾多郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person182.html",
+    "id": 182,
+    "bookIds": [
+      946,
+      1049,
+      1755,
+      3216,
+      3505,
+      3506,
+      3668,
+      52942
+    ]
+  },
+  "183": {
+    "name": "牧野 信一",
+    "url": "https://www.aozora.gr.jp/index_pages/person183.html",
+    "id": 183,
+    "bookIds": [
+      45222,
+      45316,
+      45336,
+      45352,
+      49719,
+      52873,
+      52919
+    ]
+  },
+  "189": {
+    "name": "武田 麟太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person189.html",
+    "id": 189,
+    "bookIds": [
+      980,
+      1557
+    ]
+  },
+  "190": {
+    "name": "大手 拓次",
+    "url": "https://www.aozora.gr.jp/index_pages/person190.html",
+    "id": 190,
+    "bookIds": [
+      1029
+    ]
+  },
+  "195": {
+    "name": "尾崎 放哉",
+    "url": "https://www.aozora.gr.jp/index_pages/person195.html",
+    "id": 195,
+    "bookIds": [
+      974,
+      49787
+    ]
+  },
+  "196": {
+    "name": "鴨 長明",
+    "url": "https://www.aozora.gr.jp/index_pages/person196.html",
+    "id": 196,
+    "bookIds": [
+      975
+    ]
+  },
+  "207": {
+    "name": "ゴーゴリ ニコライ",
+    "url": "https://www.aozora.gr.jp/index_pages/person207.html",
+    "id": 207,
+    "bookIds": [
+      357,
+      372,
+      24382,
+      42217,
+      42284
+    ]
+  },
+  "212": {
+    "name": "竹久 夢二",
+    "url": "https://www.aozora.gr.jp/index_pages/person212.html",
+    "id": 212,
+    "bookIds": [
+      46421,
+      46434
+    ]
+  },
+  "214": {
+    "name": "田山 花袋",
+    "url": "https://www.aozora.gr.jp/index_pages/person214.html",
+    "id": 214,
+    "bookIds": [
+      1066,
+      1098,
+      1668,
+      1669,
+      48809,
+      48823,
+      48853,
+      48906,
+      48951,
+      48969,
+      48987,
+      50207,
+      58938
+    ]
+  },
+  "216": {
+    "name": "直木 三十五",
+    "url": "https://www.aozora.gr.jp/index_pages/person216.html",
+    "id": 216,
+    "bookIds": [
+      1069,
+      1715,
+      1722,
+      2518,
+      45567,
+      46416,
+      49315,
+      57315
+    ]
+  },
+  "218": {
+    "name": "三木 清",
+    "url": "https://www.aozora.gr.jp/index_pages/person218.html",
+    "id": 218,
+    "bookIds": [
+      1914,
+      43023,
+      46212,
+      46213,
+      46220,
+      46226,
+      46845,
+      46946,
+      50264,
+      50535
+    ]
+  },
+  "220": {
+    "name": "吉江 喬松",
+    "url": "https://www.aozora.gr.jp/index_pages/person220.html",
+    "id": 220,
+    "bookIds": [
+      49586
+    ]
+  },
+  "221": {
+    "name": "平林 初之輔",
+    "url": "https://www.aozora.gr.jp/index_pages/person221.html",
+    "id": 221,
+    "bookIds": [
+      47473,
+      48007,
+      48008,
+      48091,
+      48099,
+      48103,
+      48109,
+      48110
+    ]
+  },
+  "224": {
+    "name": "小泉 節子",
+    "url": "https://www.aozora.gr.jp/index_pages/person224.html",
+    "id": 224,
+    "bookIds": [
+      1119
+    ]
+  },
+  "226": {
+    "name": "アレニウス スヴァンテ",
+    "url": "https://www.aozora.gr.jp/index_pages/person226.html",
+    "id": 226,
+    "bookIds": [
+      1150
+    ]
+  },
+  "227": {
+    "name": "生田 春月",
+    "url": "https://www.aozora.gr.jp/index_pages/person227.html",
+    "id": 227,
+    "bookIds": [
+      1151
+    ]
+  },
+  "228": {
+    "name": "井沢 衣水",
+    "url": "https://www.aozora.gr.jp/index_pages/person228.html",
+    "id": 228,
+    "bookIds": [
+      1152
+    ]
+  },
+  "230": {
+    "name": "石原 莞爾",
+    "url": "https://www.aozora.gr.jp/index_pages/person230.html",
+    "id": 230,
+    "bookIds": [
+      1154,
+      1156
+    ]
+  },
+  "231": {
+    "name": "伊丹 万作",
+    "url": "https://www.aozora.gr.jp/index_pages/person231.html",
+    "id": 231,
+    "bookIds": [
+      43639,
+      43873,
+      50251
+    ]
+  },
+  "232": {
+    "name": "伊波 普猷",
+    "url": "https://www.aozora.gr.jp/index_pages/person232.html",
+    "id": 232,
+    "bookIds": [
+      54136,
+      54137
+    ]
+  },
+  "235": {
+    "name": "上田 敏",
+    "url": "https://www.aozora.gr.jp/index_pages/person235.html",
+    "id": 235,
+    "bookIds": [
+      2259,
+      51172,
+      51173,
+      55233
+    ]
+  },
+  "236": {
+    "name": "大阪 圭吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person236.html",
+    "id": 236,
+    "bookIds": [
+      1260,
+      1262,
+      1264,
+      1265,
+      1266,
+      1267,
+      1268
+    ]
+  },
+  "237": {
+    "name": "大町 桂月",
+    "url": "https://www.aozora.gr.jp/index_pages/person237.html",
+    "id": 237,
+    "bookIds": [
+      48681,
+      50024
+    ]
+  },
+  "238": {
+    "name": "岡倉 天心",
+    "url": "https://www.aozora.gr.jp/index_pages/person238.html",
+    "id": 238,
+    "bookIds": [
+      1276
+    ]
+  },
+  "241": {
+    "name": "小栗 風葉",
+    "url": "https://www.aozora.gr.jp/index_pages/person241.html",
+    "id": 241,
+    "bookIds": [
+      53034
+    ]
+  },
+  "242": {
+    "name": "尾崎 秀実",
+    "url": "https://www.aozora.gr.jp/index_pages/person242.html",
+    "id": 242,
+    "bookIds": [
+      1322
+    ]
+  },
+  "245": {
+    "name": "加藤 文太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person245.html",
+    "id": 245,
+    "bookIds": [
+      1330
+    ]
+  },
+  "247": {
+    "name": "加能 作次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person247.html",
+    "id": 247,
+    "bookIds": [
+      45644,
+      45645,
+      45646
+    ]
+  },
+  "248": {
+    "name": "上司 小剣",
+    "url": "https://www.aozora.gr.jp/index_pages/person248.html",
+    "id": 248,
+    "bookIds": [
+      51226,
+      51227,
+      51228,
+      53488,
+      53520,
+      53539
+    ]
+  },
+  "249": {
+    "name": "嘉村 礒多",
+    "url": "https://www.aozora.gr.jp/index_pages/person249.html",
+    "id": 249,
+    "bookIds": [
+      49655
+    ]
+  },
+  "250": {
+    "name": "河上 肇",
+    "url": "https://www.aozora.gr.jp/index_pages/person250.html",
+    "id": 250,
+    "bookIds": [
+      18353
+    ]
+  },
+  "252": {
+    "name": "金 史良",
+    "url": "https://www.aozora.gr.jp/index_pages/person252.html",
+    "id": 252,
+    "bookIds": [
+      1398,
+      1399,
+      2929
+    ]
+  },
+  "255": {
+    "name": "国枝 史郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person255.html",
+    "id": 255,
+    "bookIds": [
+      1403,
+      43625,
+      45546,
+      47055,
+      47247,
+      47254,
+      47255,
+      47266,
+      47267,
+      47271,
+      47272,
+      47273,
+      47274,
+      47275,
+      47412,
+      47414,
+      47415,
+      47423,
+      47425,
+      47431,
+      47434
+    ]
+  },
+  "256": {
+    "name": "倉田 百三",
+    "url": "https://www.aozora.gr.jp/index_pages/person256.html",
+    "id": 256,
+    "bookIds": [
+      1412,
+      2590,
+      43463,
+      58308
+    ]
+  },
+  "258": {
+    "name": "小泉 八雲",
+    "url": "https://www.aozora.gr.jp/index_pages/person258.html",
+    "id": 258,
+    "bookIds": [
+      42926,
+      42927,
+      42928,
+      50326,
+      50327,
+      56949,
+      58038,
+      58129,
+      58146
+    ]
+  },
+  "259": {
+    "name": "小出 楢重",
+    "url": "https://www.aozora.gr.jp/index_pages/person259.html",
+    "id": 259,
+    "bookIds": [
+      3554
+    ]
+  },
+  "260": {
+    "name": "甲賀 三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person260.html",
+    "id": 260,
+    "bookIds": [
+      49263,
+      51267,
+      56541
+    ]
+  },
+  "261": {
+    "name": "幸徳 秋水",
+    "url": "https://www.aozora.gr.jp/index_pages/person261.html",
+    "id": 261,
+    "bookIds": [
+      4324,
+      48337
+    ]
+  },
+  "262": {
+    "name": "小酒井 不木",
+    "url": "https://www.aozora.gr.jp/index_pages/person262.html",
+    "id": 262,
+    "bookIds": [
+      47474,
+      48054,
+      48056,
+      48060,
+      48061,
+      48064,
+      48065,
+      48066,
+      48068,
+      48071,
+      48072,
+      48073,
+      48074,
+      48075,
+      48076,
+      48078,
+      48079,
+      48081,
+      48082,
+      48083,
+      48085,
+      48086,
+      56330,
+      56519
+    ]
+  },
+  "263": {
+    "name": "佐々木 喜善",
+    "url": "https://www.aozora.gr.jp/index_pages/person263.html",
+    "id": 263,
+    "bookIds": [
+      53817
+    ]
+  },
+  "264": {
+    "name": "シェークスピア ウィリアム",
+    "url": "https://www.aozora.gr.jp/index_pages/person264.html",
+    "id": 264,
+    "bookIds": [
+      42773
+    ]
+  },
+  "268": {
+    "name": "関根 金次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person268.html",
+    "id": 268,
+    "bookIds": [
+      1542
+    ]
+  },
+  "269": {
+    "name": "高神 覚昇",
+    "url": "https://www.aozora.gr.jp/index_pages/person269.html",
+    "id": 269,
+    "bookIds": [
+      1543
+    ]
+  },
+  "270": {
+    "name": "高村 光雲",
+    "url": "https://www.aozora.gr.jp/index_pages/person270.html",
+    "id": 270,
+    "bookIds": [
+      47035,
+      47041
+    ]
+  },
+  "271": {
+    "name": "高山 樗牛",
+    "url": "https://www.aozora.gr.jp/index_pages/person271.html",
+    "id": 271,
+    "bookIds": [
+      1556
+    ]
+  },
+  "275": {
+    "name": "近松 秋江",
+    "url": "https://www.aozora.gr.jp/index_pages/person275.html",
+    "id": 275,
+    "bookIds": [
+      1676,
+      53038
+    ]
+  },
+  "276": {
+    "name": "知里 幸恵",
+    "url": "https://www.aozora.gr.jp/index_pages/person276.html",
+    "id": 276,
+    "bookIds": [
+      45694
+    ]
+  },
+  "278": {
+    "name": "津村 信夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person278.html",
+    "id": 278,
+    "bookIds": [
+      51371
+    ]
+  },
+  "279": {
+    "name": "徳冨 健次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person279.html",
+    "id": 279,
+    "bookIds": [
+      1704
+    ]
+  },
+  "280": {
+    "name": "徳冨 蘆花",
+    "url": "https://www.aozora.gr.jp/index_pages/person280.html",
+    "id": 280,
+    "bookIds": [
+      1704,
+      1706,
+      1708,
+      58307
+    ]
+  },
+  "281": {
+    "name": "戸坂 潤",
+    "url": "https://www.aozora.gr.jp/index_pages/person281.html",
+    "id": 281,
+    "bookIds": [
+      1710,
+      1711,
+      1713,
+      3591,
+      3594,
+      3595,
+      3599,
+      3600,
+      3602,
+      3603,
+      3606,
+      43261,
+      43263,
+      43266,
+      55292
+    ]
+  },
+  "283": {
+    "name": "中里 介山",
+    "url": "https://www.aozora.gr.jp/index_pages/person283.html",
+    "id": 283,
+    "bookIds": [
+      1726,
+      3332,
+      4506,
+      49597,
+      50567
+    ]
+  },
+  "284": {
+    "name": "内藤 湖南",
+    "url": "https://www.aozora.gr.jp/index_pages/person284.html",
+    "id": 284,
+    "bookIds": [
+      1734,
+      2228,
+      4643,
+      50317
+    ]
+  },
+  "286": {
+    "name": "野口 雨情",
+    "url": "https://www.aozora.gr.jp/index_pages/person286.html",
+    "id": 286,
+    "bookIds": [
+      1757,
+      1758,
+      4082,
+      48374,
+      49167,
+      49169
+    ]
+  },
+  "288": {
+    "name": "ハイヤーム オマル",
+    "url": "https://www.aozora.gr.jp/index_pages/person288.html",
+    "id": 288,
+    "bookIds": [
+      1760
+    ]
+  },
+  "289": {
+    "name": "浜尾 四郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person289.html",
+    "id": 289,
+    "bookIds": [
+      1796,
+      51270,
+      51271,
+      51272,
+      51273
+    ]
+  },
+  "290": {
+    "name": "林 不忘",
+    "url": "https://www.aozora.gr.jp/index_pages/person290.html",
+    "id": 290,
+    "bookIds": [
+      24376,
+      46229
+    ]
+  },
+  "291": {
+    "name": "林 芙美子",
+    "url": "https://www.aozora.gr.jp/index_pages/person291.html",
+    "id": 291,
+    "bookIds": [
+      1813,
+      1814,
+      1816,
+      4599,
+      24355,
+      24361,
+      24372,
+      24375,
+      42159,
+      45307,
+      45649,
+      48338,
+      50922,
+      52236,
+      56044,
+      56871,
+      57369,
+      57374,
+      57375,
+      57898
+    ]
+  },
+  "293": {
+    "name": "原 民喜",
+    "url": "https://www.aozora.gr.jp/index_pages/person293.html",
+    "id": 293,
+    "bookIds": [
+      1821,
+      1855,
+      4680,
+      4769,
+      4771,
+      4773,
+      4778,
+      4785,
+      4788,
+      43538
+    ]
+  },
+  "295": {
+    "name": "広津 柳浪",
+    "url": "https://www.aozora.gr.jp/index_pages/person295.html",
+    "id": 295,
+    "bookIds": [
+      42145
+    ]
+  },
+  "296": {
+    "name": "福沢 諭吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person296.html",
+    "id": 296,
+    "bookIds": [
+      1864,
+      43064,
+      45664,
+      46684,
+      46686,
+      46734,
+      46826,
+      46827,
+      46890,
+      47061,
+      47219,
+      47293,
+      47343,
+      47353,
+      49279,
+      49756,
+      49778,
+      50298,
+      50553
+    ]
+  },
+  "301": {
+    "name": "穂積 陳重",
+    "url": "https://www.aozora.gr.jp/index_pages/person301.html",
+    "id": 301,
+    "bookIds": [
+      1872
+    ]
+  },
+  "303": {
+    "name": "本庄 陸男",
+    "url": "https://www.aozora.gr.jp/index_pages/person303.html",
+    "id": 303,
+    "bookIds": [
+      1875
+    ]
+  },
+  "304": {
+    "name": "牧 逸馬",
+    "url": "https://www.aozora.gr.jp/index_pages/person304.html",
+    "id": 304,
+    "bookIds": [
+      43648,
+      46411,
+      46472,
+      46477,
+      46494,
+      46495
+    ]
+  },
+  "305": {
+    "name": "正岡 子規",
+    "url": "https://www.aozora.gr.jp/index_pages/person305.html",
+    "id": 305,
+    "bookIds": [
+      1897,
+      1903,
+      2532,
+      2533,
+      2534,
+      2535,
+      3621,
+      4429,
+      42167,
+      42169,
+      43051,
+      43494,
+      43495,
+      43537,
+      43619,
+      46534,
+      47985,
+      49584,
+      50383,
+      50384,
+      50386,
+      50388,
+      50391,
+      50392,
+      50393,
+      50396,
+      50400,
+      50402,
+      52299,
+      57351,
+      57361,
+      57363
+    ]
+  },
+  "308": {
+    "name": "松本 泰",
+    "url": "https://www.aozora.gr.jp/index_pages/person308.html",
+    "id": 308,
+    "bookIds": [
+      56564
+    ]
+  },
+  "309": {
+    "name": "真山 青果",
+    "url": "https://www.aozora.gr.jp/index_pages/person309.html",
+    "id": 309,
+    "bookIds": [
+      51936
+    ]
+  },
+  "310": {
+    "name": "三上 於菟吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person310.html",
+    "id": 310,
+    "bookIds": [
+      1911,
+      4353,
+      55137
+    ]
+  },
+  "311": {
+    "name": "宮本 百合子",
+    "url": "https://www.aozora.gr.jp/index_pages/person311.html",
+    "id": 311,
+    "bookIds": [
+      1991,
+      2011,
+      2015,
+      2025,
+      2867,
+      2897,
+      2913,
+      3110,
+      3134,
+      3265,
+      3436,
+      3482,
+      3496,
+      3718,
+      3851,
+      3906,
+      3930,
+      3938,
+      15962,
+      16013,
+      33189,
+      33190,
+      33193,
+      46236,
+      46240
+    ]
+  },
+  "315": {
+    "name": "森 林太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person315.html",
+    "id": 315,
+    "bookIds": [
+      49246,
+      49247,
+      53712,
+      53713
+    ]
+  },
+  "317": {
+    "name": "矢田 津世子",
+    "url": "https://www.aozora.gr.jp/index_pages/person317.html",
+    "id": 317,
+    "bookIds": [
+      47443
+    ]
+  },
+  "318": {
+    "name": "山川 登美子",
+    "url": "https://www.aozora.gr.jp/index_pages/person318.html",
+    "id": 318,
+    "bookIds": [
+      2086
+    ]
+  },
+  "320": {
+    "name": "与謝野 寛",
+    "url": "https://www.aozora.gr.jp/index_pages/person320.html",
+    "id": 320,
+    "bookIds": [
+      2168,
+      43481
+    ]
+  },
+  "325": {
+    "name": "蘭 郁二郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person325.html",
+    "id": 325,
+    "bookIds": [
+      2187,
+      43436
+    ]
+  },
+  "329": {
+    "name": "楠山 正雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person329.html",
+    "id": 329,
+    "bookIds": [
+      3390,
+      3391,
+      18334,
+      18335,
+      18337,
+      18376,
+      18377,
+      18378,
+      18383,
+      18385,
+      43124,
+      43457,
+      43460
+    ]
+  },
+  "338": {
+    "name": "フランス アナトール",
+    "url": "https://www.aozora.gr.jp/index_pages/person338.html",
+    "id": 338,
+    "bookIds": [
+      2289
+    ]
+  },
+  "340": {
+    "name": "ガールシン フセヴォロド・ミハイロヴィチ",
+    "url": "https://www.aozora.gr.jp/index_pages/person340.html",
+    "id": 340,
+    "bookIds": [
+      48128
+    ]
+  },
+  "342": {
+    "name": "柴田 流星",
+    "url": "https://www.aozora.gr.jp/index_pages/person342.html",
+    "id": 342,
+    "bookIds": [
+      2391
+    ]
+  },
+  "348": {
+    "name": "范 曄",
+    "url": "https://www.aozora.gr.jp/index_pages/person348.html",
+    "id": 348,
+    "bookIds": [
+      51147
+    ]
+  },
+  "351": {
+    "name": "増田 雅子",
+    "url": "https://www.aozora.gr.jp/index_pages/person351.html",
+    "id": 351,
+    "bookIds": [
+      2086
+    ]
+  },
+  "354": {
+    "name": "勝 海舟",
+    "url": "https://www.aozora.gr.jp/index_pages/person354.html",
+    "id": 354,
+    "bookIds": [
+      2405,
+      46190,
+      46191,
+      46192,
+      46827,
+      48282
+    ]
+  },
+  "355": {
+    "name": "上村 松園",
+    "url": "https://www.aozora.gr.jp/index_pages/person355.html",
+    "id": 355,
+    "bookIds": [
+      46527,
+      46530,
+      47320,
+      47330
+    ]
+  },
+  "361": {
+    "name": "トルストイ レオ",
+    "url": "https://www.aozora.gr.jp/index_pages/person361.html",
+    "id": 361,
+    "bookIds": [
+      2067,
+      42941
+    ]
+  },
+  "363": {
+    "name": "ドストエフスキー フィヨードル・ミハイロヴィチ",
+    "url": "https://www.aozora.gr.jp/index_pages/person363.html",
+    "id": 363,
+    "bookIds": [
+      2069,
+      42286,
+      46886,
+      47042,
+      47043,
+      57393
+    ]
+  },
+  "368": {
+    "name": "添田 唖蝉坊",
+    "url": "https://www.aozora.gr.jp/index_pages/person368.html",
+    "id": 368,
+    "bookIds": [
+      3222
+    ]
+  },
+  "372": {
+    "name": "桑原 隲蔵",
+    "url": "https://www.aozora.gr.jp/index_pages/person372.html",
+    "id": 372,
+    "bookIds": [
+      2588,
+      4270,
+      42810,
+      44908,
+      49147
+    ]
+  },
+  "388": {
+    "name": "淡島 寒月",
+    "url": "https://www.aozora.gr.jp/index_pages/person388.html",
+    "id": 388,
+    "bookIds": [
+      4957
+    ]
+  },
+  "392": {
+    "name": "生田 葵山",
+    "url": "https://www.aozora.gr.jp/index_pages/person392.html",
+    "id": 392,
+    "bookIds": [
+      58856
+    ]
+  },
+  "398": {
+    "name": "池谷 信三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person398.html",
+    "id": 398,
+    "bookIds": [
+      55988
+    ]
+  },
+  "416": {
+    "name": "伊藤 野枝",
+    "url": "https://www.aozora.gr.jp/index_pages/person416.html",
+    "id": 416,
+    "bookIds": [
+      47401,
+      47403,
+      47405,
+      47407,
+      47410,
+      56236,
+      57053,
+      57154
+    ]
+  },
+  "430": {
+    "name": "伊良子 清白",
+    "url": "https://www.aozora.gr.jp/index_pages/person430.html",
+    "id": 430,
+    "bookIds": [
+      49851
+    ]
+  },
+  "448": {
+    "name": "江見 水蔭",
+    "url": "https://www.aozora.gr.jp/index_pages/person448.html",
+    "id": 448,
+    "bookIds": [
+      53674
+    ]
+  },
+  "457": {
+    "name": "大槻 文彦",
+    "url": "https://www.aozora.gr.jp/index_pages/person457.html",
+    "id": 457,
+    "bookIds": [
+      43528
+    ]
+  },
+  "488": {
+    "name": "小柳 司気太",
+    "url": "https://www.aozora.gr.jp/index_pages/person488.html",
+    "id": 488,
+    "bookIds": [
+      52714
+    ]
+  },
+  "491": {
+    "name": "片岡 鉄兵",
+    "url": "https://www.aozora.gr.jp/index_pages/person491.html",
+    "id": 491,
+    "bookIds": [
+      52349
+    ]
+  },
+  "492": {
+    "name": "片上 伸",
+    "url": "https://www.aozora.gr.jp/index_pages/person492.html",
+    "id": 492,
+    "bookIds": [
+      42252
+    ]
+  },
+  "506": {
+    "name": "河合 栄治郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person506.html",
+    "id": 506,
+    "bookIds": [
+      46196
+    ]
+  },
+  "514": {
+    "name": "菊池 幽芳",
+    "url": "https://www.aozora.gr.jp/index_pages/person514.html",
+    "id": 514,
+    "bookIds": [
+      57158
+    ]
+  },
+  "525": {
+    "name": "木下 尚江",
+    "url": "https://www.aozora.gr.jp/index_pages/person525.html",
+    "id": 525,
+    "bookIds": [
+      43027
+    ]
+  },
+  "526": {
+    "name": "木下 利玄",
+    "url": "https://www.aozora.gr.jp/index_pages/person526.html",
+    "id": 526,
+    "bookIds": [
+      46671
+    ]
+  },
+  "535": {
+    "name": "桐生 悠々",
+    "url": "https://www.aozora.gr.jp/index_pages/person535.html",
+    "id": 535,
+    "bookIds": [
+      4621
+    ]
+  },
+  "564": {
+    "name": "斎藤 秀三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person564.html",
+    "id": 564,
+    "bookIds": [
+      52368
+    ]
+  },
+  "565": {
+    "name": "斎藤 緑雨",
+    "url": "https://www.aozora.gr.jp/index_pages/person565.html",
+    "id": 565,
+    "bookIds": [
+      48686,
+      51949
+    ]
+  },
+  "575": {
+    "name": "佐藤 紅緑",
+    "url": "https://www.aozora.gr.jp/index_pages/person575.html",
+    "id": 575,
+    "bookIds": [
+      3585
+    ]
+  },
+  "577": {
+    "name": "佐藤 惣之助",
+    "url": "https://www.aozora.gr.jp/index_pages/person577.html",
+    "id": 577,
+    "bookIds": [
+      46567,
+      46569
+    ]
+  },
+  "595": {
+    "name": "島田 清次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person595.html",
+    "id": 595,
+    "bookIds": [
+      46166
+    ]
+  },
+  "603": {
+    "name": "白鳥 庫吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person603.html",
+    "id": 603,
+    "bookIds": [
+      52230
+    ]
+  },
+  "606": {
+    "name": "杉田 久女",
+    "url": "https://www.aozora.gr.jp/index_pages/person606.html",
+    "id": 606,
+    "bookIds": [
+      44910
+    ]
+  },
+  "649": {
+    "name": "田中 正造",
+    "url": "https://www.aozora.gr.jp/index_pages/person649.html",
+    "id": 649,
+    "bookIds": [
+      4889,
+      4892
+    ]
+  },
+  "678": {
+    "name": "富永 太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person678.html",
+    "id": 678,
+    "bookIds": [
+      55466,
+      55476,
+      55482,
+      55483
+    ]
+  },
+  "684": {
+    "name": "内藤 鳴雪",
+    "url": "https://www.aozora.gr.jp/index_pages/person684.html",
+    "id": 684,
+    "bookIds": [
+      4829
+    ]
+  },
+  "712": {
+    "name": "成島 柳北",
+    "url": "https://www.aozora.gr.jp/index_pages/person712.html",
+    "id": 712,
+    "bookIds": [
+      52341,
+      52363,
+      52558,
+      52944,
+      52957
+    ]
+  },
+  "718": {
+    "name": "新渡戸 稲造",
+    "url": "https://www.aozora.gr.jp/index_pages/person718.html",
+    "id": 718,
+    "bookIds": [
+      43675,
+      46288,
+      50530,
+      50670,
+      50744,
+      50746,
+      50897,
+      50898,
+      51148
+    ]
+  },
+  "726": {
+    "name": "長谷川 時雨",
+    "url": "https://www.aozora.gr.jp/index_pages/person726.html",
+    "id": 726,
+    "bookIds": [
+      4329,
+      4353,
+      45978,
+      45980,
+      45986,
+      45988,
+      45989,
+      47675,
+      54888
+    ]
+  },
+  "740": {
+    "name": "原口 統三",
+    "url": "https://www.aozora.gr.jp/index_pages/person740.html",
+    "id": 740,
+    "bookIds": [
+      49078
+    ]
+  },
+  "748": {
+    "name": "平田 晋策",
+    "url": "https://www.aozora.gr.jp/index_pages/person748.html",
+    "id": 748,
+    "bookIds": [
+      46576
+    ]
+  },
+  "754": {
+    "name": "福士 幸次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person754.html",
+    "id": 754,
+    "bookIds": [
+      51947
+    ]
+  },
+  "788": {
+    "name": "三浦 環",
+    "url": "https://www.aozora.gr.jp/index_pages/person788.html",
+    "id": 788,
+    "bookIds": [
+      54343
+    ]
+  },
+  "800": {
+    "name": "水上 滝太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person800.html",
+    "id": 800,
+    "bookIds": [
+      51211
+    ]
+  },
+  "802": {
+    "name": "三宅 花圃",
+    "url": "https://www.aozora.gr.jp/index_pages/person802.html",
+    "id": 802,
+    "bookIds": [
+      46650
+    ]
+  },
+  "810": {
+    "name": "村井 弦斎",
+    "url": "https://www.aozora.gr.jp/index_pages/person810.html",
+    "id": 810,
+    "bookIds": [
+      49947,
+      50686,
+      52355
+    ]
+  },
+  "815": {
+    "name": "村上 浪六",
+    "url": "https://www.aozora.gr.jp/index_pages/person815.html",
+    "id": 815,
+    "bookIds": [
+      54490
+    ]
+  },
+  "827": {
+    "name": "森本 薫",
+    "url": "https://www.aozora.gr.jp/index_pages/person827.html",
+    "id": 827,
+    "bookIds": [
+      3411,
+      4332
+    ]
+  },
+  "843": {
+    "name": "山田 美妙",
+    "url": "https://www.aozora.gr.jp/index_pages/person843.html",
+    "id": 843,
+    "bookIds": [
+      42349
+    ]
+  },
+  "874": {
+    "name": "尾形 亀之助",
+    "url": "https://www.aozora.gr.jp/index_pages/person874.html",
+    "id": 874,
+    "bookIds": [
+      3213,
+      3396
+    ]
+  },
+  "879": {
+    "name": "芥川 竜之介",
+    "url": "https://www.aozora.gr.jp/index_pages/person879.html",
+    "id": 879,
+    "bookIds": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      26,
+      28,
+      29,
+      31,
+      32,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      47,
+      49,
+      50,
+      51,
+      52,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      83,
+      85,
+      86,
+      88,
+      90,
+      91,
+      92,
+      93,
+      95,
+      98,
+      100,
+      102,
+      103,
+      105,
+      106,
+      108,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      133,
+      134,
+      136,
+      138,
+      140,
+      141,
+      142,
+      143,
+      144,
+      146,
+      147,
+      148,
+      149,
+      153,
+      155,
+      156,
+      158,
+      159,
+      161,
+      163,
+      165,
+      166,
+      167,
+      169,
+      170,
+      171,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      182,
+      184,
+      185,
+      186,
+      188,
+      191,
+      1031,
+      1124,
+      1126,
+      1130,
+      1131,
+      1138,
+      1140,
+      1141,
+      2321,
+      2323,
+      2325,
+      2327,
+      2328,
+      2366,
+      2368,
+      3741,
+      3742,
+      3745,
+      3748,
+      3750,
+      3751,
+      3755,
+      3761,
+      3762,
+      3763,
+      3765,
+      3766,
+      3767,
+      3770,
+      3772,
+      3776,
+      3784,
+      3795,
+      3799,
+      3800,
+      3802,
+      3803,
+      3804,
+      3809,
+      3811,
+      3814,
+      3815,
+      3820,
+      3825,
+      3826,
+      3827,
+      4274,
+      4276,
+      4277,
+      4279,
+      4312,
+      4313,
+      4628,
+      4871,
+      4872,
+      16033,
+      16034,
+      24451,
+      24452,
+      24453,
+      24454,
+      33202,
+      42377,
+      43014,
+      43015,
+      43016,
+      43017,
+      43361,
+      43362,
+      43363,
+      43366,
+      43368,
+      43370,
+      43371,
+      43388,
+      43390,
+      43751,
+      45623,
+      45761,
+      46672,
+      49328,
+      51215,
+      51217,
+      51864,
+      51865,
+      55721,
+      56820
+    ]
+  },
+  "885": {
+    "name": "与謝野 晶子",
+    "url": "https://www.aozora.gr.jp/index_pages/person885.html",
+    "id": 885,
+    "bookIds": [
+      809,
+      2086,
+      2168,
+      2557,
+      3319,
+      3320,
+      3323,
+      3325,
+      3631,
+      43481,
+      51307,
+      58287
+    ]
+  },
+  "886": {
+    "name": "泉 鏡太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person886.html",
+    "id": 886,
+    "bookIds": [
+      4584,
+      4586,
+      4588,
+      4594,
+      43466,
+      50768,
+      50769,
+      50770,
+      50774,
+      50780,
+      50781,
+      50784,
+      50786,
+      50788,
+      50790,
+      50791,
+      50792,
+      50793,
+      50794,
+      50797,
+      57484,
+      57486,
+      57489
+    ]
+  },
+  "888": {
+    "name": "スティーブンソン ロバート・ルイス",
+    "url": "https://www.aozora.gr.jp/index_pages/person888.html",
+    "id": 888,
+    "bookIds": [
+      33205,
+      33206,
+      45117,
+      45118,
+      45119,
+      45120,
+      51162,
+      51164
+    ]
+  },
+  "903": {
+    "name": "モーパッサン ギ・ド",
+    "url": "https://www.aozora.gr.jp/index_pages/person903.html",
+    "id": 903,
+    "bookIds": [
+      4092,
+      42197,
+      43555,
+      43651,
+      43837,
+      47076
+    ]
+  },
+  "905": {
+    "name": "ホーソーン ナサニエル",
+    "url": "https://www.aozora.gr.jp/index_pages/person905.html",
+    "id": 905,
+    "bookIds": [
+      4105,
+      18330
+    ]
+  },
+  "906": {
+    "name": "豊島 与志雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person906.html",
+    "id": 906,
+    "bookIds": [
+      42419,
+      42459,
+      42567,
+      42587,
+      42707,
+      42735,
+      42744,
+      45056,
+      45058,
+      45061,
+      45062,
+      45064,
+      45066,
+      45068,
+      46860,
+      46861
+    ]
+  },
+  "908": {
+    "name": "坂本 竜馬",
+    "url": "https://www.aozora.gr.jp/index_pages/person908.html",
+    "id": 908,
+    "bookIds": [
+      4254,
+      51377,
+      51381,
+      51386,
+      51387,
+      51388,
+      51392,
+      51396,
+      51400,
+      51412,
+      51421,
+      51734,
+      51846,
+      51924,
+      51929,
+      51942,
+      51969,
+      52033,
+      52127,
+      52128,
+      52154,
+      52155,
+      52174
+    ]
+  },
+  "912": {
+    "name": "スウィフト ジョナサン",
+    "url": "https://www.aozora.gr.jp/index_pages/person912.html",
+    "id": 912,
+    "bookIds": [
+      4673
+    ]
+  },
+  "914": {
+    "name": "ディケンズ チャールズ",
+    "url": "https://www.aozora.gr.jp/index_pages/person914.html",
+    "id": 914,
+    "bookIds": [
+      4328,
+      42302,
+      43702
+    ]
+  },
+  "922": {
+    "name": "末弘 厳太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person922.html",
+    "id": 922,
+    "bookIds": [
+      45642,
+      47098,
+      47100
+    ]
+  },
+  "924": {
+    "name": "永井 隆",
+    "url": "https://www.aozora.gr.jp/index_pages/person924.html",
+    "id": 924,
+    "bookIds": [
+      49192,
+      50659,
+      54870
+    ]
+  },
+  "927": {
+    "name": "穂積 重遠",
+    "url": "https://www.aozora.gr.jp/index_pages/person927.html",
+    "id": 927,
+    "bookIds": [
+      50236
+    ]
+  },
+  "929": {
+    "name": "宮島 資夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person929.html",
+    "id": 929,
+    "bookIds": [
+      47001
+    ]
+  },
+  "930": {
+    "name": "山本 禾太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person930.html",
+    "id": 930,
+    "bookIds": [
+      49701,
+      49702
+    ]
+  },
+  "933": {
+    "name": "折口 信夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person933.html",
+    "id": 933,
+    "bookIds": [
+      4388,
+      4398,
+      4910,
+      13212,
+      18391,
+      18395,
+      18402,
+      18408,
+      18410,
+      18411,
+      24379,
+      24380,
+      24436,
+      42238,
+      46962,
+      47023,
+      47175,
+      47176,
+      47184,
+      47185,
+      47187,
+      47194,
+      47196,
+      47197,
+      47202,
+      47549,
+      47550,
+      47687,
+      47716,
+      47720,
+      47722,
+      47792,
+      47794,
+      47807,
+      58168
+    ]
+  },
+  "940": {
+    "name": "別所 梅之助",
+    "url": "https://www.aozora.gr.jp/index_pages/person940.html",
+    "id": 940,
+    "bookIds": [
+      49594
+    ]
+  },
+  "941": {
+    "name": "水野 葉舟",
+    "url": "https://www.aozora.gr.jp/index_pages/person941.html",
+    "id": 941,
+    "bookIds": [
+      51137
+    ]
+  },
+  "959": {
+    "name": "相馬 御風",
+    "url": "https://www.aozora.gr.jp/index_pages/person959.html",
+    "id": 959,
+    "bookIds": [
+      51380
+    ]
+  },
+  "961": {
+    "name": "ダンテ アリギエリ",
+    "url": "https://www.aozora.gr.jp/index_pages/person961.html",
+    "id": 961,
+    "bookIds": [
+      4618,
+      4820,
+      42184
+    ]
+  },
+  "963": {
+    "name": "野上 豊一郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person963.html",
+    "id": 963,
+    "bookIds": [
+      43102,
+      45634
+    ]
+  },
+  "966": {
+    "name": "海若 藍平",
+    "url": "https://www.aozora.gr.jp/index_pages/person966.html",
+    "id": 966,
+    "bookIds": [
+      928,
+      937
+    ]
+  },
+  "967": {
+    "name": "香倶土 三鳥",
+    "url": "https://www.aozora.gr.jp/index_pages/person967.html",
+    "id": 967,
+    "bookIds": [
+      46717,
+      46720
+    ]
+  },
+  "968": {
+    "name": "かぐつち みどり",
+    "url": "https://www.aozora.gr.jp/index_pages/person968.html",
+    "id": 968,
+    "bookIds": [
+      932
+    ]
+  },
+  "969": {
+    "name": "杉山 萠円",
+    "url": "https://www.aozora.gr.jp/index_pages/person969.html",
+    "id": 969,
+    "bookIds": [
+      939,
+      940,
+      2142
+    ]
+  },
+  "970": {
+    "name": "とだ けん",
+    "url": "https://www.aozora.gr.jp/index_pages/person970.html",
+    "id": 970,
+    "bookIds": [
+      925
+    ]
+  },
+  "973": {
+    "name": "三鳥山人 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person973.html",
+    "id": 973,
+    "bookIds": [
+      916
+    ]
+  },
+  "978": {
+    "name": "竹越 与三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person978.html",
+    "id": 978,
+    "bookIds": [
+      45973
+    ]
+  },
+  "981": {
+    "name": "巌谷 小波",
+    "url": "https://www.aozora.gr.jp/index_pages/person981.html",
+    "id": 981,
+    "bookIds": [
+      3646
+    ]
+  },
+  "984": {
+    "name": "葛西 善蔵",
+    "url": "https://www.aozora.gr.jp/index_pages/person984.html",
+    "id": 984,
+    "bookIds": [
+      47059,
+      49754,
+      49755,
+      51218,
+      51220
+    ]
+  },
+  "989": {
+    "name": "三遊亭 円朝",
+    "url": "https://www.aozora.gr.jp/index_pages/person989.html",
+    "id": 989,
+    "bookIds": [
+      348,
+      350,
+      2577,
+      4298,
+      4489,
+      43874,
+      50081,
+      50082,
+      50084,
+      50085,
+      50087,
+      50088,
+      50089,
+      50090,
+      50092,
+      50097,
+      50098,
+      50099,
+      50100,
+      50101
+    ]
+  },
+  "997": {
+    "name": "北条 民雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person997.html",
+    "id": 997,
+    "bookIds": [
+      398,
+      46893,
+      46895,
+      46905,
+      46978
+    ]
+  },
+  "1011": {
+    "name": "波多野 精一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1011.html",
+    "id": 1011,
+    "bookIds": [
+      42752
+    ]
+  },
+  "1017": {
+    "name": "三上 義夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1017.html",
+    "id": 1017,
+    "bookIds": [
+      47291,
+      47292
+    ]
+  },
+  "1021": {
+    "name": "井上 円了",
+    "url": "https://www.aozora.gr.jp/index_pages/person1021.html",
+    "id": 1021,
+    "bookIds": [
+      4852,
+      49268,
+      49269,
+      49270,
+      49271,
+      49273,
+      49274,
+      49355,
+      49370,
+      49373,
+      49374,
+      49375,
+      50119
+    ]
+  },
+  "1025": {
+    "name": "ゲーテ ヨハン・ヴォルフガング・フォン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1025.html",
+    "id": 1025,
+    "bookIds": [
+      50909
+    ]
+  },
+  "1028": {
+    "name": "イプセン ヘンリック",
+    "url": "https://www.aozora.gr.jp/index_pages/person1028.html",
+    "id": 1028,
+    "bookIds": [
+      4797
+    ]
+  },
+  "1029": {
+    "name": "デカルト ルネ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1029.html",
+    "id": 1029,
+    "bookIds": [
+      4730,
+      43291
+    ]
+  },
+  "1030": {
+    "name": "堀 辰雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1030.html",
+    "id": 1030,
+    "bookIds": [
+      4799,
+      4801,
+      4802,
+      4803,
+      4805,
+      4806,
+      4812,
+      4813,
+      4814,
+      4843,
+      47859,
+      47860,
+      47867,
+      47873,
+      47879,
+      47882,
+      47883,
+      47894,
+      47895,
+      47900,
+      47906,
+      47907,
+      47923,
+      47928,
+      47930,
+      47952,
+      47953,
+      48295,
+      48307,
+      52350,
+      55424
+    ]
+  },
+  "1034": {
+    "name": "浅野 和三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1034.html",
+    "id": 1034,
+    "bookIds": [
+      4823
+    ]
+  },
+  "1037": {
+    "name": "原 勝郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1037.html",
+    "id": 1037,
+    "bookIds": [
+      44427
+    ]
+  },
+  "1044": {
+    "name": "ド・ラ・ラメー マリー・ルイーズ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1044.html",
+    "id": 1044,
+    "bookIds": [
+      4880,
+      57302
+    ]
+  },
+  "1045": {
+    "name": "バーネット フランシス・ホジソン・エリザ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1045.html",
+    "id": 1045,
+    "bookIds": [
+      4881
+    ]
+  },
+  "1047": {
+    "name": "マロ エクトール・アンリ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1047.html",
+    "id": 1047,
+    "bookIds": [
+      42924
+    ]
+  },
+  "1048": {
+    "name": "アミーチス エドモンド・デ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1048.html",
+    "id": 1048,
+    "bookIds": [
+      45381
+    ]
+  },
+  "1049": {
+    "name": "ファーブル ジャン・アンリ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1049.html",
+    "id": 1049,
+    "bookIds": [
+      4920
+    ]
+  },
+  "1051": {
+    "name": "蒲  松齢",
+    "url": "https://www.aozora.gr.jp/index_pages/person1051.html",
+    "id": 1051,
+    "bookIds": [
+      4943
+    ]
+  },
+  "1052": {
+    "name": "久坂 葉子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1052.html",
+    "id": 1052,
+    "bookIds": [
+      4970,
+      13203
+    ]
+  },
+  "1053": {
+    "name": "峠 三吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1053.html",
+    "id": 1053,
+    "bookIds": [
+      4963
+    ]
+  },
+  "1054": {
+    "name": "浜田 青陵",
+    "url": "https://www.aozora.gr.jp/index_pages/person1054.html",
+    "id": 1054,
+    "bookIds": [
+      18371
+    ]
+  },
+  "1055": {
+    "name": "蒲原 有明",
+    "url": "https://www.aozora.gr.jp/index_pages/person1055.html",
+    "id": 1055,
+    "bookIds": [
+      43739,
+      46160,
+      46162
+    ]
+  },
+  "1059": {
+    "name": "斎藤 茂吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1059.html",
+    "id": 1059,
+    "bookIds": [
+      5082,
+      42237,
+      43501,
+      49599,
+      53508,
+      53933,
+      56884
+    ]
+  },
+  "1062": {
+    "name": "ストリンドベリ アウグスト",
+    "url": "https://www.aozora.gr.jp/index_pages/person1062.html",
+    "id": 1062,
+    "bookIds": [
+      50912
+    ]
+  },
+  "1065": {
+    "name": "高田 力",
+    "url": "https://www.aozora.gr.jp/index_pages/person1065.html",
+    "id": 1065,
+    "bookIds": [
+      18361
+    ]
+  },
+  "1066": {
+    "name": "ビアス アンブローズ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1066.html",
+    "id": 1066,
+    "bookIds": [
+      4091,
+      56034,
+      57401
+    ]
+  },
+  "1068": {
+    "name": "釈 迢空",
+    "url": "https://www.aozora.gr.jp/index_pages/person1068.html",
+    "id": 1068,
+    "bookIds": [
+      24379
+    ]
+  },
+  "1072": {
+    "name": "和田 万吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1072.html",
+    "id": 1072,
+    "bookIds": [
+      48310,
+      48322
+    ]
+  },
+  "1073": {
+    "name": "高田 保",
+    "url": "https://www.aozora.gr.jp/index_pages/person1073.html",
+    "id": 1073,
+    "bookIds": [
+      48336
+    ]
+  },
+  "1081": {
+    "name": "土井 晩翠",
+    "url": "https://www.aozora.gr.jp/index_pages/person1081.html",
+    "id": 1081,
+    "bookIds": [
+      42233
+    ]
+  },
+  "1082": {
+    "name": "相馬 泰三",
+    "url": "https://www.aozora.gr.jp/index_pages/person1082.html",
+    "id": 1082,
+    "bookIds": [
+      50182
+    ]
+  },
+  "1085": {
+    "name": "イエイツ ウィリアム・バトラー",
+    "url": "https://www.aozora.gr.jp/index_pages/person1085.html",
+    "id": 1085,
+    "bookIds": [
+      44,
+      1128
+    ]
+  },
+  "1086": {
+    "name": "ゴーチェ テオフィル",
+    "url": "https://www.aozora.gr.jp/index_pages/person1086.html",
+    "id": 1086,
+    "bookIds": [
+      4311
+    ]
+  },
+  "1088": {
+    "name": "プーシキン アレクサンドル・セルゲーヴィチ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1088.html",
+    "id": 1088,
+    "bookIds": [
+      42305
+    ]
+  },
+  "1090": {
+    "name": "オルコット ルイーザ・メイ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1090.html",
+    "id": 1090,
+    "bookIds": [
+      42307
+    ]
+  },
+  "1091": {
+    "name": "グリム ヤーコプ・ルードヴィッヒ・カール",
+    "url": "https://www.aozora.gr.jp/index_pages/person1091.html",
+    "id": 1091,
+    "bookIds": [
+      42308,
+      42309,
+      42310,
+      42311,
+      42312,
+      42313,
+      42314,
+      42315,
+      42316,
+      46167,
+      46344,
+      59404
+    ]
+  },
+  "1092": {
+    "name": "グリム ヴィルヘルム・カール",
+    "url": "https://www.aozora.gr.jp/index_pages/person1092.html",
+    "id": 1092,
+    "bookIds": [
+      42308,
+      42309,
+      42310,
+      42311,
+      42312,
+      42313,
+      42314,
+      42315,
+      42316,
+      46167,
+      46344,
+      59404
+    ]
+  },
+  "1093": {
+    "name": "ロラン ロマン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1093.html",
+    "id": 1093,
+    "bookIds": [
+      46822,
+      54931,
+      54932,
+      54933
+    ]
+  },
+  "1094": {
+    "name": "ユゴー ヴィクトル",
+    "url": "https://www.aozora.gr.jp/index_pages/person1094.html",
+    "id": 1094,
+    "bookIds": [
+      42600,
+      42601,
+      42602,
+      42603,
+      42604,
+      42606,
+      42610
+    ]
+  },
+  "1095": {
+    "name": "坂口 安吾",
+    "url": "https://www.aozora.gr.jp/index_pages/person1095.html",
+    "id": 1095,
+    "bookIds": [
+      42614,
+      42615,
+      42616,
+      42617,
+      42618,
+      42619,
+      42620,
+      42621,
+      42624,
+      42625,
+      42626,
+      42764,
+      42816,
+      42817,
+      42818,
+      42819,
+      42824,
+      42837,
+      42840,
+      42841,
+      42848,
+      42849,
+      42851,
+      42852,
+      42853,
+      42857,
+      42862,
+      42863,
+      42864,
+      42866,
+      42868,
+      42870,
+      42873,
+      42875,
+      42876,
+      42877,
+      42880,
+      42881,
+      42882,
+      42883,
+      42885,
+      42893,
+      42894,
+      42898,
+      42899,
+      42900,
+      42904,
+      42905,
+      42908,
+      42909,
+      42911,
+      42919,
+      42921,
+      42948,
+      42949,
+      42951,
+      42955,
+      42958,
+      42959,
+      42961,
+      42963,
+      42965,
+      42966,
+      42967,
+      42968,
+      42972,
+      43001,
+      43137,
+      43138,
+      43139,
+      43140,
+      43141,
+      43143,
+      43156,
+      43160,
+      43161,
+      43162,
+      43163,
+      43164,
+      43165,
+      43166,
+      43167,
+      43168,
+      43169,
+      43170,
+      43171,
+      43172,
+      43179,
+      43189,
+      43199,
+      43203,
+      43204,
+      43205,
+      43206,
+      43207,
+      43208,
+      43210,
+      43212,
+      43213,
+      43215,
+      43216,
+      43218,
+      43247,
+      43572,
+      44919,
+      45201,
+      45711,
+      45716,
+      45736,
+      45739,
+      45745,
+      45748,
+      45764,
+      45795,
+      45797,
+      45802,
+      45805,
+      45806,
+      45807,
+      45813,
+      45814,
+      45817,
+      45820,
+      45827,
+      45835,
+      45844,
+      45854,
+      45863,
+      45864,
+      45883,
+      45885,
+      45891,
+      45892,
+      45893,
+      45894,
+      45897,
+      45899,
+      45901,
+      45903,
+      45904,
+      45905,
+      45906,
+      45907,
+      45908,
+      45909,
+      45910,
+      45911,
+      45913,
+      45914,
+      45915,
+      45916,
+      45917,
+      45918,
+      45922,
+      45923,
+      45931,
+      45932,
+      45934,
+      45935,
+      45936,
+      45937,
+      45938,
+      56799,
+      56800,
+      56803,
+      56804,
+      56805,
+      56806,
+      56808,
+      56810,
+      56812,
+      56814,
+      56815,
+      56817,
+      56818,
+      56819,
+      56831,
+      56837,
+      56838,
+      57478,
+      57481,
+      59166
+    ]
+  },
+  "1097": {
+    "name": "下村 湖人",
+    "url": "https://www.aozora.gr.jp/index_pages/person1097.html",
+    "id": 1097,
+    "bookIds": [
+      42692,
+      42923,
+      43785,
+      43790,
+      58315
+    ]
+  },
+  "1099": {
+    "name": "ホーマー ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1099.html",
+    "id": 1099,
+    "bookIds": [
+      46996
+    ]
+  },
+  "1101": {
+    "name": "ミルトン ジョン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1101.html",
+    "id": 1101,
+    "bookIds": [
+      52384
+    ]
+  },
+  "1111": {
+    "name": "ブロンテ シャーロット",
+    "url": "https://www.aozora.gr.jp/index_pages/person1111.html",
+    "id": 1111,
+    "bookIds": [
+      42789
+    ]
+  },
+  "1119": {
+    "name": "岩波 茂雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1119.html",
+    "id": 1119,
+    "bookIds": [
+      42753,
+      49433
+    ]
+  },
+  "1120": {
+    "name": "須川 邦彦",
+    "url": "https://www.aozora.gr.jp/index_pages/person1120.html",
+    "id": 1120,
+    "bookIds": [
+      42767
+    ]
+  },
+  "1121": {
+    "name": "ルブラン モーリス",
+    "url": "https://www.aozora.gr.jp/index_pages/person1121.html",
+    "id": 1121,
+    "bookIds": [
+      42809,
+      46187,
+      47067
+    ]
+  },
+  "1123": {
+    "name": "チェスタートン ギルバート・キース",
+    "url": "https://www.aozora.gr.jp/index_pages/person1123.html",
+    "id": 1123,
+    "bookIds": [
+      42930,
+      42931,
+      42932
+    ]
+  },
+  "1124": {
+    "name": "魯迅 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1124.html",
+    "id": 1124,
+    "bookIds": [
+      42933,
+      42934,
+      42936,
+      42938,
+      42939,
+      43022,
+      43650
+    ]
+  },
+  "1127": {
+    "name": "狩野 直喜",
+    "url": "https://www.aozora.gr.jp/index_pages/person1127.html",
+    "id": 1127,
+    "bookIds": [
+      46285,
+      46298,
+      50702,
+      50703
+    ]
+  },
+  "1128": {
+    "name": "文部省 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1128.html",
+    "id": 1128,
+    "bookIds": [
+      43037
+    ]
+  },
+  "1132": {
+    "name": "平山 蘆江",
+    "url": "https://www.aozora.gr.jp/index_pages/person1132.html",
+    "id": 1132,
+    "bookIds": [
+      50540
+    ]
+  },
+  "1133": {
+    "name": "三田村 鳶魚",
+    "url": "https://www.aozora.gr.jp/index_pages/person1133.html",
+    "id": 1133,
+    "bookIds": [
+      56600,
+      56605
+    ]
+  },
+  "1134": {
+    "name": "ペロー シャルル",
+    "url": "https://www.aozora.gr.jp/index_pages/person1134.html",
+    "id": 1134,
+    "bookIds": [
+      43117,
+      43118,
+      43119,
+      43120
+    ]
+  },
+  "1135": {
+    "name": "ド・ヴィルヌーヴ ガブリエル=シュザンヌ・バルボ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1135.html",
+    "id": 1135,
+    "bookIds": [
+      43125
+    ]
+  },
+  "1138": {
+    "name": "マルクス カール・ハインリッヒ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1138.html",
+    "id": 1138,
+    "bookIds": [
+      47057
+    ]
+  },
+  "1139": {
+    "name": "エンゲルス フリードリッヒ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1139.html",
+    "id": 1139,
+    "bookIds": [
+      47057
+    ]
+  },
+  "1142": {
+    "name": "酒井 嘉七",
+    "url": "https://www.aozora.gr.jp/index_pages/person1142.html",
+    "id": 1142,
+    "bookIds": [
+      46471,
+      52947,
+      53050,
+      53054,
+      53058
+    ]
+  },
+  "1143": {
+    "name": "西尾 正",
+    "url": "https://www.aozora.gr.jp/index_pages/person1143.html",
+    "id": 1143,
+    "bookIds": [
+      55163
+    ]
+  },
+  "1147": {
+    "name": "相馬 愛蔵",
+    "url": "https://www.aozora.gr.jp/index_pages/person1147.html",
+    "id": 1147,
+    "bookIds": [
+      43526
+    ]
+  },
+  "1148": {
+    "name": "相馬 黒光",
+    "url": "https://www.aozora.gr.jp/index_pages/person1148.html",
+    "id": 1148,
+    "bookIds": [
+      43526
+    ]
+  },
+  "1149": {
+    "name": "マルサス トマス・ロバート",
+    "url": "https://www.aozora.gr.jp/index_pages/person1149.html",
+    "id": 1149,
+    "bookIds": [
+      43550
+    ]
+  },
+  "1151": {
+    "name": "久米 正雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1151.html",
+    "id": 1151,
+    "bookIds": [
+      43553,
+      46888,
+      49280,
+      51291,
+      52934
+    ]
+  },
+  "1153": {
+    "name": "長岡 半太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1153.html",
+    "id": 1153,
+    "bookIds": [
+      54328,
+      54447,
+      54450
+    ]
+  },
+  "1154": {
+    "name": "岸田 国士",
+    "url": "https://www.aozora.gr.jp/index_pages/person1154.html",
+    "id": 1154,
+    "bookIds": [
+      43804,
+      43805,
+      43807,
+      44634,
+      44651,
+      44660,
+      44732,
+      44745,
+      44782,
+      44814,
+      44858,
+      46989,
+      50657,
+      51828,
+      51836,
+      52081,
+      52082,
+      52087
+    ]
+  },
+  "1155": {
+    "name": "チェーホフ アントン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1155.html",
+    "id": 1155,
+    "bookIds": [
+      43598,
+      43644,
+      43645,
+      45762,
+      45763,
+      50220,
+      51292,
+      51352,
+      51365,
+      51389,
+      51736,
+      51860,
+      52293
+    ]
+  },
+  "1156": {
+    "name": "ルナール ジュール",
+    "url": "https://www.aozora.gr.jp/index_pages/person1156.html",
+    "id": 1156,
+    "bookIds": [
+      43603,
+      50658
+    ]
+  },
+  "1157": {
+    "name": "神西 清",
+    "url": "https://www.aozora.gr.jp/index_pages/person1157.html",
+    "id": 1157,
+    "bookIds": [
+      49843,
+      49844,
+      49845,
+      49847,
+      49848
+    ]
+  },
+  "1159": {
+    "name": "佐野 昌一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1159.html",
+    "id": 1159,
+    "bookIds": [
+      43533,
+      43628
+    ]
+  },
+  "1160": {
+    "name": "池田 菊苗",
+    "url": "https://www.aozora.gr.jp/index_pages/person1160.html",
+    "id": 1160,
+    "bookIds": [
+      43623
+    ]
+  },
+  "1163": {
+    "name": "仁科 芳雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1163.html",
+    "id": 1163,
+    "bookIds": [
+      54330
+    ]
+  },
+  "1166": {
+    "name": "中井 正一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1166.html",
+    "id": 1166,
+    "bookIds": [
+      43724,
+      43824,
+      43877,
+      46163,
+      46272
+    ]
+  },
+  "1168": {
+    "name": "高村 光太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1168.html",
+    "id": 1168,
+    "bookIds": [
+      46373,
+      46375,
+      46376,
+      46378,
+      46380,
+      46503,
+      46505,
+      46507,
+      46669,
+      56694
+    ]
+  },
+  "1172": {
+    "name": "村山 籌子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1172.html",
+    "id": 1172,
+    "bookIds": [
+      44957
+    ]
+  },
+  "1176": {
+    "name": "シェリー メアリー・ウォルストンクラフト",
+    "url": "https://www.aozora.gr.jp/index_pages/person1176.html",
+    "id": 1176,
+    "bookIds": [
+      44904
+    ]
+  },
+  "1178": {
+    "name": "テーラー ジェーン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1178.html",
+    "id": 1178,
+    "bookIds": [
+      45113
+    ]
+  },
+  "1179": {
+    "name": "土田 耕平",
+    "url": "https://www.aozora.gr.jp/index_pages/person1179.html",
+    "id": 1179,
+    "bookIds": [
+      45137,
+      45141,
+      45142
+    ]
+  },
+  "1180": {
+    "name": "沖野 岩三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1180.html",
+    "id": 1180,
+    "bookIds": [
+      54166
+    ]
+  },
+  "1188": {
+    "name": "野中 至",
+    "url": "https://www.aozora.gr.jp/index_pages/person1188.html",
+    "id": 1188,
+    "bookIds": [
+      49588
+    ]
+  },
+  "1189": {
+    "name": "ジェファーソン トマス",
+    "url": "https://www.aozora.gr.jp/index_pages/person1189.html",
+    "id": 1189,
+    "bookIds": [
+      45257
+    ]
+  },
+  "1190": {
+    "name": "アルテンベルク ペーター",
+    "url": "https://www.aozora.gr.jp/index_pages/person1190.html",
+    "id": 1190,
+    "bookIds": [
+      50913
+    ]
+  },
+  "1191": {
+    "name": "高木 敏雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1191.html",
+    "id": 1191,
+    "bookIds": [
+      55276
+    ]
+  },
+  "1192": {
+    "name": "ホーフマンスタール フーゴー・フォン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1192.html",
+    "id": 1192,
+    "bookIds": [
+      50914
+    ]
+  },
+  "1193": {
+    "name": "オイレンベルク ヘルベルト",
+    "url": "https://www.aozora.gr.jp/index_pages/person1193.html",
+    "id": 1193,
+    "bookIds": [
+      50915
+    ]
+  },
+  "1195": {
+    "name": "ダビット ヤーコプ・ユリウス",
+    "url": "https://www.aozora.gr.jp/index_pages/person1195.html",
+    "id": 1195,
+    "bookIds": [
+      50917
+    ]
+  },
+  "1197": {
+    "name": "伊東 静雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1197.html",
+    "id": 1197,
+    "bookIds": [
+      45280
+    ]
+  },
+  "1199": {
+    "name": "ソログープ フョードル",
+    "url": "https://www.aozora.gr.jp/index_pages/person1199.html",
+    "id": 1199,
+    "bookIds": [
+      56654
+    ]
+  },
+  "1205": {
+    "name": "下村 千秋",
+    "url": "https://www.aozora.gr.jp/index_pages/person1205.html",
+    "id": 1205,
+    "bookIds": [
+      45757,
+      46158,
+      46985,
+      46986,
+      46988,
+      48288
+    ]
+  },
+  "1211": {
+    "name": "清沢 満之",
+    "url": "https://www.aozora.gr.jp/index_pages/person1211.html",
+    "id": 1211,
+    "bookIds": [
+      45629
+    ]
+  },
+  "1212": {
+    "name": "中江 兆民",
+    "url": "https://www.aozora.gr.jp/index_pages/person1212.html",
+    "id": 1212,
+    "bookIds": [
+      49692
+    ]
+  },
+  "1216": {
+    "name": "井原 西鶴",
+    "url": "https://www.aozora.gr.jp/index_pages/person1216.html",
+    "id": 1216,
+    "bookIds": [
+      15938
+    ]
+  },
+  "1217": {
+    "name": "ヴァレリー ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1217.html",
+    "id": 1217,
+    "bookIds": [
+      45791
+    ]
+  },
+  "1222": {
+    "name": "高楠 順次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1222.html",
+    "id": 1222,
+    "bookIds": [
+      49616
+    ]
+  },
+  "1224": {
+    "name": "久生 十蘭",
+    "url": "https://www.aozora.gr.jp/index_pages/person1224.html",
+    "id": 1224,
+    "bookIds": [
+      46070,
+      46074,
+      46076,
+      46077,
+      46078,
+      46079,
+      46080,
+      46081,
+      46082,
+      46087,
+      46096,
+      46097,
+      46102,
+      46103,
+      46105,
+      46107,
+      46108,
+      46112,
+      46117,
+      46145,
+      46146,
+      46148,
+      46631,
+      47486,
+      47487,
+      47488,
+      47497,
+      48175,
+      52183,
+      52223,
+      52224,
+      54332,
+      58135,
+      58460
+    ]
+  },
+  "1228": {
+    "name": "辻村 もと子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1228.html",
+    "id": 1228,
+    "bookIds": [
+      46387
+    ]
+  },
+  "1229": {
+    "name": "クロポトキン ピョートル・アレクセーヴィチ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1229.html",
+    "id": 1229,
+    "bookIds": [
+      50507,
+      50508,
+      50510
+    ]
+  },
+  "1231": {
+    "name": "松本 文三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1231.html",
+    "id": 1231,
+    "bookIds": [
+      46296
+    ]
+  },
+  "1234": {
+    "name": "愛知 敬一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1234.html",
+    "id": 1234,
+    "bookIds": [
+      46340
+    ]
+  },
+  "1235": {
+    "name": "カフカ フランツ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1235.html",
+    "id": 1235,
+    "bookIds": [
+      49858,
+      49859,
+      49862,
+      49863,
+      49864,
+      49865,
+      49866,
+      49867,
+      53047
+    ]
+  },
+  "1236": {
+    "name": "チャペック カレル",
+    "url": "https://www.aozora.gr.jp/index_pages/person1236.html",
+    "id": 1236,
+    "bookIds": [
+      46345
+    ]
+  },
+  "1237": {
+    "name": "ニューヨーク・サン誌 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1237.html",
+    "id": 1237,
+    "bookIds": [
+      46346
+    ]
+  },
+  "1240": {
+    "name": "加藤 道夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1240.html",
+    "id": 1240,
+    "bookIds": [
+      46361
+    ]
+  },
+  "1242": {
+    "name": "坪井 正五郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1242.html",
+    "id": 1242,
+    "bookIds": [
+      46443,
+      46444
+    ]
+  },
+  "1245": {
+    "name": "会津 八一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1245.html",
+    "id": 1245,
+    "bookIds": [
+      46511,
+      57978,
+      58663
+    ]
+  },
+  "1246": {
+    "name": "恩地 孝四郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1246.html",
+    "id": 1246,
+    "bookIds": [
+      55502
+    ]
+  },
+  "1248": {
+    "name": "佐藤 垢石",
+    "url": "https://www.aozora.gr.jp/index_pages/person1248.html",
+    "id": 1248,
+    "bookIds": [
+      46564,
+      46740,
+      46790,
+      46802
+    ]
+  },
+  "1251": {
+    "name": "ゴールドマン エマ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1251.html",
+    "id": 1251,
+    "bookIds": [
+      46563
+    ]
+  },
+  "1256": {
+    "name": "小林 一三",
+    "url": "https://www.aozora.gr.jp/index_pages/person1256.html",
+    "id": 1256,
+    "bookIds": [
+      46655
+    ]
+  },
+  "1257": {
+    "name": "アーヴィング ワシントン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1257.html",
+    "id": 1257,
+    "bookIds": [
+      46658,
+      56033,
+      56078
+    ]
+  },
+  "1261": {
+    "name": "邦枝 完二",
+    "url": "https://www.aozora.gr.jp/index_pages/person1261.html",
+    "id": 1261,
+    "bookIds": [
+      47509,
+      47516
+    ]
+  },
+  "1262": {
+    "name": "土原 耕作",
+    "url": "https://www.aozora.gr.jp/index_pages/person1262.html",
+    "id": 1262,
+    "bookIds": [
+      46823
+    ]
+  },
+  "1263": {
+    "name": "服部 之総",
+    "url": "https://www.aozora.gr.jp/index_pages/person1263.html",
+    "id": 1263,
+    "bookIds": [
+      50361,
+      50362,
+      50363,
+      50364,
+      50365,
+      50366,
+      50368,
+      50369,
+      50371
+    ]
+  },
+  "1264": {
+    "name": "榎本 武揚",
+    "url": "https://www.aozora.gr.jp/index_pages/person1264.html",
+    "id": 1264,
+    "bookIds": [
+      46827
+    ]
+  },
+  "1265": {
+    "name": "サン＝テグジュペリ アントワーヌ・ド",
+    "url": "https://www.aozora.gr.jp/index_pages/person1265.html",
+    "id": 1265,
+    "bookIds": [
+      46817
+    ]
+  },
+  "1266": {
+    "name": "牧野 富太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1266.html",
+    "id": 1266,
+    "bookIds": [
+      46820,
+      46821,
+      51368
+    ]
+  },
+  "1268": {
+    "name": "小村 雪岱",
+    "url": "https://www.aozora.gr.jp/index_pages/person1268.html",
+    "id": 1268,
+    "bookIds": [
+      46833
+    ]
+  },
+  "1272": {
+    "name": "溝口 健二",
+    "url": "https://www.aozora.gr.jp/index_pages/person1272.html",
+    "id": 1272,
+    "bookIds": [
+      46981
+    ]
+  },
+  "1277": {
+    "name": "ガンジー マハトマ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1277.html",
+    "id": 1277,
+    "bookIds": [
+      47018,
+      47024,
+      58703
+    ]
+  },
+  "1293": {
+    "name": "小野 佐世男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1293.html",
+    "id": 1293,
+    "bookIds": [
+      48571,
+      48572,
+      48573,
+      48576,
+      48577
+    ]
+  },
+  "1294": {
+    "name": "兼常 清佐",
+    "url": "https://www.aozora.gr.jp/index_pages/person1294.html",
+    "id": 1294,
+    "bookIds": [
+      47164
+    ]
+  },
+  "1295": {
+    "name": "レスコーフ ニコライ・セミョーノヴィチ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1295.html",
+    "id": 1295,
+    "bookIds": [
+      47206
+    ]
+  },
+  "1296": {
+    "name": "ランボー ジャン・ニコラ・アルチュール",
+    "url": "https://www.aozora.gr.jp/index_pages/person1296.html",
+    "id": 1296,
+    "bookIds": [
+      47215,
+      47296,
+      55201,
+      56509
+    ]
+  },
+  "1305": {
+    "name": "羽志 主水",
+    "url": "https://www.aozora.gr.jp/index_pages/person1305.html",
+    "id": 1305,
+    "bookIds": [
+      47417,
+      47418
+    ]
+  },
+  "1306": {
+    "name": "川田 功",
+    "url": "https://www.aozora.gr.jp/index_pages/person1306.html",
+    "id": 1306,
+    "bookIds": [
+      47475,
+      56513
+    ]
+  },
+  "1308": {
+    "name": "徳永 直",
+    "url": "https://www.aozora.gr.jp/index_pages/person1308.html",
+    "id": 1308,
+    "bookIds": [
+      49288,
+      50066
+    ]
+  },
+  "1310": {
+    "name": "高浜 虚子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1310.html",
+    "id": 1310,
+    "bookIds": [
+      47740,
+      47741,
+      49627,
+      49630,
+      50274,
+      51275,
+      51837,
+      51838,
+      51840,
+      53884,
+      55509,
+      55510,
+      55609,
+      57110
+    ]
+  },
+  "1311": {
+    "name": "三好 十郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1311.html",
+    "id": 1311,
+    "bookIds": [
+      47646,
+      47647,
+      47784,
+      47944,
+      47945,
+      48363,
+      49706,
+      49746,
+      49747,
+      49763,
+      49764,
+      49776,
+      49828,
+      49830,
+      49839,
+      49855,
+      50051,
+      50080,
+      50186,
+      50254,
+      53951
+    ]
+  },
+  "1312": {
+    "name": "木村 荘八",
+    "url": "https://www.aozora.gr.jp/index_pages/person1312.html",
+    "id": 1312,
+    "bookIds": [
+      47728,
+      47729,
+      49299,
+      49301
+    ]
+  },
+  "1313": {
+    "name": "正岡 容",
+    "url": "https://www.aozora.gr.jp/index_pages/person1313.html",
+    "id": 1313,
+    "bookIds": [
+      47598,
+      47599,
+      47601,
+      47743,
+      47745,
+      47746,
+      47769,
+      47773,
+      47774,
+      49302,
+      49303,
+      49304
+    ]
+  },
+  "1320": {
+    "name": "西郷 隆盛",
+    "url": "https://www.aozora.gr.jp/index_pages/person1320.html",
+    "id": 1320,
+    "bookIds": [
+      47885,
+      48130,
+      48226
+    ]
+  },
+  "1321": {
+    "name": "江南 文三",
+    "url": "https://www.aozora.gr.jp/index_pages/person1321.html",
+    "id": 1321,
+    "bookIds": [
+      48183
+    ]
+  },
+  "1323": {
+    "name": "西 周",
+    "url": "https://www.aozora.gr.jp/index_pages/person1323.html",
+    "id": 1323,
+    "bookIds": [
+      48280,
+      54826,
+      54827
+    ]
+  },
+  "1325": {
+    "name": "上村 経吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1325.html",
+    "id": 1325,
+    "bookIds": [
+      48214
+    ]
+  },
+  "1326": {
+    "name": "小笠原 長生",
+    "url": "https://www.aozora.gr.jp/index_pages/person1326.html",
+    "id": 1326,
+    "bookIds": [
+      48215
+    ]
+  },
+  "1331": {
+    "name": "秋月 種樹",
+    "url": "https://www.aozora.gr.jp/index_pages/person1331.html",
+    "id": 1331,
+    "bookIds": [
+      48284
+    ]
+  },
+  "1332": {
+    "name": "佐藤 一斎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1332.html",
+    "id": 1332,
+    "bookIds": [
+      48284
+    ]
+  },
+  "1337": {
+    "name": "阪井 久良伎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1337.html",
+    "id": 1337,
+    "bookIds": [
+      48361
+    ]
+  },
+  "1338": {
+    "name": "羽仁 もと子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1338.html",
+    "id": 1338,
+    "bookIds": [
+      48370
+    ]
+  },
+  "1340": {
+    "name": "ブラウニング ロバート",
+    "url": "https://www.aozora.gr.jp/index_pages/person1340.html",
+    "id": 1340,
+    "bookIds": [
+      48417
+    ]
+  },
+  "1341": {
+    "name": "永井 荷風",
+    "url": "https://www.aozora.gr.jp/index_pages/person1341.html",
+    "id": 1341,
+    "bookIds": [
+      49632,
+      49633,
+      49634,
+      49636,
+      49640,
+      49642,
+      49643,
+      49644,
+      49645,
+      49646,
+      49647,
+      49651,
+      49653,
+      49654,
+      49656,
+      49657,
+      49658,
+      49659,
+      49663,
+      49664,
+      49665,
+      49671,
+      49672,
+      49675,
+      50275,
+      50276,
+      50277,
+      50278,
+      50280,
+      50281,
+      50282,
+      50283,
+      50284,
+      50287,
+      50288,
+      50289,
+      50290,
+      50292,
+      50448,
+      50556,
+      51302,
+      51970,
+      51971,
+      51972,
+      52016,
+      52181,
+      52182,
+      52359,
+      54185,
+      54370,
+      54892,
+      54938,
+      55302,
+      58073,
+      58074,
+      58075,
+      58076,
+      58154,
+      58169,
+      58332,
+      58603,
+      58604,
+      58690
+    ]
+  },
+  "1344": {
+    "name": "喜田 貞吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1344.html",
+    "id": 1344,
+    "bookIds": [
+      49259,
+      49760,
+      49809,
+      49811,
+      49813,
+      49817,
+      49820,
+      49821,
+      49822,
+      50754,
+      54428,
+      54429,
+      54430,
+      54431,
+      54433,
+      54436,
+      54437,
+      54441,
+      54854,
+      54860
+    ]
+  },
+  "1346": {
+    "name": "片山 広子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1346.html",
+    "id": 1346,
+    "bookIds": [
+      49497,
+      49517,
+      50141,
+      50160,
+      55307,
+      55414
+    ]
+  },
+  "1347": {
+    "name": "岡倉 覚三",
+    "url": "https://www.aozora.gr.jp/index_pages/person1347.html",
+    "id": 1347,
+    "bookIds": [
+      1276
+    ]
+  },
+  "1349": {
+    "name": "武田 祐吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1349.html",
+    "id": 1349,
+    "bookIds": [
+      51727,
+      51728,
+      51729,
+      51730
+    ]
+  },
+  "1351": {
+    "name": "池田 蕉園",
+    "url": "https://www.aozora.gr.jp/index_pages/person1351.html",
+    "id": 1351,
+    "bookIds": [
+      49202
+    ]
+  },
+  "1364": {
+    "name": "ニューコム シモン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1364.html",
+    "id": 1364,
+    "bookIds": [
+      49329
+    ]
+  },
+  "1368": {
+    "name": "山本 実彦",
+    "url": "https://www.aozora.gr.jp/index_pages/person1368.html",
+    "id": 1368,
+    "bookIds": [
+      49437
+    ]
+  },
+  "1369": {
+    "name": "徳富 蘇峰",
+    "url": "https://www.aozora.gr.jp/index_pages/person1369.html",
+    "id": 1369,
+    "bookIds": [
+      49604,
+      51204
+    ]
+  },
+  "1370": {
+    "name": "豊田 三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1370.html",
+    "id": 1370,
+    "bookIds": [
+      49496
+    ]
+  },
+  "1372": {
+    "name": "柴崎 芳太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1372.html",
+    "id": 1372,
+    "bookIds": [
+      49579
+    ]
+  },
+  "1373": {
+    "name": "木暮 理太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1373.html",
+    "id": 1373,
+    "bookIds": [
+      49580,
+      55980,
+      55982,
+      55993,
+      55995,
+      56261,
+      56265,
+      56544,
+      56545,
+      56548
+    ]
+  },
+  "1374": {
+    "name": "大下 藤次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1374.html",
+    "id": 1374,
+    "bookIds": [
+      49581
+    ]
+  },
+  "1375": {
+    "name": "鵜殿 正雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1375.html",
+    "id": 1375,
+    "bookIds": [
+      49582
+    ]
+  },
+  "1379": {
+    "name": "小川 登喜男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1379.html",
+    "id": 1379,
+    "bookIds": [
+      49592
+    ]
+  },
+  "1380": {
+    "name": "石川 欣一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1380.html",
+    "id": 1380,
+    "bookIds": [
+      50461,
+      50475,
+      57354
+    ]
+  },
+  "1381": {
+    "name": "石井 柏亭",
+    "url": "https://www.aozora.gr.jp/index_pages/person1381.html",
+    "id": 1381,
+    "bookIds": [
+      49638
+    ]
+  },
+  "1383": {
+    "name": "谷崎 潤一郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1383.html",
+    "id": 1383,
+    "bookIds": [
+      49637,
+      56641,
+      56642,
+      56643,
+      56644,
+      56693,
+      56698,
+      56771,
+      56846,
+      56847,
+      56849,
+      56866,
+      56867,
+      56868,
+      56869,
+      56873,
+      56875,
+      56943,
+      56944,
+      56945,
+      56946,
+      57346,
+      57349,
+      57370,
+      57371,
+      57372,
+      57442,
+      58093
+    ]
+  },
+  "1388": {
+    "name": "新島 襄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1388.html",
+    "id": 1388,
+    "bookIds": [
+      49691
+    ]
+  },
+  "1389": {
+    "name": "シュウォッブ マルセル",
+    "url": "https://www.aozora.gr.jp/index_pages/person1389.html",
+    "id": 1389,
+    "bookIds": [
+      49703,
+      49705
+    ]
+  },
+  "1392": {
+    "name": "長谷 健",
+    "url": "https://www.aozora.gr.jp/index_pages/person1392.html",
+    "id": 1392,
+    "bookIds": [
+      49801
+    ]
+  },
+  "1393": {
+    "name": "キャロル ルイス",
+    "url": "https://www.aozora.gr.jp/index_pages/person1393.html",
+    "id": 1393,
+    "bookIds": [
+      49853,
+      57320
+    ]
+  },
+  "1395": {
+    "name": "和辻 哲郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1395.html",
+    "id": 1395,
+    "bookIds": [
+      49873,
+      49877,
+      49878,
+      49881,
+      49886,
+      49887,
+      49888,
+      49889,
+      49890,
+      49891,
+      49892,
+      49893,
+      49897,
+      49898,
+      49899,
+      49900,
+      49902,
+      49903,
+      49904,
+      49905,
+      49911,
+      49914,
+      49915,
+      49918,
+      51232,
+      51233,
+      52124,
+      52178,
+      52233,
+      55622,
+      55762
+    ]
+  },
+  "1396": {
+    "name": "原田 義人",
+    "url": "https://www.aozora.gr.jp/index_pages/person1396.html",
+    "id": 1396,
+    "bookIds": [
+      49920,
+      49921
+    ]
+  },
+  "1397": {
+    "name": "橘 外男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1397.html",
+    "id": 1397,
+    "bookIds": [
+      49868,
+      50070,
+      50071,
+      50075,
+      50076,
+      51243,
+      51248,
+      51249,
+      51250
+    ]
+  },
+  "1398": {
+    "name": "高木 貞治",
+    "url": "https://www.aozora.gr.jp/index_pages/person1398.html",
+    "id": 1398,
+    "bookIds": [
+      50907,
+      50908
+    ]
+  },
+  "1399": {
+    "name": "マクラウド フィオナ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1399.html",
+    "id": 1399,
+    "bookIds": [
+      49922,
+      49925,
+      49927,
+      49928,
+      49930,
+      49931,
+      49933,
+      50130
+    ]
+  },
+  "1402": {
+    "name": "関口 存男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1402.html",
+    "id": 1402,
+    "bookIds": [
+      49940,
+      49946
+    ]
+  },
+  "1403": {
+    "name": "北大路 魯山人",
+    "url": "https://www.aozora.gr.jp/index_pages/person1403.html",
+    "id": 1403,
+    "bookIds": [
+      49952,
+      49953,
+      49954,
+      49955,
+      49956,
+      49957,
+      49959,
+      49961,
+      49962,
+      49963,
+      49968,
+      49969,
+      49971,
+      49974,
+      49975,
+      49977,
+      49978,
+      49979,
+      49980,
+      49985,
+      49986,
+      49988,
+      49989,
+      49990,
+      49996,
+      49997,
+      49998,
+      49999,
+      50000,
+      50001,
+      50003,
+      50005,
+      50006,
+      50009,
+      50011,
+      50013,
+      50014,
+      50015,
+      50019,
+      51159,
+      54939,
+      54944,
+      54946,
+      54947,
+      54948,
+      54949,
+      54951,
+      54952,
+      54960,
+      54961,
+      54962,
+      54965,
+      54966,
+      54967,
+      54969,
+      54970,
+      54971,
+      54972,
+      54973,
+      54974,
+      54975,
+      54976,
+      54977,
+      54982,
+      54987,
+      55055,
+      55070,
+      55071
+    ]
+  },
+  "1404": {
+    "name": "河口 慧海",
+    "url": "https://www.aozora.gr.jp/index_pages/person1404.html",
+    "id": 1404,
+    "bookIds": [
+      49966
+    ]
+  },
+  "1407": {
+    "name": "ストレイチー リットン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1407.html",
+    "id": 1407,
+    "bookIds": [
+      50112
+    ]
+  },
+  "1413": {
+    "name": "池田 亀鑑",
+    "url": "https://www.aozora.gr.jp/index_pages/person1413.html",
+    "id": 1413,
+    "bookIds": [
+      57997
+    ]
+  },
+  "1416": {
+    "name": "田山 録弥",
+    "url": "https://www.aozora.gr.jp/index_pages/person1416.html",
+    "id": 1416,
+    "bookIds": [
+      48809,
+      48823,
+      48853,
+      48906,
+      48951,
+      48969,
+      48987
+    ]
+  },
+  "1417": {
+    "name": "中江 篤介",
+    "url": "https://www.aozora.gr.jp/index_pages/person1417.html",
+    "id": 1417,
+    "bookIds": [
+      49692
+    ]
+  },
+  "1420": {
+    "name": "中山 太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1420.html",
+    "id": 1420,
+    "bookIds": [
+      50270,
+      50271
+    ]
+  },
+  "1421": {
+    "name": "阿部 次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1421.html",
+    "id": 1421,
+    "bookIds": [
+      50279,
+      50421,
+      50422,
+      50423,
+      50424
+    ]
+  },
+  "1425": {
+    "name": "小寺 菊子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1425.html",
+    "id": 1425,
+    "bookIds": [
+      50321,
+      50322,
+      50323
+    ]
+  },
+  "1428": {
+    "name": "アインシュタイン アルベルト",
+    "url": "https://www.aozora.gr.jp/index_pages/person1428.html",
+    "id": 1428,
+    "bookIds": [
+      50328
+    ]
+  },
+  "1429": {
+    "name": "石原 純",
+    "url": "https://www.aozora.gr.jp/index_pages/person1429.html",
+    "id": 1429,
+    "bookIds": [
+      58045,
+      58046,
+      58156,
+      58160
+    ]
+  },
+  "1430": {
+    "name": "ウェルズ ハーバート・ジョージ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1430.html",
+    "id": 1430,
+    "bookIds": [
+      50346
+    ]
+  },
+  "1446": {
+    "name": "宮地 嘉六",
+    "url": "https://www.aozora.gr.jp/index_pages/person1446.html",
+    "id": 1446,
+    "bookIds": [
+      51948
+    ]
+  },
+  "1447": {
+    "name": "松崎 天民",
+    "url": "https://www.aozora.gr.jp/index_pages/person1447.html",
+    "id": 1447,
+    "bookIds": [
+      50543
+    ]
+  },
+  "1454": {
+    "name": "伊藤 永之介",
+    "url": "https://www.aozora.gr.jp/index_pages/person1454.html",
+    "id": 1454,
+    "bookIds": [
+      50633
+    ]
+  },
+  "1468": {
+    "name": "賀川 豊彦",
+    "url": "https://www.aozora.gr.jp/index_pages/person1468.html",
+    "id": 1468,
+    "bookIds": [
+      51160
+    ]
+  },
+  "1469": {
+    "name": "河野 常吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1469.html",
+    "id": 1469,
+    "bookIds": [
+      50753
+    ]
+  },
+  "1471": {
+    "name": "今野 大力",
+    "url": "https://www.aozora.gr.jp/index_pages/person1471.html",
+    "id": 1471,
+    "bookIds": [
+      55550,
+      55561
+    ]
+  },
+  "1474": {
+    "name": "丘 浅次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1474.html",
+    "id": 1474,
+    "bookIds": [
+      56954,
+      57420,
+      57423,
+      57424
+    ]
+  },
+  "1475": {
+    "name": "小川 未明",
+    "url": "https://www.aozora.gr.jp/index_pages/person1475.html",
+    "id": 1475,
+    "bookIds": [
+      50982,
+      50989,
+      50993,
+      51001,
+      51005,
+      51008,
+      51034,
+      51066,
+      51083,
+      51093,
+      51101,
+      51106,
+      51115,
+      51505,
+      51512,
+      51577,
+      51582,
+      51595,
+      51721,
+      51812,
+      52034,
+      52050,
+      52054,
+      52057,
+      52099,
+      52104,
+      52121,
+      52533,
+      52580,
+      52609,
+      52620,
+      52960,
+      52961,
+      52964,
+      53142,
+      53144,
+      53145,
+      53150,
+      53151,
+      53152,
+      53167,
+      53458,
+      53463,
+      53464,
+      53479,
+      54372,
+      54404,
+      54408
+    ]
+  },
+  "1476": {
+    "name": "大鹿 卓",
+    "url": "https://www.aozora.gr.jp/index_pages/person1476.html",
+    "id": 1476,
+    "bookIds": [
+      50924,
+      51155
+    ]
+  },
+  "1477": {
+    "name": "陳 寿",
+    "url": "https://www.aozora.gr.jp/index_pages/person1477.html",
+    "id": 1477,
+    "bookIds": [
+      50926
+    ]
+  },
+  "1479": {
+    "name": "風巻 景次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1479.html",
+    "id": 1479,
+    "bookIds": [
+      50931
+    ]
+  },
+  "1481": {
+    "name": "三木 貞一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1481.html",
+    "id": 1481,
+    "bookIds": [
+      51139
+    ]
+  },
+  "1486": {
+    "name": "佐藤 緑葉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1486.html",
+    "id": 1486,
+    "bookIds": [
+      51161,
+      53956
+    ]
+  },
+  "1487": {
+    "name": "浅沼 稲次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1487.html",
+    "id": 1487,
+    "bookIds": [
+      51165,
+      51167
+    ]
+  },
+  "1488": {
+    "name": "火野 葦平",
+    "url": "https://www.aozora.gr.jp/index_pages/person1488.html",
+    "id": 1488,
+    "bookIds": [
+      51168,
+      51234,
+      56224
+    ]
+  },
+  "1497": {
+    "name": "吉井 勇",
+    "url": "https://www.aozora.gr.jp/index_pages/person1497.html",
+    "id": 1497,
+    "bookIds": [
+      51239,
+      51242
+    ]
+  },
+  "1499": {
+    "name": "外村 繁",
+    "url": "https://www.aozora.gr.jp/index_pages/person1499.html",
+    "id": 1499,
+    "bookIds": [
+      51277,
+      51278,
+      51279,
+      52185
+    ]
+  },
+  "1505": {
+    "name": "ポター ビアトリクス",
+    "url": "https://www.aozora.gr.jp/index_pages/person1505.html",
+    "id": 1505,
+    "bookIds": [
+      51344,
+      56841,
+      56842,
+      58100
+    ]
+  },
+  "1506": {
+    "name": "片岡 義男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1506.html",
+    "id": 1506,
+    "bookIds": [
+      52459,
+      55718,
+      56182,
+      56796,
+      56822,
+      56823,
+      56911
+    ]
+  },
+  "1518": {
+    "name": "太 安万侶",
+    "url": "https://www.aozora.gr.jp/index_pages/person1518.html",
+    "id": 1518,
+    "bookIds": [
+      51731,
+      51732
+    ]
+  },
+  "1519": {
+    "name": "稗田 阿礼",
+    "url": "https://www.aozora.gr.jp/index_pages/person1519.html",
+    "id": 1519,
+    "bookIds": [
+      51731,
+      51732
+    ]
+  },
+  "1520": {
+    "name": "柳 宗悦",
+    "url": "https://www.aozora.gr.jp/index_pages/person1520.html",
+    "id": 1520,
+    "bookIds": [
+      51820,
+      51821,
+      51823,
+      51824,
+      52187,
+      52188,
+      54059,
+      54958,
+      55377
+    ]
+  },
+  "1521": {
+    "name": "長与 善郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1521.html",
+    "id": 1521,
+    "bookIds": [
+      52216
+    ]
+  },
+  "1528": {
+    "name": "日本国 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1528.html",
+    "id": 1528,
+    "bookIds": [
+      59137
+    ]
+  },
+  "1529": {
+    "name": "作者不詳 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1529.html",
+    "id": 1529,
+    "bookIds": [
+      45958,
+      52211
+    ]
+  },
+  "1532": {
+    "name": "川田 瑞穂",
+    "url": "https://www.aozora.gr.jp/index_pages/person1532.html",
+    "id": 1532,
+    "bookIds": [
+      52179
+    ]
+  },
+  "1533": {
+    "name": "宇野 浩二",
+    "url": "https://www.aozora.gr.jp/index_pages/person1533.html",
+    "id": 1533,
+    "bookIds": [
+      52193
+    ]
+  },
+  "1535": {
+    "name": "津田 左右吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1535.html",
+    "id": 1535,
+    "bookIds": [
+      52202,
+      53726,
+      53730,
+      53737,
+      53738
+    ]
+  },
+  "1536": {
+    "name": "桂 三木助",
+    "url": "https://www.aozora.gr.jp/index_pages/person1536.html",
+    "id": 1536,
+    "bookIds": [
+      52206
+    ]
+  },
+  "1538": {
+    "name": "矢内原 忠雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1538.html",
+    "id": 1538,
+    "bookIds": [
+      55956
+    ]
+  },
+  "1539": {
+    "name": "片山 敏彦",
+    "url": "https://www.aozora.gr.jp/index_pages/person1539.html",
+    "id": 1539,
+    "bookIds": [
+      54373,
+      54374
+    ]
+  },
+  "1540": {
+    "name": "知里 真志保",
+    "url": "https://www.aozora.gr.jp/index_pages/person1540.html",
+    "id": 1540,
+    "bookIds": [
+      52480,
+      53886,
+      53892,
+      53894,
+      53897,
+      53898,
+      53901
+    ]
+  },
+  "1541": {
+    "name": "高山 毅",
+    "url": "https://www.aozora.gr.jp/index_pages/person1541.html",
+    "id": 1541,
+    "bookIds": [
+      52212
+    ]
+  },
+  "1542": {
+    "name": "青野 季吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1542.html",
+    "id": 1542,
+    "bookIds": [
+      52214
+    ]
+  },
+  "1543": {
+    "name": "犬養 健",
+    "url": "https://www.aozora.gr.jp/index_pages/person1543.html",
+    "id": 1543,
+    "bookIds": [
+      52219,
+      52222
+    ]
+  },
+  "1556": {
+    "name": "松村 任三",
+    "url": "https://www.aozora.gr.jp/index_pages/person1556.html",
+    "id": 1556,
+    "bookIds": [
+      52315
+    ]
+  },
+  "1558": {
+    "name": "古川 緑波",
+    "url": "https://www.aozora.gr.jp/index_pages/person1558.html",
+    "id": 1558,
+    "bookIds": [
+      52318,
+      52319,
+      52320,
+      52321,
+      52323,
+      52328,
+      52332,
+      52688,
+      52689,
+      52690,
+      52691,
+      52692,
+      52693
+    ]
+  },
+  "1562": {
+    "name": "吉川 英治",
+    "url": "https://www.aozora.gr.jp/index_pages/person1562.html",
+    "id": 1562,
+    "bookIds": [
+      33227,
+      52395,
+      52396,
+      52397,
+      52398,
+      52399,
+      52400,
+      52401,
+      52402,
+      52403,
+      52404,
+      52405,
+      52406,
+      52407,
+      52408,
+      52409,
+      52410,
+      52411,
+      52412,
+      52413,
+      52414,
+      52415,
+      52416,
+      52417,
+      52418,
+      52419,
+      52420,
+      52421,
+      52422,
+      52423,
+      52424,
+      52425,
+      52426,
+      52427,
+      52428,
+      52429,
+      52430,
+      52431,
+      52432,
+      52433,
+      52434,
+      52435,
+      52436,
+      52437,
+      52438,
+      52439,
+      52440,
+      52441,
+      52442,
+      52443,
+      52444,
+      52445,
+      52446,
+      52447,
+      52448,
+      52449,
+      52450,
+      52451,
+      52452,
+      52453,
+      53195,
+      55095,
+      55096,
+      55097,
+      55098,
+      55099,
+      55100,
+      55252,
+      55262,
+      55263,
+      55264,
+      55265,
+      55266,
+      55267,
+      55268,
+      55269,
+      55270,
+      55274,
+      55316,
+      56046,
+      56052,
+      56053,
+      56054,
+      56057,
+      56058,
+      56060,
+      56061,
+      56063,
+      56065,
+      56066,
+      56067,
+      56068,
+      56069,
+      56070,
+      56071,
+      56072,
+      56076,
+      56144,
+      56145,
+      56151,
+      56155,
+      56461,
+      56491,
+      56492,
+      56493,
+      56494,
+      56495,
+      56497,
+      56568,
+      56633,
+      56754,
+      56755,
+      56756,
+      56757,
+      56758,
+      56759,
+      56760,
+      56761,
+      56762,
+      57875,
+      58019
+    ]
+  },
+  "1566": {
+    "name": "柳田 国男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1566.html",
+    "id": 1566,
+    "bookIds": [
+      52466,
+      52504,
+      52505,
+      52945,
+      52946,
+      53104,
+      53771,
+      53809,
+      53810,
+      53812,
+      53813,
+      54331,
+      54403,
+      54830,
+      54903,
+      54904,
+      54905,
+      54906,
+      54907,
+      55742,
+      55953,
+      56608,
+      56821,
+      57903,
+      57979,
+      58024
+    ]
+  },
+  "1567": {
+    "name": "橘 樸",
+    "url": "https://www.aozora.gr.jp/index_pages/person1567.html",
+    "id": 1567,
+    "bookIds": [
+      52677
+    ]
+  },
+  "1568": {
+    "name": "妹尾 アキ夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1568.html",
+    "id": 1568,
+    "bookIds": [
+      52467
+    ]
+  },
+  "1569": {
+    "name": "中谷 宇吉郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1569.html",
+    "id": 1569,
+    "bookIds": [
+      52468,
+      53199,
+      53201,
+      53203,
+      53204,
+      53208,
+      53215,
+      53217,
+      53219,
+      53221,
+      53223,
+      53226,
+      53227,
+      53228,
+      53230,
+      53231,
+      53236,
+      53238,
+      53240,
+      53489,
+      53491,
+      54851,
+      55987,
+      56012,
+      56731,
+      57260,
+      57263,
+      57265,
+      57268,
+      57269,
+      57271,
+      57273,
+      57274,
+      57277,
+      57280,
+      57281,
+      57292,
+      57295,
+      57296,
+      57309,
+      57313,
+      57451,
+      57452,
+      57454,
+      57459,
+      57464,
+      57468,
+      57863,
+      57864,
+      57866,
+      57870,
+      57874
+    ]
+  },
+  "1570": {
+    "name": "小倉 金之助",
+    "url": "https://www.aozora.gr.jp/index_pages/person1570.html",
+    "id": 1570,
+    "bookIds": [
+      53866,
+      54866
+    ]
+  },
+  "1575": {
+    "name": "濹上漁史 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1575.html",
+    "id": 1575,
+    "bookIds": [
+      52341,
+      52363,
+      52558
+    ]
+  },
+  "1577": {
+    "name": "服部 宇之吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1577.html",
+    "id": 1577,
+    "bookIds": [
+      52720
+    ]
+  },
+  "1578": {
+    "name": "今村 明恒",
+    "url": "https://www.aozora.gr.jp/index_pages/person1578.html",
+    "id": 1578,
+    "bookIds": [
+      52933,
+      53048
+    ]
+  },
+  "1579": {
+    "name": "室生 犀星",
+    "url": "https://www.aozora.gr.jp/index_pages/person1579.html",
+    "id": 1579,
+    "bookIds": [
+      53011,
+      53012,
+      53013,
+      53139,
+      53169,
+      53171,
+      53172,
+      53173,
+      53174,
+      53175,
+      53177,
+      53178,
+      53179,
+      53180,
+      53181,
+      53241,
+      53495,
+      53499,
+      53503,
+      53537,
+      53947,
+      54453,
+      54454,
+      54832,
+      55136,
+      55329,
+      55501,
+      55614,
+      55616,
+      55957,
+      56453,
+      56454,
+      56457
+    ]
+  },
+  "1581": {
+    "name": "正宗 白鳥",
+    "url": "https://www.aozora.gr.jp/index_pages/person1581.html",
+    "id": 1581,
+    "bookIds": [
+      54868,
+      55158,
+      55162,
+      55165,
+      55167,
+      55169,
+      55188,
+      55189,
+      55191,
+      55192,
+      55193,
+      55194
+    ]
+  },
+  "1584": {
+    "name": "秋田 雨雀",
+    "url": "https://www.aozora.gr.jp/index_pages/person1584.html",
+    "id": 1584,
+    "bookIds": [
+      53182
+    ]
+  },
+  "1585": {
+    "name": "槙村 浩",
+    "url": "https://www.aozora.gr.jp/index_pages/person1585.html",
+    "id": 1585,
+    "bookIds": [
+      53190,
+      54236,
+      54247
+    ]
+  },
+  "1587": {
+    "name": "楢崎 竜",
+    "url": "https://www.aozora.gr.jp/index_pages/person1587.html",
+    "id": 1587,
+    "bookIds": [
+      52179
+    ]
+  },
+  "1588": {
+    "name": "川田 雪山",
+    "url": "https://www.aozora.gr.jp/index_pages/person1588.html",
+    "id": 1588,
+    "bookIds": [
+      52179
+    ]
+  },
+  "1595": {
+    "name": "井上 準之助",
+    "url": "https://www.aozora.gr.jp/index_pages/person1595.html",
+    "id": 1595,
+    "bookIds": [
+      53683
+    ]
+  },
+  "1606": {
+    "name": "世礼 国男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1606.html",
+    "id": 1606,
+    "bookIds": [
+      53835
+    ]
+  },
+  "1611": {
+    "name": "徳永 保之助",
+    "url": "https://www.aozora.gr.jp/index_pages/person1611.html",
+    "id": 1611,
+    "bookIds": [
+      53939
+    ]
+  },
+  "1612": {
+    "name": "江森 盛弥",
+    "url": "https://www.aozora.gr.jp/index_pages/person1612.html",
+    "id": 1612,
+    "bookIds": [
+      53970
+    ]
+  },
+  "1623": {
+    "name": "百田 宗治",
+    "url": "https://www.aozora.gr.jp/index_pages/person1623.html",
+    "id": 1623,
+    "bookIds": [
+      55500
+    ]
+  },
+  "1626": {
+    "name": "猪狩 満直",
+    "url": "https://www.aozora.gr.jp/index_pages/person1626.html",
+    "id": 1626,
+    "bookIds": [
+      54061
+    ]
+  },
+  "1627": {
+    "name": "今村 恒夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1627.html",
+    "id": 1627,
+    "bookIds": [
+      54066
+    ]
+  },
+  "1633": {
+    "name": "国見 善弘",
+    "url": "https://www.aozora.gr.jp/index_pages/person1633.html",
+    "id": 1633,
+    "bookIds": [
+      54082
+    ]
+  },
+  "1635": {
+    "name": "丹沢 明",
+    "url": "https://www.aozora.gr.jp/index_pages/person1635.html",
+    "id": 1635,
+    "bookIds": [
+      54085
+    ]
+  },
+  "1637": {
+    "name": "中野 鈴子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1637.html",
+    "id": 1637,
+    "bookIds": [
+      58599,
+      58802
+    ]
+  },
+  "1641": {
+    "name": "藪田 忠夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1641.html",
+    "id": 1641,
+    "bookIds": [
+      54098
+    ]
+  },
+  "1648": {
+    "name": "土谷 麓",
+    "url": "https://www.aozora.gr.jp/index_pages/person1648.html",
+    "id": 1648,
+    "bookIds": [
+      54138
+    ]
+  },
+  "1652": {
+    "name": "森川 義信",
+    "url": "https://www.aozora.gr.jp/index_pages/person1652.html",
+    "id": 1652,
+    "bookIds": [
+      54347,
+      54362,
+      54376
+    ]
+  },
+  "1656": {
+    "name": "矢田部 達郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1656.html",
+    "id": 1656,
+    "bookIds": [
+      54270
+    ]
+  },
+  "1665": {
+    "name": "泉 芳朗",
+    "url": "https://www.aozora.gr.jp/index_pages/person1665.html",
+    "id": 1665,
+    "bookIds": [
+      54416
+    ]
+  },
+  "1666": {
+    "name": "漢那 浪笛",
+    "url": "https://www.aozora.gr.jp/index_pages/person1666.html",
+    "id": 1666,
+    "bookIds": [
+      54545
+    ]
+  },
+  "1667": {
+    "name": "仲村 渠",
+    "url": "https://www.aozora.gr.jp/index_pages/person1667.html",
+    "id": 1667,
+    "bookIds": [
+      55010
+    ]
+  },
+  "1668": {
+    "name": "西東 三鬼",
+    "url": "https://www.aozora.gr.jp/index_pages/person1668.html",
+    "id": 1668,
+    "bookIds": [
+      54457,
+      54458,
+      54459,
+      55253
+    ]
+  },
+  "1669": {
+    "name": "大倉 ※［＃「火＋華」、第3水準1-87-62］子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1669.html",
+    "id": 1669,
+    "bookIds": [
+      54460,
+      54463,
+      54464,
+      54466,
+      54478,
+      54483
+    ]
+  },
+  "1670": {
+    "name": "野村 胡堂",
+    "url": "https://www.aozora.gr.jp/index_pages/person1670.html",
+    "id": 1670,
+    "bookIds": [
+      54560,
+      54561,
+      54562,
+      54563,
+      54565,
+      54568,
+      54572,
+      54574,
+      54575,
+      54577,
+      54578,
+      54580,
+      54581,
+      54582,
+      54584,
+      54587,
+      54594,
+      54597,
+      54598,
+      54602,
+      54603,
+      54606,
+      54611,
+      54613,
+      54615,
+      54616,
+      54617,
+      54618,
+      54619,
+      54620,
+      54621,
+      54622,
+      54623,
+      54624,
+      54626,
+      54627,
+      54628,
+      54629,
+      54632,
+      54633,
+      54634,
+      54635,
+      54636,
+      54638,
+      54642,
+      54643,
+      54644,
+      54646,
+      54647,
+      54649,
+      54650,
+      54651,
+      54652,
+      54655,
+      54657,
+      54658,
+      54659,
+      54661,
+      54663,
+      54667,
+      54668,
+      54673,
+      54674,
+      54675,
+      54676,
+      54677,
+      54678,
+      54679,
+      54683,
+      54690,
+      54691,
+      54692,
+      54693,
+      54694,
+      54695,
+      54697,
+      54699,
+      54702,
+      54704,
+      54708,
+      54710,
+      54711,
+      54717,
+      54723,
+      54728,
+      54729,
+      54734,
+      54735,
+      54736,
+      54737,
+      54738,
+      54740,
+      54743,
+      54744,
+      54745,
+      54746,
+      54747,
+      54762,
+      54763,
+      54768,
+      54769,
+      54770,
+      54834,
+      54835,
+      54836,
+      54837,
+      54838,
+      54839,
+      54869,
+      55088,
+      55089,
+      55505,
+      55506,
+      55511,
+      55656,
+      55677,
+      55678,
+      55679,
+      55680,
+      55681,
+      55682,
+      55683,
+      55685,
+      55686,
+      55689,
+      55691,
+      55699,
+      55700,
+      55702,
+      55744,
+      55847,
+      55848,
+      55854,
+      55857,
+      56091,
+      56093,
+      56094,
+      56096,
+      56101,
+      56102,
+      56103,
+      56104,
+      56110,
+      56111,
+      56112,
+      56113,
+      56114,
+      56115,
+      56116,
+      56119,
+      56120,
+      56121,
+      56122,
+      56123,
+      56124,
+      56125,
+      56204,
+      56205,
+      56208,
+      56209,
+      56211,
+      56214,
+      56215,
+      56216,
+      56217,
+      56219,
+      56220,
+      56222,
+      56231,
+      56240,
+      56284,
+      56287,
+      56300,
+      56301,
+      56303,
+      56304,
+      56315,
+      56319,
+      56322,
+      56347,
+      56352,
+      56372,
+      56374,
+      56383,
+      56399,
+      56407,
+      56699,
+      56700,
+      56701,
+      56702,
+      56703,
+      56704,
+      56707,
+      56708,
+      56709,
+      56711,
+      56712,
+      56713,
+      56714,
+      56716,
+      56719,
+      56930,
+      57094,
+      57209,
+      57210,
+      57233,
+      58211
+    ]
+  },
+  "1674": {
+    "name": "鶴 彬",
+    "url": "https://www.aozora.gr.jp/index_pages/person1674.html",
+    "id": 1674,
+    "bookIds": [
+      54771
+    ]
+  },
+  "1675": {
+    "name": "竹内 浩三",
+    "url": "https://www.aozora.gr.jp/index_pages/person1675.html",
+    "id": 1675,
+    "bookIds": [
+      54772,
+      54774,
+      54777,
+      54778,
+      54788,
+      54790,
+      54791,
+      54793,
+      54797,
+      54806,
+      54810,
+      54813,
+      54814,
+      54818
+    ]
+  },
+  "1676": {
+    "name": "正木 不如丘",
+    "url": "https://www.aozora.gr.jp/index_pages/person1676.html",
+    "id": 1676,
+    "bookIds": [
+      54828,
+      54833
+    ]
+  },
+  "1677": {
+    "name": "河野 広道",
+    "url": "https://www.aozora.gr.jp/index_pages/person1677.html",
+    "id": 1677,
+    "bookIds": [
+      53892
+    ]
+  },
+  "1685": {
+    "name": "井上 貞治郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1685.html",
+    "id": 1685,
+    "bookIds": [
+      54902
+    ]
+  },
+  "1688": {
+    "name": "リヴィングストン・ジュニア ヘンリー",
+    "url": "https://www.aozora.gr.jp/index_pages/person1688.html",
+    "id": 1688,
+    "bookIds": [
+      54928
+    ]
+  },
+  "1691": {
+    "name": "佐佐木 信綱",
+    "url": "https://www.aozora.gr.jp/index_pages/person1691.html",
+    "id": 1691,
+    "bookIds": [
+      54997
+    ]
+  },
+  "1692": {
+    "name": "久保田 万太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1692.html",
+    "id": 1692,
+    "bookIds": [
+      55043,
+      55044,
+      56000,
+      56002,
+      56468,
+      56469,
+      56660,
+      58007
+    ]
+  },
+  "1693": {
+    "name": "山之口 貘",
+    "url": "https://www.aozora.gr.jp/index_pages/person1693.html",
+    "id": 1693,
+    "bookIds": [
+      55171,
+      55175,
+      55179,
+      55180,
+      55182,
+      55183,
+      56662,
+      56663,
+      56666,
+      56667,
+      58917
+    ]
+  },
+  "1695": {
+    "name": "飯田 蛇笏",
+    "url": "https://www.aozora.gr.jp/index_pages/person1695.html",
+    "id": 1695,
+    "bookIds": [
+      55131,
+      55132,
+      55133
+    ]
+  },
+  "1696": {
+    "name": "下村 海南",
+    "url": "https://www.aozora.gr.jp/index_pages/person1696.html",
+    "id": 1696,
+    "bookIds": [
+      55153
+    ]
+  },
+  "1697": {
+    "name": "高野 六郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1697.html",
+    "id": 1697,
+    "bookIds": [
+      55154
+    ]
+  },
+  "1699": {
+    "name": "ラヴクラフト ハワード・フィリップス",
+    "url": "https://www.aozora.gr.jp/index_pages/person1699.html",
+    "id": 1699,
+    "bookIds": [
+      56839,
+      57255,
+      57342,
+      57443,
+      57474,
+      57858,
+      57859
+    ]
+  },
+  "1702": {
+    "name": "ベートーヴェン ルートヴィヒ・ヴァン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1702.html",
+    "id": 1702,
+    "bookIds": [
+      54932,
+      54933
+    ]
+  },
+  "1703": {
+    "name": "ヴェーゲラー フランツ・ゲルハルト",
+    "url": "https://www.aozora.gr.jp/index_pages/person1703.html",
+    "id": 1703,
+    "bookIds": [
+      54933
+    ]
+  },
+  "1704": {
+    "name": "ブロイニング エレオノーレ・フォン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1704.html",
+    "id": 1704,
+    "bookIds": [
+      54933
+    ]
+  },
+  "1705": {
+    "name": "ヴェルハーレン エミール",
+    "url": "https://www.aozora.gr.jp/index_pages/person1705.html",
+    "id": 1705,
+    "bookIds": [
+      55195
+    ]
+  },
+  "1715": {
+    "name": "富沢 赤黄男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1715.html",
+    "id": 1715,
+    "bookIds": [
+      55242
+    ]
+  },
+  "1722": {
+    "name": "ダンセイニ ロード",
+    "url": "https://www.aozora.gr.jp/index_pages/person1722.html",
+    "id": 1722,
+    "bookIds": [
+      55279
+    ]
+  },
+  "1726": {
+    "name": "長谷川 伸",
+    "url": "https://www.aozora.gr.jp/index_pages/person1726.html",
+    "id": 1726,
+    "bookIds": [
+      55793,
+      55836,
+      55837,
+      56081,
+      56089,
+      56601,
+      56602
+    ]
+  },
+  "1727": {
+    "name": "オルファース ジビュレ・フォン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1727.html",
+    "id": 1727,
+    "bookIds": [
+      56840
+    ]
+  },
+  "1731": {
+    "name": "神田 左京",
+    "url": "https://www.aozora.gr.jp/index_pages/person1731.html",
+    "id": 1731,
+    "bookIds": [
+      55427,
+      55428
+    ]
+  },
+  "1732": {
+    "name": "ボードレール シャルル・ピエール",
+    "url": "https://www.aozora.gr.jp/index_pages/person1732.html",
+    "id": 1732,
+    "bookIds": [
+      55441,
+      55447
+    ]
+  },
+  "1733": {
+    "name": "フリーマン リチャード オースティン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1733.html",
+    "id": 1733,
+    "bookIds": [
+      55455,
+      55458,
+      55460
+    ]
+  },
+  "1739": {
+    "name": "野口 英司",
+    "url": "https://www.aozora.gr.jp/index_pages/person1739.html",
+    "id": 1739,
+    "bookIds": [
+      55745
+    ]
+  },
+  "1740": {
+    "name": "宮川 典子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1740.html",
+    "id": 1740,
+    "bookIds": [
+      55745
+    ]
+  },
+  "1742": {
+    "name": "石原 忍",
+    "url": "https://www.aozora.gr.jp/index_pages/person1742.html",
+    "id": 1742,
+    "bookIds": [
+      55751
+    ]
+  },
+  "1749": {
+    "name": "三好 達治",
+    "url": "https://www.aozora.gr.jp/index_pages/person1749.html",
+    "id": 1749,
+    "bookIds": [
+      55797,
+      55798,
+      55863,
+      55867,
+      55870,
+      55871,
+      56786,
+      56788,
+      56789,
+      56790,
+      56825,
+      56826,
+      58734,
+      58741,
+      58745,
+      58748
+    ]
+  },
+  "1750": {
+    "name": "佐々木 邦",
+    "url": "https://www.aozora.gr.jp/index_pages/person1750.html",
+    "id": 1750,
+    "bookIds": [
+      55801,
+      55808,
+      55858,
+      56828
+    ]
+  },
+  "1752": {
+    "name": "橋本 多佳子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1752.html",
+    "id": 1752,
+    "bookIds": [
+      55838,
+      55839
+    ]
+  },
+  "1753": {
+    "name": "尾崎 士郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1753.html",
+    "id": 1753,
+    "bookIds": [
+      55844,
+      56791
+    ]
+  },
+  "1758": {
+    "name": "マン パウル・トーマス",
+    "url": "https://www.aozora.gr.jp/index_pages/person1758.html",
+    "id": 1758,
+    "bookIds": [
+      55937,
+      55964,
+      55965,
+      55966,
+      55967,
+      55970,
+      55971,
+      55974,
+      55977
+    ]
+  },
+  "1759": {
+    "name": "実吉 捷郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1759.html",
+    "id": 1759,
+    "bookIds": [
+      45021
+    ]
+  },
+  "1761": {
+    "name": "小津 安二郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1761.html",
+    "id": 1761,
+    "bookIds": [
+      55948,
+      55949,
+      55950
+    ]
+  },
+  "1762": {
+    "name": "内山 完造",
+    "url": "https://www.aozora.gr.jp/index_pages/person1762.html",
+    "id": 1762,
+    "bookIds": [
+      55961
+    ]
+  },
+  "1763": {
+    "name": "佐藤 春夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1763.html",
+    "id": 1763,
+    "bookIds": [
+      55985,
+      56872,
+      57392,
+      58311,
+      58459,
+      58540,
+      58565,
+      58566,
+      58569,
+      58570,
+      58593,
+      58682,
+      58683,
+      58684,
+      58793,
+      58844,
+      58851,
+      58855
+    ]
+  },
+  "1764": {
+    "name": "モース エドワード・シルヴェスター",
+    "url": "https://www.aozora.gr.jp/index_pages/person1764.html",
+    "id": 1764,
+    "bookIds": [
+      55990
+    ]
+  },
+  "1767": {
+    "name": "サキ ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1767.html",
+    "id": 1767,
+    "bookIds": [
+      56027
+    ]
+  },
+  "1774": {
+    "name": "高祖 保",
+    "url": "https://www.aozora.gr.jp/index_pages/person1774.html",
+    "id": 1774,
+    "bookIds": [
+      56171
+    ]
+  },
+  "1776": {
+    "name": "蜷川 新",
+    "url": "https://www.aozora.gr.jp/index_pages/person1776.html",
+    "id": 1776,
+    "bookIds": [
+      56238
+    ]
+  },
+  "1777": {
+    "name": "山崎 富栄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1777.html",
+    "id": 1777,
+    "bookIds": [
+      56258,
+      58054
+    ]
+  },
+  "1779": {
+    "name": "江戸川 乱歩",
+    "url": "https://www.aozora.gr.jp/index_pages/person1779.html",
+    "id": 1779,
+    "bookIds": [
+      54836,
+      56645,
+      56646,
+      56647,
+      56648,
+      56649,
+      56650,
+      56651,
+      56658,
+      56669,
+      56670,
+      56671,
+      56672,
+      56673,
+      56674,
+      56675,
+      56676,
+      56677,
+      56678,
+      56679,
+      56680,
+      56681,
+      56682,
+      56683,
+      56684,
+      56686,
+      56687,
+      56688,
+      56689,
+      56690,
+      57105,
+      57106,
+      57107,
+      57108,
+      57109,
+      57165,
+      57181,
+      57182,
+      57183,
+      57184,
+      57185,
+      57186,
+      57187,
+      57188,
+      57189,
+      57190,
+      57191,
+      57192,
+      57193,
+      57194,
+      57195,
+      57196,
+      57197,
+      57225,
+      57226,
+      57227,
+      57228,
+      57229,
+      57230,
+      57240,
+      57316,
+      57343,
+      57405,
+      57414,
+      57502,
+      57504,
+      57505,
+      57506,
+      57508,
+      57509,
+      57510,
+      57511,
+      57512,
+      57513,
+      57514,
+      57518,
+      58039,
+      58053,
+      58464,
+      58465
+    ]
+  },
+  "1780": {
+    "name": "高群 逸枝",
+    "url": "https://www.aozora.gr.jp/index_pages/person1780.html",
+    "id": 1780,
+    "bookIds": [
+      56792
+    ]
+  },
+  "1781": {
+    "name": "金田 鬼一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1781.html",
+    "id": 1781,
+    "bookIds": [
+      56508
+    ]
+  },
+  "1782": {
+    "name": "辰野 九紫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1782.html",
+    "id": 1782,
+    "bookIds": [
+      56514
+    ]
+  },
+  "1788": {
+    "name": "十返 肇",
+    "url": "https://www.aozora.gr.jp/index_pages/person1788.html",
+    "id": 1788,
+    "bookIds": [
+      56567
+    ]
+  },
+  "1789": {
+    "name": "日本経済新聞社 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1789.html",
+    "id": 1789,
+    "bookIds": [
+      54902
+    ]
+  },
+  "1790": {
+    "name": "青空文庫 ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1790.html",
+    "id": 1790,
+    "bookIds": [
+      56572
+    ]
+  },
+  "1794": {
+    "name": "幣原 喜重郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1794.html",
+    "id": 1794,
+    "bookIds": [
+      56614
+    ]
+  },
+  "1796": {
+    "name": "辰野 隆",
+    "url": "https://www.aozora.gr.jp/index_pages/person1796.html",
+    "id": 1796,
+    "bookIds": [
+      56763,
+      56830,
+      56859,
+      56860,
+      56861
+    ]
+  },
+  "1797": {
+    "name": "河本 大作",
+    "url": "https://www.aozora.gr.jp/index_pages/person1797.html",
+    "id": 1797,
+    "bookIds": [
+      56628
+    ]
+  },
+  "1798": {
+    "name": "梅崎 春生",
+    "url": "https://www.aozora.gr.jp/index_pages/person1798.html",
+    "id": 1798,
+    "bookIds": [
+      56634,
+      56635,
+      56636,
+      56775,
+      56779
+    ]
+  },
+  "1799": {
+    "name": "中 勘助",
+    "url": "https://www.aozora.gr.jp/index_pages/person1799.html",
+    "id": 1799,
+    "bookIds": [
+      56638,
+      56848,
+      57411,
+      57412,
+      58149
+    ]
+  },
+  "1801": {
+    "name": "山川 方夫",
+    "url": "https://www.aozora.gr.jp/index_pages/person1801.html",
+    "id": 1801,
+    "bookIds": [
+      57059,
+      57062
+    ]
+  },
+  "1802": {
+    "name": "野村 あらえびす",
+    "url": "https://www.aozora.gr.jp/index_pages/person1802.html",
+    "id": 1802,
+    "bookIds": [
+      55088
+    ]
+  },
+  "1803": {
+    "name": "小杉 放庵",
+    "url": "https://www.aozora.gr.jp/index_pages/person1803.html",
+    "id": 1803,
+    "bookIds": [
+      56764
+    ]
+  },
+  "1804": {
+    "name": "三枝 博音",
+    "url": "https://www.aozora.gr.jp/index_pages/person1804.html",
+    "id": 1804,
+    "bookIds": [
+      56765
+    ]
+  },
+  "1805": {
+    "name": "三遊亭 金馬",
+    "url": "https://www.aozora.gr.jp/index_pages/person1805.html",
+    "id": 1805,
+    "bookIds": [
+      56766,
+      56793,
+      56794,
+      56824
+    ]
+  },
+  "1806": {
+    "name": "斉藤 弘吉",
+    "url": "https://www.aozora.gr.jp/index_pages/person1806.html",
+    "id": 1806,
+    "bookIds": [
+      56795
+    ]
+  },
+  "1809": {
+    "name": "人見 絹枝",
+    "url": "https://www.aozora.gr.jp/index_pages/person1809.html",
+    "id": 1809,
+    "bookIds": [
+      56844
+    ]
+  },
+  "1813": {
+    "name": "石塚 浩之",
+    "url": "https://www.aozora.gr.jp/index_pages/person1813.html",
+    "id": 1813,
+    "bookIds": [
+      56877,
+      56878
+    ]
+  },
+  "1821": {
+    "name": "蔵原 伸二郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1821.html",
+    "id": 1821,
+    "bookIds": [
+      56983,
+      56985
+    ]
+  },
+  "1822": {
+    "name": "中村 地平",
+    "url": "https://www.aozora.gr.jp/index_pages/person1822.html",
+    "id": 1822,
+    "bookIds": [
+      57022
+    ]
+  },
+  "1823": {
+    "name": "高見 順",
+    "url": "https://www.aozora.gr.jp/index_pages/person1823.html",
+    "id": 1823,
+    "bookIds": [
+      57023,
+      57024,
+      58133,
+      58310
+    ]
+  },
+  "1824": {
+    "name": "大坪 砂男",
+    "url": "https://www.aozora.gr.jp/index_pages/person1824.html",
+    "id": 1824,
+    "bookIds": [
+      57067
+    ]
+  },
+  "1826": {
+    "name": "森下 雨村",
+    "url": "https://www.aozora.gr.jp/index_pages/person1826.html",
+    "id": 1826,
+    "bookIds": [
+      57173
+    ]
+  },
+  "1832": {
+    "name": "柴田 宵曲",
+    "url": "https://www.aozora.gr.jp/index_pages/person1832.html",
+    "id": 1832,
+    "bookIds": [
+      57179
+    ]
+  },
+  "1833": {
+    "name": "鈴木 大拙",
+    "url": "https://www.aozora.gr.jp/index_pages/person1833.html",
+    "id": 1833,
+    "bookIds": [
+      58057,
+      58059,
+      58061,
+      58139
+    ]
+  },
+  "1841": {
+    "name": "カーペンター ケニス・Ｊ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1841.html",
+    "id": 1841,
+    "bookIds": [
+      57318
+    ]
+  },
+  "1842": {
+    "name": "アレン ジェームズ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1842.html",
+    "id": 1842,
+    "bookIds": [
+      57321
+    ]
+  },
+  "1846": {
+    "name": "小泉 信三",
+    "url": "https://www.aozora.gr.jp/index_pages/person1846.html",
+    "id": 1846,
+    "bookIds": [
+      57339
+    ]
+  },
+  "1847": {
+    "name": "ヘミングウェイ アーネスト・ミラー",
+    "url": "https://www.aozora.gr.jp/index_pages/person1847.html",
+    "id": 1847,
+    "bookIds": [
+      57347
+    ]
+  },
+  "1850": {
+    "name": "バルザック オノレ・ド",
+    "url": "https://www.aozora.gr.jp/index_pages/person1850.html",
+    "id": 1850,
+    "bookIds": [
+      57353
+    ]
+  },
+  "1859": {
+    "name": "レ・ファニュ ジョゼフ・シェリダン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1859.html",
+    "id": 1859,
+    "bookIds": [
+      57396
+    ]
+  },
+  "1861": {
+    "name": "河井 酔茗",
+    "url": "https://www.aozora.gr.jp/index_pages/person1861.html",
+    "id": 1861,
+    "bookIds": [
+      57429,
+      57431
+    ]
+  },
+  "1862": {
+    "name": "式場 隆三郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1862.html",
+    "id": 1862,
+    "bookIds": [
+      57410
+    ]
+  },
+  "1863": {
+    "name": "安西 冬衛",
+    "url": "https://www.aozora.gr.jp/index_pages/person1863.html",
+    "id": 1863,
+    "bookIds": [
+      57433,
+      57435
+    ]
+  },
+  "1867": {
+    "name": "小山 清",
+    "url": "https://www.aozora.gr.jp/index_pages/person1867.html",
+    "id": 1867,
+    "bookIds": [
+      1783,
+      58065,
+      58185,
+      58187,
+      58191
+    ]
+  },
+  "1869": {
+    "name": "山本 周五郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1869.html",
+    "id": 1869,
+    "bookIds": [
+      57495,
+      57542,
+      57544,
+      57574,
+      57601,
+      57625,
+      57785,
+      57786,
+      57787,
+      57788,
+      57822,
+      57838,
+      57840,
+      57841,
+      57842,
+      57843,
+      59009
+    ]
+  },
+  "1870": {
+    "name": "亀井 勝一郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1870.html",
+    "id": 1870,
+    "bookIds": [
+      57496,
+      57971,
+      57972,
+      58096,
+      58919
+    ]
+  },
+  "1872": {
+    "name": "大下 宇陀児",
+    "url": "https://www.aozora.gr.jp/index_pages/person1872.html",
+    "id": 1872,
+    "bookIds": [
+      57501,
+      57890,
+      57901
+    ]
+  },
+  "1875": {
+    "name": "壺井 栄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1875.html",
+    "id": 1875,
+    "bookIds": [
+      57856,
+      58921
+    ]
+  },
+  "1876": {
+    "name": "塚原 健二郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1876.html",
+    "id": 1876,
+    "bookIds": [
+      57857
+    ]
+  },
+  "1879": {
+    "name": "大隈 重信",
+    "url": "https://www.aozora.gr.jp/index_pages/person1879.html",
+    "id": 1879,
+    "bookIds": [
+      58083,
+      58086,
+      58087,
+      58103,
+      58117
+    ]
+  },
+  "1882": {
+    "name": "キングスフォード アンナ",
+    "url": "https://www.aozora.gr.jp/index_pages/person1882.html",
+    "id": 1882,
+    "bookIds": [
+      58275
+    ]
+  },
+  "1884": {
+    "name": "小宮 豊隆",
+    "url": "https://www.aozora.gr.jp/index_pages/person1884.html",
+    "id": 1884,
+    "bookIds": [
+      58010,
+      58931
+    ]
+  },
+  "1885": {
+    "name": "藤野 古白",
+    "url": "https://www.aozora.gr.jp/index_pages/person1885.html",
+    "id": 1885,
+    "bookIds": [
+      58012,
+      58274
+    ]
+  },
+  "1889": {
+    "name": "山中 峯太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1889.html",
+    "id": 1889,
+    "bookIds": [
+      58030
+    ]
+  },
+  "1891": {
+    "name": "矢崎 源九郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1891.html",
+    "id": 1891,
+    "bookIds": [
+      58166
+    ]
+  },
+  "1894": {
+    "name": "木村 荘十",
+    "url": "https://www.aozora.gr.jp/index_pages/person1894.html",
+    "id": 1894,
+    "bookIds": [
+      58055
+    ]
+  },
+  "1900": {
+    "name": "ドロステ＝ヒュルスホフ アネッテ・フォン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1900.html",
+    "id": 1900,
+    "bookIds": [
+      58088
+    ]
+  },
+  "1906": {
+    "name": "河井 寛次郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1906.html",
+    "id": 1906,
+    "bookIds": [
+      58094,
+      58099,
+      58239
+    ]
+  },
+  "1907": {
+    "name": "窪田 空穂",
+    "url": "https://www.aozora.gr.jp/index_pages/person1907.html",
+    "id": 1907,
+    "bookIds": [
+      58095,
+      58950
+    ]
+  },
+  "1908": {
+    "name": "小穴 隆一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1908.html",
+    "id": 1908,
+    "bookIds": [
+      58142
+    ]
+  },
+  "1910": {
+    "name": "中島 哀浪",
+    "url": "https://www.aozora.gr.jp/index_pages/person1910.html",
+    "id": 1910,
+    "bookIds": [
+      58137
+    ]
+  },
+  "1911": {
+    "name": "川田 順",
+    "url": "https://www.aozora.gr.jp/index_pages/person1911.html",
+    "id": 1911,
+    "bookIds": [
+      58138
+    ]
+  },
+  "1912": {
+    "name": "野間 清六",
+    "url": "https://www.aozora.gr.jp/index_pages/person1912.html",
+    "id": 1912,
+    "bookIds": [
+      58140
+    ]
+  },
+  "1913": {
+    "name": "深瀬 基寛",
+    "url": "https://www.aozora.gr.jp/index_pages/person1913.html",
+    "id": 1913,
+    "bookIds": [
+      58143
+    ]
+  },
+  "1916": {
+    "name": "円城 塔",
+    "url": "https://www.aozora.gr.jp/index_pages/person1916.html",
+    "id": 1916,
+    "bookIds": [
+      58175
+    ]
+  },
+  "1917": {
+    "name": "福永 信",
+    "url": "https://www.aozora.gr.jp/index_pages/person1917.html",
+    "id": 1917,
+    "bookIds": [
+      58173
+    ]
+  },
+  "1918": {
+    "name": "澤西 祐典",
+    "url": "https://www.aozora.gr.jp/index_pages/person1918.html",
+    "id": 1918,
+    "bookIds": [
+      58174
+    ]
+  },
+  "1924": {
+    "name": "吉田 茂",
+    "url": "https://www.aozora.gr.jp/index_pages/person1924.html",
+    "id": 1924,
+    "bookIds": [
+      58230,
+      58903
+    ]
+  },
+  "1925": {
+    "name": "シートン アーネスト・トンプソン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1925.html",
+    "id": 1925,
+    "bookIds": [
+      56331
+    ]
+  },
+  "1927": {
+    "name": "野上 彰",
+    "url": "https://www.aozora.gr.jp/index_pages/person1927.html",
+    "id": 1927,
+    "bookIds": [
+      58932
+    ]
+  },
+  "1932": {
+    "name": "山東 京山",
+    "url": "https://www.aozora.gr.jp/index_pages/person1932.html",
+    "id": 1932,
+    "bookIds": [
+      59113
+    ]
+  },
+  "1934": {
+    "name": "柳原 白蓮",
+    "url": "https://www.aozora.gr.jp/index_pages/person1934.html",
+    "id": 1934,
+    "bookIds": [
+      58413
+    ]
+  },
+  "1937": {
+    "name": "笠 信太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1937.html",
+    "id": 1937,
+    "bookIds": [
+      58490
+    ]
+  },
+  "1938": {
+    "name": "新村 出",
+    "url": "https://www.aozora.gr.jp/index_pages/person1938.html",
+    "id": 1938,
+    "bookIds": [
+      58497,
+      58498
+    ]
+  },
+  "1939": {
+    "name": "恒藤 恭",
+    "url": "https://www.aozora.gr.jp/index_pages/person1939.html",
+    "id": 1939,
+    "bookIds": [
+      58535
+    ]
+  },
+  "1943": {
+    "name": "成沢 玲川",
+    "url": "https://www.aozora.gr.jp/index_pages/person1943.html",
+    "id": 1943,
+    "bookIds": [
+      58579
+    ]
+  },
+  "1948": {
+    "name": "鮎川 義介",
+    "url": "https://www.aozora.gr.jp/index_pages/person1948.html",
+    "id": 1948,
+    "bookIds": [
+      58686
+    ]
+  },
+  "1949": {
+    "name": "山浦 貫一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1949.html",
+    "id": 1949,
+    "bookIds": [
+      58687
+    ]
+  },
+  "1951": {
+    "name": "ブラックウッド アルジャーノン",
+    "url": "https://www.aozora.gr.jp/index_pages/person1951.html",
+    "id": 1951,
+    "bookIds": [
+      58701,
+      59047
+    ]
+  },
+  "1952": {
+    "name": "チェンバース ロバート・W",
+    "url": "https://www.aozora.gr.jp/index_pages/person1952.html",
+    "id": 1952,
+    "bookIds": [
+      58702
+    ]
+  },
+  "1954": {
+    "name": "中村 清太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1954.html",
+    "id": 1954,
+    "bookIds": [
+      58862,
+      59004
+    ]
+  },
+  "1955": {
+    "name": "太田 健一",
+    "url": "https://www.aozora.gr.jp/index_pages/person1955.html",
+    "id": 1955,
+    "bookIds": [
+      58806,
+      58807
+    ]
+  },
+  "1958": {
+    "name": "富田 常雄",
+    "url": "https://www.aozora.gr.jp/index_pages/person1958.html",
+    "id": 1958,
+    "bookIds": [
+      58935
+    ]
+  },
+  "1960": {
+    "name": "ミルン アラン・アレクザンダー",
+    "url": "https://www.aozora.gr.jp/index_pages/person1960.html",
+    "id": 1960,
+    "bookIds": [
+      58821
+    ]
+  },
+  "1961": {
+    "name": "稲垣 巌",
+    "url": "https://www.aozora.gr.jp/index_pages/person1961.html",
+    "id": 1961,
+    "bookIds": [
+      58832
+    ]
+  },
+  "1968": {
+    "name": "時枝 誠記",
+    "url": "https://www.aozora.gr.jp/index_pages/person1968.html",
+    "id": 1968,
+    "bookIds": [
+      58880
+    ]
+  },
+  "1969": {
+    "name": "矢部 貞治",
+    "url": "https://www.aozora.gr.jp/index_pages/person1969.html",
+    "id": 1969,
+    "bookIds": [
+      58883
+    ]
+  },
+  "1970": {
+    "name": "島 秋人",
+    "url": "https://www.aozora.gr.jp/index_pages/person1970.html",
+    "id": 1970,
+    "bookIds": [
+      58951
+    ]
+  },
+  "1977": {
+    "name": "森 於菟",
+    "url": "https://www.aozora.gr.jp/index_pages/person1977.html",
+    "id": 1977,
+    "bookIds": [
+      58926,
+      58947
+    ]
+  },
+  "1978": {
+    "name": "勝本 清一郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1978.html",
+    "id": 1978,
+    "bookIds": [
+      58941
+    ]
+  },
+  "1985": {
+    "name": "薄田 太郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1985.html",
+    "id": 1985,
+    "bookIds": [
+      58957
+    ]
+  },
+  "1986": {
+    "name": "秘田 余四郎",
+    "url": "https://www.aozora.gr.jp/index_pages/person1986.html",
+    "id": 1986,
+    "bookIds": [
+      58958
+    ]
+  },
+  "1989": {
+    "name": "早川 鮎子",
+    "url": "https://www.aozora.gr.jp/index_pages/person1989.html",
+    "id": 1989,
+    "bookIds": [
+      59005
+    ]
+  },
+  "1995": {
+    "name": "ジェイコブス ウイリアム・ワイマーク",
+    "url": "https://www.aozora.gr.jp/index_pages/person1995.html",
+    "id": 1995,
+    "bookIds": [
+      59048
+    ]
+  },
+  "2007": {
+    "name": "山東 京伝",
+    "url": "https://www.aozora.gr.jp/index_pages/person2007.html",
+    "id": 2007,
+    "bookIds": [
+      59113
+    ]
+  },
+  "2009": {
+    "name": "マッケナ リチャード・ミルトン",
+    "url": "https://www.aozora.gr.jp/index_pages/person2009.html",
+    "id": 2009,
+    "bookIds": [
+      59176
+    ]
+  },
+  "2010": {
+    "name": "スミス コードウェイナー",
+    "url": "https://www.aozora.gr.jp/index_pages/person2010.html",
+    "id": 2010,
+    "bookIds": [
+      59177,
+      59178
+    ]
+  }
+}

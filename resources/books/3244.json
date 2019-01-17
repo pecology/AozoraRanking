@@ -1,0 +1,87 @@
+{
+    "id": 3244,
+    "title": "海神別荘",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000050/card3244.html",
+    "authorIds": [
+        50
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 419,
+            "pageview": 231
+        },
+        "2009/07": {
+            "rank": 198,
+            "pageview": 447
+        },
+        "2010/03": {
+            "rank": 379,
+            "pageview": 227
+        },
+        "2010/04": {
+            "rank": 432,
+            "pageview": 199
+        },
+        "2010/05": {
+            "rank": 319,
+            "pageview": 286
+        },
+        "2010/06": {
+            "rank": 419,
+            "pageview": 240
+        },
+        "2010/07": {
+            "rank": 460,
+            "pageview": 206
+        },
+        "2010/08": {
+            "rank": 475,
+            "pageview": 195
+        },
+        "2010/09": {
+            "rank": 398,
+            "pageview": 227
+        },
+        "2010/12": {
+            "rank": 465,
+            "pageview": 204
+        },
+        "2011/01": {
+            "rank": 172,
+            "pageview": 567
+        },
+        "2011/02": {
+            "rank": 232,
+            "pageview": 372
+        },
+        "2011/03": {
+            "rank": 493,
+            "pageview": 195
+        },
+        "2012/01": {
+            "rank": 394,
+            "pageview": 296
+        },
+        "2012/02": {
+            "rank": 161,
+            "pageview": 550
+        },
+        "2012/03": {
+            "rank": 349,
+            "pageview": 326
+        },
+        "2015/09": {
+            "rank": 407,
+            "pageview": 317
+        },
+        "2016/10": {
+            "rank": 250,
+            "pageview": 537
+        },
+        "2018/09": {
+            "rank": 242,
+            "pageview": 513
+        }
+    }
+}

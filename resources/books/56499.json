@@ -1,0 +1,27 @@
+{
+    "id": 56499,
+    "title": "本の未来",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000055/card56499.html",
+    "authorIds": [
+        55
+    ],
+    "monthlyRankingHistories": {
+        "2013/08": {
+            "rank": 28,
+            "pageview": 2787
+        },
+        "2013/09": {
+            "rank": 129,
+            "pageview": 757
+        },
+        "2013/10": {
+            "rank": 297,
+            "pageview": 437
+        },
+        "2013/11": {
+            "rank": 452,
+            "pageview": 299
+        }
+    }
+}

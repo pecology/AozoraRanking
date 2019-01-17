@@ -1,0 +1,47 @@
+{
+    "id": 171,
+    "title": "一塊の土",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card171.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2016/01": {
+            "rank": 389,
+            "pageview": 379
+        },
+        "2016/04": {
+            "rank": 354,
+            "pageview": 328
+        },
+        "2016/05": {
+            "rank": 415,
+            "pageview": 337
+        },
+        "2016/07": {
+            "rank": 358,
+            "pageview": 365
+        },
+        "2016/08": {
+            "rank": 406,
+            "pageview": 322
+        },
+        "2016/09": {
+            "rank": 352,
+            "pageview": 353
+        },
+        "2016/11": {
+            "rank": 438,
+            "pageview": 331
+        },
+        "2017/01": {
+            "rank": 480,
+            "pageview": 321
+        },
+        "2017/03": {
+            "rank": 364,
+            "pageview": 367
+        }
+    }
+}

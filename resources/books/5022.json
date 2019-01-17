@@ -1,0 +1,31 @@
+{
+    "id": 5022,
+    "title": "源氏物語07 紅葉賀",
+    "subtitle": "07 紅葉賀",
+    "url": "https://www.aozora.gr.jp/cards/000052/card5022.html",
+    "authorIds": [
+        52
+    ],
+    "monthlyRankingHistories": {
+        "2009/11": {
+            "rank": 495,
+            "pageview": 236
+        },
+        "2009/12": {
+            "rank": 362,
+            "pageview": 300
+        },
+        "2010/10": {
+            "rank": 187,
+            "pageview": 120
+        },
+        "2010/12": {
+            "rank": 442,
+            "pageview": 209
+        },
+        "2011/10": {
+            "rank": 500,
+            "pageview": 206
+        }
+    }
+}

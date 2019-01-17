@@ -1,0 +1,51 @@
+{
+    "id": 54404,
+    "title": "月夜とめがね",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001475/card54404.html",
+    "authorIds": [
+        1475
+    ],
+    "monthlyRankingHistories": {
+        "2012/01": {
+            "rank": 447,
+            "pageview": 265
+        },
+        "2014/05": {
+            "rank": 489,
+            "pageview": 279
+        },
+        "2015/06": {
+            "rank": 348,
+            "pageview": 381
+        },
+        "2015/09": {
+            "rank": 487,
+            "pageview": 269
+        },
+        "2016/11": {
+            "rank": 394,
+            "pageview": 362
+        },
+        "2017/08": {
+            "rank": 367,
+            "pageview": 398
+        },
+        "2017/09": {
+            "rank": 487,
+            "pageview": 288
+        },
+        "2018/05": {
+            "rank": 425,
+            "pageview": 360
+        },
+        "2018/06": {
+            "rank": 499,
+            "pageview": 313
+        },
+        "2018/11": {
+            "rank": 465,
+            "pageview": 322
+        }
+    }
+}

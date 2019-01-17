@@ -1,0 +1,47 @@
+{
+    "id": 48222,
+    "title": "銀河鉄道の夜",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000081/card48222.html",
+    "authorIds": [
+        81
+    ],
+    "monthlyRankingHistories": {
+        "2016/09": {
+            "rank": 165,
+            "pageview": 728
+        },
+        "2016/10": {
+            "rank": 367,
+            "pageview": 370
+        },
+        "2017/01": {
+            "rank": 411,
+            "pageview": 369
+        },
+        "2018/07": {
+            "rank": 478,
+            "pageview": 329
+        },
+        "2018/08": {
+            "rank": 385,
+            "pageview": 352
+        },
+        "2018/09": {
+            "rank": 361,
+            "pageview": 373
+        },
+        "2018/10": {
+            "rank": 401,
+            "pageview": 375
+        },
+        "2018/11": {
+            "rank": 401,
+            "pageview": 364
+        },
+        "2018/12": {
+            "rank": 365,
+            "pageview": 377
+        }
+    }
+}

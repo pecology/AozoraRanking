@@ -1,0 +1,60 @@
+{
+    "id": 43466,
+    "title": "高野聖",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000050/card43466.html",
+    "authorIds": [
+        50,
+        886
+    ],
+    "monthlyRankingHistories": {
+        "2009/03": {
+            "rank": 444,
+            "pageview": 203
+        },
+        "2009/04": {
+            "rank": 488,
+            "pageview": 183
+        },
+        "2009/05": {
+            "rank": 491,
+            "pageview": 209
+        },
+        "2009/12": {
+            "rank": 469,
+            "pageview": 249
+        },
+        "2010/02": {
+            "rank": 454,
+            "pageview": 203
+        },
+        "2010/08": {
+            "rank": 345,
+            "pageview": 248
+        },
+        "2010/09": {
+            "rank": 448,
+            "pageview": 210
+        },
+        "2011/02": {
+            "rank": 429,
+            "pageview": 235
+        },
+        "2011/11": {
+            "rank": 492,
+            "pageview": 207
+        },
+        "2011/12": {
+            "rank": 476,
+            "pageview": 219
+        },
+        "2012/02": {
+            "rank": 478,
+            "pageview": 219
+        },
+        "2012/04": {
+            "rank": 470,
+            "pageview": 218
+        }
+    }
+}

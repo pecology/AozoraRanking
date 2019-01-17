@@ -1,0 +1,23 @@
+{
+    "id": 120,
+    "title": "女",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card120.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2009/12": {
+            "rank": 476,
+            "pageview": 246
+        },
+        "2010/10": {
+            "rank": 193,
+            "pageview": 119
+        },
+        "2012/03": {
+            "rank": 467,
+            "pageview": 254
+        }
+    }
+}

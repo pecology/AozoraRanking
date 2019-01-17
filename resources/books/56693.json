@@ -1,0 +1,63 @@
+{
+    "id": 56693,
+    "title": "恐怖",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001383/card56693.html",
+    "authorIds": [
+        1383
+    ],
+    "monthlyRankingHistories": {
+        "2016/05": {
+            "rank": 162,
+            "pageview": 828
+        },
+        "2016/06": {
+            "rank": 230,
+            "pageview": 602
+        },
+        "2016/07": {
+            "rank": 322,
+            "pageview": 418
+        },
+        "2016/08": {
+            "rank": 299,
+            "pageview": 423
+        },
+        "2016/09": {
+            "rank": 430,
+            "pageview": 295
+        },
+        "2016/10": {
+            "rank": 495,
+            "pageview": 274
+        },
+        "2016/11": {
+            "rank": 428,
+            "pageview": 340
+        },
+        "2017/03": {
+            "rank": 456,
+            "pageview": 302
+        },
+        "2017/09": {
+            "rank": 485,
+            "pageview": 288
+        },
+        "2017/10": {
+            "rank": 297,
+            "pageview": 491
+        },
+        "2017/11": {
+            "rank": 452,
+            "pageview": 328
+        },
+        "2017/12": {
+            "rank": 460,
+            "pageview": 306
+        },
+        "2018/02": {
+            "rank": 469,
+            "pageview": 282
+        }
+    }
+}

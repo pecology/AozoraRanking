@@ -1,0 +1,51 @@
+{
+    "id": 1066,
+    "title": "一兵卒",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000214/card1066.html",
+    "authorIds": [
+        214
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 453,
+            "pageview": 221
+        },
+        "2010/06": {
+            "rank": 26,
+            "pageview": 2307
+        },
+        "2010/07": {
+            "rank": 272,
+            "pageview": 301
+        },
+        "2010/08": {
+            "rank": 441,
+            "pageview": 208
+        },
+        "2010/09": {
+            "rank": 6,
+            "pageview": 5102
+        },
+        "2010/11": {
+            "rank": 117,
+            "pageview": 654
+        },
+        "2010/12": {
+            "rank": 71,
+            "pageview": 870
+        },
+        "2011/01": {
+            "rank": 267,
+            "pageview": 397
+        },
+        "2011/02": {
+            "rank": 416,
+            "pageview": 243
+        },
+        "2018/03": {
+            "rank": 308,
+            "pageview": 424
+        }
+    }
+}

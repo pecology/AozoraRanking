@@ -1,0 +1,43 @@
+{
+    "id": 3199,
+    "title": "平将門",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000051/card3199.html",
+    "authorIds": [
+        51
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 376,
+            "pageview": 276
+        },
+        "2009/02": {
+            "rank": 350,
+            "pageview": 240
+        },
+        "2009/03": {
+            "rank": 456,
+            "pageview": 200
+        },
+        "2009/04": {
+            "rank": 443,
+            "pageview": 196
+        },
+        "2009/05": {
+            "rank": 450,
+            "pageview": 221
+        },
+        "2010/03": {
+            "rank": 476,
+            "pageview": 191
+        },
+        "2010/04": {
+            "rank": 409,
+            "pageview": 205
+        },
+        "2010/09": {
+            "rank": 468,
+            "pageview": 201
+        }
+    }
+}

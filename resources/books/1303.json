@@ -1,0 +1,47 @@
+{
+    "id": 1303,
+    "title": "中国怪奇小説集17 閲微草堂筆記（清）",
+    "subtitle": "17 閲微草堂筆記（清）",
+    "url": "https://www.aozora.gr.jp/cards/000082/card1303.html",
+    "authorIds": [
+        82
+    ],
+    "monthlyRankingHistories": {
+        "2015/12": {
+            "rank": 473,
+            "pageview": 275
+        },
+        "2016/07": {
+            "rank": 381,
+            "pageview": 350
+        },
+        "2016/09": {
+            "rank": 327,
+            "pageview": 379
+        },
+        "2016/10": {
+            "rank": 253,
+            "pageview": 526
+        },
+        "2017/03": {
+            "rank": 303,
+            "pageview": 419
+        },
+        "2017/05": {
+            "rank": 362,
+            "pageview": 393
+        },
+        "2017/07": {
+            "rank": 333,
+            "pageview": 463
+        },
+        "2017/10": {
+            "rank": 421,
+            "pageview": 369
+        },
+        "2018/07": {
+            "rank": 370,
+            "pageview": 420
+        }
+    }
+}

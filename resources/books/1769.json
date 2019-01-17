@@ -1,0 +1,47 @@
+{
+    "id": 1769,
+    "title": "蝶を夢む",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000067/card1769.html",
+    "authorIds": [
+        67
+    ],
+    "monthlyRankingHistories": {
+        "2013/11": {
+            "rank": 448,
+            "pageview": 300
+        },
+        "2013/12": {
+            "rank": 472,
+            "pageview": 274
+        },
+        "2016/12": {
+            "rank": 403,
+            "pageview": 333
+        },
+        "2017/01": {
+            "rank": 481,
+            "pageview": 319
+        },
+        "2017/09": {
+            "rank": 491,
+            "pageview": 285
+        },
+        "2018/08": {
+            "rank": 473,
+            "pageview": 292
+        },
+        "2018/10": {
+            "rank": 427,
+            "pageview": 357
+        },
+        "2018/11": {
+            "rank": 451,
+            "pageview": 332
+        },
+        "2018/12": {
+            "rank": 399,
+            "pageview": 345
+        }
+    }
+}

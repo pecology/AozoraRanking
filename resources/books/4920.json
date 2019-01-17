@@ -1,0 +1,63 @@
+{
+    "id": 4920,
+    "title": "科学の不思議",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001049/card4920.html",
+    "authorIds": [
+        1049
+    ],
+    "monthlyRankingHistories": {
+        "2010/08": {
+            "rank": 208,
+            "pageview": 362
+        },
+        "2010/09": {
+            "rank": 222,
+            "pageview": 361
+        },
+        "2010/10": {
+            "rank": 221,
+            "pageview": 109
+        },
+        "2010/11": {
+            "rank": 500,
+            "pageview": 212
+        },
+        "2010/12": {
+            "rank": 403,
+            "pageview": 223
+        },
+        "2011/01": {
+            "rank": 377,
+            "pageview": 303
+        },
+        "2011/02": {
+            "rank": 499,
+            "pageview": 213
+        },
+        "2011/03": {
+            "rank": 433,
+            "pageview": 214
+        },
+        "2011/04": {
+            "rank": 437,
+            "pageview": 207
+        },
+        "2011/05": {
+            "rank": 422,
+            "pageview": 252
+        },
+        "2011/06": {
+            "rank": 471,
+            "pageview": 205
+        },
+        "2011/08": {
+            "rank": 464,
+            "pageview": 222
+        },
+        "2011/10": {
+            "rank": 468,
+            "pageview": 217
+        }
+    }
+}

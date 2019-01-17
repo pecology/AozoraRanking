@@ -1,0 +1,39 @@
+{
+    "id": 324,
+    "title": "非凡なる凡人",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000038/card324.html",
+    "authorIds": [
+        38
+    ],
+    "monthlyRankingHistories": {
+        "2016/06": {
+            "rank": 144,
+            "pageview": 919
+        },
+        "2017/04": {
+            "rank": 192,
+            "pageview": 675
+        },
+        "2017/08": {
+            "rank": 464,
+            "pageview": 316
+        },
+        "2017/10": {
+            "rank": 45,
+            "pageview": 2329
+        },
+        "2017/11": {
+            "rank": 445,
+            "pageview": 333
+        },
+        "2018/01": {
+            "rank": 462,
+            "pageview": 347
+        },
+        "2018/03": {
+            "rank": 373,
+            "pageview": 367
+        }
+    }
+}

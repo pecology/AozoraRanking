@@ -1,0 +1,35 @@
+{
+    "id": 56568,
+    "title": "新書太閤記01 第一分冊",
+    "subtitle": "01 第一分冊",
+    "url": "https://www.aozora.gr.jp/cards/001562/card56568.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2015/01": {
+            "rank": 180,
+            "pageview": 730
+        },
+        "2015/02": {
+            "rank": 363,
+            "pageview": 305
+        },
+        "2015/12": {
+            "rank": 374,
+            "pageview": 325
+        },
+        "2016/01": {
+            "rank": 448,
+            "pageview": 346
+        },
+        "2016/06": {
+            "rank": 447,
+            "pageview": 317
+        },
+        "2016/09": {
+            "rank": 465,
+            "pageview": 277
+        }
+    }
+}

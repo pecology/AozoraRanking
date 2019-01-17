@@ -1,0 +1,35 @@
+{
+    "id": 57197,
+    "title": "指環",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001779/card57197.html",
+    "authorIds": [
+        1779
+    ],
+    "monthlyRankingHistories": {
+        "2016/04": {
+            "rank": 72,
+            "pageview": 1339
+        },
+        "2016/05": {
+            "rank": 150,
+            "pageview": 884
+        },
+        "2016/06": {
+            "rank": 226,
+            "pageview": 608
+        },
+        "2016/07": {
+            "rank": 239,
+            "pageview": 560
+        },
+        "2016/08": {
+            "rank": 304,
+            "pageview": 421
+        },
+        "2016/10": {
+            "rank": 500,
+            "pageview": 272
+        }
+    }
+}

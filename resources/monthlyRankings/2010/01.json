@@ -1,0 +1,4512 @@
+[
+    {
+        "rank": 1,
+        "pageview": 15354,
+        "title": "こころ",
+        "bookId": 773,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 2,
+        "pageview": 11255,
+        "title": "人間失格",
+        "bookId": 301,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 3,
+        "pageview": 9061,
+        "title": "走れメロス",
+        "bookId": 1567,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 4,
+        "pageview": 8673,
+        "title": "坊っちゃん",
+        "bookId": 752,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 5,
+        "pageview": 6453,
+        "title": "吾輩は猫である",
+        "bookId": 789,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 6,
+        "pageview": 5849,
+        "title": "学問のすすめ",
+        "bookId": 47061,
+        "authorIds": [
+            296
+        ]
+    },
+    {
+        "rank": 7,
+        "pageview": 5418,
+        "title": "羅生門",
+        "bookId": 127,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 8,
+        "pageview": 5217,
+        "title": "〔雨ニモマケズ〕",
+        "bookId": 45630,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 9,
+        "pageview": 5216,
+        "title": "ドグラ・マグラ",
+        "bookId": 2093,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 10,
+        "pageview": 4847,
+        "title": "方丈記",
+        "bookId": 975,
+        "authorIds": [
+            196
+        ]
+    },
+    {
+        "rank": 11,
+        "pageview": 4576,
+        "title": "蜘蛛の糸",
+        "bookId": 92,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 12,
+        "pageview": 4439,
+        "title": "桜の森の満開の下",
+        "bookId": 42618,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 13,
+        "pageview": 4376,
+        "title": "蟹工船",
+        "bookId": 1465,
+        "authorIds": [
+            156
+        ]
+    },
+    {
+        "rank": 14,
+        "pageview": 4347,
+        "title": "暗号舞踏人の謎",
+        "bookId": 45340,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 15,
+        "pageview": 4331,
+        "title": "山月記",
+        "bookId": 624,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 16,
+        "pageview": 4269,
+        "title": "夢十夜",
+        "bookId": 799,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 17,
+        "pageview": 3752,
+        "title": "羅生門",
+        "bookId": 128,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 18,
+        "pageview": 3733,
+        "title": "草枕",
+        "bookId": 776,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 19,
+        "pageview": 3596,
+        "title": "銀河鉄道の夜",
+        "bookId": 456,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 20,
+        "pageview": 3029,
+        "title": "船中八策",
+        "bookId": 4254,
+        "authorIds": [
+            908
+        ]
+    },
+    {
+        "rank": 21,
+        "pageview": 2806,
+        "title": "一握の砂",
+        "bookId": 816,
+        "authorIds": [
+            153
+        ]
+    },
+    {
+        "rank": 22,
+        "pageview": 2681,
+        "title": "破戒",
+        "bookId": 1502,
+        "authorIds": [
+            158
+        ]
+    },
+    {
+        "rank": 23,
+        "pageview": 2524,
+        "title": "鼻",
+        "bookId": 42,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 24,
+        "pageview": 2481,
+        "title": "土佐日記",
+        "bookId": 832,
+        "authorIds": [
+            155
+        ]
+    },
+    {
+        "rank": 25,
+        "pageview": 2466,
+        "title": "白雪姫",
+        "bookId": 42308,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 26,
+        "pageview": 2460,
+        "title": "ヴィヨンの妻",
+        "bookId": 2253,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 27,
+        "pageview": 2432,
+        "title": "檸檬",
+        "bookId": 424,
+        "authorIds": [
+            74
+        ]
+    },
+    {
+        "rank": 28,
+        "pageview": 2414,
+        "title": "三四郎",
+        "bookId": 794,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 29,
+        "pageview": 2353,
+        "title": "舞姫",
+        "bookId": 2078,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 30,
+        "pageview": 2287,
+        "title": "斜陽",
+        "bookId": 1565,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 31,
+        "pageview": 2177,
+        "title": "虞美人草",
+        "bookId": 761,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 32,
+        "pageview": 2073,
+        "title": "蜜柑",
+        "bookId": 98,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 33,
+        "pageview": 2041,
+        "title": "智恵子抄",
+        "bookId": 46669,
+        "authorIds": [
+            1168
+        ]
+    },
+    {
+        "rank": 34,
+        "pageview": 1999,
+        "title": "赤ずきんちゃん",
+        "bookId": 42311,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 35,
+        "pageview": 1946,
+        "title": "よだかの星",
+        "bookId": 473,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 36,
+        "pageview": 1935,
+        "title": "藪の中",
+        "bookId": 179,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 37,
+        "pageview": 1935,
+        "title": "河童",
+        "bookId": 69,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 38,
+        "pageview": 1921,
+        "title": "クリスマス・カロル",
+        "bookId": 4328,
+        "authorIds": [
+            914
+        ]
+    },
+    {
+        "rank": 39,
+        "pageview": 1909,
+        "title": "高瀬舟",
+        "bookId": 691,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 40,
+        "pageview": 1884,
+        "title": "女生徒",
+        "bookId": 275,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 41,
+        "pageview": 1811,
+        "title": "手袋を買いに",
+        "bookId": 637,
+        "authorIds": [
+            121
+        ]
+    },
+    {
+        "rank": 42,
+        "pageview": 1720,
+        "title": "注文の多い料理店",
+        "bookId": 43754,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 43,
+        "pageview": 1686,
+        "title": "盲腸",
+        "bookId": 3626,
+        "authorIds": [
+            168
+        ]
+    },
+    {
+        "rank": 44,
+        "pageview": 1660,
+        "title": "富嶽百景",
+        "bookId": 270,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 45,
+        "pageview": 1599,
+        "title": "源氏物語05 若紫",
+        "bookId": 5020,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 46,
+        "pageview": 1587,
+        "title": "地獄変",
+        "bookId": 60,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 47,
+        "pageview": 1580,
+        "title": "それから",
+        "bookId": 1746,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 48,
+        "pageview": 1542,
+        "title": "少女病",
+        "bookId": 1098,
+        "authorIds": [
+            214
+        ]
+    },
+    {
+        "rank": 49,
+        "pageview": 1532,
+        "title": "セロ弾きのゴーシュ",
+        "bookId": 470,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 50,
+        "pageview": 1483,
+        "title": "やまなし",
+        "bookId": 472,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 51,
+        "pageview": 1470,
+        "title": "ごん狐",
+        "bookId": 628,
+        "authorIds": [
+            121
+        ]
+    },
+    {
+        "rank": 52,
+        "pageview": 1448,
+        "title": "或阿呆の一生",
+        "bookId": 19,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 53,
+        "pageview": 1439,
+        "title": "野菊の墓",
+        "bookId": 647,
+        "authorIds": [
+            58
+        ]
+    },
+    {
+        "rank": 54,
+        "pageview": 1413,
+        "title": "アグニの神",
+        "bookId": 15,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 55,
+        "pageview": 1407,
+        "title": "堕落論",
+        "bookId": 42620,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 56,
+        "pageview": 1406,
+        "title": "セメント樽の中の手紙",
+        "bookId": 228,
+        "authorIds": [
+            31
+        ]
+    },
+    {
+        "rank": 57,
+        "pageview": 1376,
+        "title": "あばばばば",
+        "bookId": 14,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 58,
+        "pageview": 1358,
+        "title": "お伽草紙",
+        "bookId": 307,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 59,
+        "pageview": 1332,
+        "title": "トロッコ",
+        "bookId": 43016,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 60,
+        "pageview": 1318,
+        "title": "トカトントン",
+        "bookId": 2285,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 61,
+        "pageview": 1318,
+        "title": "パンドラの匣",
+        "bookId": 1566,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 62,
+        "pageview": 1315,
+        "title": "ラプンツェル",
+        "bookId": 42309,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 63,
+        "pageview": 1315,
+        "title": "たけくらべ",
+        "bookId": 389,
+        "authorIds": [
+            64
+        ]
+    },
+    {
+        "rank": 64,
+        "pageview": 1310,
+        "title": "トロツコ",
+        "bookId": 169,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 65,
+        "pageview": 1310,
+        "title": "桃太郎",
+        "bookId": 100,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 66,
+        "pageview": 1279,
+        "title": "桜の樹の下には",
+        "bookId": 427,
+        "authorIds": [
+            74
+        ]
+    },
+    {
+        "rank": 67,
+        "pageview": 1271,
+        "title": "源氏物語01 桐壺",
+        "bookId": 5016,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 68,
+        "pageview": 1267,
+        "title": "浮雲",
+        "bookId": 1869,
+        "authorIds": [
+            6
+        ]
+    },
+    {
+        "rank": 69,
+        "pageview": 1260,
+        "title": "人生",
+        "bookId": 767,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 70,
+        "pageview": 1242,
+        "title": "金色夜叉",
+        "bookId": 522,
+        "authorIds": [
+            91
+        ]
+    },
+    {
+        "rank": 71,
+        "pageview": 1239,
+        "title": "風の又三郎",
+        "bookId": 462,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 72,
+        "pageview": 1205,
+        "title": "少女地獄",
+        "bookId": 935,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 73,
+        "pageview": 1201,
+        "title": "蛙のゴム靴",
+        "bookId": 4421,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 74,
+        "pageview": 1175,
+        "title": "猫の広告文",
+        "bookId": 4683,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 75,
+        "pageview": 1154,
+        "title": "手紙",
+        "bookId": 798,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 76,
+        "pageview": 1153,
+        "title": "カラマゾフの兄弟01 上",
+        "bookId": 42286,
+        "authorIds": [
+            363
+        ]
+    },
+    {
+        "rank": 77,
+        "pageview": 1153,
+        "title": "芋粥",
+        "bookId": 55,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 78,
+        "pageview": 1132,
+        "title": "杜子春",
+        "bookId": 170,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 79,
+        "pageview": 1128,
+        "title": "津軽",
+        "bookId": 2282,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 80,
+        "pageview": 1128,
+        "title": "夜明け前01 第一部上",
+        "bookId": 1504,
+        "authorIds": [
+            158
+        ]
+    },
+    {
+        "rank": 81,
+        "pageview": 1085,
+        "title": "銀河鉄道の夜",
+        "bookId": 43737,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 82,
+        "pageview": 1074,
+        "title": "グッド・バイ",
+        "bookId": 258,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 83,
+        "pageview": 1068,
+        "title": "行人",
+        "bookId": 775,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 84,
+        "pageview": 1058,
+        "title": "蒲団",
+        "bookId": 1669,
+        "authorIds": [
+            214
+        ]
+    },
+    {
+        "rank": 85,
+        "pageview": 1054,
+        "title": "故郷",
+        "bookId": 42939,
+        "authorIds": [
+            1124
+        ]
+    },
+    {
+        "rank": 86,
+        "pageview": 1034,
+        "title": "阿Ｑ正伝",
+        "bookId": 42934,
+        "authorIds": [
+            1124
+        ]
+    },
+    {
+        "rank": 87,
+        "pageview": 1027,
+        "title": "私の個人主義",
+        "bookId": 772,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 88,
+        "pageview": 1017,
+        "title": "黒死館殺人事件",
+        "bookId": 1317,
+        "authorIds": [
+            125
+        ]
+    },
+    {
+        "rank": 89,
+        "pageview": 995,
+        "title": "古事記物語",
+        "bookId": 1530,
+        "authorIds": [
+            107
+        ]
+    },
+    {
+        "rank": 90,
+        "pageview": 992,
+        "title": "オツベルと象",
+        "bookId": 466,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 91,
+        "pageview": 978,
+        "title": "注文の多い料理店",
+        "bookId": 1927,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 92,
+        "pageview": 972,
+        "title": "門",
+        "bookId": 785,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 93,
+        "pageview": 959,
+        "title": "大川の水",
+        "bookId": 123,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 94,
+        "pageview": 948,
+        "title": "瓶詰地獄",
+        "bookId": 2381,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 95,
+        "pageview": 934,
+        "title": "山椒大夫",
+        "bookId": 689,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 96,
+        "pageview": 928,
+        "title": "高瀬舟",
+        "bookId": 45245,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 97,
+        "pageview": 922,
+        "title": "ヰタ・セクスアリス",
+        "bookId": 695,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 98,
+        "pageview": 918,
+        "title": "科学者とあたま",
+        "bookId": 2359,
+        "authorIds": [
+            42
+        ]
+    },
+    {
+        "rank": 99,
+        "pageview": 910,
+        "title": "山羊の歌",
+        "bookId": 894,
+        "authorIds": [
+            26
+        ]
+    },
+    {
+        "rank": 100,
+        "pageview": 904,
+        "title": "杜子春",
+        "bookId": 43015,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 101,
+        "pageview": 903,
+        "title": "正岡子規",
+        "bookId": 1751,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 102,
+        "pageview": 881,
+        "title": "白痴",
+        "bookId": 42621,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 103,
+        "pageview": 879,
+        "title": "在りし日の歌",
+        "bookId": 219,
+        "authorIds": [
+            26
+        ]
+    },
+    {
+        "rank": 104,
+        "pageview": 874,
+        "title": "教育の目的",
+        "bookId": 46734,
+        "authorIds": [
+            296
+        ]
+    },
+    {
+        "rank": 105,
+        "pageview": 865,
+        "title": "風立ちぬ",
+        "bookId": 4803,
+        "authorIds": [
+            1030
+        ]
+    },
+    {
+        "rank": 106,
+        "pageview": 862,
+        "title": "川端康成へ",
+        "bookId": 1607,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 107,
+        "pageview": 846,
+        "title": "ガリバー旅行記",
+        "bookId": 4673,
+        "authorIds": [
+            912
+        ]
+    },
+    {
+        "rank": 108,
+        "pageview": 842,
+        "title": "日和下駄一名　東京散策記",
+        "bookId": 49658,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 109,
+        "pageview": 841,
+        "title": "ヘンゼルとグレーテル",
+        "bookId": 42315,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 110,
+        "pageview": 830,
+        "title": "舞姫",
+        "bookId": 682,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 111,
+        "pageview": 827,
+        "title": "きりぎりす",
+        "bookId": 1571,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 112,
+        "pageview": 827,
+        "title": "グスコーブドリの伝記",
+        "bookId": 1924,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 113,
+        "pageview": 811,
+        "title": "モルグ街の殺人事件",
+        "bookId": 605,
+        "authorIds": [
+            94
+        ]
+    },
+    {
+        "rank": 114,
+        "pageview": 799,
+        "title": "足跡",
+        "bookId": 45460,
+        "authorIds": [
+            153
+        ]
+    },
+    {
+        "rank": 115,
+        "pageview": 798,
+        "title": "武蔵野",
+        "bookId": 329,
+        "authorIds": [
+            38
+        ]
+    },
+    {
+        "rank": 116,
+        "pageview": 792,
+        "title": "イワンの馬鹿",
+        "bookId": 42941,
+        "authorIds": [
+            361
+        ]
+    },
+    {
+        "rank": 117,
+        "pageview": 791,
+        "title": "台川",
+        "bookId": 4416,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 118,
+        "pageview": 790,
+        "title": "高野聖",
+        "bookId": 521,
+        "authorIds": [
+            50
+        ]
+    },
+    {
+        "rank": 119,
+        "pageview": 787,
+        "title": "すみだ川",
+        "bookId": 50556,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 120,
+        "pageview": 785,
+        "title": "桜桃",
+        "bookId": 308,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 121,
+        "pageview": 782,
+        "title": "『春と修羅』",
+        "bookId": 1058,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 122,
+        "pageview": 782,
+        "title": "黒猫",
+        "bookId": 530,
+        "authorIds": [
+            94
+        ]
+    },
+    {
+        "rank": 123,
+        "pageview": 762,
+        "title": "「いき」の構造",
+        "bookId": 393,
+        "authorIds": [
+            65
+        ]
+    },
+    {
+        "rank": 124,
+        "pageview": 756,
+        "title": "侏儒の言葉",
+        "bookId": 158,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 125,
+        "pageview": 751,
+        "title": "ツェねずみ",
+        "bookId": 1949,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 126,
+        "pageview": 747,
+        "title": "月に吠える",
+        "bookId": 859,
+        "authorIds": [
+            67
+        ]
+    },
+    {
+        "rank": 127,
+        "pageview": 746,
+        "title": "最終戦争論・戦争史大観",
+        "bookId": 1154,
+        "authorIds": [
+            230
+        ]
+    },
+    {
+        "rank": 128,
+        "pageview": 723,
+        "title": "桃の雫",
+        "bookId": 4854,
+        "authorIds": [
+            158
+        ]
+    },
+    {
+        "rank": 129,
+        "pageview": 722,
+        "title": "ファラデーの伝電気学の泰斗",
+        "bookId": 46340,
+        "authorIds": [
+            1234
+        ]
+    },
+    {
+        "rank": 130,
+        "pageview": 719,
+        "title": "物理学の要用",
+        "bookId": 46686,
+        "authorIds": [
+            296
+        ]
+    },
+    {
+        "rank": 131,
+        "pageview": 717,
+        "title": "名人伝",
+        "bookId": 621,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 132,
+        "pageview": 716,
+        "title": "神曲01 地獄",
+        "bookId": 4618,
+        "authorIds": [
+            961
+        ]
+    },
+    {
+        "rank": 133,
+        "pageview": 713,
+        "title": "正義と微笑",
+        "bookId": 1577,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 134,
+        "pageview": 705,
+        "title": "奇巌城アルセーヌ・ルパン",
+        "bookId": 46187,
+        "authorIds": [
+            1121
+        ]
+    },
+    {
+        "rank": 135,
+        "pageview": 702,
+        "title": "明暗",
+        "bookId": 782,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 136,
+        "pageview": 694,
+        "title": "学問の独立",
+        "bookId": 46684,
+        "authorIds": [
+            296
+        ]
+    },
+    {
+        "rank": 137,
+        "pageview": 693,
+        "title": "雪の女王七つのお話でできているおとぎ物語",
+        "bookId": 42387,
+        "authorIds": [
+            19
+        ]
+    },
+    {
+        "rank": 138,
+        "pageview": 686,
+        "title": "尾崎放哉選句集",
+        "bookId": 974,
+        "authorIds": [
+            195
+        ]
+    },
+    {
+        "rank": 139,
+        "pageview": 679,
+        "title": "ア、秋",
+        "bookId": 236,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 140,
+        "pageview": 679,
+        "title": "悪魔",
+        "bookId": 3804,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 141,
+        "pageview": 677,
+        "title": "李陵",
+        "bookId": 1737,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 142,
+        "pageview": 669,
+        "title": "愛読書の印象",
+        "bookId": 4872,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 143,
+        "pageview": 662,
+        "title": "単独行",
+        "bookId": 1330,
+        "authorIds": [
+            245
+        ]
+    },
+    {
+        "rank": 144,
+        "pageview": 660,
+        "title": "耳無芳一の話",
+        "bookId": 42927,
+        "authorIds": [
+            258
+        ]
+    },
+    {
+        "rank": 145,
+        "pageview": 658,
+        "title": "秋",
+        "bookId": 16,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 146,
+        "pageview": 651,
+        "title": "雁",
+        "bookId": 45224,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 147,
+        "pageview": 650,
+        "title": "狂人日記",
+        "bookId": 42936,
+        "authorIds": [
+            1124
+        ]
+    },
+    {
+        "rank": 148,
+        "pageview": 649,
+        "title": "だしの取り方",
+        "bookId": 49986,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 149,
+        "pageview": 641,
+        "title": "『吾輩は猫である』上篇自序",
+        "bookId": 47148,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 150,
+        "pageview": 641,
+        "title": "赤いくつ",
+        "bookId": 42378,
+        "authorIds": [
+            19
+        ]
+    },
+    {
+        "rank": 151,
+        "pageview": 639,
+        "title": "墨汁一滴",
+        "bookId": 1897,
+        "authorIds": [
+            305
+        ]
+    },
+    {
+        "rank": 152,
+        "pageview": 637,
+        "title": "ああ華族様だよ　と私は嘘を吐くのであった",
+        "bookId": 2569,
+        "authorIds": [
+            20
+        ]
+    },
+    {
+        "rank": 153,
+        "pageview": 633,
+        "title": "なめとこ山の熊",
+        "bookId": 1939,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 154,
+        "pageview": 631,
+        "title": "道草",
+        "bookId": 783,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 155,
+        "pageview": 629,
+        "title": "アグニの神",
+        "bookId": 43014,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 156,
+        "pageview": 626,
+        "title": "琴のそら音",
+        "bookId": 1073,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 157,
+        "pageview": 620,
+        "title": "雑煮",
+        "bookId": 49985,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 158,
+        "pageview": 615,
+        "title": "阿部一族",
+        "bookId": 673,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 159,
+        "pageview": 612,
+        "title": "愛撫",
+        "bookId": 411,
+        "authorIds": [
+            74
+        ]
+    },
+    {
+        "rank": 160,
+        "pageview": 611,
+        "title": "十二支考01　虎に関する史話と伝説民俗",
+        "bookId": 526,
+        "authorIds": [
+            93
+        ]
+    },
+    {
+        "rank": 161,
+        "pageview": 608,
+        "title": "あたらしい憲法のはなし",
+        "bookId": 43037,
+        "authorIds": [
+            1128
+        ]
+    },
+    {
+        "rank": 162,
+        "pageview": 607,
+        "title": "裸婦",
+        "bookId": 46231,
+        "authorIds": [
+            124
+        ]
+    },
+    {
+        "rank": 163,
+        "pageview": 602,
+        "title": "山月記",
+        "bookId": 623,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 164,
+        "pageview": 595,
+        "title": "外科室",
+        "bookId": 360,
+        "authorIds": [
+            50
+        ]
+    },
+    {
+        "rank": 165,
+        "pageview": 592,
+        "title": "デカルト哲学について",
+        "bookId": 3216,
+        "authorIds": [
+            182
+        ]
+    },
+    {
+        "rank": 166,
+        "pageview": 582,
+        "title": "一房の葡萄",
+        "bookId": 211,
+        "authorIds": [
+            25
+        ]
+    },
+    {
+        "rank": 167,
+        "pageview": 577,
+        "title": "写生文",
+        "bookId": 796,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 168,
+        "pageview": 577,
+        "title": "日本人の自然観",
+        "bookId": 2510,
+        "authorIds": [
+            42
+        ]
+    },
+    {
+        "rank": 169,
+        "pageview": 570,
+        "title": "雪渡り",
+        "bookId": 45679,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 170,
+        "pageview": 569,
+        "title": "蠅",
+        "bookId": 2302,
+        "authorIds": [
+            168
+        ]
+    },
+    {
+        "rank": 171,
+        "pageview": 568,
+        "title": "青猫",
+        "bookId": 1768,
+        "authorIds": [
+            67
+        ]
+    },
+    {
+        "rank": 172,
+        "pageview": 566,
+        "title": "若菜集",
+        "bookId": 1508,
+        "authorIds": [
+            158
+        ]
+    },
+    {
+        "rank": 173,
+        "pageview": 565,
+        "title": "アッシャー家の崩壊",
+        "bookId": 882,
+        "authorIds": [
+            94
+        ]
+    },
+    {
+        "rank": 174,
+        "pageview": 558,
+        "title": "猫の事務所",
+        "bookId": 464,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 175,
+        "pageview": 555,
+        "title": "二筋の血",
+        "bookId": 45470,
+        "authorIds": [
+            153
+        ]
+    },
+    {
+        "rank": 176,
+        "pageview": 554,
+        "title": "純情小曲集",
+        "bookId": 1788,
+        "authorIds": [
+            67
+        ]
+    },
+    {
+        "rank": 177,
+        "pageview": 554,
+        "title": "歌よみに与ふる書",
+        "bookId": 2533,
+        "authorIds": [
+            305
+        ]
+    },
+    {
+        "rank": 178,
+        "pageview": 551,
+        "title": "魚服記",
+        "bookId": 1563,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 179,
+        "pageview": 551,
+        "title": "六の宮の姫君",
+        "bookId": 130,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 180,
+        "pageview": 545,
+        "title": "吾輩ハ猫デアル",
+        "bookId": 790,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 181,
+        "pageview": 538,
+        "title": "お米の話",
+        "bookId": 49963,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 182,
+        "pageview": 538,
+        "title": "『心』自序",
+        "bookId": 4688,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 183,
+        "pageview": 535,
+        "title": "如是我聞",
+        "bookId": 1084,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 184,
+        "pageview": 534,
+        "title": "鳥影",
+        "bookId": 4695,
+        "authorIds": [
+            153
+        ]
+    },
+    {
+        "rank": 185,
+        "pageview": 532,
+        "title": "美味い豆腐の話",
+        "bookId": 49961,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 186,
+        "pageview": 530,
+        "title": "人生論ノート",
+        "bookId": 46845,
+        "authorIds": [
+            218
+        ]
+    },
+    {
+        "rank": 187,
+        "pageview": 529,
+        "title": "或る女1（前編）",
+        "bookId": 201,
+        "authorIds": [
+            25
+        ]
+    },
+    {
+        "rank": 188,
+        "pageview": 528,
+        "title": "どんぐりと山猫",
+        "bookId": 43752,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 189,
+        "pageview": 522,
+        "title": "五重塔",
+        "bookId": 43289,
+        "authorIds": [
+            51
+        ]
+    },
+    {
+        "rank": 190,
+        "pageview": 522,
+        "title": "硝子戸の中",
+        "bookId": 760,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 191,
+        "pageview": 521,
+        "title": "茶の本04 茶の本",
+        "bookId": 1276,
+        "authorIds": [
+            238,
+            1347
+        ]
+    },
+    {
+        "rank": 192,
+        "pageview": 517,
+        "title": "おじいさんのランプ",
+        "bookId": 635,
+        "authorIds": [
+            121
+        ]
+    },
+    {
+        "rank": 193,
+        "pageview": 512,
+        "title": "料理メモ",
+        "bookId": 50011,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 194,
+        "pageview": 510,
+        "title": "アインシュタイン",
+        "bookId": 43074,
+        "authorIds": [
+            42
+        ]
+    },
+    {
+        "rank": 195,
+        "pageview": 509,
+        "title": "さようなら",
+        "bookId": 729,
+        "authorIds": [
+            126
+        ]
+    },
+    {
+        "rank": 196,
+        "pageview": 509,
+        "title": "歯車",
+        "bookId": 40,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 197,
+        "pageview": 506,
+        "title": "次郎物語01 第一部",
+        "bookId": 42692,
+        "authorIds": [
+            1097
+        ]
+    },
+    {
+        "rank": 198,
+        "pageview": 505,
+        "title": "海潮音上田敏訳詩集",
+        "bookId": 2259,
+        "authorIds": [
+            235
+        ]
+    },
+    {
+        "rank": 199,
+        "pageview": 504,
+        "title": "ねずみの嫁入り",
+        "bookId": 18335,
+        "authorIds": [
+            329
+        ]
+    },
+    {
+        "rank": 200,
+        "pageview": 502,
+        "title": "蜜柑",
+        "bookId": 43017,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 201,
+        "pageview": 501,
+        "title": "生まれいずる悩み",
+        "bookId": 1111,
+        "authorIds": [
+            25
+        ]
+    },
+    {
+        "rank": 202,
+        "pageview": 499,
+        "title": "夜長姫と耳男",
+        "bookId": 42614,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 203,
+        "pageview": 496,
+        "title": "十三夜",
+        "bookId": 386,
+        "authorIds": [
+            64
+        ]
+    },
+    {
+        "rank": 204,
+        "pageview": 494,
+        "title": "電車の混雑について",
+        "bookId": 2449,
+        "authorIds": [
+            42
+        ]
+    },
+    {
+        "rank": 205,
+        "pageview": 491,
+        "title": "恩讐の彼方に",
+        "bookId": 496,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 206,
+        "pageview": 491,
+        "title": "最古日本の女性生活の根柢",
+        "bookId": 24436,
+        "authorIds": [
+            933
+        ]
+    },
+    {
+        "rank": 207,
+        "pageview": 490,
+        "title": "三山居士",
+        "bookId": 784,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 208,
+        "pageview": 485,
+        "title": "I can speak",
+        "bookId": 1572,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 209,
+        "pageview": 485,
+        "title": "支那人間に於ける食人肉の風習",
+        "bookId": 42810,
+        "authorIds": [
+            372
+        ]
+    },
+    {
+        "rank": 210,
+        "pageview": 480,
+        "title": "悲しき玩具",
+        "bookId": 815,
+        "authorIds": [
+            153
+        ]
+    },
+    {
+        "rank": 211,
+        "pageview": 479,
+        "title": "猫町",
+        "bookId": 641,
+        "authorIds": [
+            67
+        ]
+    },
+    {
+        "rank": 212,
+        "pageview": 475,
+        "title": "不如帰　小説",
+        "bookId": 1706,
+        "authorIds": [
+            280
+        ]
+    },
+    {
+        "rank": 213,
+        "pageview": 475,
+        "title": "日本国憲法",
+        "bookId": 474,
+        "authorIds": []
+    },
+    {
+        "rank": 214,
+        "pageview": 474,
+        "title": "彼岸過迄",
+        "bookId": 765,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 215,
+        "pageview": 474,
+        "title": "空家の冒険",
+        "bookId": 43522,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 216,
+        "pageview": 471,
+        "title": "現代日本の開化",
+        "bookId": 759,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 217,
+        "pageview": 468,
+        "title": "一月一日",
+        "bookId": 50275,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 218,
+        "pageview": 464,
+        "title": "源氏物語04 夕顔",
+        "bookId": 5019,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 219,
+        "pageview": 463,
+        "title": "あいびき",
+        "bookId": 5,
+        "authorIds": [
+            5
+        ]
+    },
+    {
+        "rank": 220,
+        "pageview": 455,
+        "title": "レ・ミゼラブル04 第一部　ファンテーヌ",
+        "bookId": 42600,
+        "authorIds": [
+            1094
+        ]
+    },
+    {
+        "rank": 221,
+        "pageview": 454,
+        "title": "舞踏会",
+        "bookId": 28,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 222,
+        "pageview": 452,
+        "title": "点頭録",
+        "bookId": 4672,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 223,
+        "pageview": 449,
+        "title": "星めぐりの歌",
+        "bookId": 46268,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 224,
+        "pageview": 448,
+        "title": "神神の微笑",
+        "bookId": 68,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 225,
+        "pageview": 443,
+        "title": "葉",
+        "bookId": 2288,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 226,
+        "pageview": 443,
+        "title": "材料か料理か",
+        "bookId": 49977,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 227,
+        "pageview": 443,
+        "title": "にごりえ",
+        "bookId": 387,
+        "authorIds": [
+            64
+        ]
+    },
+    {
+        "rank": 228,
+        "pageview": 442,
+        "title": "二十世紀旗手",
+        "bookId": 234,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 229,
+        "pageview": 440,
+        "title": "文鳥",
+        "bookId": 753,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 230,
+        "pageview": 440,
+        "title": "黄金風景",
+        "bookId": 2257,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 231,
+        "pageview": 438,
+        "title": "漱石氏と私",
+        "bookId": 47741,
+        "authorIds": [
+            1310
+        ]
+    },
+    {
+        "rank": 232,
+        "pageview": 435,
+        "title": "小さき者へ",
+        "bookId": 206,
+        "authorIds": [
+            25
+        ]
+    },
+    {
+        "rank": 233,
+        "pageview": 435,
+        "title": "絶対矛盾的自己同一",
+        "bookId": 1755,
+        "authorIds": [
+            182
+        ]
+    },
+    {
+        "rank": 234,
+        "pageview": 432,
+        "title": "おおかみと七ひきのこどもやぎ",
+        "bookId": 42312,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 235,
+        "pageview": 430,
+        "title": "黄金虫",
+        "bookId": 2525,
+        "authorIds": [
+            94
+        ]
+    },
+    {
+        "rank": 236,
+        "pageview": 429,
+        "title": "ああ玉杯に花うけて",
+        "bookId": 3585,
+        "authorIds": [
+            575
+        ]
+    },
+    {
+        "rank": 237,
+        "pageview": 428,
+        "title": "寒山拾得",
+        "bookId": 1071,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 238,
+        "pageview": 426,
+        "title": "田舎教師",
+        "bookId": 1668,
+        "authorIds": [
+            214
+        ]
+    },
+    {
+        "rank": 239,
+        "pageview": 426,
+        "title": "ジーキル博士とハイド氏の怪事件",
+        "bookId": 33205,
+        "authorIds": [
+            888
+        ]
+    },
+    {
+        "rank": 240,
+        "pageview": 426,
+        "title": "雪の日",
+        "bookId": 50289,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 241,
+        "pageview": 421,
+        "title": "万葉秀歌",
+        "bookId": 5082,
+        "authorIds": [
+            1059
+        ]
+    },
+    {
+        "rank": 242,
+        "pageview": 418,
+        "title": "探偵小説アルセーヌ・ルパン",
+        "bookId": 42809,
+        "authorIds": [
+            1121
+        ]
+    },
+    {
+        "rank": 243,
+        "pageview": 417,
+        "title": "アラビヤンナイト01 一、アラジンとふしぎなランプ",
+        "bookId": 43122,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 244,
+        "pageview": 416,
+        "title": "美食七十年の体験",
+        "bookId": 49998,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 245,
+        "pageview": 413,
+        "title": "般若心経講義",
+        "bookId": 1543,
+        "authorIds": [
+            269
+        ]
+    },
+    {
+        "rank": 246,
+        "pageview": 413,
+        "title": "銀河鉄道の夜",
+        "bookId": 46322,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 247,
+        "pageview": 412,
+        "title": "青鬼の褌を洗う女",
+        "bookId": 42877,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 248,
+        "pageview": 410,
+        "title": "高野豆腐",
+        "bookId": 49974,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 249,
+        "pageview": 410,
+        "title": "倫敦塔",
+        "bookId": 1076,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 250,
+        "pageview": 407,
+        "title": "或日の大石内蔵助",
+        "bookId": 122,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 251,
+        "pageview": 406,
+        "title": "即興詩人",
+        "bookId": 4376,
+        "authorIds": [
+            19
+        ]
+    },
+    {
+        "rank": 252,
+        "pageview": 405,
+        "title": "人形の家",
+        "bookId": 4797,
+        "authorIds": [
+            1028
+        ]
+    },
+    {
+        "rank": 253,
+        "pageview": 405,
+        "title": "星の銀貨",
+        "bookId": 42316,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 254,
+        "pageview": 404,
+        "title": "新生",
+        "bookId": 843,
+        "authorIds": [
+            158
+        ]
+    },
+    {
+        "rank": 255,
+        "pageview": 404,
+        "title": "駈込み訴え",
+        "bookId": 277,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 256,
+        "pageview": 404,
+        "title": "形",
+        "bookId": 4306,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 257,
+        "pageview": 403,
+        "title": "ランボオ詩集",
+        "bookId": 47296,
+        "authorIds": [
+            1296
+        ]
+    },
+    {
+        "rank": 258,
+        "pageview": 402,
+        "title": "臨時急行列車の紛失",
+        "bookId": 43056,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 259,
+        "pageview": 401,
+        "title": "或旧友へ送る手記",
+        "bookId": 20,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 260,
+        "pageview": 399,
+        "title": "文字禍",
+        "bookId": 622,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 261,
+        "pageview": 399,
+        "title": "交尾",
+        "bookId": 423,
+        "authorIds": [
+            74
+        ]
+    },
+    {
+        "rank": 262,
+        "pageview": 395,
+        "title": "猿蟹合戦",
+        "bookId": 140,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 263,
+        "pageview": 394,
+        "title": "死者の書",
+        "bookId": 4398,
+        "authorIds": [
+            933
+        ]
+    },
+    {
+        "rank": 264,
+        "pageview": 394,
+        "title": "盗まれた手紙",
+        "bookId": 42338,
+        "authorIds": [
+            94
+        ]
+    },
+    {
+        "rank": 265,
+        "pageview": 393,
+        "title": "最後の一句",
+        "bookId": 687,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 266,
+        "pageview": 391,
+        "title": "子規居士と余",
+        "bookId": 47740,
+        "authorIds": [
+            1310
+        ]
+    },
+    {
+        "rank": 267,
+        "pageview": 391,
+        "title": "貉",
+        "bookId": 42928,
+        "authorIds": [
+            258
+        ]
+    },
+    {
+        "rank": 268,
+        "pageview": 390,
+        "title": "善の研究",
+        "bookId": 946,
+        "authorIds": [
+            182
+        ]
+    },
+    {
+        "rank": 269,
+        "pageview": 390,
+        "title": "いなか、の、じけん",
+        "bookId": 919,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 270,
+        "pageview": 390,
+        "title": "フランダースの犬",
+        "bookId": 4880,
+        "authorIds": [
+            1044
+        ]
+    },
+    {
+        "rank": 271,
+        "pageview": 388,
+        "title": "農民芸術概論綱要",
+        "bookId": 2386,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 272,
+        "pageview": 388,
+        "title": "ウィリアム・ウィルスン",
+        "bookId": 2523,
+        "authorIds": [
+            94
+        ]
+    },
+    {
+        "rank": 273,
+        "pageview": 388,
+        "title": "新版　放浪記",
+        "bookId": 1813,
+        "authorIds": [
+            291
+        ]
+    },
+    {
+        "rank": 274,
+        "pageview": 387,
+        "title": "男ごゝろ",
+        "bookId": 50276,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 275,
+        "pageview": 385,
+        "title": "かちかち山",
+        "bookId": 3814,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 276,
+        "pageview": 383,
+        "title": "若草物語",
+        "bookId": 42307,
+        "authorIds": [
+            1090
+        ]
+    },
+    {
+        "rank": 277,
+        "pageview": 383,
+        "title": "千曲川のスケッチ",
+        "bookId": 1503,
+        "authorIds": [
+            158
+        ]
+    },
+    {
+        "rank": 278,
+        "pageview": 382,
+        "title": "永日小品",
+        "bookId": 758,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 279,
+        "pageview": 380,
+        "title": "邪宗門",
+        "bookId": 4850,
+        "authorIds": [
+            106
+        ]
+    },
+    {
+        "rank": 280,
+        "pageview": 378,
+        "title": "奉教人の死",
+        "bookId": 49,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 281,
+        "pageview": 377,
+        "title": "道徳の観念",
+        "bookId": 1711,
+        "authorIds": [
+            281
+        ]
+    },
+    {
+        "rank": 282,
+        "pageview": 376,
+        "title": "カインの末裔",
+        "bookId": 204,
+        "authorIds": [
+            25
+        ]
+    },
+    {
+        "rank": 283,
+        "pageview": 376,
+        "title": "甘鯛の姿焼き",
+        "bookId": 49952,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 284,
+        "pageview": 373,
+        "title": "母を尋ねて三千里",
+        "bookId": 45381,
+        "authorIds": [
+            1048
+        ]
+    },
+    {
+        "rank": 285,
+        "pageview": 371,
+        "title": "坑夫",
+        "bookId": 774,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 286,
+        "pageview": 370,
+        "title": "日本文化私観",
+        "bookId": 42625,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 287,
+        "pageview": 369,
+        "title": "支那人の食人肉風習",
+        "bookId": 4270,
+        "authorIds": [
+            372
+        ]
+    },
+    {
+        "rank": 288,
+        "pageview": 369,
+        "title": "慈悲",
+        "bookId": 442,
+        "authorIds": [
+            76
+        ]
+    },
+    {
+        "rank": 289,
+        "pageview": 368,
+        "title": "愛と美について",
+        "bookId": 1578,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 290,
+        "pageview": 368,
+        "title": "魔術",
+        "bookId": 95,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 291,
+        "pageview": 368,
+        "title": "思ひ出",
+        "bookId": 1574,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 292,
+        "pageview": 367,
+        "title": "夜叉ヶ池",
+        "bookId": 3407,
+        "authorIds": [
+            50
+        ]
+    },
+    {
+        "rank": 293,
+        "pageview": 366,
+        "title": "弟子",
+        "bookId": 1738,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 294,
+        "pageview": 364,
+        "title": "省察神の存在、及び人間の霊魂と肉体との区別を論証する、第一哲学についての",
+        "bookId": 43291,
+        "authorIds": [
+            1029
+        ]
+    },
+    {
+        "rank": 295,
+        "pageview": 363,
+        "title": "右大臣実朝",
+        "bookId": 2255,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 296,
+        "pageview": 362,
+        "title": "特攻隊に捧ぐ",
+        "bookId": 45201,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 297,
+        "pageview": 361,
+        "title": "双子の星",
+        "bookId": 459,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 298,
+        "pageview": 360,
+        "title": "真珠夫人",
+        "bookId": 13217,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 299,
+        "pageview": 359,
+        "title": "胡瓜",
+        "bookId": 49969,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 300,
+        "pageview": 357,
+        "title": "葬られたる秘密",
+        "bookId": 42926,
+        "authorIds": [
+            258
+        ]
+    },
+    {
+        "rank": 301,
+        "pageview": 356,
+        "title": "源氏物語09 葵",
+        "bookId": 5024,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 302,
+        "pageview": 354,
+        "title": "帰来",
+        "bookId": 50279,
+        "authorIds": [
+            1421
+        ]
+    },
+    {
+        "rank": 303,
+        "pageview": 353,
+        "title": "機械",
+        "bookId": 907,
+        "authorIds": [
+            168
+        ]
+    },
+    {
+        "rank": 304,
+        "pageview": 353,
+        "title": "アイヌ神謡集",
+        "bookId": 44909,
+        "authorIds": []
+    },
+    {
+        "rank": 305,
+        "pageview": 352,
+        "title": "最後の一句",
+        "bookId": 45244,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 306,
+        "pageview": 352,
+        "title": "哲学入門",
+        "bookId": 43023,
+        "authorIds": [
+            218
+        ]
+    },
+    {
+        "rank": 307,
+        "pageview": 352,
+        "title": "棚田裁判長の怪死",
+        "bookId": 50070,
+        "authorIds": [
+            1397
+        ]
+    },
+    {
+        "rank": 308,
+        "pageview": 352,
+        "title": "晶子詩篇全集",
+        "bookId": 2557,
+        "authorIds": [
+            885
+        ]
+    },
+    {
+        "rank": 309,
+        "pageview": 350,
+        "title": "押しかけ女房",
+        "bookId": 50633,
+        "authorIds": [
+            1454
+        ]
+    },
+    {
+        "rank": 310,
+        "pageview": 350,
+        "title": "恋衣",
+        "bookId": 2086,
+        "authorIds": [
+            318,
+            351,
+            885
+        ]
+    },
+    {
+        "rank": 311,
+        "pageview": 350,
+        "title": "猟奇歌",
+        "bookId": 933,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 312,
+        "pageview": 350,
+        "title": "惜みなく愛は奪う",
+        "bookId": 1144,
+        "authorIds": [
+            25
+        ]
+    },
+    {
+        "rank": 313,
+        "pageview": 350,
+        "title": "放浪記（初出）",
+        "bookId": 45649,
+        "authorIds": [
+            291
+        ]
+    },
+    {
+        "rank": 314,
+        "pageview": 349,
+        "title": "織田信長",
+        "bookId": 43138,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 315,
+        "pageview": 347,
+        "title": "大勢順応",
+        "bookId": 46191,
+        "authorIds": [
+            354
+        ]
+    },
+    {
+        "rank": 316,
+        "pageview": 345,
+        "title": "棺桶の花嫁",
+        "bookId": 3532,
+        "authorIds": [
+            160
+        ]
+    },
+    {
+        "rank": 317,
+        "pageview": 344,
+        "title": "志賀直哉氏の作品",
+        "bookId": 1388,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 318,
+        "pageview": 344,
+        "title": "アメリカ独立宣言",
+        "bookId": 45257,
+        "authorIds": [
+            1189
+        ]
+    },
+    {
+        "rank": 319,
+        "pageview": 344,
+        "title": "イギリス海岸",
+        "bookId": 4417,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 320,
+        "pageview": 343,
+        "title": "小公女",
+        "bookId": 4881,
+        "authorIds": [
+            1045
+        ]
+    },
+    {
+        "rank": 321,
+        "pageview": 339,
+        "title": "葛根湯",
+        "bookId": 50075,
+        "authorIds": [
+            1397
+        ]
+    },
+    {
+        "rank": 322,
+        "pageview": 339,
+        "title": "美少女",
+        "bookId": 242,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 323,
+        "pageview": 338,
+        "title": "ルバイヤート",
+        "bookId": 1760,
+        "authorIds": [
+            288
+        ]
+    },
+    {
+        "rank": 324,
+        "pageview": 337,
+        "title": "里の今昔",
+        "bookId": 50280,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 325,
+        "pageview": 336,
+        "title": "煙草と悪魔",
+        "bookId": 163,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 326,
+        "pageview": 335,
+        "title": "枯野抄",
+        "bookId": 72,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 327,
+        "pageview": 335,
+        "title": "椎茸の話",
+        "bookId": 49979,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 328,
+        "pageview": 335,
+        "title": "女の決闘",
+        "bookId": 304,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 329,
+        "pageview": 335,
+        "title": "グロリア・スコット号",
+        "bookId": 43498,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 330,
+        "pageview": 335,
+        "title": "美味放談",
+        "bookId": 49999,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 331,
+        "pageview": 334,
+        "title": "草迷宮",
+        "bookId": 3586,
+        "authorIds": [
+            50
+        ]
+    },
+    {
+        "rank": 332,
+        "pageview": 332,
+        "title": "遺書",
+        "bookId": 16034,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 333,
+        "pageview": 331,
+        "title": "かえるの王様",
+        "bookId": 42313,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 334,
+        "pageview": 330,
+        "title": "宿命",
+        "bookId": 1790,
+        "authorIds": [
+            67
+        ]
+    },
+    {
+        "rank": 335,
+        "pageview": 330,
+        "title": "地獄変",
+        "bookId": 61,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 336,
+        "pageview": 330,
+        "title": "ジャン・クリストフ",
+        "bookId": 46822,
+        "authorIds": [
+            1093
+        ]
+    },
+    {
+        "rank": 337,
+        "pageview": 329,
+        "title": "拷問の話",
+        "bookId": 49549,
+        "authorIds": [
+            82
+        ]
+    },
+    {
+        "rank": 338,
+        "pageview": 329,
+        "title": "人魚のひいさま",
+        "bookId": 42383,
+        "authorIds": [
+            19
+        ]
+    },
+    {
+        "rank": 339,
+        "pageview": 326,
+        "title": "道化の華",
+        "bookId": 255,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 340,
+        "pageview": 325,
+        "title": "瘠我慢の説03 書簡",
+        "bookId": 46827,
+        "authorIds": [
+            296,
+            354,
+            1264
+        ]
+    },
+    {
+        "rank": 341,
+        "pageview": 324,
+        "title": "火の鳥",
+        "bookId": 268,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 342,
+        "pageview": 324,
+        "title": "雷嫌いの話",
+        "bookId": 50076,
+        "authorIds": [
+            1397
+        ]
+    },
+    {
+        "rank": 343,
+        "pageview": 324,
+        "title": "まざあ・ぐうす",
+        "bookId": 546,
+        "authorIds": []
+    },
+    {
+        "rank": 344,
+        "pageview": 324,
+        "title": "墓が呼んでいる",
+        "bookId": 50071,
+        "authorIds": [
+            1397
+        ]
+    },
+    {
+        "rank": 345,
+        "pageview": 323,
+        "title": "羅生門の後に",
+        "bookId": 22,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 346,
+        "pageview": 323,
+        "title": "Ｋの昇天",
+        "bookId": 419,
+        "authorIds": [
+            74
+        ]
+    },
+    {
+        "rank": 347,
+        "pageview": 323,
+        "title": "やまなし",
+        "bookId": 46605,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 348,
+        "pageview": 321,
+        "title": "待つ",
+        "bookId": 2317,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 349,
+        "pageview": 319,
+        "title": "ぢいさんばあさん",
+        "bookId": 674,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 350,
+        "pageview": 319,
+        "title": "河豚食わぬ非常識",
+        "bookId": 50000,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 351,
+        "pageview": 319,
+        "title": "夕立",
+        "bookId": 50288,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 352,
+        "pageview": 318,
+        "title": "『吾輩は猫である』中篇自序",
+        "bookId": 2671,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 353,
+        "pageview": 318,
+        "title": "大菩薩峠01 甲源一刀流の巻",
+        "bookId": 1726,
+        "authorIds": [
+            283
+        ]
+    },
+    {
+        "rank": 354,
+        "pageview": 318,
+        "title": "残肴の処理",
+        "bookId": 49978,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 355,
+        "pageview": 317,
+        "title": "檸檬",
+        "bookId": 46349,
+        "authorIds": [
+            74
+        ]
+    },
+    {
+        "rank": 356,
+        "pageview": 316,
+        "title": "雪女",
+        "bookId": 50326,
+        "authorIds": [
+            258
+        ]
+    },
+    {
+        "rank": 357,
+        "pageview": 315,
+        "title": "みみずのたはこと",
+        "bookId": 1704,
+        "authorIds": [
+            279,
+            280
+        ]
+    },
+    {
+        "rank": 358,
+        "pageview": 313,
+        "title": "無人島に生きる十六人",
+        "bookId": 42767,
+        "authorIds": [
+            1120
+        ]
+    },
+    {
+        "rank": 359,
+        "pageview": 313,
+        "title": "源氏物語02 帚木",
+        "bookId": 5017,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 360,
+        "pageview": 313,
+        "title": "貧乏物語",
+        "bookId": 18353,
+        "authorIds": [
+            250
+        ]
+    },
+    {
+        "rank": 361,
+        "pageview": 312,
+        "title": "青年",
+        "bookId": 2522,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 362,
+        "pageview": 312,
+        "title": "古本評判記",
+        "bookId": 50277,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 363,
+        "pageview": 312,
+        "title": "南京の基督",
+        "bookId": 105,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 364,
+        "pageview": 311,
+        "title": "安吾の新日本地理01 安吾・伊勢神宮にゆく",
+        "bookId": 45901,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 365,
+        "pageview": 311,
+        "title": "藤村詩抄島崎藤村自選",
+        "bookId": 18352,
+        "authorIds": [
+            158
+        ]
+    },
+    {
+        "rank": 366,
+        "pageview": 310,
+        "title": "路地",
+        "bookId": 50292,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 367,
+        "pageview": 310,
+        "title": "大つごもり",
+        "bookId": 388,
+        "authorIds": [
+            64
+        ]
+    },
+    {
+        "rank": 368,
+        "pageview": 309,
+        "title": "光と風と夢",
+        "bookId": 1743,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 369,
+        "pageview": 309,
+        "title": "ベースボール",
+        "bookId": 43619,
+        "authorIds": [
+            305
+        ]
+    },
+    {
+        "rank": 370,
+        "pageview": 309,
+        "title": "遺教",
+        "bookId": 48130,
+        "authorIds": [
+            1320
+        ]
+    },
+    {
+        "rank": 371,
+        "pageview": 308,
+        "title": "お月さまいくつ",
+        "bookId": 2423,
+        "authorIds": [
+            106
+        ]
+    },
+    {
+        "rank": 372,
+        "pageview": 308,
+        "title": "堺事件",
+        "bookId": 2547,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 373,
+        "pageview": 308,
+        "title": "遺訓",
+        "bookId": 47885,
+        "authorIds": [
+            1320
+        ]
+    },
+    {
+        "rank": 374,
+        "pageview": 307,
+        "title": "キチガイ地獄",
+        "bookId": 2231,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 375,
+        "pageview": 307,
+        "title": "犬と笛",
+        "bookId": 56,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 376,
+        "pageview": 306,
+        "title": "一片の石",
+        "bookId": 46511,
+        "authorIds": [
+            1245
+        ]
+    },
+    {
+        "rank": 377,
+        "pageview": 306,
+        "title": "小説の面白さ",
+        "bookId": 1604,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 378,
+        "pageview": 306,
+        "title": "百物語",
+        "bookId": 676,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 379,
+        "pageview": 306,
+        "title": "一夜",
+        "bookId": 1086,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 380,
+        "pageview": 305,
+        "title": "歯車",
+        "bookId": 42377,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 381,
+        "pageview": 305,
+        "title": "好色",
+        "bookId": 90,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 382,
+        "pageview": 305,
+        "title": "源氏物語06 末摘花",
+        "bookId": 5021,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 383,
+        "pageview": 305,
+        "title": "旗本移転後の始末",
+        "bookId": 2405,
+        "authorIds": [
+            354
+        ]
+    },
+    {
+        "rank": 384,
+        "pageview": 305,
+        "title": "真田幸村",
+        "bookId": 1367,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 385,
+        "pageview": 304,
+        "title": "原爆小景",
+        "bookId": 4769,
+        "authorIds": [
+            293
+        ]
+    },
+    {
+        "rank": 386,
+        "pageview": 304,
+        "title": "伊沢蘭軒",
+        "bookId": 2084,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 387,
+        "pageview": 304,
+        "title": "ダス・ゲマイネ",
+        "bookId": 42945,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 388,
+        "pageview": 304,
+        "title": "どんぐりと山猫",
+        "bookId": 1925,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 389,
+        "pageview": 303,
+        "title": "思い出す事など",
+        "bookId": 792,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 390,
+        "pageview": 303,
+        "title": "法窓夜話",
+        "bookId": 1872,
+        "authorIds": [
+            301
+        ]
+    },
+    {
+        "rank": 391,
+        "pageview": 302,
+        "title": "黄色な顔",
+        "bookId": 43028,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 392,
+        "pageview": 302,
+        "title": "姨捨山",
+        "bookId": 43460,
+        "authorIds": [
+            329
+        ]
+    },
+    {
+        "rank": 393,
+        "pageview": 301,
+        "title": "株式仲買店々員",
+        "bookId": 43497,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 394,
+        "pageview": 300,
+        "title": "町中の月",
+        "bookId": 50284,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 395,
+        "pageview": 298,
+        "title": "芥川竜之介歌集",
+        "bookId": 178,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 396,
+        "pageview": 297,
+        "title": "二流の人",
+        "bookId": 42919,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 397,
+        "pageview": 297,
+        "title": "柿の種",
+        "bookId": 1684,
+        "authorIds": [
+            42
+        ]
+    },
+    {
+        "rank": 398,
+        "pageview": 296,
+        "title": "『注文の多い料理店』序",
+        "bookId": 43736,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 399,
+        "pageview": 296,
+        "title": "花より雨に",
+        "bookId": 50282,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 400,
+        "pageview": 295,
+        "title": "インチキ鮎",
+        "bookId": 50015,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 401,
+        "pageview": 295,
+        "title": "新釈諸国噺",
+        "bookId": 2269,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 402,
+        "pageview": 295,
+        "title": "貧しき信徒",
+        "bookId": 542,
+        "authorIds": [
+            13
+        ]
+    },
+    {
+        "rank": 403,
+        "pageview": 293,
+        "title": "生不動",
+        "bookId": 49868,
+        "authorIds": [
+            1397
+        ]
+    },
+    {
+        "rank": 404,
+        "pageview": 293,
+        "title": "新ハムレット",
+        "bookId": 1576,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 405,
+        "pageview": 292,
+        "title": "思ひ出　抒情小曲集",
+        "bookId": 2415,
+        "authorIds": [
+            106
+        ]
+    },
+    {
+        "rank": 406,
+        "pageview": 291,
+        "title": "青ひげ",
+        "bookId": 43117,
+        "authorIds": [
+            1134
+        ]
+    },
+    {
+        "rank": 407,
+        "pageview": 291,
+        "title": "ブレーメンの町楽隊",
+        "bookId": 42314,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 408,
+        "pageview": 291,
+        "title": "西郷隆盛",
+        "bookId": 136,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 409,
+        "pageview": 289,
+        "title": "料理の第一歩",
+        "bookId": 50009,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 410,
+        "pageview": 289,
+        "title": "青い眼の人形",
+        "bookId": 1758,
+        "authorIds": [
+            286
+        ]
+    },
+    {
+        "rank": 411,
+        "pageview": 289,
+        "title": "猿ヶ島",
+        "bookId": 1579,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 412,
+        "pageview": 288,
+        "title": "土",
+        "bookId": 1745,
+        "authorIds": [
+            118
+        ]
+    },
+    {
+        "rank": 413,
+        "pageview": 288,
+        "title": "出家とその弟子",
+        "bookId": 1412,
+        "authorIds": [
+            256
+        ]
+    },
+    {
+        "rank": 414,
+        "pageview": 288,
+        "title": "葉桜と魔笛",
+        "bookId": 42376,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 415,
+        "pageview": 288,
+        "title": "幽霊塔",
+        "bookId": 943,
+        "authorIds": [
+            179
+        ]
+    },
+    {
+        "rank": 416,
+        "pageview": 288,
+        "title": "江戸川乱歩氏に対する私の感想",
+        "bookId": 2128,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 417,
+        "pageview": 287,
+        "title": "悪魔祈祷書",
+        "bookId": 2382,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 418,
+        "pageview": 287,
+        "title": "春は馬車に乗って",
+        "bookId": 904,
+        "authorIds": [
+            168
+        ]
+    },
+    {
+        "rank": 419,
+        "pageview": 286,
+        "title": "世界怪談名作集09 北極星号の船長　医学生ジョン・マリスターレーの奇異なる日記よりの抜萃",
+        "bookId": 43471,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 420,
+        "pageview": 284,
+        "title": "婦系図",
+        "bookId": 1087,
+        "authorIds": [
+            50
+        ]
+    },
+    {
+        "rank": 421,
+        "pageview": 284,
+        "title": "後世への最大遺物",
+        "bookId": 519,
+        "authorIds": [
+            34
+        ]
+    },
+    {
+        "rank": 422,
+        "pageview": 284,
+        "title": "愛",
+        "bookId": 4996,
+        "authorIds": [
+            76
+        ]
+    },
+    {
+        "rank": 423,
+        "pageview": 283,
+        "title": "或恋愛小説",
+        "bookId": 129,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 424,
+        "pageview": 283,
+        "title": "邪宗門",
+        "bookId": 59,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 425,
+        "pageview": 283,
+        "title": "あさましきもの",
+        "bookId": 240,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 426,
+        "pageview": 283,
+        "title": "百日紅",
+        "bookId": 50274,
+        "authorIds": [
+            1310
+        ]
+    },
+    {
+        "rank": 427,
+        "pageview": 283,
+        "title": "貝の火",
+        "bookId": 1942,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 428,
+        "pageview": 282,
+        "title": "若鮎の塩焼き",
+        "bookId": 50013,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 429,
+        "pageview": 282,
+        "title": "白",
+        "bookId": 149,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 430,
+        "pageview": 281,
+        "title": "舌切りすずめ",
+        "bookId": 18378,
+        "authorIds": [
+            329
+        ]
+    },
+    {
+        "rank": 431,
+        "pageview": 280,
+        "title": "ある自殺者の手記",
+        "bookId": 43837,
+        "authorIds": [
+            903
+        ]
+    },
+    {
+        "rank": 432,
+        "pageview": 280,
+        "title": "旧藩情",
+        "bookId": 45664,
+        "authorIds": [
+            296
+        ]
+    },
+    {
+        "rank": 433,
+        "pageview": 280,
+        "title": "『吾輩は猫である』下篇自序",
+        "bookId": 2672,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 434,
+        "pageview": 278,
+        "title": "父帰る",
+        "bookId": 502,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 435,
+        "pageview": 278,
+        "title": "月夜のでんしんばしら",
+        "bookId": 43756,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 436,
+        "pageview": 277,
+        "title": "教育の目的",
+        "bookId": 46288,
+        "authorIds": [
+            718
+        ]
+    },
+    {
+        "rank": 437,
+        "pageview": 277,
+        "title": "悪魔の舌",
+        "bookId": 12,
+        "authorIds": [
+            14
+        ]
+    },
+    {
+        "rank": 438,
+        "pageview": 276,
+        "title": "渋江抽斎",
+        "bookId": 2058,
+        "authorIds": [
+            129
+        ]
+    },
+    {
+        "rank": 439,
+        "pageview": 275,
+        "title": "悟浄出世",
+        "bookId": 2521,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 440,
+        "pageview": 275,
+        "title": "外套",
+        "bookId": 357,
+        "authorIds": [
+            207
+        ]
+    },
+    {
+        "rank": 441,
+        "pageview": 275,
+        "title": "文学のふるさと",
+        "bookId": 44919,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 442,
+        "pageview": 274,
+        "title": "風博士",
+        "bookId": 42616,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 443,
+        "pageview": 273,
+        "title": "雪の夜の話",
+        "bookId": 1573,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 444,
+        "pageview": 273,
+        "title": "親鸞",
+        "bookId": 46946,
+        "authorIds": [
+            218
+        ]
+    },
+    {
+        "rank": 445,
+        "pageview": 272,
+        "title": "植物一日一題",
+        "bookId": 46820,
+        "authorIds": [
+            1266
+        ]
+    },
+    {
+        "rank": 446,
+        "pageview": 272,
+        "title": "ルンペルシュチルツヒェン",
+        "bookId": 42310,
+        "authorIds": [
+            1091,
+            1092
+        ]
+    },
+    {
+        "rank": 447,
+        "pageview": 272,
+        "title": "神社合祀に関する意見",
+        "bookId": 525,
+        "authorIds": [
+            93
+        ]
+    },
+    {
+        "rank": 448,
+        "pageview": 272,
+        "title": "ビジテリアン大祭",
+        "bookId": 2589,
+        "authorIds": [
+            81
+        ]
+    },
+    {
+        "rank": 449,
+        "pageview": 272,
+        "title": "「ケルトの薄明」より",
+        "bookId": 1128,
+        "authorIds": [
+            1085
+        ]
+    },
+    {
+        "rank": 450,
+        "pageview": 272,
+        "title": "青水仙、赤水仙",
+        "bookId": 937,
+        "authorIds": [
+            96,
+            966
+        ]
+    },
+    {
+        "rank": 451,
+        "pageview": 271,
+        "title": "狐",
+        "bookId": 632,
+        "authorIds": [
+            121
+        ]
+    },
+    {
+        "rank": 452,
+        "pageview": 271,
+        "title": "アラビヤンナイト03 三、アリ・ババと四十人のどろぼう",
+        "bookId": 43123,
+        "authorIds": [
+            83
+        ]
+    },
+    {
+        "rank": 453,
+        "pageview": 271,
+        "title": "鮟鱇一夕話",
+        "bookId": 49957,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 454,
+        "pageview": 270,
+        "title": "白銀の失踪",
+        "bookId": 42929,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 455,
+        "pageview": 270,
+        "title": "或る女2（後編）",
+        "bookId": 202,
+        "authorIds": [
+            25
+        ]
+    },
+    {
+        "rank": 456,
+        "pageview": 270,
+        "title": "茶わんの湯",
+        "bookId": 2363,
+        "authorIds": [
+            42
+        ]
+    },
+    {
+        "rank": 457,
+        "pageview": 269,
+        "title": "「晩年」に就いて",
+        "bookId": 42358,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 458,
+        "pageview": 269,
+        "title": "五重塔",
+        "bookId": 50351,
+        "authorIds": [
+            51
+        ]
+    },
+    {
+        "rank": 459,
+        "pageview": 269,
+        "title": "源氏物語08 花宴",
+        "bookId": 5023,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 460,
+        "pageview": 268,
+        "title": "偸盗",
+        "bookId": 31,
+        "authorIds": [
+            879
+        ]
+    },
+    {
+        "rank": 461,
+        "pageview": 267,
+        "title": "安吾巷談01 麻薬・自殺・宗教",
+        "bookId": 43172,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 462,
+        "pageview": 267,
+        "title": "桃太郎",
+        "bookId": 18376,
+        "authorIds": [
+            329
+        ]
+    },
+    {
+        "rank": 463,
+        "pageview": 267,
+        "title": "自転車嬢の危難",
+        "bookId": 43523,
+        "authorIds": [
+            9
+        ]
+    },
+    {
+        "rank": 464,
+        "pageview": 267,
+        "title": "詩",
+        "bookId": 817,
+        "authorIds": [
+            153
+        ]
+    },
+    {
+        "rank": 465,
+        "pageview": 266,
+        "title": "アメリカの牛豚",
+        "bookId": 50014,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 466,
+        "pageview": 266,
+        "title": "姥捨",
+        "bookId": 2256,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 467,
+        "pageview": 266,
+        "title": "清貧譚",
+        "bookId": 2275,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 468,
+        "pageview": 266,
+        "title": "リラの手紙",
+        "bookId": 49496,
+        "authorIds": [
+            1370
+        ]
+    },
+    {
+        "rank": 469,
+        "pageview": 265,
+        "title": "散歩生活",
+        "bookId": 46577,
+        "authorIds": [
+            26
+        ]
+    },
+    {
+        "rank": 470,
+        "pageview": 264,
+        "title": "いのちの初夜",
+        "bookId": 398,
+        "authorIds": [
+            997
+        ]
+    },
+    {
+        "rank": 471,
+        "pageview": 263,
+        "title": "鮎の名所",
+        "bookId": 49955,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 472,
+        "pageview": 263,
+        "title": "海潮音上田敏訳詩集",
+        "bookId": 2259,
+        "authorIds": [
+            235
+        ]
+    },
+    {
+        "rank": 473,
+        "pageview": 263,
+        "title": "行乞記01 （一）",
+        "bookId": 44913,
+        "authorIds": [
+            146
+        ]
+    },
+    {
+        "rank": 474,
+        "pageview": 263,
+        "title": "早すぎる埋葬",
+        "bookId": 2526,
+        "authorIds": [
+            94
+        ]
+    },
+    {
+        "rank": 475,
+        "pageview": 263,
+        "title": "死後の恋",
+        "bookId": 2380,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 476,
+        "pageview": 262,
+        "title": "原爆詩集",
+        "bookId": 4963,
+        "authorIds": [
+            1053
+        ]
+    },
+    {
+        "rank": 477,
+        "pageview": 262,
+        "title": "東京八景（苦難の或人に贈る）",
+        "bookId": 1569,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 478,
+        "pageview": 261,
+        "title": "続堕落論",
+        "bookId": 42619,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 479,
+        "pageview": 261,
+        "title": "二都物語01 上巻",
+        "bookId": 43702,
+        "authorIds": [
+            914
+        ]
+    },
+    {
+        "rank": 480,
+        "pageview": 261,
+        "title": "黙々静観",
+        "bookId": 46190,
+        "authorIds": [
+            354
+        ]
+    },
+    {
+        "rank": 481,
+        "pageview": 261,
+        "title": "鮎の試食時代",
+        "bookId": 49954,
+        "authorIds": [
+            1403
+        ]
+    },
+    {
+        "rank": 482,
+        "pageview": 260,
+        "title": "虫干",
+        "bookId": 50287,
+        "authorIds": [
+            1341
+        ]
+    },
+    {
+        "rank": 483,
+        "pageview": 260,
+        "title": "不良少年とキリスト",
+        "bookId": 42840,
+        "authorIds": [
+            1095
+        ]
+    },
+    {
+        "rank": 484,
+        "pageview": 259,
+        "title": "皮膚と心",
+        "bookId": 267,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 485,
+        "pageview": 259,
+        "title": "レ・ミゼラブル03 序",
+        "bookId": 42606,
+        "authorIds": [
+            1094
+        ]
+    },
+    {
+        "rank": 486,
+        "pageview": 259,
+        "title": "アインシュタインの教育観",
+        "bookId": 43075,
+        "authorIds": [
+            42
+        ]
+    },
+    {
+        "rank": 487,
+        "pageview": 259,
+        "title": "旅愁",
+        "bookId": 2246,
+        "authorIds": [
+            168
+        ]
+    },
+    {
+        "rank": 488,
+        "pageview": 259,
+        "title": "夫婦善哉",
+        "bookId": 545,
+        "authorIds": [
+            40
+        ]
+    },
+    {
+        "rank": 489,
+        "pageview": 258,
+        "title": "『それから』予告",
+        "bookId": 4681,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 490,
+        "pageview": 257,
+        "title": "野分",
+        "bookId": 791,
+        "authorIds": [
+            148
+        ]
+    },
+    {
+        "rank": 491,
+        "pageview": 257,
+        "title": "「味の素」発明の動機",
+        "bookId": 43623,
+        "authorIds": [
+            1160
+        ]
+    },
+    {
+        "rank": 492,
+        "pageview": 257,
+        "title": "源氏物語03 空蝉",
+        "bookId": 5018,
+        "authorIds": [
+            52
+        ]
+    },
+    {
+        "rank": 493,
+        "pageview": 257,
+        "title": "愛と婚姻",
+        "bookId": 1040,
+        "authorIds": [
+            50
+        ]
+    },
+    {
+        "rank": 494,
+        "pageview": 256,
+        "title": "天守物語",
+        "bookId": 3065,
+        "authorIds": [
+            50
+        ]
+    },
+    {
+        "rank": 495,
+        "pageview": 256,
+        "title": "眉山",
+        "bookId": 243,
+        "authorIds": [
+            35
+        ]
+    },
+    {
+        "rank": 496,
+        "pageview": 255,
+        "title": "悟浄歎異沙門悟浄の手記",
+        "bookId": 617,
+        "authorIds": [
+            119
+        ]
+    },
+    {
+        "rank": 497,
+        "pageview": 255,
+        "title": "人間腸詰",
+        "bookId": 2106,
+        "authorIds": [
+            96
+        ]
+    },
+    {
+        "rank": 498,
+        "pageview": 254,
+        "title": "桜の樹の下には",
+        "bookId": 47552,
+        "authorIds": [
+            74
+        ]
+    },
+    {
+        "rank": 499,
+        "pageview": 253,
+        "title": "ジャックと豆の木",
+        "bookId": 43124,
+        "authorIds": [
+            329
+        ]
+    },
+    {
+        "rank": 500,
+        "pageview": 252,
+        "title": "文七元結",
+        "bookId": 348,
+        "authorIds": [
+            989
+        ]
+    }
+]

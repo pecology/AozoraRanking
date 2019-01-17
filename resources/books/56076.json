@@ -1,0 +1,35 @@
+{
+    "id": 56076,
+    "title": "平の将門",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001562/card56076.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2014/05": {
+            "rank": 122,
+            "pageview": 884
+        },
+        "2014/06": {
+            "rank": 273,
+            "pageview": 445
+        },
+        "2014/07": {
+            "rank": 377,
+            "pageview": 372
+        },
+        "2014/08": {
+            "rank": 412,
+            "pageview": 336
+        },
+        "2014/09": {
+            "rank": 440,
+            "pageview": 320
+        },
+        "2014/11": {
+            "rank": 474,
+            "pageview": 300
+        }
+    }
+}

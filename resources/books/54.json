@@ -1,0 +1,23 @@
+{
+    "id": 54,
+    "title": "ひょっとこ",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000879/card54.html",
+    "authorIds": [
+        879
+    ],
+    "monthlyRankingHistories": {
+        "2010/04": {
+            "rank": 397,
+            "pageview": 210
+        },
+        "2011/12": {
+            "rank": 466,
+            "pageview": 222
+        },
+        "2016/04": {
+            "rank": 296,
+            "pageview": 384
+        }
+    }
+}

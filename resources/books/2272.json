@@ -1,0 +1,95 @@
+{
+    "id": 2272,
+    "title": "水仙",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card2272.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 356,
+            "pageview": 286
+        },
+        "2009/02": {
+            "rank": 338,
+            "pageview": 245
+        },
+        "2009/06": {
+            "rank": 445,
+            "pageview": 220
+        },
+        "2010/11": {
+            "rank": 383,
+            "pageview": 250
+        },
+        "2011/01": {
+            "rank": 450,
+            "pageview": 268
+        },
+        "2011/12": {
+            "rank": 306,
+            "pageview": 312
+        },
+        "2012/01": {
+            "rank": 267,
+            "pageview": 409
+        },
+        "2012/02": {
+            "rank": 366,
+            "pageview": 277
+        },
+        "2012/03": {
+            "rank": 445,
+            "pageview": 263
+        },
+        "2012/04": {
+            "rank": 348,
+            "pageview": 282
+        },
+        "2012/05": {
+            "rank": 457,
+            "pageview": 243
+        },
+        "2012/07": {
+            "rank": 477,
+            "pageview": 256
+        },
+        "2012/12": {
+            "rank": 482,
+            "pageview": 239
+        },
+        "2013/01": {
+            "rank": 375,
+            "pageview": 391
+        },
+        "2013/09": {
+            "rank": 239,
+            "pageview": 476
+        },
+        "2014/02": {
+            "rank": 382,
+            "pageview": 301
+        },
+        "2014/04": {
+            "rank": 347,
+            "pageview": 328
+        },
+        "2017/06": {
+            "rank": 462,
+            "pageview": 325
+        },
+        "2017/11": {
+            "rank": 459,
+            "pageview": 324
+        },
+        "2017/12": {
+            "rank": 483,
+            "pageview": 297
+        },
+        "2018/12": {
+            "rank": 14,
+            "pageview": 6933
+        }
+    }
+}

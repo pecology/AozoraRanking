@@ -1,0 +1,43 @@
+{
+    "id": 52398,
+    "title": "宮本武蔵04 火の巻",
+    "subtitle": "04 火の巻",
+    "url": "https://www.aozora.gr.jp/cards/001562/card52398.html",
+    "authorIds": [
+        1562
+    ],
+    "monthlyRankingHistories": {
+        "2013/02": {
+            "rank": 144,
+            "pageview": 729
+        },
+        "2013/03": {
+            "rank": 214,
+            "pageview": 511
+        },
+        "2013/04": {
+            "rank": 233,
+            "pageview": 426
+        },
+        "2013/05": {
+            "rank": 306,
+            "pageview": 369
+        },
+        "2013/06": {
+            "rank": 356,
+            "pageview": 342
+        },
+        "2013/08": {
+            "rank": 420,
+            "pageview": 307
+        },
+        "2013/11": {
+            "rank": 498,
+            "pageview": 279
+        },
+        "2014/03": {
+            "rank": 311,
+            "pageview": 355
+        }
+    }
+}

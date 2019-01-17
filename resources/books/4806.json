@@ -1,0 +1,119 @@
+{
+    "id": 4806,
+    "title": "大和路・信濃路",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/001030/card4806.html",
+    "authorIds": [
+        1030
+    ],
+    "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": 455,
+            "pageview": 240
+        },
+        "2009/02": {
+            "rank": 392,
+            "pageview": 218
+        },
+        "2009/03": {
+            "rank": 398,
+            "pageview": 218
+        },
+        "2009/04": {
+            "rank": 426,
+            "pageview": 200
+        },
+        "2009/05": {
+            "rank": 385,
+            "pageview": 249
+        },
+        "2010/04": {
+            "rank": 418,
+            "pageview": 203
+        },
+        "2010/05": {
+            "rank": 430,
+            "pageview": 231
+        },
+        "2010/09": {
+            "rank": 469,
+            "pageview": 201
+        },
+        "2010/11": {
+            "rank": 381,
+            "pageview": 251
+        },
+        "2013/07": {
+            "rank": 320,
+            "pageview": 396
+        },
+        "2013/08": {
+            "rank": 275,
+            "pageview": 429
+        },
+        "2013/09": {
+            "rank": 364,
+            "pageview": 342
+        },
+        "2013/10": {
+            "rank": 494,
+            "pageview": 284
+        },
+        "2014/01": {
+            "rank": 468,
+            "pageview": 299
+        },
+        "2014/03": {
+            "rank": 352,
+            "pageview": 323
+        },
+        "2015/02": {
+            "rank": 485,
+            "pageview": 243
+        },
+        "2015/03": {
+            "rank": 350,
+            "pageview": 339
+        },
+        "2015/04": {
+            "rank": 372,
+            "pageview": 321
+        },
+        "2015/09": {
+            "rank": 441,
+            "pageview": 297
+        },
+        "2016/03": {
+            "rank": 313,
+            "pageview": 366
+        },
+        "2016/04": {
+            "rank": 350,
+            "pageview": 330
+        },
+        "2017/03": {
+            "rank": 489,
+            "pageview": 282
+        },
+        "2017/04": {
+            "rank": 496,
+            "pageview": 281
+        },
+        "2017/05": {
+            "rank": 477,
+            "pageview": 311
+        },
+        "2017/11": {
+            "rank": 401,
+            "pageview": 365
+        },
+        "2018/03": {
+            "rank": 368,
+            "pageview": 368
+        },
+        "2018/05": {
+            "rank": 482,
+            "pageview": 318
+        }
+    }
+}

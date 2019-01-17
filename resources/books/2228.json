@@ -1,0 +1,39 @@
+{
+    "id": 2228,
+    "title": "聖徳太子",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000284/card2228.html",
+    "authorIds": [
+        284
+    ],
+    "monthlyRankingHistories": {
+        "2009/05": {
+            "rank": 188,
+            "pageview": 413
+        },
+        "2009/06": {
+            "rank": 204,
+            "pageview": 392
+        },
+        "2009/07": {
+            "rank": 452,
+            "pageview": 221
+        },
+        "2009/08": {
+            "rank": 425,
+            "pageview": 209
+        },
+        "2010/04": {
+            "rank": 265,
+            "pageview": 281
+        },
+        "2010/05": {
+            "rank": 180,
+            "pageview": 440
+        },
+        "2010/06": {
+            "rank": 393,
+            "pageview": 251
+        }
+    }
+}

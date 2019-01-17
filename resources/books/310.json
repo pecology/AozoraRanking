@@ -1,0 +1,75 @@
+{
+    "id": 310,
+    "title": "フォスフォレッスセンス",
+    "subtitle": null,
+    "url": "https://www.aozora.gr.jp/cards/000035/card310.html",
+    "authorIds": [
+        35
+    ],
+    "monthlyRankingHistories": {
+        "2009/06": {
+            "rank": 467,
+            "pageview": 213
+        },
+        "2010/08": {
+            "rank": 440,
+            "pageview": 208
+        },
+        "2010/09": {
+            "rank": 440,
+            "pageview": 211
+        },
+        "2012/06": {
+            "rank": 264,
+            "pageview": 391
+        },
+        "2014/02": {
+            "rank": 464,
+            "pageview": 260
+        },
+        "2015/03": {
+            "rank": 337,
+            "pageview": 347
+        },
+        "2015/06": {
+            "rank": 495,
+            "pageview": 277
+        },
+        "2015/10": {
+            "rank": 445,
+            "pageview": 299
+        },
+        "2016/06": {
+            "rank": 302,
+            "pageview": 449
+        },
+        "2017/03": {
+            "rank": 296,
+            "pageview": 429
+        },
+        "2017/08": {
+            "rank": 408,
+            "pageview": 363
+        },
+        "2017/09": {
+            "rank": 474,
+            "pageview": 295
+        },
+        "2018/01": {
+            "rank": 485,
+            "pageview": 337
+        },
+        "2018/03": {
+            "rank": 496,
+            "pageview": 291
+        },
+        "2018/04": {
+            "rank": 486,
+            "pageview": 285
+        },
+        "2018/06": {
+            "rank": 475,
+            "pageview": 327
+        }
+    }
+}
