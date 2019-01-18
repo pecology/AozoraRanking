@@ -223,15 +223,14 @@ const fetchAuthorById = (id) => {
 
 // 指定されたurlのjsonデータを取得し、javascript Objectに変換して返す。
 // 実際に返すのはPromiseオブジェクト
-// jqueryのラッパー関数
+// fetchのラッパー。ステータスコードが200~299以外の時はrejectする
 const getJson = (url) => {
-  return new Promise((resolve, reject) => {
-    const jqueryPromise = $.getJSON(url);
-    jqueryPromise.done((url) => {
-      resolve(url);
-    });
-    jqueryPromise.fail((e) => {
-      reject(e);
-    });
+  const promise = window.fetch(url).then((response) => {
+    if(response.ok) {
+      return response.json();
+    } else {
+      return Promise.reject(new Error(`status code: ${response.status}`));
+    }
   });
+  return promise;
 }
