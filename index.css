@@ -30,3 +30,13 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.google-visualization-tooltip {
+    width:180px;
+    height: 70px;
+}
+.google-visualization-tooltip > div.text{ 
+    margin-top: 0.4em;
+    margin-left: 1.0em;
+    font-size: 1.4em;
+}

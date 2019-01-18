@@ -30,7 +30,7 @@ const RankingsChartDrawer = function () {
   this.chart.setDataTable(dataTable);
 
   //バーがクリックされたとき、その本の詳細チャートを表示する。
-  google.visualization.events.addListener(this.chart, 'select',async () => {
+  google.visualization.events.addListener(this.chart, 'select', async () => {
     const selection = this.chart.getChart().getSelection();
     if (selection.length == 0) {
       return;
@@ -68,7 +68,7 @@ const RankingsChartDrawer = function () {
 
     //平均順位
     const ranks = Object.values(book.monthlyRankingHistories)
-                        .map(e => e.rank);
+      .map(e => e.rank);
     const averageRank = ranks.reduce((accumulator, currentValue) => accumulator + currentValue) / ranks.length;
     $('#popup-average-rank').text(Math.roundCuntom(averageRank, 2));
 
@@ -138,7 +138,11 @@ const BookDetailChartDrawer = function () {
       }
     },
     hAxis: {
-      format:'y/MM',
+      format: 'y/MM',
+    },
+    tooltip: {
+      isHtml: true,
+      //trigger: 'selection'
     }
   };
   this.chart.setOptions(options);
@@ -146,7 +150,9 @@ const BookDetailChartDrawer = function () {
   const dataTable = new google.visualization.DataTable();
   dataTable.addColumn('datetime', '対象月');
   dataTable.addColumn('number', 'アクセス数');
+  dataTable.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });
   dataTable.addColumn('number', '順位');
+  dataTable.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });
   this.chart.setDataTable(dataTable);
 };
 
@@ -160,7 +166,16 @@ BookDetailChartDrawer.prototype.draw = function (book) {
     const targetMonthDate = new Date(targetMonth);
 
     const targetRankInfo = keyValue[1];
-    dataTable.addRow([targetMonthDate, targetRankInfo.pageview, targetRankInfo.rank]);
+    const targetMonthFormatted = `${targetMonthDate.getFullYear()}/${targetMonthDate.getMonth() + 1}`;
+    const pageViewToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>アクセス数: <strong>${targetRankInfo.pageview}</strong></div></div>`;
+    const rankToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>順位: <strong>${targetRankInfo.rank}</strong></div></div>`
+    dataTable.addRow([
+      targetMonthDate,
+      targetRankInfo.pageview,
+      pageViewToolTipHtml,
+      targetRankInfo.rank,
+      rankToolTipHtml
+    ]);
   });
 
   this.chart.draw();
@@ -229,7 +244,7 @@ const fetchAuthorById = (id) => {
 // fetchのラッパー。ステータスコードが200~299以外の時はrejectする
 const getJson = (url) => {
   const promise = window.fetch(url).then((response) => {
-    if(response.ok) {
+    if (response.ok) {
       return response.json();
     } else {
       return Promise.reject(new Error(`status code: ${response.status}`));
