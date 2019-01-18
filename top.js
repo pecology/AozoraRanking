@@ -136,6 +136,9 @@ const BookDetailChartDrawer = function () {
         direction: -1,
         maxValue: 50
       }
+    },
+    hAxis: {
+      format:'y/MM',
     }
   };
   this.chart.setOptions(options);
