@@ -35,6 +35,8 @@ const RankingsChartDrawer = function () {
     if (selection.length == 0) {
       return;
     }
+
+    $('#overlay').fadeIn();
     const selectedRowIndex = selection[0].row;
 
     const dataTable = this.chart.getDataTable();
@@ -72,7 +74,6 @@ const RankingsChartDrawer = function () {
     const averageRank = ranks.reduce((accumulator, currentValue) => accumulator + currentValue) / ranks.length;
     $('#popup-average-rank').text(Math.roundCuntom(averageRank, 2));
 
-    $('#overlay').fadeIn();
     bookDetailChartDrawer.draw(book);
   });
 };
@@ -209,13 +210,16 @@ $(function () {
     const monthlyRanking = await fetchSelectedMonthlyRanking();
     rankingsChartDrawer = new RankingsChartDrawer();
     rankingsChartDrawer.draw(monthlyRanking);
+    $('#chart-loading-image').hide();
 
     bookDetailChartDrawer = new BookDetailChartDrawer();
   };
 
   $('#year,#month').change(async () => {
+    $('#chart-loading-image').show();
     const selectedMonthlyRanking = await fetchSelectedMonthlyRanking();
     rankingsChartDrawer.draw(selectedMonthlyRanking);
+    $('#chart-loading-image').hide();
   });
 
   $('#overlay').click(function (e) {
