@@ -1,22 +1,22 @@
-{
-    "monthlyRankings": [
-        {
-            "2018/01": [
-                {
-                    "rank": 1,
-                    "title": "吾輩",
-                    "bookId": 324,
-                    "authorIds": [234, 234],
-                    "pageview": 109321
-                },
-                {
-                    "rank": 2,
-                    "title": "吾輩",
-                    "bookId": 324,
-                    "authorIds": [234, 234],
-                    "pageview": 109321
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "rank": 1,
+        "title": "吾輩",
+        "bookId": 324,
+        "authorIds": [
+            234,
+            234
+        ],
+        "pageview": 109321
+    },
+    {
+        "rank": 2,
+        "title": "吾輩",
+        "bookId": 324,
+        "authorIds": [
+            234,
+            234
+        ],
+        "pageview": 109321
+    }
+]
