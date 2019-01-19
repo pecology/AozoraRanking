@@ -135,8 +135,7 @@ const BookDetailChartDrawer = function () {
       1: {
         direction: -1,
         viewWindow: {
-          // min: 1,
-          // max: 10
+          min: 1
         },
         //ticks: [1,10,20]
       }
@@ -185,6 +184,12 @@ BookDetailChartDrawer.prototype.draw = function (book) {
       rankToolTipHtml
     ]);
   });
+
+  // 順位のy軸の表示領域の最大値を、最下位 + 50 か 500 に固定する
+  const ranks = Object.values(book.monthlyRankingHistories).map(e => e.rank);
+  const worstRank = Math.max(...ranks);
+  const viewWindowMax = Math.min((worstRank + 50), 500);
+  this.chart.getOptions().vAxes[1].viewWindow.max = Math.max(viewWindowMax);
 
   this.chart.draw();
 };
