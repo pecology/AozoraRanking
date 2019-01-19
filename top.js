@@ -19,7 +19,7 @@ const RankingsChartDrawer = function () {
     legend: {
       position: 'none'
     },
-    chartArea: { width: '80%', left: '20%', height: '99%', top: 10 }
+    chartArea: { width: '80%', left: '25%', height: '99%', top: 10 }
   };
   this.chart.setOptions(options);
 
@@ -105,7 +105,8 @@ RankingsChartDrawer.prototype.draw = function (ranking) {
   const currentNumberOfRows = dataTable.getNumberOfRows();
   dataTable.removeRows(0, currentNumberOfRows);
   ranking.forEach(element => {
-    dataTable.addRow([{ v: element.title, f: `${element.rank}.${element.title}` }, element.pageview, element.pageview]);
+    const formatedTitle = this.formatTitle(element.rank, element.title);
+    dataTable.addRow([{ v: element.title, f: `${formatedTitle}` }, element.pageview, element.pageview]);
     dataTable.setRowProperty(dataTable.getNumberOfRows() - 1, 'bookId', element.bookId);
   });
 
@@ -116,6 +117,20 @@ RankingsChartDrawer.prototype.draw = function (ranking) {
 
   this.chart.draw();
 };
+
+RankingsChartDrawer.prototype.formatTitle = (rank, title) => {
+  let formatedTitle = ''
+  if(title.length <= 9) {
+    const numberOfSpace = 9 - title.length;
+    [...Array(numberOfSpace)].map(() => formatedTitle += '　');
+    formatedTitle += title;
+  } else {
+    formatedTitle = title.substr(0, 8) + '…';
+  }
+
+  formatedTitle = `${rank}位:${formatedTitle}`;
+  return formatedTitle;
+}
 
 //本の詳細のチャート描画オブジェクト
 const BookDetailChartDrawer = function () {
