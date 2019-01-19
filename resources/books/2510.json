@@ -35,6 +35,10 @@
             "rank": 259,
             "pageview": 350
         },
+        "2009/08": {
+            "rank": null,
+            "pageview": null
+        },
         "2009/09": {
             "rank": 298,
             "pageview": 270
@@ -86,6 +90,10 @@
         "2010/09": {
             "rank": 243,
             "pageview": 322
+        },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
         },
         "2010/11": {
             "rank": 171,
@@ -450,6 +458,10 @@
         "2018/07": {
             "rank": 309,
             "pageview": 489
+        },
+        "2018/08": {
+            "rank": null,
+            "pageview": null
         },
         "2018/09": {
             "rank": 386,

@@ -7,6 +7,10 @@
         81
     ],
     "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": null,
+            "pageview": null
+        },
         "2009/02": {
             "rank": 457,
             "pageview": 198
@@ -14,6 +18,10 @@
         "2009/03": {
             "rank": 496,
             "pageview": 188
+        },
+        "2009/04": {
+            "rank": null,
+            "pageview": null
         },
         "2009/05": {
             "rank": 494,
@@ -51,9 +59,17 @@
             "rank": 435,
             "pageview": 278
         },
+        "2010/02": {
+            "rank": null,
+            "pageview": null
+        },
         "2010/03": {
             "rank": 438,
             "pageview": 202
+        },
+        "2010/04": {
+            "rank": null,
+            "pageview": null
         },
         "2010/05": {
             "rank": 405,
@@ -74,6 +90,10 @@
         "2010/09": {
             "rank": 221,
             "pageview": 361
+        },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
         },
         "2010/11": {
             "rank": 279,
@@ -279,6 +299,10 @@
             "rank": 450,
             "pageview": 255
         },
+        "2015/03": {
+            "rank": null,
+            "pageview": null
+        },
         "2015/04": {
             "rank": 471,
             "pageview": 267
@@ -414,6 +438,10 @@
         "2018/02": {
             "rank": 456,
             "pageview": 287
+        },
+        "2018/03": {
+            "rank": null,
+            "pageview": null
         },
         "2018/04": {
             "rank": 368,

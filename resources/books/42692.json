@@ -91,6 +91,10 @@
             "rank": 210,
             "pageview": 373
         },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
+        },
         "2010/11": {
             "rank": 219,
             "pageview": 374
@@ -419,6 +423,18 @@
             "rank": 419,
             "pageview": 371
         },
+        "2017/11": {
+            "rank": null,
+            "pageview": null
+        },
+        "2017/12": {
+            "rank": null,
+            "pageview": null
+        },
+        "2018/01": {
+            "rank": null,
+            "pageview": null
+        },
         "2018/02": {
             "rank": 415,
             "pageview": 311
@@ -450,6 +466,18 @@
         "2018/09": {
             "rank": 426,
             "pageview": 319
+        },
+        "2018/10": {
+            "rank": null,
+            "pageview": null
+        },
+        "2018/11": {
+            "rank": null,
+            "pageview": null
+        },
+        "2018/12": {
+            "rank": null,
+            "pageview": null
         }
     }
 }

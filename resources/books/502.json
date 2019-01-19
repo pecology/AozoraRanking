@@ -91,6 +91,10 @@
             "rank": 257,
             "pageview": 314
         },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
+        },
         "2010/11": {
             "rank": 391,
             "pageview": 247
@@ -223,6 +227,10 @@
             "rank": 473,
             "pageview": 289
         },
+        "2013/08": {
+            "rank": null,
+            "pageview": null
+        },
         "2013/09": {
             "rank": 468,
             "pageview": 268
@@ -234,6 +242,10 @@
         "2013/11": {
             "rank": 471,
             "pageview": 292
+        },
+        "2013/12": {
+            "rank": null,
+            "pageview": null
         },
         "2014/01": {
             "rank": 405,

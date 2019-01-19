@@ -174,16 +174,30 @@ BookDetailChartDrawer.prototype.draw = function (book) {
     const targetMonthDate = new Date(targetMonth);
 
     const targetRankInfo = keyValue[1];
-    const targetMonthFormatted = `${targetMonthDate.getFullYear()}/${targetMonthDate.getMonth() + 1}`;
-    const pageViewToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>アクセス数: <strong>${targetRankInfo.pageview}</strong></div></div>`;
-    const rankToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>順位: <strong>${targetRankInfo.rank}</strong></div></div>`
-    dataTable.addRow([
-      targetMonthDate,
-      targetRankInfo.pageview,
-      pageViewToolTipHtml,
-      targetRankInfo.rank,
-      rankToolTipHtml
-    ]);
+    if (targetRankInfo.rank === null) {
+      const targetMonthFormatted = `${targetMonthDate.getFullYear()}/${targetMonthDate.getMonth() + 1}`;
+      const pageViewToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>アクセス数: <strong>圏外</strong></div></div>`;
+      const rankToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>順位: <strong>圏外</strong></div></div>`
+      dataTable.addRow([
+        targetMonthDate,
+        0,
+        pageViewToolTipHtml,
+        500,
+        rankToolTipHtml
+      ]);
+    } else {
+      const targetMonthFormatted = `${targetMonthDate.getFullYear()}/${targetMonthDate.getMonth() + 1}`;
+      const pageViewToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>アクセス数: <strong>${targetRankInfo.pageview}</strong></div></div>`;
+      const rankToolTipHtml = `<div class="text"><div>${targetMonthFormatted}</div><div>順位: <strong>${targetRankInfo.rank}</strong></div></div>`
+      dataTable.addRow([
+        targetMonthDate,
+        targetRankInfo.pageview,
+        pageViewToolTipHtml,
+        targetRankInfo.rank,
+        rankToolTipHtml
+      ]);
+    }
+
   });
 
   // 順位のy軸の表示領域の最大値を、最下位 + 50 か 500 に固定する

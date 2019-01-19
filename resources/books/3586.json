@@ -91,9 +91,17 @@
             "rank": 303,
             "pageview": 279
         },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
+        },
         "2010/11": {
             "rank": 411,
             "pageview": 237
+        },
+        "2010/12": {
+            "rank": null,
+            "pageview": null
         },
         "2011/01": {
             "rank": 465,
@@ -231,6 +239,10 @@
             "rank": 432,
             "pageview": 326
         },
+        "2013/11": {
+            "rank": null,
+            "pageview": null
+        },
         "2013/12": {
             "rank": 454,
             "pageview": 286
@@ -239,9 +251,25 @@
             "rank": 435,
             "pageview": 317
         },
+        "2014/02": {
+            "rank": null,
+            "pageview": null
+        },
+        "2014/03": {
+            "rank": null,
+            "pageview": null
+        },
         "2014/04": {
             "rank": 474,
             "pageview": 252
+        },
+        "2014/05": {
+            "rank": null,
+            "pageview": null
+        },
+        "2014/06": {
+            "rank": null,
+            "pageview": null
         },
         "2014/07": {
             "rank": 412,
@@ -371,6 +399,10 @@
             "rank": 369,
             "pageview": 363
         },
+        "2017/05": {
+            "rank": null,
+            "pageview": null
+        },
         "2017/06": {
             "rank": 313,
             "pageview": 474
@@ -379,9 +411,17 @@
             "rank": 377,
             "pageview": 406
         },
+        "2017/08": {
+            "rank": null,
+            "pageview": null
+        },
         "2017/09": {
             "rank": 463,
             "pageview": 302
+        },
+        "2017/10": {
+            "rank": null,
+            "pageview": null
         },
         "2017/11": {
             "rank": 500,
@@ -394,6 +434,10 @@
         "2018/01": {
             "rank": 412,
             "pageview": 381
+        },
+        "2018/02": {
+            "rank": null,
+            "pageview": null
         },
         "2018/03": {
             "rank": 454,

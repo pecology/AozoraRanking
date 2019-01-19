@@ -7,6 +7,150 @@
         1257
     ],
     "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/02": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/03": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/04": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/05": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/06": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/07": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/08": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/09": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/10": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/11": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/12": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/01": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/02": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/03": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/04": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/05": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/06": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/07": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/08": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/09": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/11": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/12": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/01": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/02": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/03": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/04": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/05": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/06": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/07": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/08": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/09": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/10": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/11": {
+            "rank": null,
+            "pageview": null
+        },
+        "2011/12": {
+            "rank": null,
+            "pageview": null
+        },
         "2012/01": {
             "rank": 161,
             "pageview": 620
@@ -111,6 +255,10 @@
             "rank": 452,
             "pageview": 264
         },
+        "2014/03": {
+            "rank": null,
+            "pageview": null
+        },
         "2014/04": {
             "rank": 409,
             "pageview": 287
@@ -126,6 +274,10 @@
         "2014/07": {
             "rank": 441,
             "pageview": 321
+        },
+        "2014/08": {
+            "rank": null,
+            "pageview": null
         },
         "2014/09": {
             "rank": 482,
@@ -143,6 +295,10 @@
             "rank": 443,
             "pageview": 325
         },
+        "2015/02": {
+            "rank": null,
+            "pageview": null
+        },
         "2015/03": {
             "rank": 487,
             "pageview": 258
@@ -159,6 +315,10 @@
             "rank": 473,
             "pageview": 288
         },
+        "2015/07": {
+            "rank": null,
+            "pageview": null
+        },
         "2015/09": {
             "rank": 475,
             "pageview": 272
@@ -167,6 +327,66 @@
             "rank": 392,
             "pageview": 322
         },
+        "2015/11": {
+            "rank": null,
+            "pageview": null
+        },
+        "2015/12": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/01": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/02": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/03": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/04": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/05": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/06": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/07": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/08": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/09": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/10": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/11": {
+            "rank": null,
+            "pageview": null
+        },
+        "2016/12": {
+            "rank": null,
+            "pageview": null
+        },
+        "2017/01": {
+            "rank": null,
+            "pageview": null
+        },
         "2017/02": {
             "rank": 301,
             "pageview": 436
@@ -174,6 +394,10 @@
         "2017/03": {
             "rank": 407,
             "pageview": 327
+        },
+        "2017/04": {
+            "rank": null,
+            "pageview": null
         },
         "2017/05": {
             "rank": 454,
@@ -215,6 +439,10 @@
             "rank": 441,
             "pageview": 296
         },
+        "2018/03": {
+            "rank": null,
+            "pageview": null
+        },
         "2018/04": {
             "rank": 482,
             "pageview": 287
@@ -227,6 +455,18 @@
             "rank": 463,
             "pageview": 333
         },
+        "2018/07": {
+            "rank": null,
+            "pageview": null
+        },
+        "2018/08": {
+            "rank": null,
+            "pageview": null
+        },
+        "2018/09": {
+            "rank": null,
+            "pageview": null
+        },
         "2018/10": {
             "rank": 438,
             "pageview": 348
@@ -234,6 +474,10 @@
         "2018/11": {
             "rank": 453,
             "pageview": 329
+        },
+        "2018/12": {
+            "rank": null,
+            "pageview": null
         }
     }
 }

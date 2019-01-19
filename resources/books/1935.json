@@ -7,6 +7,10 @@
         81
     ],
     "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": null,
+            "pageview": null
+        },
         "2009/02": {
             "rank": 478,
             "pageview": 192
@@ -14,6 +18,10 @@
         "2009/03": {
             "rank": 468,
             "pageview": 197
+        },
+        "2009/04": {
+            "rank": null,
+            "pageview": null
         },
         "2009/05": {
             "rank": 353,
@@ -47,9 +55,21 @@
             "rank": 462,
             "pageview": 250
         },
+        "2010/01": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/02": {
+            "rank": null,
+            "pageview": null
+        },
         "2010/03": {
             "rank": 437,
             "pageview": 203
+        },
+        "2010/04": {
+            "rank": null,
+            "pageview": null
         },
         "2010/05": {
             "rank": 487,
@@ -70,6 +90,10 @@
         "2010/09": {
             "rank": 378,
             "pageview": 233
+        },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
         },
         "2010/11": {
             "rank": 338,

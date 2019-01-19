@@ -7,6 +7,34 @@
         1176
     ],
     "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/02": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/03": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/04": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/05": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/06": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/07": {
+            "rank": null,
+            "pageview": null
+        },
         "2009/08": {
             "rank": 426,
             "pageview": 208
@@ -23,9 +51,29 @@
             "rank": 498,
             "pageview": 235
         },
+        "2009/12": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/01": {
+            "rank": null,
+            "pageview": null
+        },
         "2010/02": {
             "rank": 473,
             "pageview": 198
+        },
+        "2010/03": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/04": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/05": {
+            "rank": null,
+            "pageview": null
         },
         "2010/06": {
             "rank": 414,
@@ -34,6 +82,18 @@
         "2010/07": {
             "rank": 459,
             "pageview": 207
+        },
+        "2010/08": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/09": {
+            "rank": null,
+            "pageview": null
+        },
+        "2010/10": {
+            "rank": null,
+            "pageview": null
         },
         "2010/11": {
             "rank": 476,

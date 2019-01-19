@@ -191,6 +191,10 @@
             "rank": 457,
             "pageview": 259
         },
+        "2012/11": {
+            "rank": null,
+            "pageview": null
+        },
         "2012/12": {
             "rank": 473,
             "pageview": 243
@@ -206,6 +210,10 @@
         "2013/03": {
             "rank": 487,
             "pageview": 252
+        },
+        "2013/04": {
+            "rank": null,
+            "pageview": null
         },
         "2013/05": {
             "rank": 400,
@@ -234,6 +242,10 @@
         "2013/11": {
             "rank": 458,
             "pageview": 298
+        },
+        "2013/12": {
+            "rank": null,
+            "pageview": null
         },
         "2014/01": {
             "rank": 407,
@@ -442,6 +454,10 @@
         "2018/06": {
             "rank": 289,
             "pageview": 506
+        },
+        "2018/07": {
+            "rank": null,
+            "pageview": null
         },
         "2018/08": {
             "rank": 321,

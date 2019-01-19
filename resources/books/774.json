@@ -223,6 +223,10 @@
             "rank": 433,
             "pageview": 298
         },
+        "2013/07": {
+            "rank": null,
+            "pageview": null
+        },
         "2013/08": {
             "rank": 447,
             "pageview": 291
@@ -459,9 +463,17 @@
             "rank": 386,
             "pageview": 350
         },
+        "2018/09": {
+            "rank": null,
+            "pageview": null
+        },
         "2018/10": {
             "rank": 475,
             "pageview": 319
+        },
+        "2018/11": {
+            "rank": null,
+            "pageview": null
         },
         "2018/12": {
             "rank": 491,

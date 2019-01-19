@@ -7,6 +7,14 @@
         81
     ],
     "monthlyRankingHistories": {
+        "2009/01": {
+            "rank": null,
+            "pageview": null
+        },
+        "2009/02": {
+            "rank": null,
+            "pageview": null
+        },
         "2009/03": {
             "rank": 479,
             "pageview": 194
@@ -263,6 +271,10 @@
             "rank": 336,
             "pageview": 376
         },
+        "2014/07": {
+            "rank": null,
+            "pageview": null
+        },
         "2014/08": {
             "rank": 424,
             "pageview": 329
@@ -303,6 +315,10 @@
             "rank": 452,
             "pageview": 300
         },
+        "2015/07": {
+            "rank": null,
+            "pageview": null
+        },
         "2015/09": {
             "rank": 429,
             "pageview": 305
@@ -318,6 +334,10 @@
         "2015/12": {
             "rank": 439,
             "pageview": 289
+        },
+        "2016/01": {
+            "rank": null,
+            "pageview": null
         },
         "2016/02": {
             "rank": 282,

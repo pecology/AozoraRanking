@@ -7,11 +7,11 @@ const config = require('../config/config.json');
     const startMonth = parseInt(config.startMonth.split('/')[1]);
     const endYear = parseInt(config.endMonth.split('/')[0]);
     const endMonth = parseInt(config.endMonth.split('/')[1]);
-    
+
     const monthlyRankings = {};
-    for(let year = startYear; year <= endYear; year++) {
-        for(let month = 1; month < 13; month++) {
-            try{
+    for (let year = startYear; year <= endYear; year++) {
+        for (let month = 1; month < 13; month++) {
+            try {
                 const monthlyRanking = await scraper.fetchMonthlyRanking(config.domainUrl, year, month);
                 monthlyRankings[`${year}/${('00' + month).slice(-2)}`] = monthlyRanking;
             } catch (e) {
@@ -62,7 +62,7 @@ const createFile = (filePath, data) => {
     createDirectoryRecursively(dirPath);
 
     require('fs').writeFileSync(filePath, data);
-} 
+}
 
 /**
  * 受け取ったパスのディレクトリを再帰的に作成する
@@ -73,7 +73,7 @@ const createDirectoryRecursively = (dirPath) => {
     const path = require('path');
     const fs = require('fs');
 
-    if(!fs.existsSync(dirPath)) {
+    if (!fs.existsSync(dirPath)) {
         const parentDirPath = path.dirname(dirPath);
         createDirectoryRecursively(parentDirPath);
         fs.mkdirSync(dirPath);
@@ -82,7 +82,7 @@ const createDirectoryRecursively = (dirPath) => {
 
 const convertToMonthlyRankingsForOutput = (monthlyRankings) => {
     const returnValue = {};
-    Object.entries(monthlyRankings).forEach((keyValue)=> {
+    Object.entries(monthlyRankings).forEach((keyValue) => {
         const key = keyValue[0];
 
         const value = keyValue[1];
@@ -106,9 +106,9 @@ const convertToMonthlyRankingsForOutput = (monthlyRankings) => {
 
 const buildBooks = (monthlyRankings) => {
     const books = {};
-    for(let monthlyRanking of Object.values(monthlyRankings).reverse()) {
-        for(let rankData of monthlyRanking) {
-            if(books[rankData.bookId] !== undefined) {
+    for (let monthlyRanking of Object.values(monthlyRankings).reverse()) {
+        for (let rankData of monthlyRanking) {
+            if (books[rankData.bookId] !== undefined) {
                 // 既に作成されている
                 continue;
             } else {
@@ -120,7 +120,7 @@ const buildBooks = (monthlyRankings) => {
                 book.url = rankData.url;
                 book.authorIds = rankData.authors.map(author => author.id);
                 book.monthlyRankingHistories = buildMonthlyRankingHistories(book.id, monthlyRankings);
-    
+
                 books[rankData.bookId] = book;
             }
         }
@@ -130,41 +130,44 @@ const buildBooks = (monthlyRankings) => {
 
 const buildMonthlyRankingHistories = (bookId, monthlyRankings) => {
     const histories = {};
-    for(let keyValue of Object.entries(monthlyRankings)) {
+    for (let keyValue of Object.entries(monthlyRankings)) {
         const month = keyValue[0];
         const ranking = keyValue[1];
 
+        const history = {};
         const targetRankData = ranking.find(rankData => rankData.bookId === bookId);
-        if(targetRankData !== undefined) {
-            const history = {
-                rank: targetRankData.rank,
-                pageview: targetRankData.pageview
-            };
-            histories[month] = history;
+        if (targetRankData !== undefined) {
+            history.rank = targetRankData.rank;
+            history.pageview = targetRankData.pageview;
+        } else {
+            // ランクインしていないので、nullを入れる
+            history.rank = null;
+            history.pageview = null;
         }
+        histories[month] = history;
     }
     return histories;
 };
 
 const buildAuthors = (monthlyRankings, books) => {
     const authors = {};
-    for(let bookIdStr of Object.keys(books)) {
+    for (let bookIdStr of Object.keys(books)) {
         const bookId = parseInt(bookIdStr);
         const authorIds = findAuthorIdsByBookId(monthlyRankings, bookId);
-        if(authorIds === undefined) {
+        if (authorIds === undefined) {
             // 著者がいないのでとばす
             console.log(books[bookId].title);
             continue;
         }
 
         authorIds.forEach(authorId => {
-            if(authors[authorId] === undefined) {
+            if (authors[authorId] === undefined) {
                 // 初めてなので、Author作成
                 authors[authorId] = createAuthor(monthlyRankings, authorId);
             }
-    
+
             const author = authors[authorId];
-            if(!author.bookIds.includes(bookId)) {
+            if (!author.bookIds.includes(bookId)) {
                 authors[authorId].bookIds.push(bookId);
             }
         });
@@ -173,9 +176,9 @@ const buildAuthors = (monthlyRankings, books) => {
 };
 
 const findAuthorIdsByBookId = (monthlyRankings, bookId) => {
-    for(let ranking of Object.values(monthlyRankings)) {
+    for (let ranking of Object.values(monthlyRankings)) {
         const targetRankData = ranking.find(rankData => rankData.bookId === bookId);
-        if(targetRankData === undefined) {
+        if (targetRankData === undefined) {
             continue;
         } else {
             const authorIds = targetRankData.authors.map(author => author.id);
@@ -185,10 +188,10 @@ const findAuthorIdsByBookId = (monthlyRankings, bookId) => {
 };
 
 const createAuthor = (monthlyRankings, authorId) => {
-    for(let ranking of Object.values(monthlyRankings)) {
-        for(let rankData of ranking) {
+    for (let ranking of Object.values(monthlyRankings)) {
+        for (let rankData of ranking) {
             const author = rankData.authors.find(author => author.id === authorId);
-            if(author !== undefined) {
+            if (author !== undefined) {
                 return {
                     name: author.name,
                     url: author.url,
