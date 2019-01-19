@@ -106,7 +106,7 @@ const convertToMonthlyRankingsForOutput = (monthlyRankings) => {
 
 const buildBooks = (monthlyRankings) => {
     const books = {};
-    for(let monthlyRanking of Object.values(monthlyRankings)) {
+    for(let monthlyRanking of Object.values(monthlyRankings).reverse()) {
         for(let rankData of monthlyRanking) {
             if(books[rankData.bookId] !== undefined) {
                 // 既に作成されている
