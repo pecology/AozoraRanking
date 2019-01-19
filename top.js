@@ -134,11 +134,19 @@ const BookDetailChartDrawer = function () {
     vAxes: {
       1: {
         direction: -1,
-        maxValue: 50
+        viewWindow: {
+          // min: 1,
+          // max: 10
+        },
+        //ticks: [1,10,20]
       }
     },
     hAxis: {
       format: 'y/MM',
+    },
+    explorer: {
+      // 二軸で表示していると、拡大縮小は水平方向にしか聞かなくなるっぽい
+      axis: 'horizontal'
     },
     tooltip: {
       isHtml: true,
