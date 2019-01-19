@@ -48,12 +48,12 @@ const RankingsChartDrawer = function () {
     const bookId = dataTable.getRowProperty(selectedRowIndex, 'bookId');
     const book = await fetchBookById(bookId);
 
-    $('#popup-title').text(book.title);
+    $('#popup-title-text').text(book.title);
     $('#popup-title').attr('href', book.url);
     if (book.subtitle != null) {
-      $('#popup-subtitle').text(book.subtitle);
+      $('#popup-subtitle-text').text(book.subtitle);
     } else {
-      $('#popup-subtitle').text('')
+      $('#popup-subtitle-text').text('')
     }
 
     //とりあえず一人だけ
