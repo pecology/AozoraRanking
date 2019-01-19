@@ -79,7 +79,7 @@ const extractRankFromTdElements = (tdElement) => {
 
 const extractTitleFromTdElements = (tdElement) => {
     const titleElements = tdElement.contents();
-    const title = titleElements.text().trim();
+    const title = titleElements.eq(0).text().trim();
     return title;
 }
 

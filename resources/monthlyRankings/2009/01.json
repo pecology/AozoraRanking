@@ -371,7 +371,7 @@
     {
         "rank": 42,
         "pageview": 1294,
-        "title": "源氏物語01 桐壺",
+        "title": "源氏物語",
         "bookId": 5016,
         "authorIds": [
             52
@@ -498,7 +498,7 @@
     {
         "rank": 56,
         "pageview": 1066,
-        "title": "夜明け前01 第一部上",
+        "title": "夜明け前",
         "bookId": 1504,
         "authorIds": [
             158
@@ -733,7 +733,7 @@
     {
         "rank": 82,
         "pageview": 874,
-        "title": "源氏物語05 若紫",
+        "title": "源氏物語",
         "bookId": 5020,
         "authorIds": [
             52
@@ -778,7 +778,7 @@
     {
         "rank": 87,
         "pageview": 852,
-        "title": "雪の女王七つのお話でできているおとぎ物語",
+        "title": "雪の女王",
         "bookId": 42387,
         "authorIds": [
             19
@@ -852,7 +852,7 @@
     {
         "rank": 95,
         "pageview": 755,
-        "title": "ファラデーの伝電気学の泰斗",
+        "title": "ファラデーの伝",
         "bookId": 46340,
         "authorIds": [
             1234
@@ -888,7 +888,7 @@
     {
         "rank": 99,
         "pageview": 723,
-        "title": "海潮音上田敏訳詩集",
+        "title": "海潮音",
         "bookId": 2259,
         "authorIds": [
             235
@@ -1077,7 +1077,7 @@
     {
         "rank": 120,
         "pageview": 637,
-        "title": "或る女1（前編）",
+        "title": "或る女",
         "bookId": 201,
         "authorIds": [
             25
@@ -1113,7 +1113,7 @@
     {
         "rank": 124,
         "pageview": 626,
-        "title": "神曲01 地獄",
+        "title": "神曲",
         "bookId": 4618,
         "authorIds": [
             961
@@ -1273,7 +1273,7 @@
     {
         "rank": 142,
         "pageview": 568,
-        "title": "次郎物語01 第一部",
+        "title": "次郎物語",
         "bookId": 42692,
         "authorIds": [
             1097
@@ -1408,7 +1408,7 @@
     {
         "rank": 157,
         "pageview": 530,
-        "title": "キャラコさん01 社交室",
+        "title": "キャラコさん",
         "bookId": 47486,
         "authorIds": [
             1224
@@ -1532,7 +1532,7 @@
     {
         "rank": 171,
         "pageview": 496,
-        "title": "茶の本04 茶の本",
+        "title": "茶の本",
         "bookId": 1276,
         "authorIds": [
             238,
@@ -1578,7 +1578,7 @@
     {
         "rank": 176,
         "pageview": 486,
-        "title": "大菩薩峠01 甲源一刀流の巻",
+        "title": "大菩薩峠",
         "bookId": 1726,
         "authorIds": [
             283
@@ -1605,7 +1605,7 @@
     {
         "rank": 179,
         "pageview": 481,
-        "title": "源氏物語04 夕顔",
+        "title": "源氏物語",
         "bookId": 5019,
         "authorIds": [
             52
@@ -1794,7 +1794,7 @@
     {
         "rank": 200,
         "pageview": 422,
-        "title": "奇巌城アルセーヌ・ルパン",
+        "title": "奇巌城",
         "bookId": 46187,
         "authorIds": [
             1121
@@ -1830,7 +1830,7 @@
     {
         "rank": 204,
         "pageview": 419,
-        "title": "アラビヤンナイト01 一、アラジンとふしぎなランプ",
+        "title": "アラビヤンナイト",
         "bookId": 43122,
         "authorIds": [
             83
@@ -1875,7 +1875,7 @@
     {
         "rank": 209,
         "pageview": 412,
-        "title": "レ・ミゼラブル04 第一部　ファンテーヌ",
+        "title": "レ・ミゼラブル",
         "bookId": 42600,
         "authorIds": [
             1094
@@ -1893,7 +1893,7 @@
     {
         "rank": 211,
         "pageview": 407,
-        "title": "藤村詩抄島崎藤村自選",
+        "title": "藤村詩抄",
         "bookId": 18352,
         "authorIds": [
             158
@@ -2173,7 +2173,7 @@
     {
         "rank": 242,
         "pageview": 364,
-        "title": "省察神の存在、及び人間の霊魂と肉体との区別を論証する、第一哲学についての",
+        "title": "省察",
         "bookId": 43291,
         "authorIds": [
             1029
@@ -2362,7 +2362,7 @@
     {
         "rank": 263,
         "pageview": 343,
-        "title": "海島冒険奇譚　海底軍艦02 序",
+        "title": "海島冒険奇譚　海底軍艦",
         "bookId": 48215,
         "authorIds": [
             1326
@@ -2443,7 +2443,7 @@
     {
         "rank": 272,
         "pageview": 339,
-        "title": "瘠我慢の説03 書簡",
+        "title": "瘠我慢の説",
         "bookId": 46827,
         "authorIds": [
             296,
@@ -2463,7 +2463,7 @@
     {
         "rank": 274,
         "pageview": 336,
-        "title": "半七捕物帳01 お文の魂",
+        "title": "半七捕物帳",
         "bookId": 1005,
         "authorIds": [
             82
@@ -2581,7 +2581,7 @@
     {
         "rank": 287,
         "pageview": 328,
-        "title": "十二支考01　虎に関する史話と伝説民俗",
+        "title": "十二支考",
         "bookId": 526,
         "authorIds": [
             93
@@ -2861,7 +2861,7 @@
     {
         "rank": 318,
         "pageview": 302,
-        "title": "源氏物語02 帚木",
+        "title": "源氏物語",
         "bookId": 5017,
         "authorIds": [
             52
@@ -2942,7 +2942,7 @@
     {
         "rank": 327,
         "pageview": 299,
-        "title": "獄中への手紙08 一九四一年（昭和十六年）",
+        "title": "獄中への手紙",
         "bookId": 33190,
         "authorIds": [
             311
@@ -2960,7 +2960,7 @@
     {
         "rank": 329,
         "pageview": 298,
-        "title": "行乞記01 （一）",
+        "title": "行乞記",
         "bookId": 44913,
         "authorIds": [
             146
@@ -3114,7 +3114,7 @@
     {
         "rank": 346,
         "pageview": 290,
-        "title": "或る女2（後編）",
+        "title": "或る女",
         "bookId": 202,
         "authorIds": [
             25
@@ -3150,7 +3150,7 @@
     {
         "rank": 350,
         "pageview": 288,
-        "title": "家1　（上巻）",
+        "title": "家",
         "bookId": 1509,
         "authorIds": [
             158
@@ -3240,7 +3240,7 @@
     {
         "rank": 360,
         "pageview": 284,
-        "title": "獄中への手紙11 一九四四年（昭和十九年）",
+        "title": "獄中への手紙",
         "bookId": 33193,
         "authorIds": [
             311
@@ -3337,7 +3337,7 @@
     {
         "rank": 371,
         "pageview": 277,
-        "title": "半七捕物帳01 お文の魂",
+        "title": "半七捕物帳",
         "bookId": 1293,
         "authorIds": [
             82
@@ -3518,7 +3518,7 @@
     {
         "rank": 391,
         "pageview": 265,
-        "title": "世界怪談名作集08 ラッパチーニの娘　アウペパンの作から",
+        "title": "世界怪談名作集",
         "bookId": 4105,
         "authorIds": [
             905
@@ -3527,7 +3527,7 @@
     {
         "rank": 392,
         "pageview": 265,
-        "title": "源氏物語56 夢の浮橋",
+        "title": "源氏物語",
         "bookId": 5071,
         "authorIds": [
             52
@@ -3617,7 +3617,7 @@
     {
         "rank": 402,
         "pageview": 264,
-        "title": "源氏物語09 葵",
+        "title": "源氏物語",
         "bookId": 5024,
         "authorIds": [
             52
@@ -3691,7 +3691,7 @@
     {
         "rank": 410,
         "pageview": 259,
-        "title": "キャラコさん02 雪の山小屋",
+        "title": "キャラコさん",
         "bookId": 47487,
         "authorIds": [
             1224
@@ -3700,7 +3700,7 @@
     {
         "rank": 411,
         "pageview": 259,
-        "title": "旧聞日本橋01 序文／自序",
+        "title": "旧聞日本橋",
         "bookId": 4353,
         "authorIds": [
             310,
@@ -3719,7 +3719,7 @@
     {
         "rank": 413,
         "pageview": 258,
-        "title": "猫吉親方またの名 長ぐつをはいた猫",
+        "title": "猫吉親方",
         "bookId": 43118,
         "authorIds": [
             1134
@@ -3728,7 +3728,7 @@
     {
         "rank": 414,
         "pageview": 257,
-        "title": "悟浄歎異沙門悟浄の手記",
+        "title": "悟浄歎異",
         "bookId": 617,
         "authorIds": [
             119
@@ -3746,7 +3746,7 @@
     {
         "rank": 416,
         "pageview": 257,
-        "title": "海島冒険奇譚　海底軍艦05 海島冒険奇譚　海底軍艦",
+        "title": "海島冒険奇譚　海底軍艦",
         "bookId": 1323,
         "authorIds": [
             77
@@ -3773,7 +3773,7 @@
     {
         "rank": 419,
         "pageview": 255,
-        "title": "時代閉塞の現状（強権、純粋自然主義の最後および明日の考察）",
+        "title": "時代閉塞の現状",
         "bookId": 814,
         "authorIds": [
             153
@@ -3836,7 +3836,7 @@
     {
         "rank": 426,
         "pageview": 252,
-        "title": "浅草公園或シナリオ",
+        "title": "浅草公園",
         "bookId": 21,
         "authorIds": [
             879
@@ -3899,7 +3899,7 @@
     {
         "rank": 433,
         "pageview": 249,
-        "title": "レ・ミゼラブル03 序",
+        "title": "レ・ミゼラブル",
         "bookId": 42606,
         "authorIds": [
             1094
@@ -3926,7 +3926,7 @@
     {
         "rank": 436,
         "pageview": 248,
-        "title": "人口論00 訳序／凡例／解説／序言／前書",
+        "title": "人口論",
         "bookId": 43550,
         "authorIds": [
             1149
@@ -4015,7 +4015,7 @@
     {
         "rank": 446,
         "pageview": 245,
-        "title": "安吾巷談01 麻薬・自殺・宗教",
+        "title": "安吾巷談",
         "bookId": 43172,
         "authorIds": [
             1095
@@ -4321,7 +4321,7 @@
     {
         "rank": 480,
         "pageview": 230,
-        "title": "レ・ミゼラブル06 第三部　マリユス",
+        "title": "レ・ミゼラブル",
         "bookId": 42602,
         "authorIds": [
             1094
@@ -4357,7 +4357,7 @@
     {
         "rank": 484,
         "pageview": 228,
-        "title": "大切な雰囲気02 序",
+        "title": "大切な雰囲気",
         "bookId": 49638,
         "authorIds": [
             1381
@@ -4375,7 +4375,7 @@
     {
         "rank": 486,
         "pageview": 226,
-        "title": "二都物語01 上巻",
+        "title": "二都物語",
         "bookId": 43702,
         "authorIds": [
             914
@@ -4384,7 +4384,7 @@
     {
         "rank": 487,
         "pageview": 226,
-        "title": "源氏物語03 空蝉",
+        "title": "源氏物語",
         "bookId": 5018,
         "authorIds": [
             52

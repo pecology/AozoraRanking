@@ -146,7 +146,7 @@
     {
         "rank": 17,
         "pageview": 4843,
-        "title": "次郎物語01 第一部",
+        "title": "次郎物語",
         "bookId": 42692,
         "authorIds": [
             1097
@@ -200,7 +200,7 @@
     {
         "rank": 23,
         "pageview": 3304,
-        "title": "私本太平記01 あしかが帖",
+        "title": "私本太平記",
         "bookId": 52421,
         "authorIds": [
             1562
@@ -209,7 +209,7 @@
     {
         "rank": 24,
         "pageview": 3248,
-        "title": "宮本武蔵01 序、はしがき",
+        "title": "宮本武蔵",
         "bookId": 52395,
         "authorIds": [
             1562
@@ -236,7 +236,7 @@
     {
         "rank": 27,
         "pageview": 2825,
-        "title": "カラマゾフの兄弟01 上",
+        "title": "カラマゾフの兄弟",
         "bookId": 42286,
         "authorIds": [
             363
@@ -326,7 +326,7 @@
     {
         "rank": 37,
         "pageview": 2221,
-        "title": "宮本武蔵02 地の巻",
+        "title": "宮本武蔵",
         "bookId": 52396,
         "authorIds": [
             1562
@@ -461,7 +461,7 @@
     {
         "rank": 52,
         "pageview": 1751,
-        "title": "レ・ミゼラブル04 第一部　ファンテーヌ",
+        "title": "レ・ミゼラブル",
         "bookId": 42600,
         "authorIds": [
             1094
@@ -587,7 +587,7 @@
     {
         "rank": 66,
         "pageview": 1405,
-        "title": "古事記03 現代語訳　古事記",
+        "title": "古事記",
         "bookId": 51732,
         "authorIds": [
             1518,
@@ -787,7 +787,7 @@
     {
         "rank": 88,
         "pageview": 1097,
-        "title": "雪の女王七つのお話でできているおとぎ物語",
+        "title": "雪の女王",
         "bookId": 42387,
         "authorIds": [
             19
@@ -859,7 +859,7 @@
     {
         "rank": 96,
         "pageview": 1025,
-        "title": "在りし日の歌亡き児文也の霊に捧ぐ",
+        "title": "在りし日の歌",
         "bookId": 219,
         "authorIds": [
             26
@@ -895,7 +895,7 @@
     {
         "rank": 100,
         "pageview": 1008,
-        "title": "夜明け前01 第一部上",
+        "title": "夜明け前",
         "bookId": 1504,
         "authorIds": [
             158
@@ -1050,7 +1050,7 @@
     {
         "rank": 117,
         "pageview": 919,
-        "title": "源氏物語01 桐壺",
+        "title": "源氏物語",
         "bookId": 5016,
         "authorIds": [
             52
@@ -1122,7 +1122,7 @@
     {
         "rank": 125,
         "pageview": 851,
-        "title": "宮本武蔵03 水の巻",
+        "title": "宮本武蔵",
         "bookId": 52397,
         "authorIds": [
             1562
@@ -1167,7 +1167,7 @@
     {
         "rank": 130,
         "pageview": 836,
-        "title": "私本太平記13 黒白帖",
+        "title": "私本太平記",
         "bookId": 52433,
         "authorIds": [
             1562
@@ -1212,7 +1212,7 @@
     {
         "rank": 135,
         "pageview": 801,
-        "title": "レ・ミゼラブル01 序",
+        "title": "レ・ミゼラブル",
         "bookId": 46860,
         "authorIds": [
             906
@@ -1293,7 +1293,7 @@
     {
         "rank": 144,
         "pageview": 729,
-        "title": "宮本武蔵04 火の巻",
+        "title": "宮本武蔵",
         "bookId": 52398,
         "authorIds": [
             1562
@@ -1347,7 +1347,7 @@
     {
         "rank": 150,
         "pageview": 701,
-        "title": "ロミオとヂュリエット03 ロミオとヂュリエット",
+        "title": "ロミオとヂュリエット",
         "bookId": 42773,
         "authorIds": [
             264
@@ -1365,7 +1365,7 @@
     {
         "rank": 152,
         "pageview": 700,
-        "title": "レ・ミゼラブル03 序",
+        "title": "レ・ミゼラブル",
         "bookId": 42606,
         "authorIds": [
             1094
@@ -1464,7 +1464,7 @@
     {
         "rank": 163,
         "pageview": 672,
-        "title": "私本太平記12 湊川帖",
+        "title": "私本太平記",
         "bookId": 52432,
         "authorIds": [
             1562
@@ -1626,7 +1626,7 @@
     {
         "rank": 181,
         "pageview": 593,
-        "title": "或る女1（前編）",
+        "title": "或る女",
         "bookId": 201,
         "authorIds": [
             25
@@ -1744,7 +1744,7 @@
     {
         "rank": 194,
         "pageview": 574,
-        "title": "茶の本04 茶の本",
+        "title": "茶の本",
         "bookId": 1276,
         "authorIds": [
             238,
@@ -1817,7 +1817,7 @@
     {
         "rank": 202,
         "pageview": 558,
-        "title": "宮本武蔵05 風の巻",
+        "title": "宮本武蔵",
         "bookId": 52399,
         "authorIds": [
             1562
@@ -1835,7 +1835,7 @@
     {
         "rank": 204,
         "pageview": 556,
-        "title": "神曲01 地獄",
+        "title": "神曲",
         "bookId": 4618,
         "authorIds": [
             961
@@ -1899,7 +1899,7 @@
     {
         "rank": 211,
         "pageview": 545,
-        "title": "私本太平記02 婆娑羅帖",
+        "title": "私本太平記",
         "bookId": 52422,
         "authorIds": [
             1562
@@ -1908,7 +1908,7 @@
     {
         "rank": 212,
         "pageview": 542,
-        "title": "フランケンシュタイン02 フランケンシュタイン",
+        "title": "フランケンシュタイン",
         "bookId": 44904,
         "authorIds": [
             1176
@@ -2106,7 +2106,7 @@
     {
         "rank": 234,
         "pageview": 486,
-        "title": "アラビヤンナイト03 三、アリ・ババと四十人のどろぼう",
+        "title": "アラビヤンナイト",
         "bookId": 43123,
         "authorIds": [
             83
@@ -2115,7 +2115,7 @@
     {
         "rank": 235,
         "pageview": 484,
-        "title": "虹の絵の具皿（十力の金剛石）",
+        "title": "虹の絵の具皿",
         "bookId": 2658,
         "authorIds": [
             81
@@ -2133,7 +2133,7 @@
     {
         "rank": 237,
         "pageview": 481,
-        "title": "レ・ミゼラブル08 第五部　ジャン・ヴァルジャン",
+        "title": "レ・ミゼラブル",
         "bookId": 42604,
         "authorIds": [
             1094
@@ -2169,7 +2169,7 @@
     {
         "rank": 241,
         "pageview": 472,
-        "title": "スリーピー・ホローの伝説故ディードリッヒ・ニッカボッカーの遺稿より",
+        "title": "スリーピー・ホローの伝説",
         "bookId": 46658,
         "authorIds": [
             1257
@@ -2232,7 +2232,7 @@
     {
         "rank": 248,
         "pageview": 458,
-        "title": "源氏物語05 若紫",
+        "title": "源氏物語",
         "bookId": 5020,
         "authorIds": [
             52
@@ -2268,7 +2268,7 @@
     {
         "rank": 252,
         "pageview": 447,
-        "title": "アラビヤンナイト01 一、アラジンとふしぎなランプ",
+        "title": "アラビヤンナイト",
         "bookId": 43122,
         "authorIds": [
             83
@@ -2421,7 +2421,7 @@
     {
         "rank": 269,
         "pageview": 425,
-        "title": "次郎物語03 第三部",
+        "title": "次郎物語",
         "bookId": 43790,
         "authorIds": [
             1097
@@ -2430,7 +2430,7 @@
     {
         "rank": 270,
         "pageview": 423,
-        "title": "私本太平記03 みなかみ帖",
+        "title": "私本太平記",
         "bookId": 52423,
         "authorIds": [
             1562
@@ -2439,7 +2439,7 @@
     {
         "rank": 271,
         "pageview": 420,
-        "title": "大菩薩峠01 甲源一刀流の巻",
+        "title": "大菩薩峠",
         "bookId": 1726,
         "authorIds": [
             283
@@ -2574,7 +2574,7 @@
     {
         "rank": 286,
         "pageview": 402,
-        "title": "抒情小曲集04 抒情小曲集",
+        "title": "抒情小曲集",
         "bookId": 53241,
         "authorIds": [
             1579
@@ -2583,7 +2583,7 @@
     {
         "rank": 287,
         "pageview": 401,
-        "title": "奇巌城アルセーヌ・ルパン",
+        "title": "奇巌城",
         "bookId": 46187,
         "authorIds": [
             1121
@@ -2619,7 +2619,7 @@
     {
         "rank": 291,
         "pageview": 392,
-        "title": "レ・ミゼラブル05 第二部　コゼット",
+        "title": "レ・ミゼラブル",
         "bookId": 42601,
         "authorIds": [
             1094
@@ -2737,7 +2737,7 @@
     {
         "rank": 304,
         "pageview": 372,
-        "title": "レ・ミゼラブル02 改訳について",
+        "title": "レ・ミゼラブル",
         "bookId": 46861,
         "authorIds": [
             906
@@ -2773,7 +2773,7 @@
     {
         "rank": 308,
         "pageview": 369,
-        "title": "宮本武蔵06 空の巻",
+        "title": "宮本武蔵",
         "bookId": 52400,
         "authorIds": [
             1562
@@ -2845,7 +2845,7 @@
     {
         "rank": 316,
         "pageview": 365,
-        "title": "源氏物語04 夕顔",
+        "title": "源氏物語",
         "bookId": 5019,
         "authorIds": [
             52
@@ -2890,7 +2890,7 @@
     {
         "rank": 321,
         "pageview": 362,
-        "title": "レ・ミゼラブル06 第三部　マリユス",
+        "title": "レ・ミゼラブル",
         "bookId": 42602,
         "authorIds": [
             1094
@@ -2908,7 +2908,7 @@
     {
         "rank": 323,
         "pageview": 361,
-        "title": "藤村詩抄島崎藤村自選",
+        "title": "藤村詩抄",
         "bookId": 18352,
         "authorIds": [
             158
@@ -3007,7 +3007,7 @@
     {
         "rank": 334,
         "pageview": 355,
-        "title": "レ・ミゼラブル07 第四部　叙情詩と叙事詩　プリューメ街の恋歌とサン・ドゥニ街の戦歌",
+        "title": "レ・ミゼラブル",
         "bookId": 42603,
         "authorIds": [
             1094
@@ -3043,7 +3043,7 @@
     {
         "rank": 338,
         "pageview": 352,
-        "title": "私本太平記04 帝獄帖",
+        "title": "私本太平記",
         "bookId": 52424,
         "authorIds": [
             1562
@@ -3197,7 +3197,7 @@
     {
         "rank": 355,
         "pageview": 340,
-        "title": "ファラデーの伝電気学の泰斗",
+        "title": "ファラデーの伝",
         "bookId": 46340,
         "authorIds": [
             1234
@@ -3323,7 +3323,7 @@
     {
         "rank": 369,
         "pageview": 330,
-        "title": "二都物語01 上巻",
+        "title": "二都物語",
         "bookId": 43702,
         "authorIds": [
             914
@@ -3359,7 +3359,7 @@
     {
         "rank": 373,
         "pageview": 326,
-        "title": "私本太平記10 風花帖",
+        "title": "私本太平記",
         "bookId": 52430,
         "authorIds": [
             1562
@@ -3377,7 +3377,7 @@
     {
         "rank": 375,
         "pageview": 326,
-        "title": "宝島02 宝島",
+        "title": "宝島",
         "bookId": 33206,
         "authorIds": [
             888
@@ -3620,7 +3620,7 @@
     {
         "rank": 402,
         "pageview": 310,
-        "title": "私本太平記11 筑紫帖",
+        "title": "私本太平記",
         "bookId": 52431,
         "authorIds": [
             1562
@@ -3629,7 +3629,7 @@
     {
         "rank": 403,
         "pageview": 307,
-        "title": "私本太平記05 世の辻の帖",
+        "title": "私本太平記",
         "bookId": 52425,
         "authorIds": [
             1562
@@ -3647,7 +3647,7 @@
     {
         "rank": 405,
         "pageview": 305,
-        "title": "私本太平記09 建武らくがき帖",
+        "title": "私本太平記",
         "bookId": 52429,
         "authorIds": [
             1562
@@ -3656,7 +3656,7 @@
     {
         "rank": 406,
         "pageview": 304,
-        "title": "私本太平記06 八荒帖",
+        "title": "私本太平記",
         "bookId": 52426,
         "authorIds": [
             1562
@@ -3665,7 +3665,7 @@
     {
         "rank": 407,
         "pageview": 304,
-        "title": "私本太平記07 千早帖",
+        "title": "私本太平記",
         "bookId": 52427,
         "authorIds": [
             1562
@@ -3882,7 +3882,7 @@
     {
         "rank": 431,
         "pageview": 292,
-        "title": "思ひ出抒情小曲集",
+        "title": "思ひ出",
         "bookId": 2415,
         "authorIds": [
             106
@@ -3891,7 +3891,7 @@
     {
         "rank": 432,
         "pageview": 292,
-        "title": "私本太平記08 新田帖",
+        "title": "私本太平記",
         "bookId": 52428,
         "authorIds": [
             1562
@@ -4026,7 +4026,7 @@
     {
         "rank": 447,
         "pageview": 284,
-        "title": "かもめ——喜劇　四幕——",
+        "title": "かもめ",
         "bookId": 51860,
         "authorIds": [
             1155
@@ -4071,7 +4071,7 @@
     {
         "rank": 452,
         "pageview": 280,
-        "title": "悟浄歎異—沙門悟浄の手記—",
+        "title": "悟浄歎異",
         "bookId": 617,
         "authorIds": [
             119
@@ -4080,7 +4080,7 @@
     {
         "rank": 453,
         "pageview": 280,
-        "title": "行乞記01 （一）",
+        "title": "行乞記",
         "bookId": 44913,
         "authorIds": [
             146
@@ -4134,7 +4134,7 @@
     {
         "rank": 459,
         "pageview": 278,
-        "title": "イーリアス03 イーリアス",
+        "title": "イーリアス",
         "bookId": 46996,
         "authorIds": [
             1099
@@ -4360,7 +4360,7 @@
     {
         "rank": 484,
         "pageview": 266,
-        "title": "安吾巷談01 麻薬・自殺・宗教",
+        "title": "安吾巷談",
         "bookId": 43172,
         "authorIds": [
             1095
@@ -4378,7 +4378,7 @@
     {
         "rank": 486,
         "pageview": 266,
-        "title": "省察神の存在、及び人間の霊魂と肉体との区別を論証する、第一哲学についての",
+        "title": "省察",
         "bookId": 43291,
         "authorIds": [
             1029
@@ -4414,7 +4414,7 @@
     {
         "rank": 490,
         "pageview": 264,
-        "title": "瘠我慢の説03 書簡",
+        "title": "瘠我慢の説",
         "bookId": 46827,
         "authorIds": [
             296,
@@ -4434,7 +4434,7 @@
     {
         "rank": 492,
         "pageview": 263,
-        "title": "東京八景（苦難の或人に贈る）",
+        "title": "東京八景",
         "bookId": 1569,
         "authorIds": [
             35
@@ -4461,7 +4461,7 @@
     {
         "rank": 495,
         "pageview": 261,
-        "title": "十二支考01　虎に関する史話と伝説民俗",
+        "title": "十二支考",
         "bookId": 526,
         "authorIds": [
             93
