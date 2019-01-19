@@ -17,12 +17,21 @@
 </head>
 
 <body>
-  <div class="container" style="max-width: 980px;">
+  <div class="container" id="header">
     <div class="row">
-      <h1 style="margin: auto;">青空文庫 アクセスランキング</h1>
+      <div class="column column-10"></div>
+      <h1 id="title" class="column column-40">青空文庫 アクセスランキング</h1>
+      <div class="link column column-30">
+        <a href='https://github.com/pecology/AozoraRanking' target="_blank">このページについて</a>
+        <span>　　</span>
+        <a href='https://www.aozora.gr.jp/' target="_blank">青空文庫</a>
+      </div>
     </div>
-    <div class="row">
-      <div class="column column-40"></div>
+  </div>
+  </div>
+  <div class="container" style="max-width: 980px;">
+    <div id="date-select-area" class="row">
+      <label for="year">集計月：</label>
       <div class="column column-10">
         <select id="year">
           <option value="2009">2009</option>

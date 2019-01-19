@@ -11,7 +11,9 @@ const RankingsChartDrawer = function () {
     fontSize: 16,
     vAxis: {
       title: '順位',
-      textPosition: 'out'
+      textStyle: {
+        fontSize: 14
+      }
     },
     hAxis: {
       title: 'アクセス数'
@@ -19,7 +21,7 @@ const RankingsChartDrawer = function () {
     legend: {
       position: 'none'
     },
-    chartArea: { width: '80%', left: '25%', height: '99%', top: 10 }
+    chartArea: { width: '80%', left: '20%', height: '99%', top: 10 }
   };
   this.chart.setOptions(options);
 

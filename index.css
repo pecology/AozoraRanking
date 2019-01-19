@@ -8,6 +8,44 @@
     z-index: 2;
 }
 
+body {
+    background-color: #f6f6f6;
+    margin: 0;
+}
+
+#header {
+    height: 56px;
+    background-color: deepskyblue;
+    color: #ffffff;
+    max-width: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#header>.row .link a{
+    line-height : 2.8;
+    color: #ffffff;
+}
+
+
+#header .column{
+    line-height : 1.5;
+}
+
+#title {
+    font-size: 1.5em;
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+#date-select-area{
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
 .popup-content-wrap {
     top: 60px;
     left: 0;
